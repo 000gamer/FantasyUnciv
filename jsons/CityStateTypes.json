@@ -1,0 +1,519 @@
+[
+  {
+    "name": "Scientific-CS01",
+    "color": [
+      70,
+      150,
+      245
+    ],
+    "friendBonusUniques": [
+      "[+2 Science] <before the [III]>",
+      "[+4 Science] <starting from the [III]> <before the [V]>",
+      "[+6 Science] <starting from the [V]>"
+    ],
+    "allyBonusUniques": [
+      "[+4 Science] <before the [III]>",
+      "[+8 Science] <starting from the [III]> <before the [V]>",
+      "[+12 Science] <starting from the [V]>",
+      "Comment [City-state pact]",
+      "Science gained from research agreements [+10]%"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Cultured-CS02",
+    "color": [
+      160,
+      95,
+      235
+    ],
+    "friendBonusUniques": [
+      "[+3 Culture] <before the [III]>",
+      "[+6 Culture] <starting from the [III]> <before the [V]>",
+      "[+9 Culture] <starting from the [V]>"
+    ],
+    "allyBonusUniques": [
+      "[+6 Culture] <before the [III]>",
+      "[+12 Culture] <starting from the [III]> <before the [V]>",
+      "[+18 Culture] <starting from the [V]>",
+      "Comment [City-state pact]",
+      "[-10]% Culture cost of natural border growth [in all cities]"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Scientific-CS03",
+    "color": [
+      70,
+      150,
+      245
+    ],
+    "friendBonusUniques": [
+      "[+2 Science] <before the [III]>",
+      "[+4 Science] <starting from the [III]> <before the [V]>",
+      "[+6 Science] <starting from the [V]>"
+    ],
+    "allyBonusUniques": [
+      "[+4 Science] <before the [III]>",
+      "[+8 Science] <starting from the [III]> <before the [V]>",
+      "[+12 Science] <starting from the [V]>",
+      "Comment [City-state pact]",
+      "[+15]% Production when constructing [B03] buildings [in all cities]",
+      "[+15]% Production when constructing [B23] buildings [in all cities]"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Cultured-CS04",
+    "color": [
+      160,
+      95,
+      235
+    ],
+    "friendBonusUniques": [
+      "[+3 Culture] <before the [III]>",
+      "[+6 Culture] <starting from the [III]> <before the [V]>",
+      "[+9 Culture] <starting from the [V]>"
+    ],
+    "allyBonusUniques": [
+      "[+6 Culture] <before the [III]>",
+      "[+12 Culture] <starting from the [III]> <before the [V]>",
+      "[+18 Culture] <starting from the [V]>",
+      "Comment [City-state pact]",
+      "[-5]% Culture cost of adopting new Policies"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Scientific-CS05",
+    "color": [
+      70,
+      150,
+      245
+    ],
+    "friendBonusUniques": [
+      "[+2 Science] <before the [III]>",
+      "[+4 Science] <starting from the [III]> <before the [V]>",
+      "[+6 Science] <starting from the [V]>"
+    ],
+    "allyBonusUniques": [
+      "[+4 Science] <before the [III]>",
+      "[+8 Science] <starting from the [III]> <before the [V]>",
+      "[+12 Science] <starting from the [V]>",
+      "Comment [City-state pact]",
+      "[+10]% Great Person generation [in all cities] <in cities with a [B54]>"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Maritime-CS06",
+    "color": [
+      70,
+      200,
+      90
+    ],
+    "friendBonusUniques": [
+      "[+2 Food] [in capital]"
+    ],
+    "allyBonusUniques": [
+      "[+2 Food] [in capital]",
+      "[+1 Food] [in all cities]",
+      "Comment [City-state pact]",
+      "[+1 Food] from all [B10] buildings"
+    ],
+    "uniques": [
+      "Start bias [Coast]"
+    ],
+    "civilopediaText": []
+  },
+  {
+    "name": "Industrial-CS07",
+    "color": [
+      220,
+      145,
+      60
+    ],
+    "friendBonusUniques": [
+      "[+2 Production] [in capital] <before the [III]>",
+      "[+3 Production] [in capital] <starting from the [III]> <before the [V]>",
+      "[+4 Production] [in capital] <starting from the [V]>"
+    ],
+    "allyBonusUniques": [
+      "[+2 Production] [in capital] <before the [III]>",
+      "[+1 Production] [in all cities] <before the [III]>",
+      "[+3 Production] [in capital] <starting from the [III]> <before the [V]>",
+      "[+1 Production] [in all cities] <starting from the [III]> <before the [V]>",
+      "[+4 Production] [in capital] <starting from the [V]>",
+      "[+2 Production] [in all cities] <starting from the [V]>",
+      "Comment [City-state pact]",
+      "[+10]% Production when constructing [{Water} {Military}] units [in all cities]"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Happiness-CS08",
+    "color": [
+      245,
+      145,
+      180
+    ],
+    "friendBonusUniques": [
+      "[+2 Happiness] <before the [V]>",
+      "[+3 Happiness] <starting from the [V]>"
+    ],
+    "allyBonusUniques": [
+      "[+3 Happiness] <before the [V]>",
+      "[+4 Happiness] <starting from the [V]>",
+      "Comment [City-state pact]",
+      "[-5]% unhappiness from the number of cities"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Maritime-CS09",
+    "color": [
+      70,
+      200,
+      90
+    ],
+    "friendBonusUniques": [
+      "[+2 Food] [in capital]"
+    ],
+    "allyBonusUniques": [
+      "[+2 Food] [in capital]",
+      "[+1 Food] [in all cities]",
+      "Comment [City-state pact]",
+      "[+10]% growth [in capital]"
+    ],
+    "uniques": [
+      "Start bias [Coast]"
+    ],
+    "civilopediaText": []
+  },
+  {
+    "name": "Maritime-CS10",
+    "color": [
+      70,
+      200,
+      90
+    ],
+    "friendBonusUniques": [
+      "[+2 Food] [in capital]"
+    ],
+    "allyBonusUniques": [
+      "[+2 Food] [in capital]",
+      "[+1 Food] [in all cities]",
+      "Comment [City-state pact]",
+      "New [{Water} {Military}] units start with [+5] XP [in all cities]"
+    ],
+    "uniques": [
+      "Start bias [Coast]"
+    ],
+    "civilopediaText": []
+  },
+  {
+    "name": "Mercantile-CS11",
+    "color": [
+      245,
+      205,
+      40
+    ],
+    "friendBonusUniques": [
+      "[+4 Gold] <before the [III]>",
+      "[+6 Gold] <starting from the [III]> <before the [V]>",
+      "[+8 Gold] <starting from the [V]>"
+    ],
+    "allyBonusUniques": [
+      "[+8 Gold] <before the [III]>",
+      "[+12 Gold] <starting from the [III]> <before the [V]>",
+      "[+16 Gold] <starting from the [V]>",
+      "Comment [City-state pact]",
+      "[+1 Gold] from [Camp] tiles [in all cities]"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Mercantile-CS12",
+    "color": [
+      245,
+      205,
+      40
+    ],
+    "friendBonusUniques": [
+      "[+4 Gold] <before the [III]>",
+      "[+6 Gold] <starting from the [III]> <before the [V]>",
+      "[+8 Gold] <starting from the [V]>"
+    ],
+    "allyBonusUniques": [
+      "[+8 Gold] <before the [III]>",
+      "[+12 Gold] <starting from the [III]> <before the [V]>",
+      "[+16 Gold] <starting from the [V]>",
+      "Comment [City-state pact]",
+      "Gifts of Gold to City-States generate [+10]% more Influence"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Happiness-CS13",
+    "color": [
+      245,
+      145,
+      180
+    ],
+    "friendBonusUniques": [
+      "[+2 Happiness] <before the [V]>",
+      "[+3 Happiness] <starting from the [V]>"
+    ],
+    "allyBonusUniques": [
+      "[+3 Happiness] <before the [V]>",
+      "[+4 Happiness] <starting from the [V]>",
+      "Comment [City-state pact]",
+      "[-5]% Unhappiness from [Population] [in all cities]"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Mercantile-CS14",
+    "color": [
+      245,
+      205,
+      40
+    ],
+    "friendBonusUniques": [
+      "[+4 Gold] <before the [III]>",
+      "[+6 Gold] <starting from the [III]> <before the [V]>",
+      "[+8 Gold] <starting from the [V]>"
+    ],
+    "allyBonusUniques": [
+      "[+8 Gold] <before the [III]>",
+      "[+12 Gold] <starting from the [III]> <before the [V]>",
+      "[+16 Gold] <starting from the [V]>",
+      "Comment [City-state pact]",
+      "[+1 Culture] from [Plantation] tiles [in all cities]"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Industrial-CS15",
+    "color": [
+      220,
+      145,
+      60
+    ],
+    "friendBonusUniques": [
+      "[+2 Production] [in capital] <before the [III]>",
+      "[+3 Production] [in capital] <starting from the [III]> <before the [V]>",
+      "[+4 Production] [in capital] <starting from the [V]>"
+    ],
+    "allyBonusUniques": [
+      "[+2 Production] [in capital] <before the [III]>",
+      "[+1 Production] [in all cities] <before the [III]>",
+      "[+3 Production] [in capital] <starting from the [III]> <before the [V]>",
+      "[+1 Production] [in all cities] <starting from the [III]> <before the [V]>",
+      "[+4 Production] [in capital] <starting from the [V]>",
+      "[+2 Production] [in all cities] <starting from the [V]>",
+      "Comment [City-state pact]",
+      "[-10]% Gold cost of upgrading"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Militaristic-CS16",
+    "color": [
+      220,
+      65,
+      65
+    ],
+    "friendBonusUniques": [
+      "Provides military units every ≈[20] turns"
+    ],
+    "allyBonusUniques": [
+      "Provides military units every ≈[17] turns",
+      "Comment [City-state pact]",
+      "[-15]% maintenance on road & railroads"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Militaristic-CS17",
+    "color": [
+      220,
+      65,
+      65
+    ],
+    "friendBonusUniques": [
+      "Provides military units every ≈[20] turns"
+    ],
+    "allyBonusUniques": [
+      "Provides military units every ≈[17] turns",
+      "Comment [City-state pact]",
+      "New [{Land} {Military}] units start with [+5] XP [in all cities]"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Industrial-CS18",
+    "color": [
+      220,
+      145,
+      60
+    ],
+    "friendBonusUniques": [
+      "[+2 Production] [in capital] <before the [III]>",
+      "[+3 Production] [in capital] <starting from the [III]> <before the [V]>",
+      "[+4 Production] [in capital] <starting from the [V]>"
+    ],
+    "allyBonusUniques": [
+      "[+2 Production] [in capital] <before the [III]>",
+      "[+1 Production] [in all cities] <before the [III]>",
+      "[+3 Production] [in capital] <starting from the [III]> <before the [V]>",
+      "[+1 Production] [in all cities] <starting from the [III]> <before the [V]>",
+      "[+4 Production] [in capital] <starting from the [V]>",
+      "[+2 Production] [in all cities] <starting from the [V]>",
+      "Comment [City-state pact]",
+      "[+10]% Production when constructing [长柄] units [in all cities]"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Militaristic-CS19",
+    "color": [
+      220,
+      65,
+      65
+    ],
+    "friendBonusUniques": [
+      "Provides military units every ≈[20] turns"
+    ],
+    "allyBonusUniques": [
+      "Provides military units every ≈[17] turns",
+      "Comment [City-state pact]",
+      "[+1] Sight <for [侦察] units>"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Militaristic-CS20",
+    "color": [
+      220,
+      65,
+      65
+    ],
+    "friendBonusUniques": [
+      "Provides military units every ≈[20] turns"
+    ],
+    "allyBonusUniques": [
+      "Provides military units every ≈[17] turns",
+      "Comment [City-state pact]",
+      "[-5]% XP required for promotions"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Religious-CS21",
+    "color": [
+      220,
+      225,
+      230
+    ],
+    "friendBonusUniques": [
+      "[+3 Faith] <before the [III]>",
+      "[+6 Faith] <starting from the [III]> <before the [V]>",
+      "[+9 Faith] <starting from the [V]>"
+    ],
+    "allyBonusUniques": [
+      "[+6 Faith] <before the [III]>",
+      "[+12 Faith] <starting from the [III]> <before the [V]>",
+      "[+18 Faith] <starting from the [V]>",
+      "Comment [City-state pact]",
+      "[Military] Units adjacent to this city heal [5] HP per turn when healing"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Religious-CS22",
+    "color": [
+      220,
+      225,
+      230
+    ],
+    "friendBonusUniques": [
+      "[+3 Faith] <before the [III]>",
+      "[+6 Faith] <starting from the [III]> <before the [V]>",
+      "[+9 Faith] <starting from the [V]>"
+    ],
+    "allyBonusUniques": [
+      "[+6 Faith] <before the [III]>",
+      "[+12 Faith] <starting from the [III]> <before the [V]>",
+      "[+18 Faith] <starting from the [V]>",
+      "Comment [City-state pact]",
+      "Earn [15]% of killed [Military] unit's [Strength] as [Culture] <for [死灵] units>",
+      "Earn [15]% of killed [Military] unit's [Strength] as [Culture] <for [幽魂] units>"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Religious-CS23",
+    "color": [
+      220,
+      225,
+      230
+    ],
+    "friendBonusUniques": [
+      "[+3 Faith] <before the [III]>",
+      "[+6 Faith] <starting from the [III]> <before the [V]>",
+      "[+9 Faith] <starting from the [V]>"
+    ],
+    "allyBonusUniques": [
+      "[+6 Faith] <before the [III]>",
+      "[+12 Faith] <starting from the [III]> <before the [V]>",
+      "[+18 Faith] <starting from the [V]>",
+      "Comment [City-state pact]",
+      "New [医护] units start with [+5] XP [in all cities]",
+      "New [死灵] units start with [+5] XP [in all cities]"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Religious-CS24",
+    "color": [
+      220,
+      225,
+      230
+    ],
+    "friendBonusUniques": [
+      "[+3 Faith] <before the [III]>",
+      "[+6 Faith] <starting from the [III]> <before the [V]>",
+      "[+9 Faith] <starting from the [V]>"
+    ],
+    "allyBonusUniques": [
+      "[+6 Faith] <before the [III]>",
+      "[+12 Faith] <starting from the [III]> <before the [V]>",
+      "[+18 Faith] <starting from the [V]>",
+      "Comment [City-state pact]",
+      "[+1 Faith] from all [B15] buildings"
+    ],
+    "uniques": [],
+    "civilopediaText": []
+  }
+]

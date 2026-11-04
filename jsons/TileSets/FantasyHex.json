@@ -1,0 +1,369 @@
+{
+  "useColorAsBaseTerrain": false,
+  "fallbackTileSet": null,
+  "ruleVariants": {
+    "R19+Plantation": [
+      "Wine+Plantation"
+    ],
+    "Snow+I35": [
+      "Snow+Farm"
+    ],
+    "Desert+Flood plains+I35": [
+      "Desert+Flood plains+Farm"
+    ],
+    "I32": [
+      "Manufactory"
+    ],
+    "I37": [
+      "Manufactory"
+    ],
+    "I29": [
+      "Trading post"
+    ],
+    "I33": [
+      "Trading post"
+    ],
+    "R31": [
+      "Dyes"
+    ],
+    "Plains+I35": [
+      "Plains+Farm"
+    ],
+    "R30+Plantation": [
+      "Sugar+Plantation"
+    ],
+    "R13": [
+      "Spices"
+    ],
+    "R16": [
+      "Spices"
+    ],
+    "Grassland+Hill+Forest+I29": [
+      "Grassland+Hill+Forest+Trading post"
+    ],
+    "Grassland+Hill+Forest+I33": [
+      "Grassland+Hill+Forest+Trading post"
+    ],
+    "R30": [
+      "Sugar"
+    ],
+    "R12": [
+      "Silk"
+    ],
+    "R27": [
+      "Copper"
+    ],
+    "R33+Fishing Boats": [
+      "Whales+Fishing Boats"
+    ],
+    "R03": [
+      "Gems"
+    ],
+    "R11": [
+      "Gems"
+    ],
+    "R17": [
+      "Gems"
+    ],
+    "R18": [
+      "Gems"
+    ],
+    "R06+Pasture": [
+      "Cattle+Pasture"
+    ],
+    "Desert+I35": [
+      "Desert+Farm"
+    ],
+    "R19": [
+      "Wine"
+    ],
+    "Grassland+Hill+I35": [
+      "Grassland+Farm",
+      "Hill"
+    ],
+    "Grassland+Forest+R09+Camp": [
+      "Grassland+Forest+Deer+Camp"
+    ],
+    "R08": [
+      "Stone"
+    ],
+    "R28": [
+      "Stone"
+    ],
+    "Grassland+I35": [
+      "Grassland+Farm"
+    ],
+    "R04": [
+      "Silver"
+    ],
+    "R10": [
+      "Silver"
+    ],
+    "R33": [
+      "Whales"
+    ],
+    "R12+Plantation": [
+      "Silk+Plantation"
+    ],
+    "Tundra+I35": [
+      "Tundra+Farm"
+    ],
+    "Tundra+Forest+R09+Camp": [
+      "Tundra+Forest+Deer+Camp"
+    ],
+    "R02": [
+      "Iron"
+    ],
+    "R01+Pasture": [
+      "Horses+Pasture"
+    ],
+    "R09+Camp": [
+      "Deer+Camp"
+    ],
+    "Quarry+R08": [
+      "Quarry+Stone"
+    ],
+    "Quarry+R28": [
+      "Quarry+Stone"
+    ],
+    "R29+Pasture": [
+      "Sheep+Pasture"
+    ],
+    "R21": [
+      "Citrus"
+    ],
+    "R20": [
+      "Salt"
+    ],
+    "R13+Plantation": [
+      "Spices+Plantation"
+    ],
+    "R16+Plantation": [
+      "Spices+Plantation"
+    ],
+    "R21+Plantation": [
+      "Citrus+Plantation"
+    ],
+    "R09": [
+      "Deer"
+    ],
+    "I28": [
+      "Holy site"
+    ],
+    "I31": [
+      "Holy site"
+    ],
+    "R14+Plantation": [
+      "Incense+Plantation"
+    ],
+    "R06": [
+      "Cattle"
+    ],
+    "R29": [
+      "Sheep"
+    ],
+    "Plains+Jungle+I29": [
+      "Plains+Jungle+Trading post"
+    ],
+    "Plains+Jungle+I33": [
+      "Plains+Jungle+Trading post"
+    ],
+    "I30": [
+      "Mine"
+    ],
+    "I36": [
+      "Landmark"
+    ],
+    "R31+Plantation": [
+      "Dyes+Plantation"
+    ],
+    "R01": [
+      "Horses"
+    ],
+    "Grassland+Jungle+I29": [
+      "Grassland+Jungle+Trading post"
+    ],
+    "Grassland+Jungle+I33": [
+      "Grassland+Jungle+Trading post"
+    ],
+    "R05": [
+      "Wheat"
+    ],
+    "R14": [
+      "Incense"
+    ],
+    "R07": [
+      "Fish"
+    ],
+    "R15": [
+      "Pearls"
+    ],
+    "R32": [
+      "Pearls"
+    ],
+    "Plains+Hill+I35": [
+      "Plains+Farm",
+      "Hill"
+    ],
+    "Desert+Hill+I35": [
+      "Desert+Farm",
+      "Hill"
+    ],
+    "Tundra+Hill+I35": [
+      "Tundra+Farm",
+      "Hill"
+    ],
+    "Snow+Hill+I35": [
+      "Snow+Farm",
+      "Hill"
+    ],
+    "Grassland+Forest+R01": [
+      "Grassland",
+      "Horses",
+      "GrasslandForest"
+    ],
+    "Grassland+Forest+R02": [
+      "Grassland",
+      "Iron",
+      "GrasslandForest"
+    ],
+    "Grassland+Forest+R09": [
+      "Grassland",
+      "Deer",
+      "GrasslandForest"
+    ],
+    "Grassland+Hill+Forest+R01": [
+      "Grassland",
+      "Hill",
+      "Horses",
+      "Forest"
+    ],
+    "Grassland+Hill+Forest+R02": [
+      "Grassland",
+      "Hill",
+      "Iron",
+      "Forest"
+    ],
+    "Grassland+Hill+Forest+R09": [
+      "Grassland",
+      "Hill",
+      "Deer",
+      "Forest"
+    ],
+    "Plains+Forest+R01": [
+      "Plains",
+      "Horses",
+      "PlainsForest"
+    ],
+    "Plains+Forest+R02": [
+      "Plains",
+      "Iron",
+      "PlainsForest"
+    ],
+    "Plains+Forest+R09": [
+      "Plains",
+      "Deer",
+      "PlainsForest"
+    ],
+    "Plains+Wheat+I35": [
+      "Plains+Farm",
+      "Wheat"
+    ],
+    "Plains+R05+Farm": [
+      "Plains+Farm",
+      "Wheat"
+    ],
+    "Plains+R05+I35": [
+      "Plains+Farm",
+      "Wheat"
+    ],
+    "Plains+Hill+Forest+R01": [
+      "Plains",
+      "Hill",
+      "Horses",
+      "Forest"
+    ],
+    "Plains+Hill+Forest+R02": [
+      "Plains",
+      "Hill",
+      "Iron",
+      "Forest"
+    ],
+    "Plains+Hill+Forest+R09": [
+      "Plains",
+      "Hill",
+      "Deer",
+      "Forest"
+    ],
+    "Tundra+Forest+R01": [
+      "Tundra",
+      "Horses",
+      "TundraForest"
+    ],
+    "Tundra+Forest+R02": [
+      "Tundra",
+      "Iron",
+      "TundraForest"
+    ],
+    "Tundra+Forest+R09": [
+      "Tundra",
+      "Deer",
+      "TundraForest"
+    ],
+    "Tundra+Hill+Forest+R01": [
+      "Tundra",
+      "Hill",
+      "Horses",
+      "TundraForest"
+    ],
+    "Tundra+Hill+Forest+R02": [
+      "Tundra",
+      "Hill",
+      "Iron",
+      "TundraForest"
+    ],
+    "Tundra+Hill+Forest+R09": [
+      "Tundra",
+      "Hill",
+      "Deer",
+      "TundraForest"
+    ],
+    "Desert+Wheat+I35": [
+      "Desert+Farm",
+      "Wheat"
+    ],
+    "Desert+R05+Farm": [
+      "Desert+Farm",
+      "Wheat"
+    ],
+    "Desert+R05+I35": [
+      "Desert+Farm",
+      "Wheat"
+    ],
+    "Desert+Flood plains+Wheat+I35": [
+      "Desert+Flood plains+Farm",
+      "Wheat"
+    ],
+    "Desert+Flood plains+R05+Farm": [
+      "Desert+Flood plains+Farm",
+      "Wheat"
+    ],
+    "Desert+Flood plains+R05+I35": [
+      "Desert+Flood plains+Farm",
+      "Wheat"
+    ],
+    "Grassland+R06+Ancient ruins": [
+      "Grassland",
+      "Ancient ruins",
+      "Cattle"
+    ],
+    "Grassland+R29+Ancient ruins": [
+      "Grassland",
+      "Ancient ruins",
+      "Sheep"
+    ],
+    "I35": [
+      "Grassland+Farm"
+    ]
+  }
+}

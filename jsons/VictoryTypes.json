@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Scientific",
+    "victoryScreenHeader": "AOD Scientific Objective",
+    "milestones": [
+      "Build [J01]",
+      "Add all [Origin Apparatus parts] in capital"
+    ],
+    "requiredSpaceshipParts": [
+      "S01",
+      "S01",
+      "S01",
+      "S02",
+      "S03",
+      "S04"
+    ],
+    "victoryString": "Magic victory won",
+    "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!",
+    "civilopediaText": [
+      {
+        "text": "Magic victory overview"
+      },
+      {
+        "text": "Magic victory assembly"
+      },
+      {
+        "text": "Magic victory access"
+      }
+    ]
+  },
+  {
+    "name": "Cultural",
+    "victoryScreenHeader": "AOD Cultural Objective",
+    "milestones": [
+      "Complete [5] Policy branches",
+      "Build [J02]"
+    ],
+    "victoryString": "You have achieved victory through the awesome power of your Culture. Your civilization's greatness - the magnificence of its monuments and the power of its artists - have astounded the world! Poets will honor you as long as beauty brings gladness to a weary heart.",
+    "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+  },
+  {
+    "name": "Domination",
+    "victoryScreenHeader": "AOD Domination Objective",
+    "milestones": [
+      "Capture all capitals"
+    ],
+    "victoryString": "The world has been convulsed by war. Many great and powerful civilizations have fallen, but you have survived - and emerged victorious! The world will long remember your glorious triumph!",
+    "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+  },
+  {
+    "name": "Diplomatic",
+    "victoryScreenHeader": "AOD Diplomatic Objective",
+    "milestones": [
+      "Anyone should build [W18]",
+      "Win diplomatic vote"
+    ],
+    "victoryString": "You have triumphed over your foes through the art of diplomacy! Your cunning and wisdom have earned you great friends - and divided and sown confusion among your enemies! Forever will you be remembered as the leader who brought peace to this weary world!",
+    "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+  },
+  {
+    "name": "Time",
+    "hiddenInVictoryScreen": true,
+    "milestones": [
+      "Have highest score after max turns"
+    ],
+    "victoryString": "The world has been convulsed by war. Many great and powerful civilizations have fallen, but you have survived - and emerged victorious! The world will long remember your glorious triumph!",
+    "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!",
+    "victoryScreenHeader": "AOD Time Objective"
+  }
+]

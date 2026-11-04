@@ -1,0 +1,575 @@
+[
+  {
+    "name": "R01",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "uniques": [
+      "Doesn't generate naturally <in [Forest] tiles>",
+      "Doesn't generate naturally <in [Jungle] tiles>",
+      "Guaranteed with Strategic Balance resource option",
+      "Generated with weight [100] <in [{Featureless} {Grassland}] tiles>",
+      "Generated with weight [100] <in [{Featureless} {Plains}] tiles>",
+      "Minor deposits generated with weight [30] <in [{Featureless} {Grassland}] tiles>",
+      "Minor deposits generated with weight [30] <in [{Featureless} {Plains}] tiles>"
+    ],
+    "production": 1,
+    "revealedBy": "D01-T02",
+    "improvedBy": [
+      "Pasture"
+    ],
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 4,
+      "abundant": 6
+    },
+    "minorDepositAmount": {
+      "sparse": 1,
+      "default": 2,
+      "abundant": 3
+    }
+  },
+  {
+    "name": "R02",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Hill",
+      "Plains"
+    ],
+    "uniques": [
+      "Doesn't generate naturally <in [Forest] tiles>",
+      "Doesn't generate naturally <in [Jungle] tiles>",
+      "Guaranteed with Strategic Balance resource option",
+      "Generated with weight [45] <in [Hill] tiles>",
+      "Generated with weight [20] <in [{Featureless} {Plains}] tiles>",
+      "Minor deposits generated with weight [30] <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
+      "Minor deposits generated with weight [20] <in [{Featureless} {Plains}] tiles>"
+    ],
+    "production": 1,
+    "revealedBy": "D01-T08",
+    "improvedBy": [
+      "Mine"
+    ],
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 4,
+      "abundant": 6
+    },
+    "minorDepositAmount": {
+      "sparse": 1,
+      "default": 2,
+      "abundant": 3
+    }
+  },
+  {
+    "name": "R03",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Hill",
+      "Tundra",
+      "Grassland"
+    ],
+    "uniques": [
+      "Doesn't generate naturally <in [Jungle] tiles>",
+      "Guaranteed with Strategic Balance resource option",
+      "Generated with weight [32] <in [Hill] tiles>",
+      "Generated with weight [15] <in [{Featureless} {Tundra}] tiles>",
+      "Generated with weight [10] <in [{Featureless} {Grassland}] tiles>",
+      "Minor deposits generated with weight [30] <in [Hill] tiles> <in tiles without [Jungle]>",
+      "Minor deposits generated with weight [15] <in [{Featureless} {Tundra}] tiles>",
+      "Minor deposits generated with weight [10] <in [{Featureless} {Grassland}] tiles>"
+    ],
+    "science": 1,
+    "revealedBy": "D01-T04",
+    "improvedBy": [
+      "I30",
+      "Mine"
+    ],
+    "majorDepositAmount": {
+      "sparse": 2,
+      "default": 3,
+      "abundant": 4
+    },
+    "minorDepositAmount": {
+      "sparse": 1,
+      "default": 2,
+      "abundant": 3
+    }
+  },
+  {
+    "name": "R04",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Hill"
+    ],
+    "uniques": [
+      "Generated with weight [8] <in [Hill] tiles>",
+      "Minor deposits generated with weight [5] <in [Hill] tiles>"
+    ],
+    "production": 1,
+    "revealedBy": "D01-T28",
+    "improvedBy": [
+      "Mine"
+    ],
+    "majorDepositAmount": {
+      "sparse": 1,
+      "default": 2,
+      "abundant": 3
+    },
+    "minorDepositAmount": {
+      "sparse": 1,
+      "default": 1,
+      "abundant": 2
+    }
+  },
+  {
+    "name": "R05",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Plains",
+      "Flood plains"
+    ],
+    "uniques": [
+      "Doesn't generate naturally <in [Forest] tiles>",
+      "Doesn't generate naturally <in [Jungle] tiles>",
+      "Generated on every [28] tiles <in [{Featureless} {Plains}] tiles>",
+      "Generated on every [28] tiles <in [Flood plains] tiles>"
+    ],
+    "food": 1,
+    "improvedBy": [
+      "Farm"
+    ]
+  },
+  {
+    "name": "R06",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland"
+    ],
+    "uniques": [
+      "Doesn't generate naturally <in [Forest] tiles>",
+      "Doesn't generate naturally <in [Jungle] tiles>",
+      "Generated on every [32] tiles <in [{Featureless} {Grassland}] tiles>"
+    ],
+    "food": 1,
+    "improvedBy": [
+      "Pasture"
+    ]
+  },
+  {
+    "name": "R07",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Coast"
+    ],
+    "uniques": [
+      "Doesn't generate naturally <in [Ice] tiles>",
+      "Generated on every [12] tiles <in [{Featureless} {Coast}] tiles>"
+    ],
+    "food": 1,
+    "improvedBy": [
+      "Fishing Boats"
+    ]
+  },
+  {
+    "name": "R08",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains",
+      "Hill"
+    ],
+    "uniques": [
+      "Doesn't generate naturally <in [Forest] tiles>",
+      "Doesn't generate naturally <in [Jungle] tiles>",
+      "Generated on every [40] tiles <in [{Featureless} {Grassland}] tiles>",
+      "Generated on every [40] tiles <in [{Featureless} {Plains}] tiles>",
+      "Generated on every [40] tiles <in [Hill] tiles>"
+    ],
+    "production": 1,
+    "improvedBy": [
+      "Quarry"
+    ]
+  },
+  {
+    "name": "R09",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Forest",
+      "Tundra"
+    ],
+    "uniques": [
+      "Generated on every [30] tiles <in [Forest] tiles>",
+      "Generated on every [30] tiles <in [{Featureless} {Tundra}] tiles>"
+    ],
+    "food": 1,
+    "improvedBy": [
+      "Camp"
+    ]
+  },
+  {
+    "name": "R10",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Hill"
+    ],
+    "uniques": [
+      "Generated with weight [1]",
+      "Generated near City States with weight [1]"
+    ],
+    "gold": 2,
+    "improvedBy": [
+      "Mine"
+    ]
+  },
+  {
+    "name": "R11",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Hill"
+    ],
+    "uniques": [
+      "Generated with weight [1]",
+      "Generated near City States with weight [1]"
+    ],
+    "gold": 2,
+    "improvedBy": [
+      "Mine"
+    ]
+  },
+  {
+    "name": "R12",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Forest"
+    ],
+    "uniques": [
+      "Generated with weight [1]",
+      "Generated near City States with weight [1]"
+    ],
+    "gold": 2,
+    "improvedBy": [
+      "Plantation"
+    ]
+  },
+  {
+    "name": "R13",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains",
+      "Jungle"
+    ],
+    "uniques": [
+      "Generated with weight [1]",
+      "Generated near City States with weight [1]"
+    ],
+    "gold": 2,
+    "improvedBy": [
+      "Plantation"
+    ]
+  },
+  {
+    "name": "R14",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Plains",
+      "Desert"
+    ],
+    "uniques": [
+      "Doesn't generate naturally <in [Forest] tiles>",
+      "Doesn't generate naturally <in [Jungle] tiles>",
+      "Generated with weight [1]",
+      "Generated near City States with weight [1]"
+    ],
+    "gold": 2,
+    "improvedBy": [
+      "Plantation"
+    ]
+  },
+  {
+    "name": "R15",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Coast"
+    ],
+    "uniques": [
+      "Doesn't generate naturally <in [Ice] tiles>",
+      "Generated with weight [1]",
+      "Generated near City States with weight [1]"
+    ],
+    "gold": 2,
+    "improvedBy": [
+      "Fishing Boats"
+    ]
+  },
+  {
+    "name": "R16",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Forest",
+      "Grassland",
+      "Plains"
+    ],
+    "uniques": [
+      "Generated on every [50] tiles <in [Forest] tiles>",
+      "Generated on every [50] tiles <in [{Featureless} {Grassland}] tiles>",
+      "Generated on every [50] tiles <in [{Featureless} {Plains}] tiles>"
+    ],
+    "food": 1,
+    "revealedBy": "D01-T42",
+    "improvedBy": [
+      "Camp"
+    ],
+    "improvementStats": {
+      "faith": 1
+    }
+  },
+  {
+    "name": "R17",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Forest"
+    ],
+    "uniques": [
+      "Generated with weight [1]",
+      "Generated near City States with weight [1]"
+    ],
+    "gold": 2,
+    "improvedBy": [
+      "Camp"
+    ]
+  },
+  {
+    "name": "R18",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Hill"
+    ],
+    "uniques": [
+      "Doesn't generate naturally <in [Forest] tiles>",
+      "Doesn't generate naturally <in [Jungle] tiles>",
+      "Generated with weight [1]",
+      "Generated near City States with weight [1]"
+    ],
+    "gold": 2,
+    "revealedBy": "D01-T64",
+    "improvedBy": [
+      "Mine"
+    ],
+    "improvementStats": {
+      "science": 1
+    }
+  },
+  {
+    "name": "R19",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "uniques": [
+      "Doesn't generate naturally <in [Forest] tiles>",
+      "Doesn't generate naturally <in [Jungle] tiles>",
+      "Generated with weight [1]",
+      "Generated near City States with weight [1]"
+    ],
+    "gold": 2,
+    "improvedBy": [
+      "Plantation"
+    ]
+  },
+  {
+    "name": "R20",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Desert",
+      "Hill"
+    ],
+    "uniques": [
+      "Generated with weight [1]",
+      "Generated near City States with weight [1]"
+    ],
+    "gold": 1,
+    "improvedBy": [
+      "Quarry"
+    ],
+    "improvementStats": {
+      "food": 1
+    }
+  },
+  {
+    "name": "R21",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Forest",
+      "Grassland"
+    ],
+    "uniques": [
+      "Generated on every [44] tiles <in [Forest] tiles>",
+      "Generated on every [44] tiles <in [{Featureless} {Grassland}] tiles>"
+    ],
+    "food": 1,
+    "revealedBy": "D01-T39",
+    "improvedBy": [
+      "Plantation"
+    ],
+    "improvementStats": {
+      "food": 1
+    }
+  },
+  {
+    "name": "R27",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Hill",
+      "Plains"
+    ],
+    "uniques": [
+      "Doesn't generate naturally <in [Forest] tiles>",
+      "Doesn't generate naturally <in [Jungle] tiles>",
+      "Generated on every [56] tiles <in [Hill] tiles>",
+      "Generated on every [56] tiles <in [{Featureless} {Plains}] tiles>"
+    ],
+    "production": 1,
+    "improvedBy": [
+      "Mine"
+    ],
+    "improvementStats": {
+      "gold": 1
+    }
+  },
+  {
+    "name": "R28",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Grassland",
+      "Plains",
+      "Flood plains"
+    ],
+    "uniques": [
+      "Doesn't generate naturally <in [Forest] tiles>",
+      "Doesn't generate naturally <in [Jungle] tiles>",
+      "Generated on every [60] tiles <in [{Featureless} {Grassland}] tiles>",
+      "Generated on every [60] tiles <in [{Featureless} {Plains}] tiles>",
+      "Generated on every [60] tiles <in [Flood plains] tiles>"
+    ],
+    "production": 1,
+    "improvedBy": [
+      "I32"
+    ]
+  },
+  {
+    "name": "R29",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Hill",
+      "Plains",
+      "Tundra"
+    ],
+    "uniques": [
+      "Doesn't generate naturally <in [Forest] tiles>",
+      "Doesn't generate naturally <in [Jungle] tiles>",
+      "Generated on every [48] tiles <in [Hill] tiles>",
+      "Generated on every [48] tiles <in [{Featureless} {Plains}] tiles>",
+      "Generated on every [48] tiles <in [{Featureless} {Tundra}] tiles>"
+    ],
+    "food": 1,
+    "improvedBy": [
+      "Pasture"
+    ],
+    "improvementStats": {
+      "gold": 1
+    }
+  },
+  {
+    "name": "R30",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Forest",
+      "Plains"
+    ],
+    "uniques": [
+      "Generated with weight [1]",
+      "Generated near City States with weight [1]"
+    ],
+    "food": 1,
+    "improvedBy": [
+      "I33"
+    ]
+  },
+  {
+    "name": "R31",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Jungle",
+      "Grassland",
+      "Plains"
+    ],
+    "uniques": [
+      "Generated with weight [1]",
+      "Generated near City States with weight [1]"
+    ],
+    "culture": 1,
+    "improvedBy": [
+      "Plantation"
+    ]
+  },
+  {
+    "name": "R32",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [
+      "Forest",
+      "Grassland",
+      "Tundra"
+    ],
+    "uniques": [
+      "Generated on every [100] tiles <in [Forest] tiles>",
+      "Generated on every [100] tiles <in [{Featureless} {Grassland}] tiles>",
+      "Generated on every [100] tiles <in [{Featureless} {Tundra}] tiles>"
+    ],
+    "faith": 1,
+    "revealedBy": "D01-T42",
+    "improvedBy": [
+      "I31"
+    ]
+  },
+  {
+    "name": "R33",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Coast"
+    ],
+    "uniques": [
+      "Doesn't generate naturally <in [Ice] tiles>",
+      "Generated with weight [1]",
+      "Generated near City States with weight [1]"
+    ],
+    "production": 1,
+    "improvedBy": [
+      "Fishing Boats"
+    ]
+  },
+  {
+    "name": "R25",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [],
+    "uniques": [
+      "Doesn't generate naturally",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ]
+  },
+  {
+    "name": "R26",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [],
+    "uniques": [
+      "Doesn't generate naturally",
+      "Cannot be traded",
+      "Not shown on world screen"
+    ]
+  }
+]

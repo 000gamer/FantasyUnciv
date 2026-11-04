@@ -1,0 +1,2446 @@
+[
+  {
+    "name": "U01",
+    "unitType": "步兵",
+    "strength": 9,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 40,
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ],
+    "upgradesTo": "U02"
+  },
+  {
+    "name": "U02",
+    "unitType": "步兵",
+    "strength": 13,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 65,
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R02]"
+    ],
+    "requiredTech": "D01-T08",
+    "upgradesTo": "U03",
+    "obsoleteTech": "D01-T15"
+  },
+  {
+    "name": "U03",
+    "unitType": "步兵",
+    "strength": 18,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 95,
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R02]"
+    ],
+    "requiredTech": "D01-T15",
+    "upgradesTo": "U04",
+    "obsoleteTech": "D01-T22"
+  },
+  {
+    "name": "U04",
+    "unitType": "步兵",
+    "strength": 24,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 140,
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R02]"
+    ],
+    "requiredTech": "D01-T22",
+    "upgradesTo": "U05",
+    "obsoleteTech": "D01-T28"
+  },
+  {
+    "name": "U05",
+    "unitType": "重步兵",
+    "strength": 30,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 190,
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R02]"
+    ],
+    "requiredTech": "D01-T28",
+    "upgradesTo": "U06",
+    "obsoleteTech": "D01-T38"
+  },
+  {
+    "name": "U06",
+    "unitType": "重步兵",
+    "strength": 40,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 285,
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R02]"
+    ],
+    "requiredTech": "D01-T38"
+  },
+  {
+    "name": "U07",
+    "unitType": "长柄",
+    "strength": 11,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 60,
+    "uniques": [
+      "[+35]% Strength <vs [轻骑] units>",
+      "[+35]% Strength <vs [重骑] units>",
+      "[+35]% Strength <vs [骑射] units>",
+      "[+35]% Strength <vs [野兽] units>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T06",
+    "upgradesTo": "U08",
+    "obsoleteTech": "D01-T15"
+  },
+  {
+    "name": "U08",
+    "unitType": "长柄",
+    "strength": 16,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 85,
+    "uniques": [
+      "[+35]% Strength <vs [轻骑] units>",
+      "[+35]% Strength <vs [重骑] units>",
+      "[+35]% Strength <vs [骑射] units>",
+      "[+35]% Strength <vs [野兽] units>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T15",
+    "upgradesTo": "U09",
+    "obsoleteTech": "D01-T22"
+  },
+  {
+    "name": "U09",
+    "unitType": "长柄",
+    "strength": 21,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 125,
+    "uniques": [
+      "[+35]% Strength <vs [轻骑] units>",
+      "[+35]% Strength <vs [重骑] units>",
+      "[+35]% Strength <vs [骑射] units>",
+      "[+35]% Strength <vs [野兽] units>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T22",
+    "upgradesTo": "U10",
+    "obsoleteTech": "D01-T33"
+  },
+  {
+    "name": "U10",
+    "unitType": "长柄",
+    "strength": 27,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 175,
+    "uniques": [
+      "[+35]% Strength <vs [轻骑] units>",
+      "[+35]% Strength <vs [重骑] units>",
+      "[+35]% Strength <vs [骑射] units>",
+      "[+35]% Strength <vs [野兽] units>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T33",
+    "upgradesTo": "U11",
+    "obsoleteTech": "D01-T38"
+  },
+  {
+    "name": "U11",
+    "unitType": "长柄",
+    "strength": 35,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 250,
+    "uniques": [
+      "[+35]% Strength <vs [轻骑] units>",
+      "[+35]% Strength <vs [重骑] units>",
+      "[+35]% Strength <vs [骑射] units>",
+      "[+35]% Strength <vs [野兽] units>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T38"
+  },
+  {
+    "name": "U12",
+    "unitType": "射手",
+    "strength": 5,
+    "rangedStrength": 10,
+    "range": 2,
+    "movement": 2,
+    "cost": 45,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T02",
+    "upgradesTo": "U13",
+    "obsoleteTech": "D01-T10"
+  },
+  {
+    "name": "U14",
+    "unitType": "射手",
+    "strength": 9,
+    "rangedStrength": 18,
+    "range": 2,
+    "movement": 2,
+    "cost": 95,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T16",
+    "upgradesTo": "U16",
+    "obsoleteTech": "D01-T29"
+  },
+  {
+    "name": "U16",
+    "unitType": "射手",
+    "strength": 16,
+    "rangedStrength": 32,
+    "range": 2,
+    "movement": 2,
+    "cost": 195,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T29",
+    "upgradesTo": "U17",
+    "obsoleteTech": "D01-T38"
+  },
+  {
+    "name": "U17",
+    "unitType": "射手",
+    "strength": 22,
+    "rangedStrength": 42,
+    "range": 2,
+    "movement": 2,
+    "cost": 280,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T38"
+  },
+  {
+    "name": "U18",
+    "unitType": "轻骑",
+    "strength": 12,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 4,
+    "cost": 75,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Can move after attacking",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R01]"
+    ],
+    "requiredTech": "D01-T09",
+    "upgradesTo": "U19",
+    "obsoleteTech": "D01-T23"
+  },
+  {
+    "name": "U19",
+    "unitType": "轻骑",
+    "strength": 22,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 4,
+    "cost": 135,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Can move after attacking",
+      "[+1] Sight",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R01]"
+    ],
+    "requiredTech": "D01-T23",
+    "upgradesTo": "U21",
+    "obsoleteTech": "D01-T38"
+  },
+  {
+    "name": "U21",
+    "unitType": "轻骑",
+    "strength": 36,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 5,
+    "cost": 270,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Can move after attacking",
+      "[+1] Sight",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R01]"
+    ],
+    "requiredTech": "D01-T38"
+  },
+  {
+    "name": "U22",
+    "unitType": "重骑",
+    "strength": 27,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 165,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Can move after attacking",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R01]",
+      "Consumes [1] [R02]",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "D01-T23",
+    "upgradesTo": "U24",
+    "obsoleteTech": "D01-T38"
+  },
+  {
+    "name": "U24",
+    "unitType": "重骑",
+    "strength": 45,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 330,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Can move after attacking",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R01]",
+      "Consumes [1] [R02]",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "D01-T38"
+  },
+  {
+    "name": "U25",
+    "unitType": "攻城",
+    "strength": 8,
+    "rangedStrength": 17,
+    "range": 2,
+    "movement": 2,
+    "cost": 105,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Must set up to ranged attack",
+      "[+100]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T16",
+    "upgradesTo": "U26",
+    "obsoleteTech": "D01-T22"
+  },
+  {
+    "name": "U26",
+    "unitType": "攻城",
+    "strength": 11,
+    "rangedStrength": 23,
+    "range": 2,
+    "movement": 2,
+    "cost": 150,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Must set up to ranged attack",
+      "[+100]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T22",
+    "upgradesTo": "U27",
+    "obsoleteTech": "D01-T29"
+  },
+  {
+    "name": "U27",
+    "unitType": "攻城",
+    "strength": 14,
+    "rangedStrength": 31,
+    "range": 2,
+    "movement": 2,
+    "cost": 210,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Must set up to ranged attack",
+      "[+100]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T29",
+    "upgradesTo": "U28",
+    "obsoleteTech": "D01-T36"
+  },
+  {
+    "name": "U28",
+    "unitType": "攻城",
+    "strength": 19,
+    "rangedStrength": 42,
+    "range": 2,
+    "movement": 2,
+    "cost": 295,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Must set up to ranged attack",
+      "[+100]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T36"
+  },
+  {
+    "name": "U29",
+    "unitType": "海近战",
+    "strength": 12,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 65,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T07",
+    "upgradesTo": "U30",
+    "obsoleteTech": "D01-T19"
+  },
+  {
+    "name": "U30",
+    "unitType": "海近战",
+    "strength": 23,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 5,
+    "cost": 130,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T19",
+    "upgradesTo": "U31"
+  },
+  {
+    "name": "U31",
+    "unitType": "海近战",
+    "strength": 36,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 5,
+    "cost": 225,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R02]",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "D01-T32",
+    "upgradesTo": "U32",
+    "obsoleteTech": "D01-T95"
+  },
+  {
+    "name": "U32",
+    "unitType": "海近战",
+    "strength": 47,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 5,
+    "cost": 320,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R02]",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "D01-T95"
+  },
+  {
+    "name": "U33",
+    "unitType": "海远程",
+    "strength": 15,
+    "rangedStrength": 22,
+    "range": 2,
+    "movement": 4,
+    "cost": 145,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T20",
+    "upgradesTo": "U34"
+  },
+  {
+    "name": "U34",
+    "unitType": "海远程",
+    "strength": 24,
+    "rangedStrength": 34,
+    "range": 2,
+    "movement": 4,
+    "cost": 235,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R02]",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "D01-T32",
+    "upgradesTo": "U35",
+    "obsoleteTech": "D01-T95"
+  },
+  {
+    "name": "U35",
+    "unitType": "海远程",
+    "strength": 31,
+    "rangedStrength": 45,
+    "range": 2,
+    "movement": 4,
+    "cost": 330,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R02]",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "D01-T95"
+  },
+  {
+    "name": "U36",
+    "unitType": "术士",
+    "strength": 5,
+    "rangedStrength": 12,
+    "range": 2,
+    "movement": 2,
+    "cost": 70,
+    "uniques": [
+      "No defensive terrain bonus",
+      "[+20]% Strength <vs [重步兵] units>",
+      "[+20]% Strength <vs [重骑] units>",
+      "[+20]% Strength <vs [构装] units>",
+      "[+25]% Strength <vs [UX06] units>",
+      "[+25]% Strength <vs [UX30] units>",
+      "[+25]% Strength <vs [M05] units>",
+      "[-35]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit",
+      "[This Unit] gains the [P104] status for [2] turn(s) <for all movement> <for units without [P104]>"
+    ],
+    "requiredTech": "D01-T99",
+    "upgradesTo": "U38"
+  },
+  {
+    "name": "U38",
+    "unitType": "术士",
+    "strength": 15,
+    "rangedStrength": 30,
+    "range": 2,
+    "movement": 2,
+    "cost": 200,
+    "uniques": [
+      "No defensive terrain bonus",
+      "[+20]% Strength <vs [重步兵] units>",
+      "[+20]% Strength <vs [重骑] units>",
+      "[+20]% Strength <vs [构装] units>",
+      "[+25]% Strength <vs [UX06] units>",
+      "[+25]% Strength <vs [UX30] units>",
+      "[+25]% Strength <vs [M05] units>",
+      "[-35]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R03]",
+      "[+25]% maintenance costs",
+      "[This Unit] gains the [P104] status for [2] turn(s) <for all movement> <for units without [P104]>"
+    ],
+    "requiredTech": "D01-T30",
+    "upgradesTo": "U40",
+    "obsoleteTech": "D01-T91"
+  },
+  {
+    "name": "U40",
+    "unitType": "术士",
+    "strength": 23,
+    "rangedStrength": 42,
+    "range": 2,
+    "movement": 2,
+    "cost": 300,
+    "uniques": [
+      "No defensive terrain bonus",
+      "[+20]% Strength <vs [重步兵] units>",
+      "[+20]% Strength <vs [重骑] units>",
+      "[+20]% Strength <vs [构装] units>",
+      "[+25]% Strength <vs [UX06] units>",
+      "[+25]% Strength <vs [UX30] units>",
+      "[+25]% Strength <vs [M05] units>",
+      "[-35]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R03]",
+      "[+25]% maintenance costs",
+      "[This Unit] gains the [P104] status for [2] turn(s) <for all movement> <for units without [P104]>"
+    ],
+    "requiredTech": "D01-T91"
+  },
+  {
+    "name": "U41",
+    "unitType": "医护",
+    "strength": 8,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 65,
+    "uniques": [
+      "Comment [Field medicine]",
+      "FC medic near active patient <when adjacent to a [P109] unit> <hidden from users>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T98",
+    "upgradesTo": "U43",
+    "obsoleteTech": "D01-T27"
+  },
+  {
+    "name": "U43",
+    "unitType": "医护",
+    "strength": 18,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 155,
+    "uniques": [
+      "Comment [Field medicine]",
+      "FC medic near active patient <when adjacent to a [P109] unit> <hidden from users>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T27",
+    "upgradesTo": "U45",
+    "obsoleteTech": "D01-T31"
+  },
+  {
+    "name": "U45",
+    "unitType": "医护",
+    "strength": 27,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 230,
+    "uniques": [
+      "Comment [Field medicine]",
+      "FC medic near active patient <when adjacent to a [P109] unit> <hidden from users>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T31"
+  },
+  {
+    "name": "U54",
+    "unitType": "构装",
+    "strength": 35,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 245,
+    "uniques": [
+      "No defensive terrain bonus",
+      "[+10]% Strength <when defending>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R02]",
+      "Consumes [1] [R03]",
+      "[+50]% maintenance costs"
+    ],
+    "requiredTech": "D01-T30",
+    "upgradesTo": "U55"
+  },
+  {
+    "name": "U55",
+    "unitType": "构装",
+    "strength": 46,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 350,
+    "uniques": [
+      "No defensive terrain bonus",
+      "[+10]% Strength <when defending>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R04]",
+      "Consumes [1] [R03]",
+      "[+50]% maintenance costs"
+    ],
+    "requiredTech": "D01-T91"
+  },
+  {
+    "name": "U63",
+    "unitType": "侦察",
+    "strength": 6,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 30,
+    "uniques": [
+      "Ignores terrain cost",
+      "[+1] Sight",
+      "Never appears as a Barbarian unit"
+    ],
+    "upgradesTo": "U64",
+    "obsoleteTech": "D01-T57"
+  },
+  {
+    "name": "U64",
+    "unitType": "侦察",
+    "strength": 14,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 90,
+    "uniques": [
+      "Ignores terrain cost",
+      "[+1] Sight",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T57",
+    "upgradesTo": "U65",
+    "obsoleteTech": "D01-T33"
+  },
+  {
+    "name": "U65",
+    "unitType": "侦察",
+    "strength": 25,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 170,
+    "uniques": [
+      "Ignores terrain cost",
+      "[+1] Sight",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T33"
+  },
+  {
+    "name": "U70",
+    "unitType": "骑射",
+    "strength": 7,
+    "rangedStrength": 12,
+    "range": 1,
+    "movement": 4,
+    "cost": 100,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Can move after attacking",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R01]"
+    ],
+    "requiredTech": "D01-T48",
+    "upgradesTo": "U71",
+    "obsoleteTech": "D01-T23"
+  },
+  {
+    "name": "U71",
+    "unitType": "骑射",
+    "strength": 13,
+    "rangedStrength": 23,
+    "range": 1,
+    "movement": 4,
+    "cost": 175,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Can move after attacking",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R01]"
+    ],
+    "requiredTech": "D01-T23",
+    "upgradesTo": "U72",
+    "obsoleteTech": "D01-T38"
+  },
+  {
+    "name": "U72",
+    "unitType": "骑射",
+    "strength": 21,
+    "rangedStrength": 35,
+    "range": 1,
+    "movement": 5,
+    "cost": 285,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Can move after attacking",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R01]"
+    ],
+    "requiredTech": "D01-T38"
+  },
+  {
+    "name": "U76",
+    "unitType": "海近战",
+    "strength": 18,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 4,
+    "cost": 150,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "All adjacent units heal [5] HP when healing",
+      "Never appears as a Barbarian unit",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "D01-T19"
+  },
+  {
+    "name": "U77",
+    "unitType": "侦察",
+    "strength": 18,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 145,
+    "uniques": [
+      "Ignores terrain cost",
+      "[+1] Sight",
+      "Cannot attack",
+      "Can see invisible [幽魂] units",
+      "Can see invisible [英雄幽魂] units",
+      "Never appears as a Barbarian unit",
+      "[+25]% maintenance costs",
+      "Reveal up to [All] [All] within a [5] tile radius <for all movement> <[2] times>"
+    ],
+    "requiredTech": "D01-T101"
+  },
+  {
+    "name": "U13",
+    "unitType": "射手",
+    "strength": 7,
+    "rangedStrength": 13,
+    "range": 2,
+    "movement": 2,
+    "cost": 65,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T10",
+    "upgradesTo": "U14",
+    "obsoleteTech": "D01-T16"
+  },
+  {
+    "name": "U58",
+    "unitType": "野兽",
+    "strength": 26,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 180,
+    "uniques": [
+      "No defensive terrain bonus",
+      "[-35]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs"
+    ],
+    "requiredTech": "D01-T23",
+    "upgradesTo": "U60",
+    "obsoleteTech": "D01-T38"
+  },
+  {
+    "name": "U60",
+    "unitType": "野兽",
+    "strength": 41,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 320,
+    "uniques": [
+      "No defensive terrain bonus",
+      "[-35]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs"
+    ],
+    "requiredTech": "D01-T38"
+  },
+  {
+    "name": "U66",
+    "unitType": "死灵",
+    "strength": 7,
+    "rangedStrength": 13,
+    "range": 1,
+    "movement": 2,
+    "cost": 60,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Heals [10] damage if it kills a unit",
+      "[-35]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T54",
+    "upgradesTo": "U74"
+  },
+  {
+    "name": "U74",
+    "unitType": "死灵",
+    "strength": 18,
+    "rangedStrength": 30,
+    "range": 1,
+    "movement": 2,
+    "cost": 210,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Heals [10] damage if it kills a unit",
+      "[-35]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R03]",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "D01-T79",
+    "upgradesTo": "U75",
+    "obsoleteTech": "D01-T93"
+  },
+  {
+    "name": "U75",
+    "unitType": "死灵",
+    "strength": 26,
+    "rangedStrength": 42,
+    "range": 1,
+    "movement": 2,
+    "cost": 315,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Heals [10] damage if it kills a unit",
+      "[-35]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R03]",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "D01-T93"
+  },
+  {
+    "name": "U78",
+    "unitType": "侦察",
+    "strength": 7,
+    "movement": 2,
+    "cost": 75,
+    "requiredTech": "D01-T53",
+    "upgradesTo": "U77",
+    "obsoleteTech": "D01-T101",
+    "uniques": [
+      "Ignores terrain cost",
+      "[+1] Sight",
+      "Cannot attack",
+      "Never appears as a Barbarian unit",
+      "Reveal up to [All] [All] within a [5] tile radius <for all movement> <[2] times>"
+    ],
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "UX01",
+    "unitType": "步兵",
+    "strength": 19,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 100,
+    "uniques": [
+      "[+50]% to Flank Attack bonuses",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R02]"
+    ],
+    "requiredTech": "D01-T15",
+    "upgradesTo": "U04",
+    "obsoleteTech": "D01-T22",
+    "uniqueTo": "N01",
+    "replaces": "U03"
+  },
+  {
+    "name": "UX02",
+    "unitType": "重步兵",
+    "strength": 42,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 300,
+    "uniques": [
+      "[+15]% Strength <when defending> <vs [Ranged] units>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R02]"
+    ],
+    "requiredTech": "D01-T38",
+    "uniqueTo": "N01",
+    "replaces": "U06"
+  },
+  {
+    "name": "UX03",
+    "unitType": "长柄",
+    "strength": 18,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 100,
+    "uniques": [
+      "[+35]% Strength <vs [轻骑] units>",
+      "[+35]% Strength <vs [重骑] units>",
+      "[+35]% Strength <vs [骑射] units>",
+      "[+35]% Strength <vs [野兽] units>",
+      "[+15]% Strength <when defending> <in [Friendly Land] tiles>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T15",
+    "upgradesTo": "U09",
+    "obsoleteTech": "D01-T22",
+    "uniqueTo": "N02",
+    "replaces": "U08"
+  },
+  {
+    "name": "UX04",
+    "unitType": "海近战",
+    "strength": 25,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 5,
+    "cost": 145,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "[+1] Sight",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T19",
+    "upgradesTo": "U31",
+    "uniqueTo": "N02",
+    "replaces": "U30"
+  },
+  {
+    "name": "UX05",
+    "unitType": "射手",
+    "strength": 7,
+    "rangedStrength": 14,
+    "range": 2,
+    "movement": 2,
+    "cost": 70,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Double movement in [Forest]",
+      "[+20]% Strength <when fighting in [Forest] tiles>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T10",
+    "upgradesTo": "U14",
+    "obsoleteTech": "D01-T16",
+    "uniqueTo": "N03",
+    "replaces": "U13"
+  },
+  {
+    "name": "UX06",
+    "unitType": "步兵",
+    "strength": 28,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 1,
+    "cost": 205,
+    "uniques": [
+      "[+20]% Strength <when fighting in [Forest] tiles>",
+      "Never appears as a Barbarian unit",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "D01-T27",
+    "upgradesTo": "UX30",
+    "obsoleteTech": "D01-T80",
+    "uniqueTo": "N03"
+  },
+  {
+    "name": "UX07",
+    "unitType": "射手",
+    "strength": 22,
+    "rangedStrength": 43,
+    "range": 2,
+    "movement": 2,
+    "cost": 300,
+    "uniques": [
+      "No defensive terrain bonus",
+      "[+20]% Strength <when fighting in [Forest] tiles>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T38",
+    "uniqueTo": "N03",
+    "replaces": "U17"
+  },
+  {
+    "name": "UX08",
+    "unitType": "海近战",
+    "strength": 14,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 70,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "[+1] Sight",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T07",
+    "upgradesTo": "U30",
+    "obsoleteTech": "D01-T19",
+    "uniqueTo": "N04",
+    "replaces": "U29"
+  },
+  {
+    "name": "UX09",
+    "unitType": "海远程",
+    "strength": 24,
+    "rangedStrength": 35,
+    "range": 2,
+    "movement": 5,
+    "cost": 250,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "[+1] Sight",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R02]",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "D01-T32",
+    "upgradesTo": "U35",
+    "obsoleteTech": "D01-T95",
+    "uniqueTo": "N04",
+    "replaces": "U34"
+  },
+  {
+    "name": "UX10",
+    "unitType": "长柄",
+    "strength": 17,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 95,
+    "uniques": [
+      "[+35]% Strength <vs [轻骑] units>",
+      "[+35]% Strength <vs [重骑] units>",
+      "[+35]% Strength <vs [骑射] units>",
+      "[+35]% Strength <vs [野兽] units>",
+      "[+15]% Strength <when defending>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T15",
+    "upgradesTo": "U09",
+    "obsoleteTech": "D01-T22",
+    "uniqueTo": "N05",
+    "replaces": "U08"
+  },
+  {
+    "name": "UX11",
+    "unitType": "重步兵",
+    "strength": 32,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 210,
+    "uniques": [
+      "[+15]% Strength <when defending> <vs [Ranged] units>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R02]"
+    ],
+    "requiredTech": "D01-T28",
+    "upgradesTo": "U06",
+    "obsoleteTech": "D01-T38",
+    "uniqueTo": "N05",
+    "replaces": "U05"
+  },
+  {
+    "name": "UX13",
+    "unitType": "构装",
+    "strength": 48,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 380,
+    "uniques": [
+      "No defensive terrain bonus",
+      "[+10]% Strength <when defending>",
+      "[+5] HP when healing",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R04]",
+      "Consumes [1] [R03]",
+      "[+50]% maintenance costs"
+    ],
+    "requiredTech": "D01-T91",
+    "uniqueTo": "N06",
+    "replaces": "U55"
+  },
+  {
+    "name": "UX14",
+    "unitType": "轻骑",
+    "strength": 12,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 4,
+    "cost": 95,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Can move after attacking",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T09",
+    "upgradesTo": "U19",
+    "uniqueTo": "N07",
+    "replaces": "U18"
+  },
+  {
+    "name": "UX15",
+    "unitType": "骑射",
+    "strength": 13,
+    "rangedStrength": 24,
+    "range": 1,
+    "movement": 4,
+    "cost": 185,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Can move after attacking",
+      "[+1] Sight",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R01]"
+    ],
+    "requiredTech": "D01-T23",
+    "upgradesTo": "U72",
+    "obsoleteTech": "D01-T38",
+    "uniqueTo": "N07",
+    "replaces": "U71"
+  },
+  {
+    "name": "UX16",
+    "unitType": "轻骑",
+    "strength": 37,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 5,
+    "cost": 285,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Can move after attacking",
+      "[+1] Sight",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R01]"
+    ],
+    "requiredTech": "D01-T38",
+    "uniqueTo": "N07",
+    "replaces": "U21"
+  },
+  {
+    "name": "UX17",
+    "unitType": "步兵",
+    "strength": 26,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 155,
+    "uniques": [
+      "[+15]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R02]"
+    ],
+    "requiredTech": "D01-T22",
+    "upgradesTo": "U05",
+    "obsoleteTech": "D01-T28",
+    "uniqueTo": "N08",
+    "replaces": "U04"
+  },
+  {
+    "name": "UX18",
+    "unitType": "攻城",
+    "strength": 11,
+    "rangedStrength": 25,
+    "range": 2,
+    "movement": 2,
+    "cost": 165,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Must set up to ranged attack",
+      "[+100]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T22",
+    "upgradesTo": "U27",
+    "obsoleteTech": "D01-T29",
+    "uniqueTo": "N08",
+    "replaces": "U26"
+  },
+  {
+    "name": "UX19",
+    "unitType": "野兽",
+    "strength": 28,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 200,
+    "uniques": [
+      "No defensive terrain bonus",
+      "[-35]% Strength <when attacking> <vs cities>",
+      "[+15]% Strength <when defending> <vs [Ranged] units>",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs"
+    ],
+    "requiredTech": "D01-T23",
+    "upgradesTo": "U60",
+    "obsoleteTech": "D01-T38",
+    "uniqueTo": "N08",
+    "replaces": "U58"
+  },
+  {
+    "name": "UX20",
+    "unitType": "攻城",
+    "strength": 15,
+    "rangedStrength": 33,
+    "range": 2,
+    "movement": 2,
+    "cost": 225,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Must set up to ranged attack",
+      "[+100]% Strength <when attacking> <vs cities>",
+      "[+25]% Strength <vs [构装] units>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T29",
+    "upgradesTo": "U28",
+    "obsoleteTech": "D01-T36",
+    "uniqueTo": "N09",
+    "replaces": "U27"
+  },
+  {
+    "name": "UX21",
+    "unitType": "构装",
+    "strength": 38,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 265,
+    "uniques": [
+      "No defensive terrain bonus",
+      "[+10]% Strength <when defending>",
+      "[+15]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R02]",
+      "Consumes [1] [R03]",
+      "[+50]% maintenance costs"
+    ],
+    "requiredTech": "D01-T30",
+    "upgradesTo": "U55",
+    "uniqueTo": "N09",
+    "replaces": "U54"
+  },
+  {
+    "name": "UX22",
+    "unitType": "侦察",
+    "strength": 6,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 40,
+    "uniques": [
+      "Ignores terrain cost",
+      "[+1] Sight",
+      "Never appears as a Barbarian unit"
+    ],
+    "upgradesTo": "U64",
+    "obsoleteTech": "D01-T57",
+    "uniqueTo": "N10",
+    "replaces": "U63"
+  },
+  {
+    "name": "UX23",
+    "unitType": "射手",
+    "strength": 10,
+    "rangedStrength": 19,
+    "range": 2,
+    "movement": 2,
+    "cost": 105,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T16",
+    "upgradesTo": "U16",
+    "obsoleteTech": "D01-T29",
+    "uniqueTo": "N10",
+    "replaces": "U14",
+    "hurryCostModifier": -20
+  },
+  {
+    "name": "UX24",
+    "unitType": "死灵",
+    "strength": 8,
+    "rangedStrength": 14,
+    "range": 1,
+    "movement": 2,
+    "cost": 70,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Heals [10] damage if it kills a unit",
+      "[-35]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T54",
+    "upgradesTo": "U74",
+    "uniqueTo": "N11",
+    "replaces": "U66"
+  },
+  {
+    "name": "UX25",
+    "unitType": "幽魂",
+    "strength": 22,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 195,
+    "uniques": [
+      "Ignores terrain cost",
+      "Invisible to non-adjacent units",
+      "No defensive terrain bonus",
+      "[-35]% Strength <when attacking> <vs cities>",
+      "[+5] HP when healing",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs"
+    ],
+    "requiredTech": "D01-T73",
+    "upgradesTo": "UX32",
+    "uniqueTo": "N11"
+  },
+  {
+    "name": "UX26",
+    "unitType": "死灵",
+    "strength": 28,
+    "rangedStrength": 44,
+    "range": 1,
+    "movement": 2,
+    "cost": 340,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Heals [10] damage if it kills a unit",
+      "[+1] Sight",
+      "[-35]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R03]",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "D01-T93",
+    "uniqueTo": "N11",
+    "replaces": "U75"
+  },
+  {
+    "name": "UX27",
+    "unitType": "步兵",
+    "strength": 8,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 35,
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ],
+    "upgradesTo": "U02",
+    "uniqueTo": "N12",
+    "replaces": "U01"
+  },
+  {
+    "name": "UX28",
+    "unitType": "长柄",
+    "strength": 22,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 125,
+    "uniques": [
+      "[+35]% Strength <vs [轻骑] units>",
+      "[+35]% Strength <vs [重骑] units>",
+      "[+35]% Strength <vs [骑射] units>",
+      "[+35]% Strength <vs [野兽] units>",
+      "[+15]% Strength <when defending> <in [Friendly Land] tiles>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T22",
+    "upgradesTo": "U10",
+    "obsoleteTech": "D01-T33",
+    "uniqueTo": "N12",
+    "replaces": "U09"
+  },
+  {
+    "name": "UX29",
+    "unitType": "重步兵",
+    "strength": 39,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 265,
+    "uniques": [
+      "[+15]% Strength <when defending>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R02]"
+    ],
+    "requiredTech": "D01-T38",
+    "uniqueTo": "N12",
+    "replaces": "U06"
+  },
+  {
+    "name": "UX30",
+    "unitType": "步兵",
+    "strength": 39,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 1,
+    "cost": 315,
+    "uniques": [
+      "[+20]% Strength <when fighting in [Forest] tiles>",
+      "Never appears as a Barbarian unit",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "D01-T80",
+    "uniqueTo": "N03"
+  },
+  {
+    "name": "UX32",
+    "unitType": "幽魂",
+    "strength": 36,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 325,
+    "uniques": [
+      "Ignores terrain cost",
+      "Invisible to non-adjacent units",
+      "No defensive terrain bonus",
+      "[-35]% Strength <when attacking> <vs cities>",
+      "[+5] HP when healing",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [R03]",
+      "[+50]% maintenance costs"
+    ],
+    "requiredTech": "D01-T93",
+    "uniqueTo": "N11"
+  },
+  {
+    "name": "K13",
+    "unitType": "Civilian",
+    "strength": 0,
+    "movement": 2,
+    "cost": 400,
+    "requiredTech": "D01-T102",
+    "uniques": [
+      "Cannot attack",
+      "Uncapturable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "Limited to [1] per Civilization",
+      "Only available <in cities with a [B52]> <without [R25]>",
+      "Triggers a [E31] event <by consuming this unit> <in [your] tiles> <in [Land] tiles> <without [R25]> <after discovering [D01-T102]>"
+    ],
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "K14",
+    "unitType": "Civilian",
+    "strength": 0,
+    "movement": 2,
+    "cost": 300,
+    "requiredTech": "D01-T24",
+    "uniques": [
+      "Cannot attack",
+      "Uncapturable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "Limited to [1] per Civilization",
+      "Only available <in cities with a [B14]> <without [R26]>",
+      "Triggers a [E32] event <by consuming this unit> <in [your] tiles> <in [Land] tiles> <without [R26]> <after discovering [D01-T24]>"
+    ],
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "C01",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 100,
+    "uniques": [
+      "Founds a new city <by consuming this unit>",
+      "Requires at least [2] population",
+      "Excess Food converted to Production when under construction",
+      "Unbuildable <for [City-States] Civilizations>",
+      "Never appears as a Barbarian unit"
+    ],
+    "hurryCostModifier": 20,
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "C02",
+    "unitType": "Civilian",
+    "movement": 2,
+    "uniques": [
+      "Can build [non-[{non-[Farm]} {non-[Pasture]} {non-[Camp]} {non-[Mine]} {non-[Quarry]} {non-[Road]} {non-[Plantation]} {non-[Lumber mill]} {non-[Fort]} {non-[Remove Forest]} {non-[Remove Jungle]} {non-[Remove Marsh]} {non-[Railroad]} {non-[I28]} {non-[I29]} {non-[I30]} {non-[I31]} {non-[I32]} {non-[I33]} {non-[I35]} {non-[I36]} {non-[I37]}]] improvements on tiles <hidden from users>",
+      "Can build [Repair] improvements on tiles <hidden from users>",
+      "Comment [Build tile improvements]",
+      "Never appears as a Barbarian unit"
+    ],
+    "cost": 70,
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "C03",
+    "unitType": "Civilian Water",
+    "movement": 3,
+    "cost": 45,
+    "uniques": [
+      "May create improvements on water resources",
+      "Uncapturable",
+      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "D01-T07",
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "C04",
+    "unitType": "Civilian",
+    "uniques": [
+      "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
+      "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
+      "[-1] Sight",
+      "Unbuildable",
+      "Religious Unit",
+      "Only available <when religion is enabled>",
+      "Can be purchased for [200] [Faith] [in all cities in which the majority religion is a major religion]",
+      "Never appears as a Barbarian unit"
+    ],
+    "movement": 4,
+    "religiousStrength": 1000,
+    "requiredTech": "D01-T62",
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "C05",
+    "unitType": "Civilian",
+    "uniques": [
+      "Prevents spreading of religion to the city it is next to",
+      "Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>",
+      "[+1] Sight",
+      "Only available <when religion is enabled>",
+      "Unbuildable",
+      "Religious Unit",
+      "Can be purchased for [200] [Faith] [in all cities in which the majority religion is an enhanced religion]",
+      "Never appears as a Barbarian unit"
+    ],
+    "movement": 3,
+    "requiredTech": "D01-T62",
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "C06",
+    "unitType": "Civilian",
+    "uniques": [
+      "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+      "Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed>",
+      "Removes other religions when spreading religion",
+      "May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
+      "May enhance a religion <by consuming this unit>  <if it hasn't used other actions yet>",
+      "Is part of Great Person group [Prophet]",
+      "May enter foreign tiles without open borders",
+      "[-1] Sight",
+      "Unbuildable",
+      "Religious Unit",
+      "Only available <when religion is enabled>",
+      "Takes your religion over the one in their birth city",
+      "Great Person - [Faith]",
+      "Never appears as a Barbarian unit"
+    ],
+    "movement": 2,
+    "religiousStrength": 1000,
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "C07",
+    "unitType": "Civilian",
+    "uniques": [
+      "Unbuildable",
+      "Uncapturable",
+      "Never appears as a Barbarian unit",
+      "Can instantly construct a [Academy] improvement <by consuming this unit>",
+      "Is part of Great Person group [Economic]",
+      "Great Person - [Science]"
+    ],
+    "movement": 2,
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "C08",
+    "unitType": "Civilian",
+    "uniques": [
+      "Unbuildable",
+      "Uncapturable",
+      "Never appears as a Barbarian unit",
+      "Can instantly construct a [Manufactory] improvement <by consuming this unit>",
+      "Is part of Great Person group [Economic]",
+      "Great Person - [Production]"
+    ],
+    "movement": 2,
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "C09",
+    "unitType": "Civilian",
+    "uniques": [
+      "Unbuildable",
+      "Uncapturable",
+      "Never appears as a Barbarian unit",
+      "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+      "Is part of Great Person group [Economic]",
+      "Great Person - [Gold]"
+    ],
+    "movement": 2,
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "C10",
+    "unitType": "Civilian",
+    "uniques": [
+      "Unbuildable",
+      "Uncapturable",
+      "Never appears as a Barbarian unit",
+      "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+      "Is part of Great Person group [Economic]",
+      "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+      "Great Person - [Culture]"
+    ],
+    "movement": 2,
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "C11",
+    "unitType": "Civilian",
+    "uniques": [
+      "Unbuildable",
+      "Uncapturable",
+      "Never appears as a Barbarian unit",
+      "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+      "Is part of Great Person group [General]",
+      "Can be earned through combat <for [Land] units>",
+      "[+15]% Strength bonus for [{Land} {Military}] units within [2] tiles",
+      "Cannot be purchased",
+      "Great Person - [War]"
+    ],
+    "movement": 2,
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "H01",
+    "unitType": "Hero-01",
+    "strength": 24,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VI]>",
+      "[+1] Sight",
+      "[+10]% Strength bonus for [{Land} {Military}] units within [2] tiles",
+      "英雄近战 <hidden from users>",
+      "Hero <hidden from users>"
+    ],
+    "promotions": [],
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "H02",
+    "unitType": "Hero-02",
+    "strength": 15,
+    "rangedStrength": 27,
+    "range": 2,
+    "movement": 2,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs",
+      "No defensive terrain bonus",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VI]>",
+      "[+1] Sight",
+      "[+15]% Strength <vs [重步兵] units>",
+      "[+15]% Strength <vs [重骑] units>",
+      "[+15]% Strength <vs [构装] units>",
+      "Earn [50]% of killed [Military] unit's [Strength] as [Science]",
+      "[-25]% Strength <when attacking> <vs cities>",
+      "英雄施法 <hidden from users>",
+      "Hero <hidden from users>"
+    ],
+    "promotions": [],
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "H03",
+    "unitType": "Hero-03",
+    "strength": 20,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VI]>",
+      "Double movement in [Forest]",
+      "[+20]% Strength <when fighting in [Forest] tiles>",
+      "[+5] HP when healing",
+      "All adjacent units heal [5] HP when healing",
+      "[This Unit] gains the [P110] promotion <upon turn start> <for units with [P41]> <for units without [P110]> <hidden from users>",
+      "[This Unit] loses the [P41] promotion <upon turn start> <for units with [P41]> <for units with [P110]> <hidden from users>",
+      "[This Unit] gains the [P111] promotion <upon turn start> <for units with [P42]> <for units without [P111]> <hidden from users>",
+      "[This Unit] loses the [P42] promotion <upon turn start> <for units with [P42]> <for units with [P111]> <hidden from users>",
+      "英雄近战 <hidden from users>",
+      "Hero <hidden from users>"
+    ],
+    "promotions": [],
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "H04",
+    "unitType": "Hero-04",
+    "strength": 52,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 4,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+100]% maintenance costs",
+      "[+1] Sight",
+      "Ignores terrain cost",
+      "May travel on Water tiles without embarking",
+      "No defensive terrain bonus",
+      "[-25]% Strength <when attacking> <vs cities>",
+      "英雄生物 <hidden from users>",
+      "Hero <hidden from users>"
+    ],
+    "promotions": [],
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "H05",
+    "unitType": "Hero-05",
+    "strength": 10,
+    "rangedStrength": 16,
+    "range": 1,
+    "movement": 3,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs",
+      "No defensive terrain bonus",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VI]>",
+      "All adjacent units heal [10] HP when healing",
+      "[-50]% Strength <when attacking> <vs cities>",
+      "英雄施法 <hidden from users>",
+      "Hero <hidden from users>",
+      "P71 <hidden from users>"
+    ],
+    "promotions": [],
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "H06",
+    "unitType": "Hero-06",
+    "strength": 22,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+75]% maintenance costs",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VI]>",
+      "Invisible to non-adjacent units",
+      "No defensive terrain bonus",
+      "Earn [25]% of killed [Military] unit's [Strength] as [Culture]",
+      "[-25]% Strength <when attacking> <vs cities>",
+      "英雄幽魂 <hidden from users>",
+      "Hero <hidden from users>",
+      "P71 <hidden from users>"
+    ],
+    "promotions": [],
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "H07",
+    "unitType": "Hero-07",
+    "strength": 12,
+    "rangedStrength": 26,
+    "range": 2,
+    "movement": 2,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+75]% maintenance costs",
+      "No defensive terrain bonus",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VI]>",
+      "Must set up to ranged attack",
+      "[+25]% Strength <vs [构装] units>",
+      "[+25]% Strength <vs [元素] units>",
+      "[-50]% Strength <when attacking> <vs cities>",
+      "英雄施法 <hidden from users>",
+      "Hero <hidden from users>",
+      "P71 <hidden from users>",
+      "Consumes [1] [R03]"
+    ],
+    "promotions": [],
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "H08",
+    "unitType": "Hero-08",
+    "strength": 13,
+    "rangedStrength": 22,
+    "range": 2,
+    "movement": 2,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs",
+      "No defensive terrain bonus",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VI]>",
+      "[+1] Sight",
+      "Can see invisible [幽魂] units",
+      "Can see invisible [英雄幽魂] units",
+      "Ignores Zone of Control",
+      "[+15]% Strength <when adjacent to a [长柄] unit>",
+      "[-50]% Strength <when attacking> <vs cities>",
+      "英雄施法 <hidden from users>",
+      "Hero <hidden from users>",
+      "P71 <hidden from users>"
+    ],
+    "promotions": [],
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "H09",
+    "unitType": "Hero-09",
+    "strength": 24,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 5,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VI]>",
+      "[+1] Sight",
+      "May heal outside of friendly territory",
+      "[+5] HP when healing",
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "英雄海军 <hidden from users>",
+      "Hero <hidden from users>",
+      "P71 <hidden from users>"
+    ],
+    "promotions": [],
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "H10",
+    "unitType": "Hero-10",
+    "strength": 22,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VI]>",
+      "[+25]% Strength <vs [死灵] units>",
+      "[+25]% Strength <vs [幽魂] units>",
+      "[+25]% Strength <vs [英雄幽魂] units>",
+      "Earn [35]% of killed [Military] unit's [Strength] as [Faith]",
+      "[-25]% Strength <when attacking> <vs cities>",
+      "英雄近战 <hidden from users>",
+      "Hero <hidden from users>",
+      "P71 <hidden from users>"
+    ],
+    "promotions": [],
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "H11",
+    "unitType": "Hero-11",
+    "strength": 28,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+75]% maintenance costs",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VI]>",
+      "Can build [Fort] improvements on tiles",
+      "Can build [Repair] improvements on tiles",
+      "[+10] HP when healing",
+      "No defensive terrain bonus",
+      "[-25]% Strength <when attacking> <vs cities>",
+      "英雄近战 <hidden from users>",
+      "Hero <hidden from users>",
+      "P71 <hidden from users>",
+      "Consumes [1] [R02]",
+      "Consumes [1] [R03]"
+    ],
+    "promotions": [],
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "H12",
+    "unitType": "Hero-12",
+    "strength": 22,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VI]>",
+      "[+15]% Strength <when defending> <in [Friendly Land] tiles>",
+      "Earn [50]% of killed [Military] unit's [Strength] as [Gold]",
+      "[-50]% Strength <when attacking> <vs cities>",
+      "英雄近战 <hidden from users>",
+      "Hero <hidden from users>",
+      "P71 <hidden from users>"
+    ],
+    "promotions": [],
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "C12",
+    "unitType": "Civilian",
+    "movement": 3,
+    "cost": 180,
+    "uniques": [
+      "Founds a new city <by consuming this unit>",
+      "Requires at least [2] population",
+      "Excess Food converted to Production when under construction",
+      "Unbuildable <for [City-States] Civilizations>",
+      "Uncapturable",
+      "May travel on Water tiles without embarking",
+      "Only available <in [Coastal] cities>",
+      "FC Reef near city <within [3] tiles of a [City center]> <hidden from users>",
+      "Turn this tile into a [Reef Island] tile <in [{Coast} {Featureless} {Unowned} {unimproved} {non-[pillaged]} {non-[resource]} {non-[Natural Wonder]}] tiles> <for [non-[FC Reef near city]] units> <for [N04] Civilizations> <for [0] movement> <[1] times> <hidden from users>",
+      "Comment [FC Reef foundation]",
+      "Never appears as a Barbarian unit"
+    ],
+    "hurryCostModifier": 20,
+    "uniqueTo": "N04",
+    "requiredTech": "D01-T19",
+    "civilopediaText": [
+      {
+        "text": "FC Reef workflow"
+      },
+      {
+        "text": "D01-T19",
+        "link": "Technology/D01-T19"
+      },
+      {
+        "text": "Reef Island",
+        "link": "Terrain/Reef Island"
+      }
+    ],
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "S01",
+    "unitType": "Civilian",
+    "strength": 0,
+    "movement": 2,
+    "cost": 900,
+    "requiredTech": "D01-T94",
+    "uniques": [
+      "Spaceship part",
+      "Can be added to [Origin Apparatus] in the Capital",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "Only available <if [J01] is constructed> <when [Scientific] Victory is enabled>"
+    ],
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "S02",
+    "unitType": "Civilian",
+    "strength": 0,
+    "movement": 2,
+    "cost": 1100,
+    "requiredTech": "D01-T86",
+    "uniques": [
+      "Spaceship part",
+      "Can be added to [Origin Apparatus] in the Capital",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "Only available <if [J01] is constructed> <when [Scientific] Victory is enabled>"
+    ],
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "S03",
+    "unitType": "Civilian",
+    "strength": 0,
+    "movement": 2,
+    "cost": 1100,
+    "requiredTech": "D01-T91",
+    "uniques": [
+      "Spaceship part",
+      "Can be added to [Origin Apparatus] in the Capital",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "Only available <if [J01] is constructed> <when [Scientific] Victory is enabled>"
+    ],
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "S04",
+    "unitType": "Civilian",
+    "strength": 0,
+    "movement": 2,
+    "cost": 1100,
+    "requiredTech": "D01-T89",
+    "uniques": [
+      "Spaceship part",
+      "Can be added to [Origin Apparatus] in the Capital",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "Only available <if [J01] is constructed> <when [Scientific] Victory is enabled>"
+    ],
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "M01",
+    "unitType": "野兽",
+    "strength": 7,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 40,
+    "uniques": [
+      "Only available <for [Barbarians] Civilizations>",
+      "No defensive terrain bonus"
+    ],
+    "obsoleteTech": "D01-T08"
+  },
+  {
+    "name": "M02",
+    "unitType": "步兵",
+    "strength": 12,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 65,
+    "uniques": [
+      "Only available <for [Barbarians] Civilizations>"
+    ],
+    "requiredTech": "D01-T08",
+    "obsoleteTech": "D01-T15"
+  },
+  {
+    "name": "M03",
+    "unitType": "射手",
+    "strength": 6,
+    "rangedStrength": 12,
+    "range": 2,
+    "movement": 2,
+    "cost": 70,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Only available <for [Barbarians] Civilizations>"
+    ],
+    "requiredTech": "D01-T10",
+    "obsoleteTech": "D01-T22"
+  },
+  {
+    "name": "M04",
+    "unitType": "野兽",
+    "strength": 20,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 140,
+    "uniques": [
+      "Only available <for [Barbarians] Civilizations>",
+      "No defensive terrain bonus",
+      "[-25]% Strength <when attacking> <vs cities>"
+    ],
+    "requiredTech": "D01-T15",
+    "obsoleteTech": "D01-T29"
+  },
+  {
+    "name": "M05",
+    "unitType": "步兵",
+    "strength": 28,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 1,
+    "cost": 190,
+    "uniques": [
+      "[+20]% Strength <when fighting in [Forest] tiles>",
+      "Only available <for [Barbarians] Civilizations>"
+    ],
+    "requiredTech": "D01-T25",
+    "obsoleteTech": "D01-T36"
+  },
+  {
+    "name": "M06",
+    "unitType": "构装",
+    "strength": 33,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 230,
+    "uniques": [
+      "No defensive terrain bonus",
+      "[+10]% Strength <when defending>",
+      "Only available <for [Barbarians] Civilizations>"
+    ],
+    "requiredTech": "D01-T29"
+  },
+  {
+    "name": "M07",
+    "unitType": "元素",
+    "strength": 31,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 225,
+    "uniques": [
+      "Only available <for [Barbarians] Civilizations>",
+      "No defensive terrain bonus",
+      "[+15]% Strength <when attacking>"
+    ],
+    "requiredTech": "D01-T29"
+  },
+  {
+    "name": "M08",
+    "unitType": "海近战",
+    "strength": 12,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 65,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Only available <for [Barbarians] Civilizations>"
+    ],
+    "requiredTech": "D01-T07",
+    "obsoleteTech": "D01-T32"
+  },
+  {
+    "name": "M09",
+    "unitType": "海近战",
+    "strength": 34,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 4,
+    "cost": 220,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Only available <for [Barbarians] Civilizations>"
+    ],
+    "requiredTech": "D01-T32"
+  },
+  {
+    "name": "M10",
+    "unitType": "幽魂",
+    "strength": 19,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 170,
+    "uniques": [
+      "Ignores terrain cost",
+      "Invisible to non-adjacent units",
+      "No defensive terrain bonus",
+      "[-35]% Strength <when attacking> <vs cities>",
+      "[+5] HP when healing",
+      "Only available <for [Barbarians] Civilizations>"
+    ],
+    "requiredTech": "D01-T25",
+    "obsoleteTech": "D01-T36"
+  },
+  {
+    "name": "M11",
+    "unitType": "幽魂",
+    "strength": 30,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 280,
+    "uniques": [
+      "Ignores terrain cost",
+      "Invisible to non-adjacent units",
+      "No defensive terrain bonus",
+      "[-35]% Strength <when attacking> <vs cities>",
+      "[+5] HP when healing",
+      "Only available <for [Barbarians] Civilizations>"
+    ],
+    "requiredTech": "D01-T36"
+  },
+  {
+    "name": "M12",
+    "unitType": "元素",
+    "strength": 10,
+    "rangedStrength": 22,
+    "range": 2,
+    "movement": 2,
+    "cost": 150,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Only available <for [Barbarians] Civilizations>"
+    ],
+    "requiredTech": "D01-T22"
+  },
+  {
+    "name": "M13",
+    "unitType": "海远程",
+    "strength": 9,
+    "rangedStrength": 24,
+    "range": 2,
+    "movement": 2,
+    "cost": 190,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Only available <for [Barbarians] Civilizations>"
+    ],
+    "requiredTech": "D01-T32"
+  }
+]

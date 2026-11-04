@@ -1,0 +1,1885 @@
+[
+  {
+    "name": "B01",
+    "cost": 60,
+    "maintenance": 1,
+    "requiredTech": "D01-T01",
+    "uniques": [
+      "[+1 Food] from [R05] tiles [in this city]"
+    ],
+    "food": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B02",
+    "cost": 70,
+    "maintenance": 1,
+    "requiredTech": "D01-T06",
+    "uniques": [],
+    "production": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B03",
+    "cost": 75,
+    "maintenance": 1,
+    "requiredTech": "D01-T05",
+    "uniques": [],
+    "science": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B04",
+    "cost": 40,
+    "maintenance": 1,
+    "uniques": [],
+    "culture": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B05",
+    "cost": 50,
+    "maintenance": 1,
+    "requiredTech": "D01-T04",
+    "uniques": [],
+    "faith": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B06",
+    "cost": 90,
+    "maintenance": 1,
+    "requiredTech": "D01-T08",
+    "uniques": [
+      "[+1 Production] from [R02] tiles [in this city]",
+      "Only available <in cities with a [B02]>"
+    ],
+    "production": 1,
+    "specialistSlots": {
+      "Engineer": 1
+    }
+  },
+  {
+    "name": "B07",
+    "cost": 80,
+    "maintenance": 1,
+    "requiredTech": "D01-T44",
+    "uniques": [
+      "New [{Land} {Military} {non-[术士]} {non-[医护]} {non-[死灵]} {non-[幽魂]}] units start with [+15] XP [in this city]"
+    ],
+    "specialistSlots": {}
+  },
+  {
+    "name": "B08",
+    "cost": 75,
+    "maintenance": 0,
+    "requiredTech": "D01-T11",
+    "uniques": [],
+    "specialistSlots": {},
+    "cityStrength": 5,
+    "cityHealth": 50
+  },
+  {
+    "name": "B09",
+    "cost": 85,
+    "maintenance": 1,
+    "requiredTech": "D01-T09",
+    "uniques": [
+      "[+1 Production] from [R01] tiles [in this city]",
+      "[+1 Food] from [R06] tiles [in this city]"
+    ],
+    "specialistSlots": {}
+  },
+  {
+    "name": "B10",
+    "cost": 100,
+    "maintenance": 1,
+    "requiredTech": "D01-T13",
+    "uniques": [
+      "[+1 Production] from [Fishing Boats] tiles [in this city]",
+      "Connects trade routes over water",
+      "Must be next to [Coast]"
+    ],
+    "production": 1,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B11",
+    "cost": 90,
+    "maintenance": 0,
+    "requiredTech": "D01-T14",
+    "uniques": [
+      "[+15]% [Gold] [in this city]"
+    ],
+    "gold": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B12",
+    "cost": 130,
+    "maintenance": 2,
+    "requiredTech": "D01-T17",
+    "uniques": [
+      "Only available <in cities with a [B03]>"
+    ],
+    "science": 3,
+    "specialistSlots": {
+      "Scientist": 1
+    }
+  },
+  {
+    "name": "B13",
+    "cost": 125,
+    "maintenance": 1,
+    "requiredTech": "D01-T63",
+    "uniques": [
+      "[+1 Culture] from [R31] tiles [in this city]",
+      "Only available <in cities with a [B04]>"
+    ],
+    "culture": 3,
+    "specialistSlots": {
+      "Artist": 1
+    }
+  },
+  {
+    "name": "B14",
+    "cost": 135,
+    "maintenance": 2,
+    "requiredTech": "D01-T17",
+    "uniques": [
+      "New [术士] units start with [+15] XP [in this city]",
+      "New [医护] units start with [+15] XP [in this city]",
+      "New [死灵] units start with [+15] XP [in this city]",
+      "New [幽魂] units start with [+15] XP [in this city]",
+      "Only available <in cities with a [B03]>"
+    ],
+    "science": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B15",
+    "cost": 110,
+    "maintenance": 1,
+    "requiredTech": "D01-T62",
+    "uniques": [
+      "Only available <in cities with a [B05]>"
+    ],
+    "faith": 3,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B16",
+    "cost": 135,
+    "maintenance": 2,
+    "requiredTech": "D01-T20",
+    "uniques": [
+      "[+15]% Production when constructing [{Water} {Military}] units [in this city]",
+      "Only available <in cities with a [B10]>",
+      "Must be next to [Coast]"
+    ],
+    "production": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B17",
+    "cost": 140,
+    "maintenance": 2,
+    "requiredTech": "D01-T21",
+    "uniques": [
+      "Only available <in cities with a [B11]>"
+    ],
+    "gold": 2,
+    "production": 1,
+    "specialistSlots": {
+      "Merchant": 1
+    }
+  },
+  {
+    "name": "B19",
+    "cost": 180,
+    "maintenance": 2,
+    "requiredTech": "D01-T60",
+    "uniques": [
+      "New [{Land} {Military}] units start with [+15] XP [in this city]",
+      "Only available <in cities with a [B07]>"
+    ],
+    "specialistSlots": {}
+  },
+  {
+    "name": "B21",
+    "cost": 180,
+    "maintenance": 2,
+    "requiredTech": "D01-T25",
+    "uniques": [],
+    "gold": 2,
+    "culture": 2,
+    "happiness": 1,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B22",
+    "cost": 185,
+    "maintenance": 2,
+    "requiredTech": "D01-T21",
+    "uniques": [
+      "[+20]% [Gold] [in this city]",
+      "Only available <in cities with a [B11]>"
+    ],
+    "gold": 3,
+    "specialistSlots": {
+      "Merchant": 1
+    }
+  },
+  {
+    "name": "B23",
+    "cost": 200,
+    "maintenance": 3,
+    "requiredTech": "D01-T26",
+    "uniques": [
+      "[+25]% [Science] [in this city]",
+      "Only available <in cities with a [B12]>"
+    ],
+    "specialistSlots": {
+      "Scientist": 1
+    }
+  },
+  {
+    "name": "B24",
+    "cost": 170,
+    "maintenance": 2,
+    "requiredTech": "D01-T111",
+    "uniques": [
+      "[+1 Production] from [Forest] tiles [in this city]",
+      "Only available <in cities with a [B01]>"
+    ],
+    "food": 1,
+    "faith": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B25",
+    "cost": 260,
+    "maintenance": 3,
+    "requiredTech": "D01-T28",
+    "uniques": [
+      "[+1 Production] from [R02] tiles [in this city]",
+      "[+1 Production] from [R04] tiles [in this city]",
+      "Only available <in cities with a [B06]>",
+      "Must have an owned [Mine] within [3] tiles"
+    ],
+    "production": 3,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B26",
+    "cost": 280,
+    "maintenance": 3,
+    "requiredTech": "D01-T29",
+    "uniques": [
+      "[+15]% [Production] [in this city]",
+      "Only available <in cities with a [B02]>"
+    ],
+    "specialistSlots": {
+      "Engineer": 1
+    }
+  },
+  {
+    "name": "B27",
+    "cost": 300,
+    "maintenance": 4,
+    "requiredTech": "D01-T30",
+    "uniques": [
+      "[+15]% [Science] [in this city]",
+      "Only available <in cities with a [B14]>",
+      "Requires at least [8] population"
+    ],
+    "science": 4,
+    "specialistSlots": {
+      "Scientist": 1
+    }
+  },
+  {
+    "name": "B28",
+    "cost": 270,
+    "maintenance": 2,
+    "requiredTech": "D01-T83",
+    "uniques": [
+      "[All] Units adjacent to this city heal [5] HP per turn when healing",
+      "Only available <in cities with a [B01]>"
+    ],
+    "food": 3,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B29",
+    "cost": 280,
+    "maintenance": 3,
+    "requiredTech": "D01-T32",
+    "uniques": [
+      "[+15]% Production when constructing [{Water} {Military}] units [in this city]",
+      "Only available <in cities with a [B16]>",
+      "Must be next to [Coast]"
+    ],
+    "production": 3,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B30",
+    "cost": 280,
+    "maintenance": 3,
+    "requiredTech": "D01-T33",
+    "uniques": [
+      "New [{Land} {Military}] units start with [+15] XP [in this city]",
+      "Only available <in cities with a [B19]>"
+    ],
+    "specialistSlots": {}
+  },
+  {
+    "name": "B31",
+    "cost": 380,
+    "maintenance": 4,
+    "requiredTech": "D01-T87",
+    "uniques": [
+      "[+15]% [Science] [in this city]",
+      "Only available <in cities with a [B23]>"
+    ],
+    "science": 6,
+    "specialistSlots": {
+      "Scientist": 1
+    }
+  },
+  {
+    "name": "B32",
+    "cost": 320,
+    "maintenance": 3,
+    "requiredTech": "D01-T84",
+    "uniques": [
+      "[+15]% [Culture] [in this city]",
+      "Only available <in cities with a [B13]>"
+    ],
+    "culture": 4,
+    "specialistSlots": {
+      "Artist": 1
+    }
+  },
+  {
+    "name": "B33",
+    "cost": 360,
+    "maintenance": 3,
+    "requiredTech": "D01-T90",
+    "uniques": [
+      "Only available <in cities with a [B01]>",
+      "Requires at least [9] population"
+    ],
+    "food": 5,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B35",
+    "cost": 400,
+    "maintenance": 4,
+    "requiredTech": "D01-T36",
+    "uniques": [
+      "Only available <in cities with a [B26]>"
+    ],
+    "production": 5,
+    "specialistSlots": {
+      "Engineer": 1
+    }
+  },
+  {
+    "name": "B36",
+    "cost": 420,
+    "maintenance": 4,
+    "requiredTech": "D01-T37",
+    "uniques": [
+      "[+10]% [Science] [in this city]",
+      "Only available <in cities with a [B27]>"
+    ],
+    "science": 3,
+    "faith": 3,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B41",
+    "cost": 65,
+    "maintenance": 1,
+    "requiredTech": "D01-T41",
+    "uniques": [],
+    "culture": 1,
+    "happiness": 1,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B44",
+    "cost": 140,
+    "maintenance": 3,
+    "requiredTech": "D01-T50",
+    "uniques": [
+      "Removes extra unhappiness from annexed cities",
+      "Only available <in [Annexed] cities>"
+    ],
+    "specialistSlots": {}
+  },
+  {
+    "name": "B45",
+    "cost": 100,
+    "maintenance": 1,
+    "requiredTech": "D01-T13",
+    "uniques": [
+      "[+1 Food] from [Coast] tiles [in this city]",
+      "Must be next to [Coast]"
+    ],
+    "specialistSlots": {}
+  },
+  {
+    "name": "B47",
+    "cost": 110,
+    "maintenance": 1,
+    "requiredTech": "D01-T39",
+    "uniques": [
+      "[+15]% Great Person generation [in this city]",
+      "Must be next to [River]"
+    ],
+    "food": 1,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B49",
+    "cost": 145,
+    "maintenance": 2,
+    "requiredTech": "D01-T57",
+    "uniques": [
+      "Only available <in cities with a [B03]>"
+    ],
+    "science": 3,
+    "culture": 1,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B51",
+    "cost": 150,
+    "maintenance": 1,
+    "requiredTech": "D01-T39",
+    "uniques": [
+      "Only available <in cities with a [B01]>"
+    ],
+    "food": 3,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B52",
+    "cost": 160,
+    "maintenance": 2,
+    "requiredTech": "D01-T53",
+    "uniques": [
+      "All newly-trained [侦察] units [in this city] receive the [P47] promotion <Civilopedia link [Promotion/P47]>",
+      "Only available <in cities with a [B03]>"
+    ],
+    "science": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B53",
+    "cost": 200,
+    "maintenance": 2,
+    "requiredTech": "D01-T66",
+    "uniques": [
+      "Only available <in cities with a [B41]>"
+    ],
+    "culture": 2,
+    "happiness": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B54",
+    "cost": 210,
+    "maintenance": 2,
+    "requiredTech": "D01-T67",
+    "uniques": [
+      "[+25]% [Science] [in this city]",
+      "Only available <in cities with a [B03]>",
+      "Must be next to [Mountain]"
+    ],
+    "science": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B55",
+    "cost": 190,
+    "maintenance": 2,
+    "requiredTech": "D01-T19",
+    "uniques": [
+      "All newly-trained [{Water} {Military}] units [in this city] receive the [P36] promotion <Civilopedia link [Promotion/P36]>",
+      "Only available <in cities with a [B10]>",
+      "Must be next to [Coast]"
+    ],
+    "food": 2,
+    "production": 1,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B57",
+    "cost": 200,
+    "maintenance": 1,
+    "requiredTech": "D01-T71",
+    "uniques": [
+      "Only available <in cities with a [B08]>"
+    ],
+    "specialistSlots": {},
+    "cityStrength": 8,
+    "cityHealth": 50
+  },
+  {
+    "name": "B59",
+    "cost": 300,
+    "maintenance": 3,
+    "requiredTech": "D01-T29",
+    "uniques": [
+      "[+15]% Production when constructing [All] buildings [in this city]",
+      "Only available <in cities with a [B02]>",
+      "Must be next to [River]"
+    ],
+    "production": 4,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B60",
+    "cost": 290,
+    "maintenance": 3,
+    "requiredTech": "D01-T79",
+    "uniques": [
+      "Only available <in cities with a [B13]>"
+    ],
+    "science": 2,
+    "culture": 4,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B61",
+    "cost": 300,
+    "maintenance": 3,
+    "requiredTech": "D01-T80",
+    "uniques": [
+      "[+1 Science] from [Forest] tiles [in this city]",
+      "Only available <in cities with a [B28]>",
+      "Must have an owned [Forest] within [3] tiles"
+    ],
+    "food": 2,
+    "science": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B62",
+    "cost": 310,
+    "maintenance": 3,
+    "requiredTech": "D01-T81",
+    "uniques": [
+      "[+15]% [Gold] [in this city]",
+      "Only available <in cities with a [B22]>"
+    ],
+    "gold": 3,
+    "specialistSlots": {
+      "Merchant": 1
+    }
+  },
+  {
+    "name": "B63",
+    "cost": 290,
+    "maintenance": 2,
+    "requiredTech": "D01-T33",
+    "uniques": [
+      "All newly-trained [{Land} {Military}] units [in this city] receive the [P31] promotion <Civilopedia link [Promotion/P31]>",
+      "Only available <in cities with a [B07]>",
+      "Must be next to [Coast]"
+    ],
+    "specialistSlots": {}
+  },
+  {
+    "name": "B64",
+    "cost": 280,
+    "maintenance": 2,
+    "requiredTech": "D01-T85",
+    "uniques": [
+      "[2] Unit Supply",
+      "Only available <in cities with a [B07]>"
+    ],
+    "production": 1,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B66",
+    "cost": 450,
+    "maintenance": 4,
+    "requiredTech": "D01-T87",
+    "uniques": [
+      "[+10]% [Culture] [in this city]",
+      "Only available <in cities with a [B32]>"
+    ],
+    "culture": 6,
+    "science": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B67",
+    "cost": 320,
+    "maintenance": 3,
+    "requiredTech": "D01-T89",
+    "uniques": [
+      "[+25]% Production when constructing [攻城] units [in this city]",
+      "[+25]% Production when constructing [构装] units [in this city]",
+      "Only available <in cities with a [B26]>"
+    ],
+    "production": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B68",
+    "cost": 330,
+    "maintenance": 3,
+    "requiredTech": "D01-T90",
+    "uniques": [
+      "Only available <in cities with a [B53]>",
+      "Requires at least [9] population"
+    ],
+    "culture": 3,
+    "happiness": 3,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B69",
+    "cost": 460,
+    "maintenance": 4,
+    "requiredTech": "D01-T93",
+    "uniques": [
+      "Only available <in cities with a [B60]>"
+    ],
+    "culture": 4,
+    "science": 2,
+    "faith": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B76",
+    "cost": 220,
+    "maintenance": 3,
+    "requiredTech": "D01-T114",
+    "uniques": [
+      "All newly-trained [术士] units [in this city] receive the [P33] promotion <Civilopedia link [Promotion/P33]>",
+      "All newly-trained [死灵] units [in this city] receive the [P33] promotion <Civilopedia link [Promotion/P33]>",
+      "Unsellable",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [B14]>",
+      "Only available <in cities without a [B77]>",
+      "Only available <in cities without a [B81]>",
+      "Only available <in cities without a [B82]>"
+    ],
+    "science": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B77",
+    "cost": 220,
+    "maintenance": 2,
+    "requiredTech": "D01-T112",
+    "uniques": [
+      "All newly-trained [医护] units [in this city] receive the [P34] promotion <Civilopedia link [Promotion/P34]>",
+      "Unsellable",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [B24]>",
+      "Only available <in cities without a [B76]>",
+      "Only available <in cities without a [B81]>",
+      "Only available <in cities without a [B82]>"
+    ],
+    "faith": 2,
+    "happiness": 1,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B78",
+    "cost": 230,
+    "maintenance": 2,
+    "requiredTech": "D01-T27",
+    "uniques": [
+      "[+1 Culture] from [Forest] tiles [in this city]",
+      "Only available <in cities with a [B24]>",
+      "Must have an owned [Forest] within [3] tiles"
+    ],
+    "food": 1,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B80",
+    "cost": 400,
+    "maintenance": 3,
+    "requiredTech": "D01-T91",
+    "uniques": [
+      "All newly-trained [构装] units [in this city] receive the [P47] promotion <Civilopedia link [Promotion/P47]>",
+      "Only available <in cities with a [B14]>",
+      "Consumes [1] [R03]"
+    ],
+    "science": 2,
+    "faith": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B81",
+    "cost": 220,
+    "maintenance": 2,
+    "requiredTech": "D01-T113",
+    "uniques": [
+      "[+1 Gold] from every [Artist]",
+      "New [死灵] units start with [+10] XP [in this city]",
+      "New [幽魂] units start with [+10] XP [in this city]",
+      "Unsellable",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [B13]>",
+      "Only available <in cities without a [B76]>",
+      "Only available <in cities without a [B77]>",
+      "Only available <in cities without a [B82]>"
+    ],
+    "culture": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B82",
+    "cost": 220,
+    "maintenance": 3,
+    "requiredTech": "D01-T64",
+    "uniques": [
+      "[+1 Science] from every specialist [in this city]",
+      "Unsellable",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [B52]>",
+      "Only available <in cities without a [B76]>",
+      "Only available <in cities without a [B77]>",
+      "Only available <in cities without a [B81]>"
+    ],
+    "science": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B83",
+    "cost": 55,
+    "maintenance": 1,
+    "requiredTech": "D01-T53",
+    "uniques": [
+      "New [术士] units start with [+5] XP [in this city]",
+      "New [医护] units start with [+5] XP [in this city]",
+      "New [死灵] units start with [+5] XP [in this city]",
+      "New [幽魂] units start with [+5] XP [in this city]"
+    ],
+    "science": 1,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B84",
+    "cost": 85,
+    "maintenance": 1,
+    "requiredTech": "D01-T110",
+    "uniques": [],
+    "science": 1,
+    "production": 1,
+    "specialistSlots": {}
+  },
+  {
+    "name": "XB01",
+    "cost": 170,
+    "maintenance": 2,
+    "requiredTech": "D01-T25",
+    "uniques": [
+      "[+2 Production] [in this city] <in cities connected to the capital>"
+    ],
+    "gold": 2,
+    "culture": 3,
+    "happiness": 1,
+    "specialistSlots": {},
+    "uniqueTo": "N01",
+    "replaces": "B21"
+  },
+  {
+    "name": "XB02",
+    "cost": 170,
+    "maintenance": 2,
+    "requiredTech": "D01-T60",
+    "uniques": [
+      "New [{Land} {Military}] units start with [+15] XP [in this city]",
+      "[+15]% Production when constructing [步兵] units [in this city]",
+      "[+15]% Production when constructing [重步兵] units [in this city]",
+      "Only available <in cities with a [B07]>"
+    ],
+    "specialistSlots": {},
+    "uniqueTo": "N01",
+    "replaces": "B19"
+  },
+  {
+    "name": "XB03",
+    "cost": 135,
+    "maintenance": 1,
+    "requiredTech": "D01-T21",
+    "uniques": [
+      "Only available <in cities with a [B11]>"
+    ],
+    "gold": 3,
+    "production": 1,
+    "specialistSlots": {
+      "Merchant": 1
+    },
+    "uniqueTo": "N02",
+    "replaces": "B17"
+  },
+  {
+    "name": "XB04",
+    "cost": 190,
+    "maintenance": 2,
+    "requiredTech": "D01-T21",
+    "uniques": [
+      "[+20]% [Gold] [in this city]",
+      "[+1 Gold] from [Fishing Boats] tiles [in this city]",
+      "Only available <in cities with a [B11]>"
+    ],
+    "gold": 4,
+    "specialistSlots": {
+      "Merchant": 1
+    },
+    "uniqueTo": "N02",
+    "replaces": "B22"
+  },
+  {
+    "name": "XB05",
+    "cost": 170,
+    "maintenance": 1,
+    "requiredTech": "D01-T111",
+    "uniques": [
+      "[+1 Production] from [Forest] tiles [in this city]",
+      "Only available <in cities with a [B01]>"
+    ],
+    "food": 1,
+    "faith": 3,
+    "specialistSlots": {},
+    "uniqueTo": "N03",
+    "replaces": "B24"
+  },
+  {
+    "name": "XB06",
+    "cost": 125,
+    "maintenance": 2,
+    "requiredTech": "D01-T17",
+    "uniques": [
+      "Only available <in cities with a [B03]>"
+    ],
+    "science": 3,
+    "culture": 1,
+    "specialistSlots": {
+      "Scientist": 1
+    },
+    "uniqueTo": "N03",
+    "replaces": "B12"
+  },
+  {
+    "name": "XB07",
+    "cost": 100,
+    "maintenance": 1,
+    "requiredTech": "D01-T13",
+    "uniques": [
+      "[+1 Production] from [Fishing Boats] tiles [in this city]",
+      "Connects trade routes over water",
+      "Must be next to [Coast]"
+    ],
+    "food": 1,
+    "production": 1,
+    "specialistSlots": {},
+    "uniqueTo": "N04",
+    "replaces": "B10"
+  },
+  {
+    "name": "XB08",
+    "cost": 270,
+    "maintenance": 2,
+    "requiredTech": "D01-T32",
+    "uniques": [
+      "[+20]% Production when constructing [{Water} {Military}] units [in this city]",
+      "New [{Water} {Military}] units start with [+15] XP [in this city]",
+      "Only available <in cities with a [B16]>",
+      "Must be next to [Coast]"
+    ],
+    "production": 3,
+    "specialistSlots": {},
+    "uniqueTo": "N04",
+    "replaces": "B29"
+  },
+  {
+    "name": "XB09",
+    "cost": 90,
+    "maintenance": 1,
+    "requiredTech": "D01-T08",
+    "uniques": [
+      "[+1 Production] from [R02] tiles [in this city]",
+      "Only available <in cities with a [B02]>"
+    ],
+    "production": 2,
+    "specialistSlots": {
+      "Engineer": 1
+    },
+    "uniqueTo": "N05",
+    "replaces": "B06"
+  },
+  {
+    "name": "XB10",
+    "cost": 180,
+    "maintenance": 1,
+    "requiredTech": "D01-T71",
+    "uniques": [
+      "Only available <in cities with a [B08]>"
+    ],
+    "specialistSlots": {},
+    "cityStrength": 10,
+    "cityHealth": 75,
+    "uniqueTo": "N05",
+    "replaces": "B57"
+  },
+  {
+    "name": "XB11",
+    "cost": 280,
+    "maintenance": 3,
+    "requiredTech": "D01-T29",
+    "uniques": [
+      "[+15]% [Production] [in this city]",
+      "[+1 Science] from every [Engineer]",
+      "Only available <in cities with a [B02]>"
+    ],
+    "specialistSlots": {
+      "Engineer": 1
+    },
+    "uniqueTo": "N06",
+    "replaces": "B26"
+  },
+  {
+    "name": "XB12",
+    "cost": 210,
+    "maintenance": 3,
+    "requiredTech": "D01-T26",
+    "uniques": [
+      "[+25]% [Science] [in this city]",
+      "Only available <in cities with a [B12]>"
+    ],
+    "specialistSlots": {
+      "Scientist": 1,
+      "Engineer": 1
+    },
+    "uniqueTo": "N06",
+    "replaces": "B23"
+  },
+  {
+    "name": "XB13",
+    "cost": 80,
+    "maintenance": 0,
+    "requiredTech": "D01-T09",
+    "uniques": [
+      "[+1 Production] from [R01] tiles [in this city]",
+      "[+1 Production] from [R06] tiles [in this city]"
+    ],
+    "food": 1,
+    "specialistSlots": {},
+    "uniqueTo": "N07",
+    "replaces": "B09"
+  },
+  {
+    "name": "XB14",
+    "cost": 190,
+    "maintenance": 1,
+    "requiredTech": "D01-T66",
+    "uniques": [
+      "New [轻骑] units start with [+10] XP [in this city]",
+      "New [骑射] units start with [+10] XP [in this city]",
+      "Only available <in cities with a [B41]>"
+    ],
+    "culture": 2,
+    "happiness": 2,
+    "specialistSlots": {},
+    "uniqueTo": "N07",
+    "replaces": "B53"
+  },
+  {
+    "name": "XB15",
+    "cost": 80,
+    "maintenance": 1,
+    "requiredTech": "D01-T44",
+    "uniques": [
+      "New [{Land} {Military} {non-[术士]} {non-[医护]} {non-[死灵]} {non-[幽魂]}] units start with [+15] XP [in this city]"
+    ],
+    "production": 1,
+    "specialistSlots": {},
+    "uniqueTo": "N08",
+    "replaces": "B07"
+  },
+  {
+    "name": "XB16",
+    "cost": 130,
+    "maintenance": 2,
+    "requiredTech": "D01-T50",
+    "uniques": [
+      "Removes extra unhappiness from annexed cities",
+      "Only available <in [Annexed] cities>"
+    ],
+    "gold": 2,
+    "specialistSlots": {},
+    "uniqueTo": "N08",
+    "replaces": "B44"
+  },
+  {
+    "name": "XB17",
+    "cost": 75,
+    "maintenance": 1,
+    "requiredTech": "D01-T06",
+    "uniques": [
+      "[+15]% Production when constructing [攻城] units [in this city]"
+    ],
+    "production": 2,
+    "specialistSlots": {},
+    "uniqueTo": "N09",
+    "replaces": "B02"
+  },
+  {
+    "name": "XB18",
+    "cost": 410,
+    "maintenance": 4,
+    "requiredTech": "D01-T36",
+    "uniques": [
+      "[+15]% Production when constructing [构装] units [in this city]",
+      "Only available <in cities with a [B26]>"
+    ],
+    "production": 6,
+    "specialistSlots": {
+      "Engineer": 1
+    },
+    "uniqueTo": "N09",
+    "replaces": "B35"
+  },
+  {
+    "name": "XB19",
+    "cost": 145,
+    "maintenance": 2,
+    "requiredTech": "D01-T21",
+    "uniques": [
+      "Only available <in cities with a [B11]>"
+    ],
+    "gold": 2,
+    "production": 1,
+    "science": 1,
+    "culture": 1,
+    "specialistSlots": {
+      "Merchant": 1
+    },
+    "uniqueTo": "N10",
+    "replaces": "B17"
+  },
+  {
+    "name": "XB20",
+    "cost": 380,
+    "maintenance": 3,
+    "requiredTech": "D01-T87",
+    "uniques": [
+      "[+1 Culture] from every [Scientist]",
+      "Only available <in cities with a [B23]>"
+    ],
+    "science": 5,
+    "culture": 2,
+    "specialistSlots": {
+      "Scientist": 1
+    },
+    "uniqueTo": "N10",
+    "replaces": "B31"
+  },
+  {
+    "name": "XB21",
+    "cost": 80,
+    "maintenance": 1,
+    "requiredTech": "D01-T05",
+    "uniques": [],
+    "science": 3,
+    "specialistSlots": {},
+    "uniqueTo": "N11",
+    "replaces": "B03"
+  },
+  {
+    "name": "XB22",
+    "cost": 310,
+    "maintenance": 3,
+    "requiredTech": "D01-T79",
+    "uniques": [
+      "[+15]% [Science] [in this city]",
+      "Only available <in cities with a [B14]>",
+      "Requires at least [8] population"
+    ],
+    "science": 4,
+    "faith": 2,
+    "specialistSlots": {
+      "Scientist": 1
+    },
+    "uniqueTo": "N11",
+    "replaces": "B27"
+  },
+  {
+    "name": "XB23",
+    "cost": 70,
+    "maintenance": 0,
+    "requiredTech": "D01-T11",
+    "uniques": [],
+    "culture": 1,
+    "specialistSlots": {},
+    "cityStrength": 5,
+    "cityHealth": 50,
+    "uniqueTo": "N12",
+    "replaces": "B08"
+  },
+  {
+    "name": "XB24",
+    "cost": 230,
+    "maintenance": 1,
+    "requiredTech": "D01-T85",
+    "uniques": [
+      "[2] Unit Supply",
+      "Only available <in cities with a [B07]>"
+    ],
+    "production": 1,
+    "culture": 1,
+    "specialistSlots": {},
+    "uniqueTo": "N12",
+    "replaces": "B64"
+  },
+  {
+    "name": "B00",
+    "cost": 0,
+    "gold": 3,
+    "science": 3,
+    "production": 3,
+    "culture": 1,
+    "cityStrength": 2,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Indicates the capital city",
+      "Moves to new capital when capital changes",
+      "[+3 Happiness]",
+      "Unsellable"
+    ]
+  },
+  {
+    "name": "W01",
+    "requiredTech": "D01-T41",
+    "cost": 180,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>"
+    ],
+    "isWonder": true,
+    "faith": 5,
+    "culture": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "W02",
+    "requiredTech": "D01-T39",
+    "cost": 185,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Must be next to [River]"
+    ],
+    "isWonder": true,
+    "food": 6,
+    "culture": 1,
+    "specialistSlots": {}
+  },
+  {
+    "name": "W03",
+    "requiredTech": "D01-T07",
+    "cost": 190,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "[+1] Sight <for [{Water} {Military}] units>",
+      "[+1] Movement <for [{Water} {Military}] units>",
+      "Must be next to [Coast]"
+    ],
+    "isWonder": true,
+    "gold": 2,
+    "culture": 1,
+    "specialistSlots": {}
+  },
+  {
+    "name": "W04",
+    "requiredTech": "D01-T50",
+    "cost": 320,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "New [{Land} {Military}] units start with [+15] XP [in this city]",
+      "[+15]% Production when constructing [{Land} {Military}] units [in this city]",
+      "Only available <in cities with a [B07]>"
+    ],
+    "isWonder": true,
+    "production": 2,
+    "culture": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "W05",
+    "requiredTech": "D01-T09",
+    "cost": 320,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Only available <in cities with a [B02]>"
+    ],
+    "isWonder": true,
+    "production": 4,
+    "culture": 2,
+    "specialistSlots": {},
+    "greatPersonPoints": {
+      "C08": 2
+    }
+  },
+  {
+    "name": "W06",
+    "requiredTech": "D01-T53",
+    "cost": 330,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "[+15]% [Science] [in this city]",
+      "Only available <in cities with a [B03]>",
+      "Must be next to [River]"
+    ],
+    "isWonder": true,
+    "science": 4,
+    "culture": 2,
+    "specialistSlots": {},
+    "greatPersonPoints": {
+      "C07": 2
+    }
+  },
+  {
+    "name": "W07",
+    "requiredTech": "D01-T58",
+    "cost": 500,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Gifts of Gold to City-States generate [+15]% more Influence",
+      "[+1 Gold] from [Water] tiles [in this city]",
+      "Only available <in cities with a [B10]>",
+      "Must be next to [Coast]"
+    ],
+    "isWonder": true,
+    "gold": 5,
+    "culture": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "W08",
+    "requiredTech": "D01-T27",
+    "cost": 480,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Free [H03] appears <when number of [[H03] Units] is equal to [0]>",
+      "Must have an owned [Forest] within [3] tiles"
+    ],
+    "isWonder": true,
+    "culture": 2,
+    "faith": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "W09",
+    "requiredTech": "D01-T60",
+    "cost": 520,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Free [H01] appears <when number of [[H01] Units] is equal to [0]>",
+      "Only available <in cities with a [B07]>"
+    ],
+    "isWonder": true,
+    "culture": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "W10",
+    "requiredTech": "D01-T67",
+    "cost": 750,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Free [H02] appears <when number of [[H02] Units] is equal to [0]>",
+      "Only available <in cities with a [B14]>"
+    ],
+    "isWonder": true,
+    "science": 4,
+    "culture": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "W11",
+    "requiredTech": "D01-T66",
+    "cost": 720,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "[-10]% Culture cost of adopting new Policies",
+      "[+2 Happiness]",
+      "Only available <in cities with a [B41]>"
+    ],
+    "isWonder": true,
+    "culture": 4,
+    "specialistSlots": {}
+  },
+  {
+    "name": "W12",
+    "requiredTech": "D01-T30",
+    "cost": 760,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "[+20]% Production when constructing [构装] units [in all cities]",
+      "Only available <in cities with a [B26]>"
+    ],
+    "isWonder": true,
+    "production": 6,
+    "science": 2,
+    "specialistSlots": {},
+    "greatPersonPoints": {
+      "C08": 1
+    }
+  },
+  {
+    "name": "W13",
+    "requiredTech": "D01-T84",
+    "cost": 1000,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Free Social Policy",
+      "Only available <in cities with a [B13]>"
+    ],
+    "isWonder": true,
+    "culture": 6,
+    "specialistSlots": {},
+    "greatPersonPoints": {
+      "C10": 2
+    }
+  },
+  {
+    "name": "W14",
+    "requiredTech": "D01-T81",
+    "cost": 1000,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "[-15]% Gold cost of upgrading",
+      "Only available <in cities with a [B22]>"
+    ],
+    "isWonder": true,
+    "gold": 8,
+    "specialistSlots": {}
+  },
+  {
+    "name": "W15",
+    "requiredTech": "D01-T80",
+    "cost": 1050,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "[+10]% growth [in all cities]",
+      "Only available <in cities with a [B61]>"
+    ],
+    "isWonder": true,
+    "food": 4,
+    "faith": 4,
+    "specialistSlots": {}
+  },
+  {
+    "name": "W16",
+    "requiredTech": "D01-T86",
+    "cost": 1400,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "[+10]% [Science] [in all cities]",
+      "Only available <in cities with a [B31]>"
+    ],
+    "isWonder": true,
+    "science": 8,
+    "culture": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "W17",
+    "requiredTech": "D01-T93",
+    "cost": 1350,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Free [H04] appears <when number of [[H04] Units] is equal to [0]>",
+      "Only available <in cities with a [B24]>",
+      "Must have an owned [Natural Wonder] within [3] tiles"
+    ],
+    "isWonder": true,
+    "culture": 3,
+    "faith": 3,
+    "specialistSlots": {}
+  },
+  {
+    "name": "W18",
+    "requiredTech": "D01-T92",
+    "cost": 1400,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Triggers voting for the Diplomatic Victory",
+      "[+2 Happiness]",
+      "Only available <in cities with a [B21]>",
+      "Only available <when [Diplomatic] Victory is enabled>"
+    ],
+    "isWonder": true,
+    "culture": 4,
+    "specialistSlots": {}
+  },
+  {
+    "name": "W19",
+    "requiredTech": "D01-T93",
+    "cost": 1300,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Gain a free [Enhancer] belief",
+      "Only available <in cities with a [B69]>",
+      "Only available <when religion is enabled>",
+      "Only available <after enhancing a religion>",
+      "Triggers a global alert upon build start",
+      "Triggers a global alert upon completion"
+    ],
+    "isWonder": true,
+    "culture": 4,
+    "faith": 4,
+    "specialistSlots": {}
+  },
+  {
+    "name": "W20",
+    "requiredTech": "D01-T87",
+    "cost": 1250,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Reveals the entire map",
+      "Free Social Policy",
+      "Only available <in cities with a [B49]>",
+      "Triggers a global alert upon build start",
+      "Triggers a global alert upon completion"
+    ],
+    "isWonder": true,
+    "culture": 6,
+    "science": 4,
+    "specialistSlots": {}
+  },
+  {
+    "name": "W21",
+    "requiredTech": "D01-T94",
+    "cost": 1200,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "[+50]% Production when constructing [S01] units [in all cities]",
+      "[+50]% Production when constructing [S02] units [in all cities]",
+      "[+50]% Production when constructing [S03] units [in all cities]",
+      "[+50]% Production when constructing [S04] units [in all cities]",
+      "Only available <in cities with a [B80]>",
+      "Only available <when [Scientific] Victory is enabled>",
+      "Triggers a global alert upon build start",
+      "Triggers a global alert upon completion"
+    ],
+    "isWonder": true,
+    "science": 4,
+    "specialistSlots": {}
+  },
+  {
+    "name": "K01",
+    "requiredTech": "D01-T17",
+    "cost": 240,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "[+25]% [Science] [in this city]",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [B03]>",
+      "Only available <in cities with a [B12]>",
+      "Requires at least [6] population"
+    ],
+    "isNationalWonder": true,
+    "science": 3,
+    "specialistSlots": {}
+  },
+  {
+    "name": "K02",
+    "requiredTech": "D01-T22",
+    "cost": 320,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "[+10]% Production when constructing [{Land} {Military}] units [in this city]",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [B07]>",
+      "Only available <in cities with a [B19]>"
+    ],
+    "isNationalWonder": true,
+    "production": 3,
+    "specialistSlots": {}
+  },
+  {
+    "name": "K03",
+    "requiredTech": "D01-T21",
+    "cost": 320,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "[+25]% [Gold] [in this city]",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [B11]>",
+      "Only available <in cities with a [B22]>"
+    ],
+    "isNationalWonder": true,
+    "gold": 5,
+    "specialistSlots": {}
+  },
+  {
+    "name": "K04",
+    "requiredTech": "D01-T26",
+    "cost": 450,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "[+20]% Great Person generation [in this city]",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [B13]>",
+      "Only available <in cities with a [B12]>"
+    ],
+    "isNationalWonder": true,
+    "culture": 4,
+    "science": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "K05",
+    "requiredTech": "D01-T30",
+    "cost": 600,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "[+15]% Great Person generation [in this city]",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [B14]>",
+      "Only available <in cities with a [B27]>"
+    ],
+    "isNationalWonder": true,
+    "science": 3,
+    "faith": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "K06",
+    "requiredTech": "D01-T33",
+    "cost": 600,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "[+1] Movement <for [{Water} {Military}] units>",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [B10]>",
+      "Only available <in cities with a [B63]>",
+      "Must be next to [Coast]"
+    ],
+    "isNationalWonder": true,
+    "gold": 4,
+    "production": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "K07",
+    "requiredTech": "D01-T35",
+    "cost": 650,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "[-5]% Unhappiness from [Population] [in all cities]",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [B53]>",
+      "Only available <in cities with a [B21]>"
+    ],
+    "isNationalWonder": true,
+    "culture": 4,
+    "gold": 4,
+    "specialistSlots": {}
+  },
+  {
+    "name": "K08",
+    "requiredTech": "D01-T87",
+    "cost": 650,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [B49]>",
+      "Only available <in cities with a [B23]>"
+    ],
+    "isNationalWonder": true,
+    "science": 6,
+    "culture": 3,
+    "specialistSlots": {}
+  },
+  {
+    "name": "K09",
+    "requiredTech": "D01-T92",
+    "cost": 650,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Gifts of Gold to City-States generate [+10]% more Influence",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [B13]>"
+    ],
+    "isNationalWonder": true,
+    "culture": 4,
+    "gold": 4,
+    "specialistSlots": {}
+  },
+  {
+    "name": "K10",
+    "requiredTech": "D01-T80",
+    "cost": 700,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "[+1 Culture] from [I28] tiles [in all cities]",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [B78]>",
+      "Must have an owned [I28] within [3] tiles"
+    ],
+    "isNationalWonder": true,
+    "culture": 3,
+    "faith": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "J01",
+    "requiredTech": "D01-T94",
+    "cost": 1200,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Enables construction of Spaceship parts",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [B36]>",
+      "Only available <in [Capital] cities>",
+      "Only available <when [Scientific] Victory is enabled>",
+      "Triggers a global alert upon completion"
+    ],
+    "isNationalWonder": true,
+    "specialistSlots": {}
+  },
+  {
+    "name": "J02",
+    "requiredTech": "D01-T96",
+    "cost": 1800,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [B66]>",
+      "Only available <in [Capital] cities>",
+      "Only available <when [Cultural] Victory is enabled>",
+      "Only available <when number of [Completed Policy branches] is more than [4]>",
+      "Triggers a global alert upon build start",
+      "Triggers a global alert upon completion"
+    ],
+    "isNationalWonder": true,
+    "specialistSlots": {}
+  },
+  {
+    "name": "K11",
+    "requiredTech": "D01-T19",
+    "cost": 500,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Free [H09] appears <when number of [[P71] Units] is less than [2]> <when number of [[H09] Units] is equal to [0]>",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [B55]>",
+      "Must be next to [Coast]",
+      "Only available <when number of [[P71] Units] is less than [2]>",
+      "Only available <when number of [[H09] Units] is equal to [0]>"
+    ],
+    "isNationalWonder": true,
+    "culture": 1,
+    "gold": 1,
+    "specialistSlots": {}
+  },
+  {
+    "name": "K12",
+    "requiredTech": "D01-T30",
+    "cost": 600,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Free [H11] appears <when number of [[P71] Units] is less than [2]> <when number of [[H11] Units] is equal to [0]> <with [R02]> <with [R03]>",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [B26]>",
+      "Only available <with [R02]>",
+      "Only available <with [R03]>",
+      "Only available <when number of [[P71] Units] is less than [2]>",
+      "Only available <when number of [[H11] Units] is equal to [0]>"
+    ],
+    "isNationalWonder": true,
+    "production": 2,
+    "science": 1,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B70",
+    "cost": 200,
+    "uniques": [
+      "Unbuildable",
+      "Only available <when religion is enabled>"
+    ],
+    "faith": 2,
+    "culture": 1,
+    "happiness": 1,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B71",
+    "cost": 220,
+    "uniques": [
+      "Unbuildable",
+      "Only available <when religion is enabled>"
+    ],
+    "food": 2,
+    "faith": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B72",
+    "cost": 200,
+    "uniques": [
+      "Unbuildable",
+      "Only available <when religion is enabled>"
+    ],
+    "faith": 2,
+    "culture": 2,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B73",
+    "cost": 220,
+    "uniques": [
+      "Unbuildable",
+      "Only available <when religion is enabled>"
+    ],
+    "production": 2,
+    "faith": 1,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B74",
+    "cost": 200,
+    "uniques": [
+      "Unbuildable",
+      "Only available <when religion is enabled>"
+    ],
+    "gold": 3,
+    "faith": 1,
+    "specialistSlots": {}
+  },
+  {
+    "name": "B75",
+    "cost": 220,
+    "uniques": [
+      "Unbuildable",
+      "Only available <when religion is enabled>"
+    ],
+    "science": 2,
+    "faith": 2,
+    "specialistSlots": {}
+  }
+]

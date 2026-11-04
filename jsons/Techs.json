@@ -1,0 +1,911 @@
+[
+  {
+    "columnNumber": 0,
+    "era": "I",
+    "techCost": 35,
+    "buildingCost": 1,
+    "wonderCost": 1,
+    "techs": [
+      {
+        "name": "D01-T01",
+        "cost": 35,
+        "row": 9,
+        "prerequisites": [],
+        "uniques": []
+      },
+      {
+        "name": "D01-T02",
+        "cost": 35,
+        "row": 4,
+        "prerequisites": [],
+        "uniques": []
+      },
+      {
+        "name": "D01-T04",
+        "cost": 35,
+        "row": 11,
+        "prerequisites": [],
+        "uniques": []
+      },
+      {
+        "name": "D01-T03",
+        "cost": 35,
+        "row": 8,
+        "prerequisites": [],
+        "uniques": []
+      },
+      {
+        "name": "D01-T07",
+        "cost": 35,
+        "row": 1,
+        "prerequisites": [],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 1,
+    "era": "I",
+    "techCost": 55,
+    "buildingCost": 1,
+    "wonderCost": 1,
+    "techs": [
+      {
+        "name": "D01-T05",
+        "cost": 55,
+        "row": 10,
+        "prerequisites": [
+          "D01-T01"
+        ],
+        "uniques": [
+          "Enables establishment of embassies"
+        ]
+      },
+      {
+        "name": "D01-T39",
+        "cost": 55,
+        "row": 9,
+        "prerequisites": [
+          "D01-T01"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T41",
+        "cost": 55,
+        "row": 16,
+        "prerequisites": [
+          "D01-T04"
+        ],
+        "uniques": [
+          "[+1 Culture] from all [B04] buildings"
+        ]
+      },
+      {
+        "name": "D01-T42",
+        "cost": 55,
+        "row": 8,
+        "prerequisites": [
+          "D01-T02"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T06",
+        "cost": 55,
+        "row": 7,
+        "prerequisites": [
+          "D01-T03"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T44",
+        "cost": 55,
+        "row": 6,
+        "prerequisites": [
+          "D01-T02"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 2,
+    "era": "II",
+    "techCost": 200,
+    "buildingCost": 1,
+    "wonderCost": 1,
+    "techs": [
+      {
+        "name": "D01-T11",
+        "cost": 200,
+        "row": 15,
+        "prerequisites": [
+          "D01-T41",
+          "D01-T05"
+        ],
+        "uniques": [
+          "Enables Open Borders agreements"
+        ]
+      },
+      {
+        "name": "D01-T09",
+        "cost": 200,
+        "row": 4,
+        "prerequisites": [
+          "D01-T02"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T10",
+        "cost": 200,
+        "row": 6,
+        "prerequisites": [
+          "D01-T44",
+          "D01-T06"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T54",
+        "cost": 200,
+        "row": 16,
+        "prerequisites": [
+          "D01-T41"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 3,
+    "era": "II",
+    "techCost": 200,
+    "buildingCost": 1,
+    "wonderCost": 1,
+    "techs": [
+      {
+        "name": "D01-T99",
+        "cost": 200,
+        "row": 7,
+        "prerequisites": [
+          "D01-T06"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 4,
+    "era": "II",
+    "techCost": 200,
+    "buildingCost": 1,
+    "wonderCost": 1,
+    "techs": [
+      {
+        "name": "D01-T14",
+        "cost": 200,
+        "row": 14,
+        "prerequisites": [
+          "D01-T05"
+        ],
+        "uniques": [
+          "Enables conversion of city production to [Gold]"
+        ]
+      },
+      {
+        "name": "D01-T08",
+        "cost": 200,
+        "row": 6,
+        "prerequisites": [
+          "D01-T06"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T13",
+        "cost": 200,
+        "row": 1,
+        "prerequisites": [
+          "D01-T07",
+          "D01-T06"
+        ],
+        "uniques": [
+          "Enables embarkation for land units"
+        ]
+      },
+      {
+        "name": "D01-T50",
+        "cost": 200,
+        "row": 15,
+        "prerequisites": [
+          "D01-T11"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T48",
+        "cost": 200,
+        "row": 4,
+        "prerequisites": [
+          "D01-T09"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T53",
+        "cost": 200,
+        "row": 11,
+        "prerequisites": [
+          "D01-T05"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T98",
+        "cost": 200,
+        "row": 8,
+        "prerequisites": [
+          "D01-T42"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T110",
+        "cost": 200,
+        "row": 9,
+        "prerequisites": [
+          "D01-T05"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 5,
+    "era": "III",
+    "techCost": 500,
+    "buildingCost": 1,
+    "wonderCost": 1,
+    "techs": [
+      {
+        "name": "D01-T21",
+        "cost": 500,
+        "row": 14,
+        "prerequisites": [
+          "D01-T14",
+          "D01-T50"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T16",
+        "cost": 500,
+        "row": 6,
+        "prerequisites": [
+          "D01-T08",
+          "D01-T110"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T15",
+        "cost": 500,
+        "row": 3,
+        "prerequisites": [
+          "D01-T08"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T63",
+        "cost": 500,
+        "row": 16,
+        "prerequisites": [
+          "D01-T11"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T111",
+        "cost": 500,
+        "row": 13,
+        "prerequisites": [
+          "D01-T42",
+          "D01-T110"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 6,
+    "era": "III",
+    "techCost": 500,
+    "buildingCost": 1,
+    "wonderCost": 1,
+    "techs": [
+      {
+        "name": "D01-T17",
+        "cost": 500,
+        "row": 10,
+        "prerequisites": [
+          "D01-T110"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T57",
+        "cost": 500,
+        "row": 9,
+        "prerequisites": [
+          "D01-T110"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T112",
+        "cost": 500,
+        "row": 8,
+        "prerequisites": [
+          "D01-T98",
+          "D01-T111"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T114",
+        "cost": 500,
+        "row": 7,
+        "prerequisites": [
+          "D01-T99",
+          "D01-T16"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 7,
+    "era": "III",
+    "techCost": 500,
+    "buildingCost": 1,
+    "wonderCost": 1,
+    "techs": [
+      {
+        "name": "D01-T58",
+        "cost": 500,
+        "row": 14,
+        "prerequisites": [
+          "D01-T50"
+        ],
+        "uniques": [
+          "Enables Research agreements"
+        ]
+      },
+      {
+        "name": "D01-T19",
+        "cost": 500,
+        "row": 1,
+        "prerequisites": [
+          "D01-T13",
+          "D01-T57"
+        ],
+        "uniques": [
+          "Enables [All] units to enter ocean tiles"
+        ]
+      },
+      {
+        "name": "D01-T62",
+        "cost": 500,
+        "row": 12,
+        "prerequisites": [
+          "D01-T63"
+        ],
+        "uniques": [
+          "[+1 Science] from all [B05] buildings"
+        ]
+      },
+      {
+        "name": "D01-T60",
+        "cost": 500,
+        "row": 4,
+        "prerequisites": [
+          "D01-T15"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T20",
+        "cost": 500,
+        "row": 2,
+        "prerequisites": [
+          "D01-T13",
+          "D01-T16"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T64",
+        "cost": 500,
+        "row": 11,
+        "prerequisites": [
+          "D01-T53",
+          "D01-T57"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T113",
+        "cost": 500,
+        "row": 15,
+        "prerequisites": [
+          "D01-T54",
+          "D01-T63"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 8,
+    "era": "IV",
+    "techCost": 1000,
+    "buildingCost": 1,
+    "wonderCost": 1,
+    "techs": [
+      {
+        "name": "D01-T25",
+        "cost": 1000,
+        "row": 13,
+        "prerequisites": [
+          "D01-T21"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T23",
+        "cost": 1000,
+        "row": 3,
+        "prerequisites": [
+          "D01-T15",
+          "D01-T48"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T22",
+        "cost": 1000,
+        "row": 8,
+        "prerequisites": [
+          "D01-T16",
+          "D01-T60"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T71",
+        "cost": 1000,
+        "row": 10,
+        "prerequisites": [
+          "D01-T16"
+        ],
+        "uniques": [
+          "Roads connect tiles across rivers"
+        ]
+      },
+      {
+        "name": "D01-T101",
+        "cost": 1000,
+        "row": 11,
+        "prerequisites": [
+          "D01-T64"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T66",
+        "cost": 1000,
+        "row": 16,
+        "prerequisites": [
+          "D01-T50",
+          "D01-T63"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T73",
+        "cost": 1000,
+        "row": 15,
+        "prerequisites": [
+          "D01-T113"
+        ],
+        "uniques": [
+          "[+1 Culture] from all [B03] buildings"
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 9,
+    "era": "IV",
+    "techCost": 1000,
+    "buildingCost": 1,
+    "wonderCost": 1,
+    "techs": [
+      {
+        "name": "D01-T26",
+        "cost": 1000,
+        "row": 12,
+        "prerequisites": [
+          "D01-T17"
+        ],
+        "uniques": [
+          "Enables conversion of city production to [Science]"
+        ]
+      },
+      {
+        "name": "D01-T24",
+        "cost": 1000,
+        "row": 5,
+        "prerequisites": [
+          "D01-T114"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T27",
+        "cost": 1000,
+        "row": 4,
+        "prerequisites": [
+          "D01-T112"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T67",
+        "cost": 1000,
+        "row": 6,
+        "prerequisites": [
+          "D01-T57"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 10,
+    "era": "V",
+    "techCost": 2200,
+    "buildingCost": 1,
+    "wonderCost": 1,
+    "techs": [
+      {
+        "name": "D01-T83",
+        "cost": 2200,
+        "row": 14,
+        "prerequisites": [
+          "D01-T111",
+          "D01-T26"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T28",
+        "cost": 2200,
+        "row": 7,
+        "prerequisites": [
+          "D01-T15",
+          "D01-T71"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T29",
+        "cost": 2200,
+        "row": 8,
+        "prerequisites": [
+          "D01-T71",
+          "D01-T26"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T79",
+        "cost": 2200,
+        "row": 13,
+        "prerequisites": [
+          "D01-T73"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T102",
+        "cost": 2200,
+        "row": 11,
+        "prerequisites": [
+          "D01-T101",
+          "D01-T26"
+        ],
+        "uniques": [
+          "Production to [Science] conversion in cities changed by [+60]% <if [B52] is constructed> <with [R18]>"
+        ]
+      },
+      {
+        "name": "D01-T85",
+        "cost": 2200,
+        "row": 16,
+        "prerequisites": [
+          "D01-T58",
+          "D01-T66"
+        ],
+        "uniques": [
+          "Enables Defensive Pacts"
+        ]
+      },
+      {
+        "name": "D01-T32",
+        "cost": 2200,
+        "row": 1,
+        "prerequisites": [
+          "D01-T19",
+          "D01-T20",
+          "D01-T67"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 11,
+    "era": "V",
+    "techCost": 2200,
+    "buildingCost": 1,
+    "wonderCost": 1,
+    "techs": [
+      {
+        "name": "D01-T81",
+        "cost": 2200,
+        "row": 12,
+        "prerequisites": [
+          "D01-T25"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T84",
+        "cost": 2200,
+        "row": 15,
+        "prerequisites": [
+          "D01-T66",
+          "D01-T58"
+        ],
+        "uniques": [
+          "When declaring friendship, both parties gain a [+10]% boost to great person generation"
+        ]
+      },
+      {
+        "name": "D01-T33",
+        "cost": 2200,
+        "row": 9,
+        "prerequisites": [
+          "D01-T22"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T30",
+        "cost": 2200,
+        "row": 5,
+        "prerequisites": [
+          "D01-T24"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T80",
+        "cost": 2200,
+        "row": 14,
+        "prerequisites": [
+          "D01-T83"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T31",
+        "cost": 2200,
+        "row": 4,
+        "prerequisites": [
+          "D01-T27",
+          "D01-T83"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 12,
+    "era": "VI",
+    "techCost": 4000,
+    "buildingCost": 1,
+    "wonderCost": 1,
+    "techs": [
+      {
+        "name": "D01-T35",
+        "cost": 4000,
+        "row": 15,
+        "prerequisites": [
+          "D01-T84"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T36",
+        "cost": 4000,
+        "row": 7,
+        "prerequisites": [
+          "D01-T28",
+          "D01-T29"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T86",
+        "cost": 4000,
+        "row": 6,
+        "prerequisites": [
+          "D01-T67",
+          "D01-T29"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T87",
+        "cost": 4000,
+        "row": 13,
+        "prerequisites": [
+          "D01-T84",
+          "D01-T26"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T38",
+        "cost": 4000,
+        "row": 10,
+        "prerequisites": [
+          "D01-T33",
+          "D01-T71"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T95",
+        "cost": 4000,
+        "row": 1,
+        "prerequisites": [
+          "D01-T32"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 13,
+    "era": "VI",
+    "techCost": 4000,
+    "buildingCost": 1,
+    "wonderCost": 1,
+    "techs": [
+      {
+        "name": "D01-T37",
+        "cost": 4000,
+        "row": 4,
+        "prerequisites": [
+          "D01-T30",
+          "D01-T31",
+          "D01-T79",
+          "D01-T102"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T90",
+        "cost": 4000,
+        "row": 11,
+        "prerequisites": [
+          "D01-T35",
+          "D01-T71"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T92",
+        "cost": 4000,
+        "row": 16,
+        "prerequisites": [
+          "D01-T35",
+          "D01-T85"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T89",
+        "cost": 4000,
+        "row": 7,
+        "prerequisites": [
+          "D01-T36"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T93",
+        "cost": 4000,
+        "row": 12,
+        "prerequisites": [
+          "D01-T79",
+          "D01-T87"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T91",
+        "cost": 4000,
+        "row": 5,
+        "prerequisites": [
+          "D01-T30",
+          "D01-T36"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "D01-T96",
+        "cost": 4000,
+        "row": 14,
+        "prerequisites": [
+          "D01-T87",
+          "D01-T35"
+        ],
+        "uniques": [
+          "[+10]% [Culture] [in all cities]"
+        ]
+      },
+      {
+        "name": "D01-T103",
+        "cost": 4000,
+        "row": 8,
+        "prerequisites": [
+          "D01-T102",
+          "D01-T67"
+        ],
+        "uniques": [
+          "[侦察] units gain the [P47] promotion",
+          "All newly-trained [侦察] units [in all cities] receive the [P47] promotion <Civilopedia link [Promotion/P47]>",
+          "New [侦察] units start with [+10] XP [in all cities]"
+        ]
+      }
+    ]
+  },
+  {
+    "columnNumber": 14,
+    "era": "VI",
+    "techCost": 5000,
+    "buildingCost": 1,
+    "wonderCost": 1,
+    "techs": [
+      {
+        "name": "D01-T94",
+        "cost": 5000,
+        "row": 7,
+        "prerequisites": [
+          "D01-T37",
+          "D01-T91",
+          "D01-T103"
+        ],
+        "uniques": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "I",
+    "researchAgreementCost": 150,
+    "startingSettlerCount": 1,
+    "startingWorkerCount": 0,
+    "startingMilitaryUnitCount": 1,
+    "startingMilitaryUnit": "U01",
+    "settlerPopulation": 1,
+    "startingGold": 0,
+    "startingCulture": 0,
+    "baseUnitBuyCost": 200,
+    "embarkDefense": 3,
+    "startPercent": 0,
+    "iconRGB": [
+      255,
+      87,
+      35
+    ],
+    "uniques": [],
+    "startingSettlerUnit": "C01",
+    "startingWorkerUnit": "C02"
+  },
+  {
+    "name": "II",
+    "researchAgreementCost": 150,
+    "startingSettlerCount": 1,
+    "startingWorkerCount": 1,
+    "startingMilitaryUnitCount": 1,
+    "startingMilitaryUnit": "U07",
+    "settlerPopulation": 2,
+    "startingGold": 100,
+    "startingCulture": 0,
+    "baseUnitBuyCost": 200,
+    "embarkDefense": 5,
+    "startPercent": 12,
+    "iconRGB": [
+      233,
+      31,
+      99
+    ],
+    "uniques": [],
+    "startingSettlerUnit": "C01",
+    "startingWorkerUnit": "C02"
+  },
+  {
+    "name": "III",
+    "researchAgreementCost": 250,
+    "startingSettlerCount": 1,
+    "startingWorkerCount": 1,
+    "startingMilitaryUnitCount": 1,
+    "startingMilitaryUnit": "U02",
+    "settlerPopulation": 3,
+    "startingGold": 200,
+    "startingCulture": 0,
+    "baseUnitBuyCost": 300,
+    "embarkDefense": 8,
+    "startPercent": 28,
+    "iconRGB": [
+      157,
+      39,
+      176
+    ],
+    "uniques": [
+      "Every major Civilization gains a spy once a civilization enters this era"
+    ],
+    "startingSettlerUnit": "C01",
+    "startingWorkerUnit": "C02"
+  },
+  {
+    "name": "IV",
+    "researchAgreementCost": 250,
+    "startingSettlerCount": 1,
+    "startingWorkerCount": 1,
+    "startingMilitaryUnitCount": 1,
+    "startingMilitaryUnit": "U03",
+    "settlerPopulation": 3,
+    "startingGold": 300,
+    "startingCulture": 0,
+    "baseUnitBuyCost": 400,
+    "embarkDefense": 12,
+    "startPercent": 45,
+    "iconRGB": [
+      104,
+      58,
+      183
+    ],
+    "uniques": [
+      "Every major Civilization gains a spy once a civilization enters this era"
+    ],
+    "startingSettlerUnit": "C01",
+    "startingWorkerUnit": "C02"
+  },
+  {
+    "name": "V",
+    "researchAgreementCost": 300,
+    "startingSettlerCount": 1,
+    "startingWorkerCount": 1,
+    "startingMilitaryUnitCount": 1,
+    "startingMilitaryUnit": "U04",
+    "settlerPopulation": 4,
+    "startingGold": 400,
+    "startingCulture": 0,
+    "baseUnitBuyCost": 500,
+    "embarkDefense": 18,
+    "startPercent": 65,
+    "iconRGB": [
+      63,
+      81,
+      182
+    ],
+    "uniques": [
+      "Every major Civilization gains a spy once a civilization enters this era"
+    ],
+    "startingSettlerUnit": "C01",
+    "startingWorkerUnit": "C02"
+  },
+  {
+    "name": "VI",
+    "researchAgreementCost": 350,
+    "startingSettlerCount": 1,
+    "startingWorkerCount": 1,
+    "startingMilitaryUnitCount": 1,
+    "startingMilitaryUnit": "U05",
+    "settlerPopulation": 4,
+    "startingGold": 600,
+    "startingCulture": 0,
+    "baseUnitBuyCost": 600,
+    "embarkDefense": 24,
+    "startPercent": 82,
+    "iconRGB": [
+      33,
+      150,
+      243
+    ],
+    "uniques": [
+      "Every major Civilization gains a spy once a civilization enters this era"
+    ],
+    "startingSettlerUnit": "C01",
+    "startingWorkerUnit": "C02"
+  }
+]

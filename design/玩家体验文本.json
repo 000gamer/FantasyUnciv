@@ -1,0 +1,502 @@
+{
+  "events": {
+    "E16": {
+      "paragraphs": [
+        {
+          "zh": "地点：山路旁的旧军碑",
+          "en": "Location: An old military stone beside a mountain road"
+        },
+        {
+          "zh": "人物：一名守夜人",
+          "en": "People: A solitary watcher"
+        },
+        {
+          "zh": "起因：碑上的姓名已被风雨磨去",
+          "en": "Situation: Rain has almost erased the names on the stone"
+        },
+        {
+          "zh": "守夜人想重新记下死者的名字。碑后不时传来低语；靠近的人说，自己看见了藏在树影中的身影。",
+          "en": "The watcher wants to preserve the names of the dead. Whispers come from behind the stone; those who listen report seeing figures hidden in the shadows."
+        }
+      ],
+      "requirements": [
+        {
+          "zh": "条件：至少拥有一座城市；至少80金币，选择后支付。",
+          "en": "Requires: at least one city; at least 80 Gold, paid on selection."
+        },
+        {
+          "zh": "条件：探索部队生命大于20；探索部队不是镜仪侦测队或无声司镜；未拥已拥有镜瞳训练/洞察术/封印感应。",
+          "en": "Requires: explorer health above 20; not Mirror Detection Team or Silent Mirror Keeper; does not have Mirror-Eye Training, Insight, Seal Detection."
+        },
+        {
+          "zh": "",
+          "en": ""
+        }
+      ]
+    },
+    "E17": {
+      "paragraphs": [
+        {
+          "zh": "地点：山坡上的废弃观测台",
+          "en": "Location: An abandoned hillside observatory"
+        },
+        {
+          "zh": "人物：探索队的施法者和记录员",
+          "en": "People: Your casters and record keepers"
+        },
+        {
+          "zh": "起因：一面破镜仍能映出肉眼看不到的东西",
+          "en": "Situation: A broken mirror still reveals things invisible to the eye"
+        },
+        {
+          "zh": "施法者可以尝试使用镜子，但碎裂的镜面并不安全。也可以整理旁边的笔记，或卖掉还能使用的残片。",
+          "en": "A caster could try to use the mirror, though its cracked surface is dangerous. The nearby notes can be studied, or the remaining pieces sold."
+        }
+      ],
+      "requirements": [
+        {
+          "zh": "条件：探索部队为术士或施法英雄；探索部队生命大于25；未拥已拥有镜瞳训练。",
+          "en": "Requires: an elemental mage or spellcasting hero; explorer health above 25; does not have Mirror-Eye Training."
+        },
+        {
+          "zh": "",
+          "en": ""
+        },
+        {
+          "zh": "",
+          "en": ""
+        }
+      ]
+    },
+    "E18": {
+      "paragraphs": [
+        {
+          "zh": "地点：林边一座荒废的园圃",
+          "en": "Location: An overgrown garden at the forest edge"
+        },
+        {
+          "zh": "人物：队中的医护和斥候",
+          "en": "People: Your healers and scouts"
+        },
+        {
+          "zh": "起因：封住园门的树根仍然活着",
+          "en": "Situation: Living roots still bar the garden gate"
+        },
+        {
+          "zh": "根下埋着旧刻板。队伍可以冒险查看；熟悉生息法术的人还可以尝试照料这些根系。",
+          "en": "Old tablets lie beneath the roots. Examining them is risky. Someone trained in life magic might instead try to care for the roots."
+        }
+      ],
+      "requirements": [
+        {
+          "zh": "条件：探索部队生命大于20。",
+          "en": "Requires: explorer health above 20."
+        },
+        {
+          "zh": "条件：已拥有生命调息；未拥已拥有泉林契约；探索部队生命大于20。",
+          "en": "Requires: has Breath of Life; does not have Springwood Covenant; explorer health above 20."
+        },
+        {
+          "zh": "",
+          "en": ""
+        }
+      ]
+    },
+    "E19": {
+      "paragraphs": [
+        {
+          "zh": "地点：近水的废弃码头",
+          "en": "Location: A ruined landing near the water"
+        },
+        {
+          "zh": "人物：几名探路的队员",
+          "en": "People: Members of your expedition"
+        },
+        {
+          "zh": "起因：石匣里藏着一张渡水图",
+          "en": "Situation: A stone box holds a chart of water crossings"
+        },
+        {
+          "zh": "图上标着浅滩和暗流。派人试走路线能积累经验，但也可能受伤；抄录航图则更稳妥。",
+          "en": "The chart marks shallows and dangerous currents. Testing the route could teach the expedition useful skills, at some risk. Copying the chart is safer."
+        }
+      ],
+      "requirements": [
+        {
+          "zh": "条件：探索部队生命大于20；未拥已拥有海陆转运。",
+          "en": "Requires: explorer health above 20; does not have Amphibious Transport."
+        },
+        {
+          "zh": "",
+          "en": ""
+        },
+        {
+          "zh": "",
+          "en": ""
+        }
+      ]
+    },
+    "E20": {
+      "paragraphs": [
+        {
+          "zh": "地点：荒废的古路驿站",
+          "en": "Location: An abandoned road station"
+        },
+        {
+          "zh": "人物：负责探路和补给的队员",
+          "en": "People: Your pathfinders and supply crew"
+        },
+        {
+          "zh": "起因：旧驿册记下了附近的废墟、营地和水源",
+          "en": "Situation: A register describes ruins, camps and water sources nearby"
+        },
+        {
+          "zh": "有些路标还在。队伍可以挑一条路线复查，也可以把整册带回去整理。",
+          "en": "Some of its road markers remain. Follow a route to check it, or take the register home for study."
+        }
+      ],
+      "requirements": [
+        {
+          "zh": "",
+          "en": ""
+        },
+        {
+          "zh": "条件：探索部队尚未满生命。",
+          "en": "Requires: an injured explorer."
+        },
+        {
+          "zh": "",
+          "en": ""
+        }
+      ]
+    },
+    "E24": {
+      "paragraphs": [
+        {
+          "zh": "地点：一处倒塌的营地",
+          "en": "Location: A collapsed camp"
+        },
+        {
+          "zh": "人物：发现木匣的队员",
+          "en": "People: The soldiers who found a wooden chest"
+        },
+        {
+          "zh": "起因：木匣里有旧器物、记录和少量药品",
+          "en": "Situation: The chest contains old equipment, notes and medicine"
+        },
+        {
+          "zh": "器物的用法还辨认得出，记录也值得保存。受伤的队员则希望先拿药品来用。",
+          "en": "The equipment can still teach useful techniques, and the notes are worth preserving. Wounded soldiers would rather use the medicine."
+        }
+      ],
+      "requirements": [
+        {
+          "zh": "",
+          "en": ""
+        },
+        {
+          "zh": "",
+          "en": ""
+        },
+        {
+          "zh": "条件：探索部队尚未满生命。",
+          "en": "Requires: an injured explorer."
+        }
+      ]
+    },
+    "E25": {
+      "paragraphs": [
+        {
+          "zh": "地点：林间通往泉水的小路",
+          "en": "Location: A woodland path leading to a spring"
+        },
+        {
+          "zh": "人物：一名背药箱的旅医",
+          "en": "People: A traveling physician with a medicine chest"
+        },
+        {
+          "zh": "起因：旅医留下的药料已不够继续赶路",
+          "en": "Situation: The physician lacks supplies for the road ahead"
+        },
+        {
+          "zh": "他愿意随队行医，但需要你提供补给。若不邀请他，也可以交换一些急用药，或记下沿路的救护地点。",
+          "en": "He is willing to join your expedition if you fund his supplies. Otherwise, you can obtain some medicine or record the shelters along his route."
+        }
+      ],
+      "requirements": [
+        {
+          "zh": "条件：至少拥有一座城市；现有访世者少于2位；未招募泉路医师；探索部队生命大于20；至少160金币，选择后支付。",
+          "en": "Requires: at least one city; fewer than two visiting heroes; Springroad Physician is not already recruited; explorer health above 20; at least 160 Gold, paid on selection."
+        },
+        {
+          "zh": "条件：探索部队尚未满生命。",
+          "en": "Requires: an injured explorer."
+        },
+        {
+          "zh": "",
+          "en": ""
+        }
+      ]
+    },
+    "E26": {
+      "paragraphs": [
+        {
+          "zh": "地点：山坡上的断碑旁",
+          "en": "Location: A broken stone on a hillside"
+        },
+        {
+          "zh": "人物：一名披甲幽魂",
+          "en": "People: An armored specter"
+        },
+        {
+          "zh": "起因：幽魂一直守着阵亡者的名册",
+          "en": "Situation: The specter watches over a list of fallen soldiers"
+        },
+        {
+          "zh": "他希望有人把名册带到安全的地方。若你愿意安排住处和补给，他也愿意随军同行。",
+          "en": "He asks you to take the names somewhere safe. With shelter and supplies arranged, he is willing to join your army."
+        }
+      ],
+      "requirements": [
+        {
+          "zh": "条件：至少拥有一座城市；现有访世者少于2位；未招募碑誓行者；至少240金币，选择后支付。",
+          "en": "Requires: at least one city; fewer than two visiting heroes; Monument Oathwalker is not already recruited; at least 240 Gold, paid on selection."
+        },
+        {
+          "zh": "",
+          "en": ""
+        }
+      ]
+    },
+    "E27": {
+      "paragraphs": [
+        {
+          "zh": "地点：山地废炉旁",
+          "en": "Location: Beside a ruined mountain forge"
+        },
+        {
+          "zh": "人物：熔印使者",
+          "en": "People: The visitor known as the Molten Sigil Envoy"
+        },
+        {
+          "zh": "起因：铸师还守着几件未完成的器具",
+          "en": "Situation: The smith still tends several unfinished tools"
+        },
+        {
+          "zh": "他想继续研究魔晶，也愿意帮助你的军队。邀请他需要准备补给；若只抄下炉边的笔记，也能有所收获。",
+          "en": "He wants to continue studying magic crystals and offers to help your army. Recruiting him requires supplies; copying his notes is another useful option."
+        }
+      ],
+      "requirements": [
+        {
+          "zh": "条件：至少拥有一座城市；现有访世者少于2位；未招募熔印使者；至少有1份可用魔晶；至少320金币，选择后支付。",
+          "en": "Requires: at least one city; fewer than two visiting heroes; Molten Seal Envoy is not already recruited; at least one available Magic Crystal; at least 320 Gold, paid on selection."
+        },
+        {
+          "zh": "",
+          "en": ""
+        }
+      ]
+    },
+    "E28": {
+      "paragraphs": [
+        {
+          "zh": "地点：高地上的破镜台",
+          "en": "Location: A damaged mirror station on high ground"
+        },
+        {
+          "zh": "人物：一名沉默的司镜",
+          "en": "People: A quiet mirror keeper"
+        },
+        {
+          "zh": "起因：镜架已经倾斜，司镜却不肯离开",
+          "en": "Situation: The frame is failing, but its keeper refuses to leave"
+        },
+        {
+          "zh": "他请队员帮忙修好镜架。完成这项危险的工作后，他愿意与你们同行；也可以只保存台上的测量记录。",
+          "en": "He asks your expedition to repair the frame. After this dangerous work, he is willing to travel with you. You could instead preserve the measurements."
+        }
+      ],
+      "requirements": [
+        {
+          "zh": "条件：至少拥有一座城市；现有访世者少于2位；未招募无声司镜；探索部队生命大于25；至少160金币，选择后支付。",
+          "en": "Requires: at least one city; fewer than two visiting heroes; Silent Mirror Keeper is not already recruited; explorer health above 25; at least 160 Gold, paid on selection."
+        },
+        {
+          "zh": "",
+          "en": ""
+        }
+      ]
+    },
+    "E29": {
+      "paragraphs": [
+        {
+          "zh": "地点：林间的小祭坛",
+          "en": "Location: A small shrine in the woods"
+        },
+        {
+          "zh": "人物：明灯誓卫和几名伤者",
+          "en": "People: The Lantern Oathguard and several wounded travelers"
+        },
+        {
+          "zh": "起因：誓卫一直在照料路上遇见的人",
+          "en": "Situation: The guard has been caring for travelers along the road"
+        },
+        {
+          "zh": "他愿意随军保护伤者，但需要补给和安置。若不邀请他，也可以把这些救护办法记下来。",
+          "en": "He offers to protect the wounded in your army if you arrange supplies and shelter. You could instead record his methods."
+        }
+      ],
+      "requirements": [
+        {
+          "zh": "条件：至少拥有一座城市；现有访世者少于2位；未招募明灯誓卫；本局已启用宗教；至少240金币，选择后支付。",
+          "en": "Requires: at least one city; fewer than two visiting heroes; Lantern Oathguard is not already recruited; religion enabled; at least 240 Gold, paid on selection."
+        },
+        {
+          "zh": "",
+          "en": ""
+        }
+      ]
+    },
+    "E30": {
+      "paragraphs": [
+        {
+          "zh": "地点：古路旁的废弃驿舍",
+          "en": "Location: A ruined inn beside an old road"
+        },
+        {
+          "zh": "人物：一名护商人",
+          "en": "People: An experienced caravan guard"
+        },
+        {
+          "zh": "起因：商队离开后，护商人仍留在这里守路",
+          "en": "Situation: The guard stayed behind after the caravan departed"
+        },
+        {
+          "zh": "他熟悉这段道路，也愿意随队保护补给。邀请他需要一笔安置费；若只问清路线，也能把见闻保存下来。",
+          "en": "He knows the road and offers to protect your supplies. Recruiting him requires funds. You could instead record what he knows about the route."
+        }
+      ],
+      "requirements": [
+        {
+          "zh": "条件：至少拥有一座城市；现有访世者少于2位；未招募护商仲裁者；至少400金币，选择后支付。",
+          "en": "Requires: at least one city; fewer than two visiting heroes; Caravan Arbiter is not already recruited; at least 400 Gold, paid on selection."
+        },
+        {
+          "zh": "",
+          "en": ""
+        }
+      ]
+    }
+  },
+  "ruins": {
+    "RU01": {
+      "zh": "遗存钱币：从废墟中回收古币，获得[]金币。",
+      "en": "Ancient coins: Recovered [] Gold from the ruins."
+    },
+    "RU02": {
+      "zh": "旧歌残卷：整理出先民歌谣，获得[]文化。",
+      "en": "Old songs: Recovered ancestral songs and gained [] Culture."
+    },
+    "RU03": {
+      "zh": "失落计算：复原一段计算方法，获得[]科研。",
+      "en": "Lost calculations: Reconstructed a method and gained [] Science."
+    },
+    "RU04": {
+      "zh": "流亡农户：接纳幸存农户，一座本方城市人口增加1。",
+      "en": "Refugee farmers: One of your cities gains 1 population."
+    },
+    "RU05": {
+      "zh": "古路草图：发现一幅残缺地图，揭示附近一部分未知地形。",
+      "en": "Old road sketch: A damaged map reveals part of the surrounding terrain."
+    },
+    "RU06": {
+      "zh": "祭祀铭文：解读先民祷辞，获得[]信仰。",
+      "en": "Ritual inscriptions: Deciphered an ancient prayer and gained [] Faith."
+    },
+    "RU08": {
+      "zh": "先民训练：探索部队研习旧战术，获得10经验。",
+      "en": "Ancestral training: The exploring unit gains 10 XP."
+    },
+    "RU09": {
+      "zh": "废墟医药：探索部队使用旧药，恢复最多30生命，不超过最大生命。",
+      "en": "Ruin medicines: The explorer recovers up to 30 HP, capped at full health."
+    },
+    "RU10": {
+      "zh": "安魂记述：保存亡者的故事，获得[]文化。",
+      "en": "Repose records: Preserved stories of the dead and gained [] Culture."
+    },
+    "RU11": {
+      "zh": "前线线索：发现警戒记录，揭示8格范围内的荒野营地位置。",
+      "en": "Frontier clues: Revealed barbarian camps within an 8-tile radius."
+    },
+    "RU13": {
+      "zh": "术式校验台：探索术士获得晶壁契约，可按单位动作说明施展护身晶壁。",
+      "en": "Calibration table: The exploring mage gains the Crystal Ward Covenant; see its unit action for use."
+    },
+    "RU14": {
+      "zh": "回生盟碑：探索部队获得泉林契约，取得该晋升记载的恢复能力。",
+      "en": "Restoration oathstone: The explorer gains the Springwood Covenant and its healing benefits."
+    },
+    "RU15": {
+      "zh": "遗民向导：一支巡林斥候加入本方，仍需正常维护。",
+      "en": "Survivor guide: A Forest Scout joins your civilization and requires normal upkeep."
+    },
+    "RU16": {
+      "zh": "古路坐标：发现完整测绘坐标，揭示探索部队周围5格内的地图，不取得领土。",
+      "en": "Old road coordinates: Revealed terrain within 5 tiles of the explorer, without claiming land."
+    },
+    "RU17": {
+      "zh": "遗产箱：找到保存完好的旧钱，获得[]金币。",
+      "en": "Inheritance chest: Recovered preserved coins and gained [] Gold."
+    },
+    "RU18": {
+      "zh": "探索发现：誓碑下的守夜人。请在遭遇窗口阅读背景，并选择处理方式；奖励取决于你的选择。",
+      "en": "Discovery: Watchers Beneath the Oathstone. Read the encounter and choose a response; the outcome depends on your decision."
+    },
+    "RU19": {
+      "zh": "探索发现：星历盲镜。请在遭遇窗口阅读背景，并选择处理方式；奖励取决于你的选择。",
+      "en": "Discovery: The Blind Star Mirror. Read the encounter and choose a response; the outcome depends on your decision."
+    },
+    "RU20": {
+      "zh": "探索发现：根庭封圃。请在遭遇窗口阅读背景，并选择处理方式；奖励取决于你的选择。",
+      "en": "Discovery: The Old Root Covenant. Read the encounter and choose a response; the outcome depends on your decision."
+    },
+    "RU21": {
+      "zh": "探索发现：沉钟航图。请在遭遇窗口阅读背景，并选择处理方式；奖励取决于你的选择。",
+      "en": "Discovery: The Sunken Bell Chart. Read the encounter and choose a response; the outcome depends on your decision."
+    },
+    "RU22": {
+      "zh": "探索发现：失传驿册。请在遭遇窗口阅读背景，并选择处理方式；奖励取决于你的选择。",
+      "en": "Discovery: The Lost Courier Register. Read the encounter and choose a response; the outcome depends on your decision."
+    },
+    "RU23": {
+      "zh": "探索发现：无主人的封缄匣。请在遭遇窗口阅读背景，并选择处理方式；奖励取决于你的选择。",
+      "en": "Discovery: The Sealed Relic Casket. Read the encounter and choose a response; the outcome depends on your decision."
+    },
+    "RU24": {
+      "zh": "探索发现：泉路上的最后一担。请在遭遇窗口阅读背景，并选择处理方式；奖励取决于你的选择。",
+      "en": "Discovery: The Last Load on Springroad. Read the encounter and choose a response; the outcome depends on your decision."
+    },
+    "RU25": {
+      "zh": "探索发现：静镜值守。请在遭遇窗口阅读背景，并选择处理方式；奖励取决于你的选择。",
+      "en": "Discovery: The Silent Mirror Watch. Read the encounter and choose a response; the outcome depends on your decision."
+    },
+    "RU26": {
+      "zh": "探索发现：刻名者的条件。请在遭遇窗口选择如何处理。",
+      "en": "Discovery: Watcher at the Broken Stone. Read the encounter and choose a response."
+    },
+    "RU27": {
+      "zh": "探索发现：熔印不会替你选目标。请在遭遇窗口选择如何处理。",
+      "en": "Discovery: Visitor at the Old Forge. Read the encounter and choose a response."
+    },
+    "RU28": {
+      "zh": "探索发现：林间灯火。请在遭遇窗口选择如何处理。",
+      "en": "Discovery: Lanterns in the Grove. Read the encounter and choose a response."
+    },
+    "RU29": {
+      "zh": "探索发现：驿道护卫。请在遭遇窗口选择如何处理。",
+      "en": "Discovery: Guards by the Old Road. Read the encounter and choose a response."
+    }
+  }
+}

@@ -1,0 +1,700 @@
+[
+  {
+    "name": "E16",
+    "text": "E16",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "E16 Paragraph 1"
+      },
+      {
+        "text": "E16 Paragraph 2"
+      },
+      {
+        "text": "E16 Paragraph 3"
+      },
+      {
+        "text": "E16 Paragraph 4"
+      }
+    ],
+    "choices": [
+      {
+        "name": "E16-A-Any",
+        "text": "E16-A",
+        "civilopediaText": [
+          {
+            "text": "E16-A Requirements"
+          }
+        ],
+        "uniques": [
+          "Only available <when number of [Cities] is more than [0]> <when above [79] [Gold]> <hidden from users>",
+          "Gain [-80] [Gold] <hidden from users>",
+          "Gain [200] [Culture]"
+        ]
+      },
+      {
+        "name": "E16-B-Any",
+        "text": "E16-B",
+        "civilopediaText": [
+          {
+            "text": "E16-B Requirements"
+          }
+        ],
+        "uniques": [
+          "Only available <when above [20] HP> <for [{non-[U77]} {non-[H08]}] units> <for units without [P33]> <for units without [P43]> <for units without [P47]> <hidden from users>",
+          "[This Unit] takes [20] damage",
+          "[This Unit] gains the [P47] promotion"
+        ]
+      },
+      {
+        "name": "E16-C-Any",
+        "text": "E16-C",
+        "civilopediaText": [],
+        "uniques": [
+          "Gain [90] [Culture]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "E17",
+    "text": "E17",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "E17 Paragraph 1"
+      },
+      {
+        "text": "E17 Paragraph 2"
+      },
+      {
+        "text": "E17 Paragraph 3"
+      },
+      {
+        "text": "E17 Paragraph 4"
+      }
+    ],
+    "choices": [
+      {
+        "name": "E17-A-Any",
+        "text": "E17-A",
+        "civilopediaText": [
+          {
+            "text": "E17-A Requirements"
+          }
+        ],
+        "uniques": [
+          "Only available <when above [25] HP> <for [non-[{non-[术士]} {non-[英雄施法]}]] units> <for units without [P33]> <hidden from users>",
+          "[This Unit] takes [25] damage",
+          "[This Unit] gains the [P33] promotion"
+        ]
+      },
+      {
+        "name": "E17-B-Any",
+        "text": "E17-B",
+        "civilopediaText": [],
+        "uniques": [
+          "Gain [180] [Science]"
+        ]
+      },
+      {
+        "name": "E17-C-Any",
+        "text": "E17-C",
+        "civilopediaText": [],
+        "uniques": [
+          "Gain [100] [Gold]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "E18",
+    "text": "E18",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "E18 Paragraph 1"
+      },
+      {
+        "text": "E18 Paragraph 2"
+      },
+      {
+        "text": "E18 Paragraph 3"
+      },
+      {
+        "text": "E18 Paragraph 4"
+      }
+    ],
+    "choices": [
+      {
+        "name": "E18-A-Any",
+        "text": "E18-A",
+        "civilopediaText": [
+          {
+            "text": "E18-A Requirements"
+          }
+        ],
+        "uniques": [
+          "Only available <when above [20] HP> <hidden from users>",
+          "[This Unit] takes [20] damage",
+          "Gain [180] [Science]"
+        ]
+      },
+      {
+        "name": "E18-B-Any",
+        "text": "E18-B",
+        "civilopediaText": [
+          {
+            "text": "E18-B Requirements"
+          }
+        ],
+        "uniques": [
+          "Only available <when above [20] HP> <for units with [P16]> <for units without [P38]> <hidden from users>",
+          "[This Unit] takes [20] damage",
+          "[This Unit] gains the [P38] promotion"
+        ]
+      },
+      {
+        "name": "E18-C-Any",
+        "text": "E18-C",
+        "civilopediaText": [],
+        "uniques": [
+          "Gain [90] [Culture]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "E19",
+    "text": "E19",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "E19 Paragraph 1"
+      },
+      {
+        "text": "E19 Paragraph 2"
+      },
+      {
+        "text": "E19 Paragraph 3"
+      },
+      {
+        "text": "E19 Paragraph 4"
+      }
+    ],
+    "choices": [
+      {
+        "name": "E19-A-Any",
+        "text": "E19-A",
+        "civilopediaText": [
+          {
+            "text": "E19-A Requirements"
+          }
+        ],
+        "uniques": [
+          "Only available <when above [20] HP> <for units without [P31]> <hidden from users>",
+          "[This Unit] takes [20] damage",
+          "[This Unit] gains the [P31] promotion"
+        ]
+      },
+      {
+        "name": "E19-B-Any",
+        "text": "E19-B",
+        "civilopediaText": [],
+        "uniques": [
+          "Reveal up to [All] [Water] within a [10] tile radius",
+          "Gain [60] [Culture]"
+        ]
+      },
+      {
+        "name": "E19-C-Any",
+        "text": "E19-C",
+        "civilopediaText": [],
+        "uniques": [
+          "Gain [100] [Gold]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "E20",
+    "text": "E20",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "E20 Paragraph 1"
+      },
+      {
+        "text": "E20 Paragraph 2"
+      },
+      {
+        "text": "E20 Paragraph 3"
+      },
+      {
+        "text": "E20 Paragraph 4"
+      }
+    ],
+    "choices": [
+      {
+        "name": "E20-A-Any",
+        "text": "E20-A",
+        "civilopediaText": [],
+        "uniques": [
+          "Reveal up to [All] [Ancient ruins] within a [12] tile radius",
+          "Gain [30] [Culture]"
+        ]
+      },
+      {
+        "name": "E20-B-Any",
+        "text": "E20-B",
+        "civilopediaText": [
+          {
+            "text": "E20-B Requirements"
+          }
+        ],
+        "uniques": [
+          "Only available <when below [100] HP> <hidden from users>",
+          "Reveal up to [All] [Barbarian encampment] within a [8] tile radius",
+          "[This Unit] heals [20] HP"
+        ]
+      },
+      {
+        "name": "E20-C-Any",
+        "text": "E20-C",
+        "civilopediaText": [],
+        "uniques": [
+          "Gain [100] [Culture]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "E24",
+    "text": "E24",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "E24 Paragraph 1"
+      },
+      {
+        "text": "E24 Paragraph 2"
+      },
+      {
+        "text": "E24 Paragraph 3"
+      },
+      {
+        "text": "E24 Paragraph 4"
+      }
+    ],
+    "choices": [
+      {
+        "name": "E24-A-Any",
+        "text": "E24-A",
+        "civilopediaText": [],
+        "uniques": [
+          "[This Unit] gains [20] XP"
+        ]
+      },
+      {
+        "name": "E24-B-Any",
+        "text": "E24-B",
+        "civilopediaText": [],
+        "uniques": [
+          "Gain [200] [Culture]"
+        ]
+      },
+      {
+        "name": "E24-C-Any",
+        "text": "E24-C",
+        "civilopediaText": [
+          {
+            "text": "E24-C Requirements"
+          }
+        ],
+        "uniques": [
+          "Only available <when below [100] HP> <hidden from users>",
+          "[This Unit] heals [30] HP"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "E25",
+    "text": "E25",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "E25 Paragraph 1"
+      },
+      {
+        "text": "E25 Paragraph 2"
+      },
+      {
+        "text": "E25 Paragraph 3"
+      },
+      {
+        "text": "E25 Paragraph 4"
+      }
+    ],
+    "choices": [
+      {
+        "name": "E25-A-Any",
+        "text": "E25-A",
+        "civilopediaText": [
+          {
+            "text": "E25-A Requirements"
+          }
+        ],
+        "uniques": [
+          "Only available <when number of [Cities] is more than [0]> <when above [20] HP> <when number of [[P71] Units] is less than [2]> <when number of [[H05] Units] is equal to [0]> <when above [159] [Gold]> <hidden from users>",
+          "Gain [-160] [Gold] <hidden from users>",
+          "[This Unit] takes [20] damage",
+          "Free [H05] appears <when number of [[H05] Units] is equal to [0]> <when number of [[P71] Units] is less than [2]>",
+          "[+25]% weight to this choice for AI decisions"
+        ]
+      },
+      {
+        "name": "E25-B-Any",
+        "text": "E25-B",
+        "civilopediaText": [
+          {
+            "text": "E25-B Requirements"
+          }
+        ],
+        "uniques": [
+          "Only available <when below [100] HP> <hidden from users>",
+          "[This Unit] heals [25] HP"
+        ]
+      },
+      {
+        "name": "E25-C-Any",
+        "text": "E25-C",
+        "civilopediaText": [],
+        "uniques": [
+          "Gain [80] [Culture]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "E26",
+    "text": "E26",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "E26 Paragraph 1"
+      },
+      {
+        "text": "E26 Paragraph 2"
+      },
+      {
+        "text": "E26 Paragraph 3"
+      },
+      {
+        "text": "E26 Paragraph 4"
+      }
+    ],
+    "choices": [
+      {
+        "name": "E26-A-Any",
+        "text": "E26-A",
+        "civilopediaText": [
+          {
+            "text": "E26-A Requirements"
+          }
+        ],
+        "uniques": [
+          "Only available <when number of [Cities] is more than [0]> <when number of [[P71] Units] is less than [2]> <when number of [[H06] Units] is equal to [0]> <when above [239] [Gold]> <hidden from users>",
+          "Gain [-240] [Gold] <hidden from users>",
+          "Free [H06] appears <when number of [[H06] Units] is equal to [0]> <when number of [[P71] Units] is less than [2]>",
+          "[+25]% weight to this choice for AI decisions"
+        ]
+      },
+      {
+        "name": "E26-B-Any",
+        "text": "E26-B",
+        "civilopediaText": [],
+        "uniques": [
+          "Gain [140] [Culture]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "E27",
+    "text": "E27",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "E27 Paragraph 1"
+      },
+      {
+        "text": "E27 Paragraph 2"
+      },
+      {
+        "text": "E27 Paragraph 3"
+      },
+      {
+        "text": "E27 Paragraph 4"
+      }
+    ],
+    "choices": [
+      {
+        "name": "E27-A-Any",
+        "text": "E27-A",
+        "civilopediaText": [
+          {
+            "text": "E27-A Requirements"
+          }
+        ],
+        "uniques": [
+          "Only available <when number of [Cities] is more than [0]> <when number of [[P71] Units] is less than [2]> <when number of [[H07] Units] is equal to [0]> <with [R03]> <when above [319] [Gold]> <hidden from users>",
+          "Gain [-320] [Gold] <hidden from users>",
+          "Free [H07] appears <when number of [[H07] Units] is equal to [0]> <when number of [[P71] Units] is less than [2]>",
+          "[+25]% weight to this choice for AI decisions"
+        ]
+      },
+      {
+        "name": "E27-B-Any",
+        "text": "E27-B",
+        "civilopediaText": [],
+        "uniques": [
+          "Gain [220] [Science]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "E28",
+    "text": "E28",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "E28 Paragraph 1"
+      },
+      {
+        "text": "E28 Paragraph 2"
+      },
+      {
+        "text": "E28 Paragraph 3"
+      },
+      {
+        "text": "E28 Paragraph 4"
+      }
+    ],
+    "choices": [
+      {
+        "name": "E28-A-Any",
+        "text": "E28-A",
+        "civilopediaText": [
+          {
+            "text": "E28-A Requirements"
+          }
+        ],
+        "uniques": [
+          "Only available <when number of [Cities] is more than [0]> <when above [25] HP> <when number of [[P71] Units] is less than [2]> <when number of [[H08] Units] is equal to [0]> <when above [159] [Gold]> <hidden from users>",
+          "Gain [-160] [Gold] <hidden from users>",
+          "[This Unit] takes [25] damage",
+          "Free [H08] appears <when number of [[H08] Units] is equal to [0]> <when number of [[P71] Units] is less than [2]>",
+          "[+25]% weight to this choice for AI decisions"
+        ]
+      },
+      {
+        "name": "E28-B-Any",
+        "text": "E28-B",
+        "civilopediaText": [],
+        "uniques": [
+          "Gain [160] [Science]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "E29",
+    "text": "E29",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "E29 Paragraph 1"
+      },
+      {
+        "text": "E29 Paragraph 2"
+      },
+      {
+        "text": "E29 Paragraph 3"
+      },
+      {
+        "text": "E29 Paragraph 4"
+      }
+    ],
+    "choices": [
+      {
+        "name": "E29-A-Any",
+        "text": "E29-A",
+        "civilopediaText": [
+          {
+            "text": "E29-A Requirements"
+          }
+        ],
+        "uniques": [
+          "Only available <when number of [Cities] is more than [0]> <when number of [[P71] Units] is less than [2]> <when number of [[H10] Units] is equal to [0]> <when religion is enabled> <when above [239] [Gold]> <hidden from users>",
+          "Gain [-240] [Gold] <hidden from users>",
+          "Free [H10] appears <when number of [[H10] Units] is equal to [0]> <when number of [[P71] Units] is less than [2]>",
+          "[+25]% weight to this choice for AI decisions"
+        ]
+      },
+      {
+        "name": "E29-B-Any",
+        "text": "E29-B",
+        "civilopediaText": [],
+        "uniques": [
+          "Gain [160] [Culture]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "E30",
+    "text": "E30",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "E30 Paragraph 1"
+      },
+      {
+        "text": "E30 Paragraph 2"
+      },
+      {
+        "text": "E30 Paragraph 3"
+      },
+      {
+        "text": "E30 Paragraph 4"
+      }
+    ],
+    "choices": [
+      {
+        "name": "E30-A-Any",
+        "text": "E30-A",
+        "civilopediaText": [
+          {
+            "text": "E30-A Requirements"
+          }
+        ],
+        "uniques": [
+          "Only available <when number of [Cities] is more than [0]> <when number of [[P71] Units] is less than [2]> <when number of [[H12] Units] is equal to [0]> <when above [399] [Gold]> <hidden from users>",
+          "Gain [-400] [Gold] <hidden from users>",
+          "Free [H12] appears <when number of [[H12] Units] is equal to [0]> <when number of [[P71] Units] is less than [2]>",
+          "[+25]% weight to this choice for AI decisions"
+        ]
+      },
+      {
+        "name": "E30-B-Any",
+        "text": "E30-B",
+        "civilopediaText": [],
+        "uniques": [
+          "Gain [220] [Culture]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "E31",
+    "presentation": "None",
+    "choices": [
+      {
+        "name": "E31-Quick",
+        "text": "Perform the ritual",
+        "uniques": [
+          "Only available <on [Quick] game speed> <without [R25]> <after discovering [D01-T102]>",
+          "Provides [1] [R25] <for [7] turns>",
+          "[+15]% [Science] [in all cities] <for [7] turns>"
+        ]
+      },
+      {
+        "name": "E31-Standard",
+        "text": "Perform the ritual",
+        "uniques": [
+          "Only available <on [Standard] game speed> <without [R25]> <after discovering [D01-T102]>",
+          "Provides [1] [R25] <for [10] turns>",
+          "[+15]% [Science] [in all cities] <for [10] turns>"
+        ]
+      },
+      {
+        "name": "E31-Epic",
+        "text": "Perform the ritual",
+        "uniques": [
+          "Only available <on [Epic] game speed> <without [R25]> <after discovering [D01-T102]>",
+          "Provides [1] [R25] <for [15] turns>",
+          "[+15]% [Science] [in all cities] <for [15] turns>"
+        ]
+      },
+      {
+        "name": "E31-Marathon",
+        "text": "Perform the ritual",
+        "uniques": [
+          "Only available <on [Marathon] game speed> <without [R25]> <after discovering [D01-T102]>",
+          "Provides [1] [R25] <for [30] turns>",
+          "[+15]% [Science] [in all cities] <for [30] turns>"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "E32",
+    "presentation": "None",
+    "choices": [
+      {
+        "name": "E32-Quick",
+        "text": "Perform the ritual",
+        "uniques": [
+          "Only available <on [Quick] game speed> <without [R26]> <after discovering [D01-T24]>",
+          "Provides [1] [R26] <for [7] turns>",
+          "[+15]% Strength for cities <for [7] turns>"
+        ]
+      },
+      {
+        "name": "E32-Standard",
+        "text": "Perform the ritual",
+        "uniques": [
+          "Only available <on [Standard] game speed> <without [R26]> <after discovering [D01-T24]>",
+          "Provides [1] [R26] <for [10] turns>",
+          "[+15]% Strength for cities <for [10] turns>"
+        ]
+      },
+      {
+        "name": "E32-Epic",
+        "text": "Perform the ritual",
+        "uniques": [
+          "Only available <on [Epic] game speed> <without [R26]> <after discovering [D01-T24]>",
+          "Provides [1] [R26] <for [15] turns>",
+          "[+15]% Strength for cities <for [15] turns>"
+        ]
+      },
+      {
+        "name": "E32-Marathon",
+        "text": "Perform the ritual",
+        "uniques": [
+          "Only available <on [Marathon] game speed> <without [R26]> <after discovering [D01-T24]>",
+          "Provides [1] [R26] <for [30] turns>",
+          "[+15]% Strength for cities <for [30] turns>"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "E33",
+    "text": "E33",
+    "presentation": "None",
+    "choices": [
+      {
+        "name": "E33-Resolve",
+        "text": "E33-Resolve",
+        "uniques": [
+          "[This Unit] gains the [P109] status for [1] turn(s)",
+          "[This Unit] heals [5] HP <for every [[{医护} {FC medic near active patient} {non-[P109]} {non-[Embarked]}] Units]>",
+          "[This Unit] loses the [P109] status"
+        ]
+      }
+    ]
+  }
+]

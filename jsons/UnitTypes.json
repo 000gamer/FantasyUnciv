@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Hero-01",
+    "movementType": "Land",
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "Hero-02",
+    "movementType": "Land",
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "Hero-03",
+    "movementType": "Land",
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "Hero-04",
+    "movementType": "Land",
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "Hero-05",
+    "movementType": "Land",
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "Hero-06",
+    "movementType": "Land",
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "Hero-07",
+    "movementType": "Land",
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "Hero-08",
+    "movementType": "Land",
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "Hero-09",
+    "movementType": "Water",
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "Hero-10",
+    "movementType": "Land",
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "Hero-11",
+    "movementType": "Land",
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "Hero-12",
+    "movementType": "Land",
+    "civilopediaText": [
+      {
+        "text": "FC Heroes",
+        "link": "Tutorial/FC Heroes"
+      }
+    ]
+  },
+  {
+    "name": "侦察",
+    "movementType": "Land"
+  },
+  {
+    "name": "元素",
+    "movementType": "Land"
+  },
+  {
+    "name": "医护",
+    "movementType": "Land"
+  },
+  {
+    "name": "射手",
+    "movementType": "Land"
+  },
+  {
+    "name": "幽魂",
+    "movementType": "Land"
+  },
+  {
+    "name": "攻城",
+    "movementType": "Land"
+  },
+  {
+    "name": "术士",
+    "movementType": "Land"
+  },
+  {
+    "name": "构装",
+    "movementType": "Land"
+  },
+  {
+    "name": "步兵",
+    "movementType": "Land"
+  },
+  {
+    "name": "死灵",
+    "movementType": "Land"
+  },
+  {
+    "name": "海近战",
+    "movementType": "Water"
+  },
+  {
+    "name": "海远程",
+    "movementType": "Water"
+  },
+  {
+    "name": "英雄幽魂",
+    "movementType": "Land"
+  },
+  {
+    "name": "英雄施法",
+    "movementType": "Land"
+  },
+  {
+    "name": "英雄海军",
+    "movementType": "Water"
+  },
+  {
+    "name": "英雄生物",
+    "movementType": "Land"
+  },
+  {
+    "name": "英雄近战",
+    "movementType": "Land"
+  },
+  {
+    "name": "轻骑",
+    "movementType": "Land"
+  },
+  {
+    "name": "重步兵",
+    "movementType": "Land"
+  },
+  {
+    "name": "重骑",
+    "movementType": "Land"
+  },
+  {
+    "name": "野兽",
+    "movementType": "Land"
+  },
+  {
+    "name": "长柄",
+    "movementType": "Land"
+  },
+  {
+    "name": "骑射",
+    "movementType": "Land"
+  },
+  {
+    "name": "Civilian",
+    "movementType": "Land"
+  },
+  {
+    "name": "Civilian Water",
+    "movementType": "Water"
+  },
+  {
+    "name": "FC Reef near city",
+    "movementType": "Land"
+  }
+]

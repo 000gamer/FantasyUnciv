@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Church of Order",
+    "zh": "秩序教会",
+    "nativeIcon": "Christianity"
+  },
+  {
+    "name": "Forest Faith",
+    "zh": "森林信仰",
+    "nativeIcon": "Shinto"
+  },
+  {
+    "name": "Ocean Faith",
+    "zh": "海洋信仰",
+    "nativeIcon": "Taoism"
+  },
+  {
+    "name": "Church of the Forge",
+    "zh": "锻造教会",
+    "nativeIcon": "Zoroastrianism"
+  },
+  {
+    "name": "Church of War",
+    "zh": "战争教会",
+    "nativeIcon": "Sikhism"
+  },
+  {
+    "name": "Church of Knowledge",
+    "zh": "知识教会",
+    "nativeIcon": "Confucianism"
+  },
+  {
+    "name": "Faith of the Dead",
+    "zh": "亡者信仰",
+    "nativeIcon": "Hinduism"
+  },
+  {
+    "name": "Faith of Life",
+    "zh": "生命信仰",
+    "nativeIcon": "Buddhism"
+  }
+]

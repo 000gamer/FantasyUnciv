@@ -1,0 +1,479 @@
+[
+  {
+    "name": "Farm",
+    "terrainsCanBeBuiltOn": [
+      "Grassland",
+      "Plains",
+      "Flood plains"
+    ],
+    "turnsToBuild": 6,
+    "uniques": [
+      "Cannot be built on [Hill] tiles",
+      "[+1 Food] <in [Fresh water] tiles> <after discovering [D01-T39]>"
+    ],
+    "shortcutKey": "F",
+    "techRequired": "D01-T01",
+    "food": 1
+  },
+  {
+    "name": "Pasture",
+    "turnsToBuild": 7,
+    "uniques": [
+      "Can only be built to improve a resource"
+    ],
+    "shortcutKey": "P",
+    "techRequired": "D01-T02",
+    "production": 1,
+    "terrainsCanBeBuiltOn": []
+  },
+  {
+    "name": "Camp",
+    "turnsToBuild": 6,
+    "uniques": [
+      "Can only be built to improve a resource",
+      "Does not need removal of [Forest]"
+    ],
+    "shortcutKey": "C",
+    "techRequired": "D01-T02",
+    "gold": 1,
+    "terrainsCanBeBuiltOn": []
+  },
+  {
+    "name": "Mine",
+    "terrainsCanBeBuiltOn": [
+      "Hill"
+    ],
+    "turnsToBuild": 7,
+    "uniques": [
+      "[+1 Production] <after discovering [D01-T28]>"
+    ],
+    "shortcutKey": "M",
+    "techRequired": "D01-T03",
+    "production": 1
+  },
+  {
+    "name": "Quarry",
+    "turnsToBuild": 7,
+    "uniques": [
+      "Can only be built to improve a resource"
+    ],
+    "shortcutKey": "Q",
+    "techRequired": "D01-T03",
+    "production": 1,
+    "terrainsCanBeBuiltOn": []
+  },
+  {
+    "name": "Fishing Boats",
+    "turnsToBuild": -1,
+    "terrainsCanBeBuiltOn": [],
+    "uniques": [
+      "Can only be built to improve a resource"
+    ],
+    "shortcutKey": "F",
+    "techRequired": "D01-T07",
+    "food": 1
+  },
+  {
+    "name": "Road",
+    "terrainsCanBeBuiltOn": [
+      "Land"
+    ],
+    "turnsToBuild": 3,
+    "uniques": [
+      "Costs [1] [Gold] per turn when in your territory"
+    ],
+    "shortcutKey": "R",
+    "civilopediaText": [
+      {
+        "text": "Reduces movement cost to ½ if the other tile also has a Road or Railroad"
+      },
+      {
+        "text": "Reduces movement cost to ⅓ with Machinery",
+        "link": "Technology/Machinery"
+      },
+      {
+        "text": "Requires Engineering to bridge rivers",
+        "link": "Technology/Engineering"
+      }
+    ],
+    "techRequired": "D01-T11"
+  },
+  {
+    "name": "Plantation",
+    "turnsToBuild": 6,
+    "uniques": [
+      "Can only be built to improve a resource"
+    ],
+    "shortcutKey": "P",
+    "techRequired": "D01-T14",
+    "gold": 1,
+    "terrainsCanBeBuiltOn": []
+  },
+  {
+    "name": "Lumber mill",
+    "terrainsCanBeBuiltOn": [
+      "Forest"
+    ],
+    "turnsToBuild": 7,
+    "uniques": [],
+    "shortcutKey": "L",
+    "techRequired": "D01-T16",
+    "production": 1
+  },
+  {
+    "name": "Fort",
+    "terrainsCanBeBuiltOn": [
+      "Land"
+    ],
+    "turnsToBuild": 8,
+    "uniques": [
+      "Gives a defensive bonus of [+25]%"
+    ],
+    "shortcutKey": "O",
+    "techRequired": "D01-T16"
+  },
+  {
+    "name": "Remove Forest",
+    "turnsToBuild": 3,
+    "uniques": [],
+    "shortcutKey": "X",
+    "civilopediaText": [
+      {
+        "text": "Provides a one-time Production bonus depending on distance to the closest city once finished"
+      }
+    ],
+    "techRequired": "D01-T06"
+  },
+  {
+    "name": "Remove Jungle",
+    "turnsToBuild": 5,
+    "uniques": [],
+    "shortcutKey": "X",
+    "techRequired": "D01-T16"
+  },
+  {
+    "name": "Remove Marsh",
+    "turnsToBuild": 5,
+    "uniques": [],
+    "shortcutKey": "X",
+    "techRequired": "D01-T16"
+  },
+  {
+    "name": "Railroad",
+    "terrainsCanBeBuiltOn": [
+      "Land"
+    ],
+    "turnsToBuild": 6,
+    "uniques": [
+      "Costs [2] [Gold] per turn when in your territory"
+    ],
+    "shortcutKey": "R",
+    "civilopediaText": [
+      {
+        "text": "Reduces movement cost to ⅒ if the other tile also has a Railroad"
+      },
+      {
+        "text": "Provides a +25% [Production] bonus to cities connected to the capital by Railroads"
+      }
+    ],
+    "techRequired": "D01-T36"
+  },
+  {
+    "name": "Academy",
+    "terrainsCanBeBuiltOn": [
+      "Land"
+    ],
+    "uniques": [
+      "Great Improvement",
+      "Can only be built on [Land] tiles",
+      "Will not be replaced by automated units",
+      "Removes removable features when built"
+    ],
+    "turnsToBuild": -1,
+    "science": 6
+  },
+  {
+    "name": "Manufactory",
+    "terrainsCanBeBuiltOn": [
+      "Land"
+    ],
+    "uniques": [
+      "Great Improvement",
+      "Can only be built on [Land] tiles",
+      "Will not be replaced by automated units",
+      "Removes removable features when built"
+    ],
+    "turnsToBuild": -1,
+    "production": 6
+  },
+  {
+    "name": "Customs house",
+    "terrainsCanBeBuiltOn": [
+      "Land"
+    ],
+    "uniques": [
+      "Great Improvement",
+      "Can only be built on [Land] tiles",
+      "Will not be replaced by automated units",
+      "Removes removable features when built"
+    ],
+    "turnsToBuild": -1,
+    "gold": 6
+  },
+  {
+    "name": "Landmark",
+    "terrainsCanBeBuiltOn": [
+      "Land"
+    ],
+    "uniques": [
+      "Great Improvement",
+      "Can only be built on [Land] tiles",
+      "Will not be replaced by automated units",
+      "Removes removable features when built"
+    ],
+    "turnsToBuild": -1,
+    "culture": 6
+  },
+  {
+    "name": "Holy site",
+    "terrainsCanBeBuiltOn": [
+      "Land"
+    ],
+    "uniques": [
+      "Great Improvement",
+      "Can only be built on [Land] tiles",
+      "Will not be replaced by automated units",
+      "Removes removable features when built"
+    ],
+    "turnsToBuild": -1,
+    "faith": 6
+  },
+  {
+    "name": "Citadel",
+    "terrainsCanBeBuiltOn": [
+      "Land"
+    ],
+    "uniques": [
+      "Great Improvement",
+      "Can only be built on [Land] tiles",
+      "Will not be replaced by automated units",
+      "Removes removable features when built",
+      "Gives a defensive bonus of [+50]%",
+      "Adjacent enemy units ending their turn take [10] damage",
+      "Can be built just outside your borders",
+      "Gain control over [All] tiles in a [1]-tile radius"
+    ],
+    "turnsToBuild": -1
+  },
+  {
+    "name": "Ancient ruins",
+    "terrainsCanBeBuiltOn": [
+      "Land"
+    ],
+    "uniques": [
+      "Unbuildable",
+      "Unpillagable",
+      "Provides a random bonus when entered",
+      "Excluded from map editor"
+    ],
+    "turnsToBuild": -1
+  },
+  {
+    "name": "Barbarian encampment",
+    "terrainsCanBeBuiltOn": [
+      "Land"
+    ],
+    "uniques": [
+      "Unbuildable",
+      "Unpillagable",
+      "Marks a barbarian camp"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Home to uncivilized barbarians, will spawn a hostile unit from time to time"
+      }
+    ],
+    "turnsToBuild": -1
+  },
+  {
+    "name": "I28",
+    "terrainsCanBeBuiltOn": [
+      "Forest"
+    ],
+    "uniques": [
+      "Cannot be built on [resource] tiles"
+    ],
+    "techRequired": "D01-T112",
+    "turnsToBuild": 8,
+    "food": 1,
+    "faith": 1
+  },
+  {
+    "name": "I29",
+    "terrainsCanBeBuiltOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "uniques": [
+      "Cannot be built on [Hill] tiles",
+      "Cannot be built on [resource] tiles",
+      "[+1 Gold] <after discovering [D01-T81]>"
+    ],
+    "techRequired": "D01-T14",
+    "turnsToBuild": 7,
+    "gold": 2
+  },
+  {
+    "name": "I30",
+    "terrainsCanBeBuiltOn": [],
+    "uniques": [
+      "Can only be built to improve a resource",
+      "Does not need removal of [Forest]"
+    ],
+    "techRequired": "D01-T04",
+    "turnsToBuild": 8,
+    "science": 1
+  },
+  {
+    "name": "I31",
+    "terrainsCanBeBuiltOn": [],
+    "uniques": [
+      "Can only be built to improve a resource",
+      "Does not need removal of [Forest]"
+    ],
+    "techRequired": "D01-T98",
+    "turnsToBuild": 8,
+    "food": 1,
+    "faith": 1
+  },
+  {
+    "name": "I32",
+    "terrainsCanBeBuiltOn": [],
+    "uniques": [
+      "Can only be built to improve a resource",
+      "[+1 Gold] <after discovering [D01-T08]>"
+    ],
+    "techRequired": "D01-T06",
+    "turnsToBuild": 7,
+    "production": 1
+  },
+  {
+    "name": "I33",
+    "terrainsCanBeBuiltOn": [],
+    "uniques": [
+      "Can only be built to improve a resource",
+      "Does not need removal of [Forest]",
+      "[+1 Faith] <after discovering [D01-T98]>"
+    ],
+    "techRequired": "D01-T39",
+    "turnsToBuild": 7,
+    "gold": 1
+  },
+  {
+    "name": "I35",
+    "terrainsCanBeBuiltOn": [
+      "Hill"
+    ],
+    "uniques": [
+      "Can only be built on [{Hill} {non-[Desert]} {non-[Tundra]} {non-[Snow]}] tiles",
+      "Cannot be built on [resource] tiles",
+      "[+1 Food] <in [Fresh water] tiles>"
+    ],
+    "techRequired": "D01-T39",
+    "turnsToBuild": 8,
+    "food": 1
+  },
+  {
+    "name": "I36",
+    "terrainsCanBeBuiltOn": [
+      "Land"
+    ],
+    "uniques": [
+      "Cannot be built on [resource] tiles",
+      "Must be next to [R03]",
+      "Does not need removal of [Forest] <hidden from users>",
+      "Does not need removal of [Jungle] <hidden from users>",
+      "[+1 Science] <after discovering [D01-T17]>"
+    ],
+    "techRequired": "D01-T04",
+    "turnsToBuild": 7,
+    "faith": 1
+  },
+  {
+    "name": "I37",
+    "terrainsCanBeBuiltOn": [
+      "Grassland",
+      "Plains"
+    ],
+    "uniques": [
+      "Cannot be built on [Hill] tiles",
+      "Cannot be built on [resource] tiles",
+      "Must be next to [River]"
+    ],
+    "techRequired": "D01-T110",
+    "turnsToBuild": 8,
+    "production": 1,
+    "gold": 1
+  },
+  {
+    "name": "City center",
+    "terrainsCanBeBuiltOn": [
+      "Land"
+    ],
+    "uniques": [
+      "Ensures a minimum tile yield of [+2 Food, +1 Production]",
+      "Unpillagable",
+      "Irremovable",
+      "Unbuildable",
+      "Excluded from map editor"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Marks the center of a city"
+      },
+      {
+        "text": "Appearance changes with the technological era of the owning civilization"
+      }
+    ]
+  },
+  {
+    "name": "City ruins",
+    "terrainsCanBeBuiltOn": [
+      "Land"
+    ],
+    "uniques": [
+      "Unpillagable",
+      "Unbuildable"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A bleak reminder of the destruction wreaked by War"
+      }
+    ]
+  },
+  {
+    "name": "Repair",
+    "terrainsCanBeBuiltOn": [
+      "Land"
+    ],
+    "turnsToBuild": 2,
+    "shortcutKey": "E",
+    "uniques": [
+      "Unbuildable",
+      "Excluded from map editor"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Repairs a pillaged Improvement or Route"
+      }
+    ]
+  },
+  {
+    "name": "Cancel improvement order",
+    "uniques": [
+      "Can be built outside your borders",
+      "Excluded from map editor"
+    ],
+    "shortcutKey": "."
+  }
+]

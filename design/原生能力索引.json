@@ -1,0 +1,476 @@
+{
+  "target": "latest-stable",
+  "source": "https://github.com/yairm210/Unciv/blob/4.22.16/core/src/com/unciv/models/ruleset/unique/UniqueType.kt",
+  "abilities": {
+    "AddInCapital": {
+      "template": "Can be added to [comment] in the Capital",
+      "source_line": 425
+    },
+    "BaseUnitSupply": {
+      "template": "[amount] Unit Supply",
+      "source_line": 204
+    },
+    "BuildImprovements": {
+      "template": "Can build [improvementFilter/terrainFilter] improvements on tiles",
+      "source_line": 419
+    },
+    "BuildingMaintenance": {
+      "template": "[relativeAmount]% maintenance cost for [buildingFilter] buildings [cityFilter]",
+      "source_line": 170
+    },
+    "CanMoveAfterAttacking": {
+      "template": "Can move after attacking",
+      "source_line": 496
+    },
+    "CanMoveOnWater": {
+      "template": "May travel on Water tiles without embarking",
+      "source_line": 562
+    },
+    "CanSeeInvisibleUnits": {
+      "template": "Can see invisible [mapUnitFilter] units",
+      "source_line": 551
+    },
+    "CannotAttack": {
+      "template": "Cannot attack",
+      "source_line": 468
+    },
+    "CannotBeBarbarian": {
+      "template": "Never appears as a Barbarian unit",
+      "source_line": 578
+    },
+    "CannotBeHurried": {
+      "template": "Cannot be hurried",
+      "source_line": 585
+    },
+    "CannotBePurchased": {
+      "template": "Cannot be purchased",
+      "source_line": 332
+    },
+    "CannotBeTraded": {
+      "template": "Cannot be traded",
+      "source_line": 688
+    },
+    "CannotCaptureCities": {
+      "template": "Unable to capture cities",
+      "source_line": 487
+    },
+    "CannotEnterOcean": {
+      "template": "Cannot enter ocean tiles",
+      "source_line": 569
+    },
+    "CarryOverFood": {
+      "template": "[amount]% Food is carried over after population increases [cityFilter]",
+      "source_line": 117
+    },
+    "CityHealingUnits": {
+      "template": "[mapUnitFilter] Units adjacent to this city heal [amount] HP per turn when healing",
+      "source_line": 222
+    },
+    "CityStateGoldGiftsProvideMoreInfluence": {
+      "template": "Gifts of Gold to City-States generate [relativeAmount]% more Influence",
+      "source_line": 96
+    },
+    "CityStateMilitaryUnits": {
+      "template": "Provides military units every ≈[positiveAmount] turns",
+      "source_line": 89
+    },
+    "ConditionalAboveHP": {
+      "template": "when above [positiveAmount] HP",
+      "source_line": 857
+    },
+    "ConditionalAdjacentUnit": {
+      "template": "when adjacent to a [mapUnitFilter] unit",
+      "source_line": 856
+    },
+    "ConditionalAttacking": {
+      "template": "when attacking",
+      "source_line": 852
+    },
+    "ConditionalBuildingBuilt": {
+      "template": "if [buildingFilter] is constructed",
+      "source_line": 809
+    },
+    "ConditionalCityWithBuilding": {
+      "template": "in cities with a [buildingFilter]",
+      "source_line": 834
+    },
+    "ConditionalCityWithoutBuilding": {
+      "template": "in cities without a [buildingFilter]",
+      "source_line": 835
+    },
+    "ConditionalCountableEqualTo": {
+      "template": "when number of [countable] is equal to [countable]",
+      "source_line": 882
+    },
+    "ConditionalCountableLessThan": {
+      "template": "when number of [countable] is less than [countable]",
+      "source_line": 885
+    },
+    "ConditionalCountableMoreThan": {
+      "template": "when number of [countable] is more than [countable]",
+      "source_line": 884
+    },
+    "ConditionalDefending": {
+      "template": "when defending",
+      "source_line": 853
+    },
+    "ConditionalFightingInTiles": {
+      "template": "when fighting in [tileFilter] tiles",
+      "source_line": 854
+    },
+    "ConditionalInTiles": {
+      "template": "in [tileFilter] tiles",
+      "source_line": 867
+    },
+    "ConditionalOurUnit": {
+      "template": "for [mapUnitFilter] units",
+      "source_line": 844
+    },
+    "ConditionalOurUnitOnUnit": {
+      "template": "when [mapUnitFilter]",
+      "source_line": 845
+    },
+    "ConditionalSpeed": {
+      "template": "on [speed] game speed",
+      "source_line": 757
+    },
+    "ConditionalTech": {
+      "template": "after discovering [techFilter]",
+      "source_line": 791
+    },
+    "ConditionalTimedUnique": {
+      "template": "for [nonNegativeAmount] turns",
+      "source_line": 1046
+    },
+    "ConditionalUnitWithPromotion": {
+      "template": "for units with [promotion]",
+      "source_line": 846
+    },
+    "ConditionalUnitWithoutPromotion": {
+      "template": "for units without [promotion]",
+      "source_line": 847
+    },
+    "ConditionalVsCity": {
+      "template": "vs cities",
+      "source_line": 848
+    },
+    "ConditionalVsUnits": {
+      "template": "vs [mapUnitFilter] units",
+      "source_line": 849
+    },
+    "ConditionalWhenBelowAmountStatResource": {
+      "template": "when below [amount] [stat/resource]",
+      "source_line": 821
+    },
+    "ConditionalWithResource": {
+      "template": "with [resource]",
+      "source_line": 816
+    },
+    "ConditionalWithoutResource": {
+      "template": "without [resource]",
+      "source_line": 817
+    },
+    "DestroyedWhenCityCaptured": {
+      "template": "Destroyed when the city is captured",
+      "source_line": 393
+    },
+    "EnablesConstructionOfSpaceshipParts": {
+      "template": "Enables construction of Spaceship parts",
+      "source_line": 133
+    },
+    "EnablesStatProduction": {
+      "template": "Enables conversion of city production to [stat]",
+      "source_line": 154
+    },
+    "ExtraRangedAttack": {
+      "template": "Before engaging in combat performs an extra ranged attack with [amount]% of melee combat strength",
+      "source_line": 459
+    },
+    "FlankAttackBonus": {
+      "template": "[relativeAmount]% to Flank Attack bonuses",
+      "source_line": 447
+    },
+    "FoodConsumptionByPopulation": {
+      "template": "[relativeAmount]% Food consumption by [populationFilter] [cityFilter]",
+      "source_line": 119
+    },
+    "FoundCity": {
+      "template": "Founds a new city",
+      "source_line": 414
+    },
+    "FreeUnits": {
+      "template": "[amount] units cost no maintenance",
+      "source_line": 207
+    },
+    "GPPointPool": {
+      "template": "Is part of Great Person group [comment]",
+      "source_line": 587
+    },
+    "GreatPersonPointPercentage": {
+      "template": "[relativeAmount]% Great Person generation [cityFilter]",
+      "source_line": 196
+    },
+    "GrowthPercentBonus": {
+      "template": "[relativeAmount]% growth [cityFilter]",
+      "source_line": 116
+    },
+    "Heal": {
+      "template": "[amount] HP when healing",
+      "source_line": 458
+    },
+    "HealAdjacentUnits": {
+      "template": "All adjacent units heal [amount] HP when healing",
+      "source_line": 507
+    },
+    "HealsAfterKilling": {
+      "template": "Heals [amount] damage if it kills a unit",
+      "source_line": 504
+    },
+    "HealsEvenAfterAction": {
+      "template": "Unit will heal every turn, even if it performs an action",
+      "source_line": 506
+    },
+    "HealsOutsideFriendlyTerritory": {
+      "template": "May heal outside of friendly territory",
+      "source_line": 501
+    },
+    "IgnoresTerrainCost": {
+      "template": "Ignores terrain cost",
+      "source_line": 564
+    },
+    "IgnoresZOC": {
+      "template": "Ignores Zone of Control",
+      "source_line": 565
+    },
+    "InvisibleToNonAdjacent": {
+      "template": "Invisible to non-adjacent units",
+      "source_line": 550
+    },
+    "KillUnitPlunder": {
+      "template": "Earn [amount]% of killed [mapUnitFilter] unit's [costOrStrength] as [stockpile]",
+      "source_line": 537
+    },
+    "LessPolicyCost": {
+      "template": "[relativeAmount]% Culture cost of adopting new Policies",
+      "source_line": 183
+    },
+    "MaxNumberBuildable": {
+      "template": "Limited to [amount] per Civilization",
+      "source_line": 335
+    },
+    "MustHaveOwnedWithinTiles": {
+      "template": "Must have an owned [tileFilter] within [amount] tiles",
+      "source_line": 375
+    },
+    "MustSetUp": {
+      "template": "Must set up to ranged attack",
+      "source_line": 469
+    },
+    "NoDamagePenaltyWoundedUnits": {
+      "template": "No damage penalty for wounded units",
+      "source_line": 484
+    },
+    "NoDefensiveTerrainBonus": {
+      "template": "No defensive terrain bonus",
+      "source_line": 482
+    },
+    "NoNaturalGeneration": {
+      "template": "Doesn't generate naturally",
+      "source_line": 660
+    },
+    "NotShownOnWorldScreen": {
+      "template": "Not shown on world screen",
+      "source_line": 689
+    },
+    "OneTimeFreeUnit": {
+      "template": "Free [unit] appears",
+      "source_line": 897
+    },
+    "OneTimeGainResource": {
+      "template": "Instantly gain [amount] [stockpile]",
+      "source_line": 923
+    },
+    "OneTimeGainStat": {
+      "template": "Gain [amount] [civWideStat]",
+      "source_line": 924
+    },
+    "OneTimeRevealSpecificMapTiles": {
+      "template": "Reveal up to [positiveAmount/'all'] [tileFilter] within a [positiveAmount] tile radius",
+      "source_line": 935
+    },
+    "OneTimeTriggerVoting": {
+      "template": "Triggers voting for the Diplomatic Victory",
+      "source_line": 918
+    },
+    "OneTimeUnitDamage": {
+      "template": "[unitTriggerTarget] takes [positiveAmount] damage",
+      "source_line": 972
+    },
+    "OneTimeUnitGainPromotion": {
+      "template": "[unitTriggerTarget] gains the [promotion] promotion",
+      "source_line": 976
+    },
+    "OneTimeUnitGainStatus": {
+      "template": "[unitTriggerTarget] gains the [promotion] status for [positiveAmount] turn(s)",
+      "source_line": 980
+    },
+    "OneTimeUnitGainXP": {
+      "template": "[unitTriggerTarget] gains [amount] XP",
+      "source_line": 973
+    },
+    "OneTimeUnitHeal": {
+      "template": "[unitTriggerTarget] heals [positiveAmount] HP",
+      "source_line": 971
+    },
+    "OnlyAvailable": {
+      "template": "Only available",
+      "source_line": 342
+    },
+    "PercentProductionBuildings": {
+      "template": "[relativeAmount]% Production when constructing [buildingFilter] buildings [cityFilter]",
+      "source_line": 75
+    },
+    "PercentProductionBuildingsInCapital": {
+      "template": "[relativeAmount]% Production towards any buildings that already exist in the Capital",
+      "source_line": 81
+    },
+    "PercentProductionUnits": {
+      "template": "[relativeAmount]% Production when constructing [baseUnitFilter] units [cityFilter]",
+      "source_line": 77
+    },
+    "PercentProductionWonders": {
+      "template": "[relativeAmount]% Production when constructing [buildingFilter] wonders [cityFilter]",
+      "source_line": 79
+    },
+    "ProductionToStatConversionBonus": {
+      "template": "Production to [stat] conversion in cities changed by [relativeAmount]%",
+      "source_line": 155
+    },
+    "ProvidesResources": {
+      "template": "Provides [amount] [resource]",
+      "source_line": 236
+    },
+    "Range": {
+      "template": "[amount] Range",
+      "source_line": 456
+    },
+    "Sight": {
+      "template": "[amount] Sight",
+      "source_line": 455
+    },
+    "SpaceshipPart": {
+      "template": "Spaceship part",
+      "source_line": 581
+    },
+    "StatPercentBonusCities": {
+      "template": "[relativeAmount]% [stat] [cityFilter]",
+      "source_line": 61
+    },
+    "Stats": {
+      "template": "[stats]",
+      "source_line": 39
+    },
+    "StatsFromBuildings": {
+      "template": "[stats] from all [buildingFilter] buildings",
+      "source_line": 49
+    },
+    "StatsFromObject": {
+      "template": "[stats] from every [tileFilter/specialist/buildingFilter]",
+      "source_line": 53
+    },
+    "StatsFromSpecialist": {
+      "template": "[stats] from every specialist [cityFilter]",
+      "source_line": 43
+    },
+    "StatsFromTiles": {
+      "template": "[stats] from [tileFilter] tiles [cityFilter]",
+      "source_line": 50
+    },
+    "StatsPerCity": {
+      "template": "[stats] [cityFilter]",
+      "source_line": 41
+    },
+    "StatsPerPopulation": {
+      "template": "[stats] per [positiveAmount] population [cityFilter]",
+      "source_line": 44
+    },
+    "Stockpiled": {
+      "template": "Stockpiled",
+      "source_line": 684
+    },
+    "Strength": {
+      "template": "[relativeAmount]% Strength",
+      "source_line": 443
+    },
+    "StrengthBonusInRadius": {
+      "template": "[relativeAmount]% Strength bonus for [mapUnitFilter] units within [amount] tiles",
+      "source_line": 450
+    },
+    "TerrainGrantsPromotion": {
+      "template": "Grants [promotion] ([comment]) to adjacent [mapUnitFilter] units for the rest of the game",
+      "source_line": 633
+    },
+    "TriggerEvent": {
+      "template": "Triggers a [event] event",
+      "source_line": 959
+    },
+    "Unbuildable": {
+      "template": "Unbuildable",
+      "source_line": 330
+    },
+    "Uncapturable": {
+      "template": "Uncapturable",
+      "source_line": 485
+    },
+    "UnitActionConsumeUnit": {
+      "template": "by consuming this unit",
+      "source_line": 594
+    },
+    "UnitActionLimitedTimes": {
+      "template": "[positiveAmount] times",
+      "source_line": 611
+    },
+    "UnitActionMovementCostAll": {
+      "template": "for all movement",
+      "source_line": 597
+    },
+    "UnitMaintenanceDiscount": {
+      "template": "[relativeAmount]% maintenance costs",
+      "source_line": 529
+    },
+    "UnitStartingExperience": {
+      "template": "New [baseUnitFilter] units start with [amount] XP [cityFilter]",
+      "source_line": 219
+    },
+    "UnitStartingPromotions": {
+      "template": "All newly-trained [baseUnitFilter] units [cityFilter] receive the [promotion] promotion",
+      "source_line": 220
+    },
+    "UnitSupplyPerCity": {
+      "template": "[amount] Unit Supply per city",
+      "source_line": 206
+    },
+    "UnitUpgradeCost": {
+      "template": "[relativeAmount]% Gold cost of upgrading",
+      "source_line": 531
+    },
+    "UnitsGainPromotion": {
+      "template": "[mapUnitFilter] units gain the [promotion] promotion",
+      "source_line": 955
+    },
+    "Unsellable": {
+      "template": "Unsellable",
+      "source_line": 387
+    },
+    "XPForPromotionModifier": {
+      "template": "[relativeAmount]% XP required for promotions",
+      "source_line": 225
+    },
+    "StrengthForCities": {
+      "template": "[relativeAmount]% Strength for cities",
+      "source_line": 231
+    }
+  },
+  "reference_release": "4.22.16",
+  "reference_checked_on": "2026-11-02"
+}

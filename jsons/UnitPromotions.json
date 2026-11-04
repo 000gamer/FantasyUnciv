@@ -1,0 +1,1156 @@
+[
+  {
+    "name": "P01",
+    "unitTypes": [
+      "步兵",
+      "重步兵",
+      "长柄",
+      "轻骑",
+      "重骑",
+      "野兽",
+      "构装",
+      "医护",
+      "幽魂"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+10]% Strength <when fighting in [Open terrain] tiles>"
+    ]
+  },
+  {
+    "name": "P02",
+    "unitTypes": [
+      "步兵",
+      "重步兵",
+      "长柄",
+      "轻骑",
+      "重骑",
+      "野兽",
+      "构装",
+      "医护",
+      "幽魂"
+    ],
+    "prerequisites": [
+      "P01"
+    ],
+    "uniques": [
+      "[+10]% Strength <when fighting in [Open terrain] tiles>"
+    ]
+  },
+  {
+    "name": "P03",
+    "unitTypes": [
+      "步兵",
+      "重步兵",
+      "长柄",
+      "轻骑",
+      "重骑",
+      "野兽",
+      "构装",
+      "医护",
+      "幽魂"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+10]% Strength <when fighting in [Rough terrain] tiles>"
+    ]
+  },
+  {
+    "name": "P04",
+    "unitTypes": [
+      "步兵",
+      "重步兵",
+      "长柄",
+      "轻骑",
+      "重骑",
+      "野兽",
+      "构装",
+      "医护",
+      "幽魂"
+    ],
+    "prerequisites": [
+      "P03"
+    ],
+    "uniques": [
+      "[+10]% Strength <when fighting in [Rough terrain] tiles>"
+    ]
+  },
+  {
+    "name": "P05",
+    "unitTypes": [
+      "步兵",
+      "重步兵",
+      "长柄",
+      "构装",
+      "医护",
+      "幽魂"
+    ],
+    "prerequisites": [
+      "P02",
+      "P04"
+    ],
+    "uniques": [
+      "[+15]% Strength <when defending> <vs [Ranged] units>"
+    ]
+  },
+  {
+    "name": "P06",
+    "unitTypes": [
+      "轻骑",
+      "重骑",
+      "野兽"
+    ],
+    "prerequisites": [
+      "P02",
+      "P04"
+    ],
+    "uniques": [
+      "[+1] Movement"
+    ]
+  },
+  {
+    "name": "P07",
+    "unitTypes": [
+      "射手",
+      "术士",
+      "海远程",
+      "骑射",
+      "死灵"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+10]% Strength <when attacking>"
+    ]
+  },
+  {
+    "name": "P08",
+    "unitTypes": [
+      "射手",
+      "术士",
+      "海远程",
+      "骑射",
+      "死灵"
+    ],
+    "prerequisites": [
+      "P07"
+    ],
+    "uniques": [
+      "[+10]% Strength <when attacking>"
+    ]
+  },
+  {
+    "name": "P09",
+    "unitTypes": [
+      "射手",
+      "术士",
+      "海远程",
+      "骑射",
+      "死灵"
+    ],
+    "prerequisites": [
+      "P07"
+    ],
+    "uniques": [
+      "[+15]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "P10",
+    "unitTypes": [
+      "攻城"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+15]% Strength <vs cities>"
+    ]
+  },
+  {
+    "name": "P11",
+    "unitTypes": [
+      "攻城"
+    ],
+    "prerequisites": [
+      "P10"
+    ],
+    "uniques": [
+      "[+15]% Strength <vs cities>"
+    ]
+  },
+  {
+    "name": "P12",
+    "unitTypes": [
+      "攻城"
+    ],
+    "prerequisites": [
+      "P10"
+    ],
+    "uniques": [
+      "[+15]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "P13",
+    "unitTypes": [
+      "海近战"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+10]% Strength"
+    ]
+  },
+  {
+    "name": "P14",
+    "unitTypes": [
+      "海近战"
+    ],
+    "prerequisites": [
+      "P13"
+    ],
+    "uniques": [
+      "[+10]% Strength"
+    ]
+  },
+  {
+    "name": "P15",
+    "unitTypes": [
+      "海近战",
+      "海远程"
+    ],
+    "prerequisites": [
+      "P14",
+      "P08"
+    ],
+    "uniques": [
+      "[+1] Movement"
+    ]
+  },
+  {
+    "name": "P16",
+    "unitTypes": [
+      "医护",
+      "幽魂"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+5] HP when healing",
+      "Only available <after discovering [D01-T98]>"
+    ]
+  },
+  {
+    "name": "P17",
+    "unitTypes": [
+      "医护",
+      "术士",
+      "死灵",
+      "幽魂"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+10]% Strength <when defending>",
+      "Only available <after discovering [D01-T53]>"
+    ]
+  },
+  {
+    "name": "P18",
+    "unitTypes": [
+      "术士"
+    ],
+    "prerequisites": [
+      "P08"
+    ],
+    "uniques": [
+      "[+15]% Strength <vs [重步兵] units>",
+      "[+15]% Strength <vs [重骑] units>",
+      "[+15]% Strength <vs [构装] units>",
+      "[+15]% Strength <vs [UX06] units>",
+      "[+15]% Strength <vs [UX30] units>",
+      "[+15]% Strength <vs [M05] units>",
+      "Only available <after discovering [D01-T99]>"
+    ]
+  },
+  {
+    "name": "P20",
+    "unitTypes": [
+      "侦察"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Sight"
+    ]
+  },
+  {
+    "name": "P21",
+    "unitTypes": [
+      "侦察"
+    ],
+    "prerequisites": [
+      "P20"
+    ],
+    "uniques": [
+      "[+1] Movement",
+      "Only available <for units without [P70]>"
+    ]
+  },
+  {
+    "name": "P22",
+    "unitTypes": [
+      "构装"
+    ],
+    "prerequisites": [
+      "P04",
+      "P02"
+    ],
+    "uniques": [
+      "[+5] HP when healing"
+    ]
+  },
+  {
+    "name": "P23",
+    "unitTypes": [
+      "医护"
+    ],
+    "prerequisites": [
+      "P02",
+      "P04"
+    ],
+    "uniques": [
+      "[+20]% Strength <vs [死灵] units>",
+      "[+20]% Strength <vs [幽魂] units>",
+      "[+20]% Strength <vs [英雄幽魂] units>",
+      "Only available <for units without [P68]>"
+    ]
+  },
+  {
+    "name": "P25",
+    "unitTypes": [
+      "术士",
+      "死灵"
+    ],
+    "prerequisites": [
+      "P09",
+      "P17"
+    ],
+    "uniques": [
+      "[+15]% Strength <when defending> <vs [Ranged] units>",
+      "Only available <after discovering [D01-T64]>"
+    ]
+  },
+  {
+    "name": "P26",
+    "unitTypes": [
+      "海近战",
+      "海远程"
+    ],
+    "prerequisites": [
+      "P13",
+      "P07"
+    ],
+    "uniques": [
+      "[+5] HP when healing"
+    ]
+  },
+  {
+    "name": "P27",
+    "unitTypes": [
+      "死灵",
+      "幽魂"
+    ],
+    "prerequisites": [
+      "P08",
+      "P04"
+    ],
+    "uniques": [
+      "[+15]% Strength <vs [元素] units>",
+      "[+15]% Strength <vs [构装] units>"
+    ]
+  },
+  {
+    "name": "P29",
+    "unitTypes": [
+      "骑射",
+      "轻骑"
+    ],
+    "prerequisites": [
+      "P08",
+      "P02"
+    ],
+    "uniques": [
+      "[+15]% Strength <vs [射手] units>",
+      "[+15]% Strength <vs [攻城] units>"
+    ]
+  },
+  {
+    "name": "P30",
+    "unitTypes": [
+      "医护",
+      "死灵"
+    ],
+    "prerequisites": [
+      "P16",
+      "P17"
+    ],
+    "uniques": [
+      "[+1] Sight"
+    ]
+  },
+  {
+    "name": "P31",
+    "unitTypes": [],
+    "prerequisites": [],
+    "uniques": [
+      "[1] Movement point cost to embark",
+      "[1] Movement point cost to disembark"
+    ]
+  },
+  {
+    "name": "P33",
+    "unitTypes": [],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Sight",
+      "Can see invisible [幽魂] units",
+      "Can see invisible [英雄幽魂] units"
+    ]
+  },
+  {
+    "name": "P34",
+    "unitTypes": [],
+    "prerequisites": [],
+    "uniques": [
+      "Unit will heal every turn, even if it performs an action",
+      "[+25]% maintenance costs"
+    ]
+  },
+  {
+    "name": "P36",
+    "unitTypes": [],
+    "prerequisites": [],
+    "uniques": [
+      "May heal outside of friendly territory",
+      "[+5] HP when healing"
+    ]
+  },
+  {
+    "name": "P37",
+    "unitTypes": [],
+    "prerequisites": [],
+    "uniques": [
+      "[+10]% Strength <when defending> <vs [Ranged] units>"
+    ]
+  },
+  {
+    "name": "P38",
+    "unitTypes": [],
+    "prerequisites": [],
+    "uniques": [
+      "[+5] HP when healing"
+    ]
+  },
+  {
+    "name": "P39",
+    "unitTypes": [],
+    "prerequisites": [],
+    "uniques": [
+      "Ignores Zone of Control"
+    ]
+  },
+  {
+    "name": "P40",
+    "unitTypes": [],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Sight"
+    ]
+  },
+  {
+    "name": "P41",
+    "unitTypes": [
+      "Hero-01"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+15]% Strength bonus for [{Land} {Military}] units within [1] tiles"
+    ]
+  },
+  {
+    "name": "P42",
+    "unitTypes": [
+      "Hero-01"
+    ],
+    "prerequisites": [
+      "P41"
+    ],
+    "uniques": [
+      "Unit will heal every turn, even if it performs an action <hidden from users>",
+      "Comment [FC Bridge healing H01]",
+      "[+25]% maintenance costs"
+    ]
+  },
+  {
+    "name": "P43",
+    "unitTypes": [
+      "Hero-02"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Sight",
+      "Can see invisible [幽魂] units",
+      "Can see invisible [英雄幽魂] units",
+      "Only available <after discovering [D01-T64]>"
+    ]
+  },
+  {
+    "name": "P44",
+    "unitTypes": [
+      "Hero-02"
+    ],
+    "prerequisites": [
+      "P43"
+    ],
+    "uniques": [
+      "[+1] Range"
+    ]
+  },
+  {
+    "name": "P45",
+    "unitTypes": [
+      "Hero-04"
+    ],
+    "prerequisites": [
+      "P60"
+    ],
+    "uniques": [
+      "[+20]% Strength <vs [构装] units>",
+      "[+20]% Strength <vs [元素] units>",
+      "Only available <for units without [P63]>"
+    ]
+  },
+  {
+    "name": "P46",
+    "unitTypes": [
+      "Hero-04"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "Before engaging in combat performs an extra ranged attack with [30]% of melee combat strength"
+    ]
+  },
+  {
+    "name": "P47",
+    "unitTypes": [],
+    "prerequisites": [],
+    "uniques": [
+      "Can see invisible [幽魂] units",
+      "Can see invisible [英雄幽魂] units"
+    ]
+  },
+  {
+    "name": "P48",
+    "unitTypes": [
+      "死灵",
+      "幽魂"
+    ],
+    "prerequisites": [
+      "P17",
+      "P27"
+    ],
+    "uniques": [
+      "Earn [25]% of killed [Military] unit's [Strength] as [Culture]",
+      "Only available <after discovering [D01-T54]>",
+      "Only available <for units without [P69]>"
+    ]
+  },
+  {
+    "name": "P51",
+    "unitTypes": [
+      "Hero-01"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+10]% Strength <when defending> <vs [Ranged] units>"
+    ]
+  },
+  {
+    "name": "P52",
+    "unitTypes": [
+      "Hero-01"
+    ],
+    "prerequisites": [
+      "P51"
+    ],
+    "uniques": [
+      "All adjacent units heal [5] HP when healing",
+      "Only available <after discovering [D01-T85]>",
+      "Only available <for units without [P65]>"
+    ]
+  },
+  {
+    "name": "P54",
+    "unitTypes": [
+      "Hero-02"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+10]% Strength <when defending> <vs [Ranged] units>"
+    ]
+  },
+  {
+    "name": "P55",
+    "unitTypes": [
+      "Hero-02"
+    ],
+    "prerequisites": [
+      "P54"
+    ],
+    "uniques": [
+      "Can move after attacking",
+      "Only available <after discovering [D01-T103]>",
+      "Only available <for units without [P64]>"
+    ]
+  },
+  {
+    "name": "P57",
+    "unitTypes": [
+      "Hero-03"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "Ignores Zone of Control"
+    ]
+  },
+  {
+    "name": "P58",
+    "unitTypes": [
+      "Hero-03"
+    ],
+    "prerequisites": [
+      "P57"
+    ],
+    "uniques": [
+      "[+1] Movement",
+      "Only available <after discovering [D01-T80]>",
+      "Only available <for units without [P66]>"
+    ]
+  },
+  {
+    "name": "P60",
+    "unitTypes": [
+      "Hero-04"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "Heals [10] damage if it kills a unit"
+    ]
+  },
+  {
+    "name": "P61",
+    "unitTypes": [
+      "Hero-04"
+    ],
+    "prerequisites": [
+      "P60"
+    ],
+    "uniques": [
+      "Ignores Zone of Control",
+      "Only available <after discovering [D01-T94]>",
+      "Only available <for units without [P67]>"
+    ]
+  },
+  {
+    "name": "P62",
+    "unitTypes": [
+      "术士",
+      "死灵"
+    ],
+    "prerequisites": [
+      "P25"
+    ],
+    "uniques": [
+      "No damage penalty for wounded units",
+      "[+25]% maintenance costs",
+      "Only available <after discovering [D01-T101]>"
+    ]
+  },
+  {
+    "name": "P63",
+    "unitTypes": [
+      "Hero-04"
+    ],
+    "prerequisites": [
+      "P60"
+    ],
+    "uniques": [
+      "Ignores terrain cost",
+      "[+1] Sight",
+      "Only available <for units without [P45]>"
+    ]
+  },
+  {
+    "name": "P64",
+    "unitTypes": [
+      "Hero-02"
+    ],
+    "prerequisites": [
+      "P54"
+    ],
+    "uniques": [
+      "No damage penalty for wounded units",
+      "[+25]% maintenance costs",
+      "Only available <after discovering [D01-T103]>",
+      "Only available <for units without [P55]>"
+    ]
+  },
+  {
+    "name": "P65",
+    "unitTypes": [
+      "Hero-01"
+    ],
+    "prerequisites": [
+      "P51"
+    ],
+    "uniques": [
+      "[+15]% Strength bonus for [{Land} {Military}] units within [2] tiles",
+      "Only available <after discovering [D01-T85]>",
+      "Only available <for units without [P52]>"
+    ]
+  },
+  {
+    "name": "P66",
+    "unitTypes": [
+      "Hero-03"
+    ],
+    "prerequisites": [
+      "P57"
+    ],
+    "uniques": [
+      "[+15]% Strength <when fighting in [Forest] tiles>",
+      "Only available <after discovering [D01-T80]>",
+      "Only available <for units without [P58]>"
+    ]
+  },
+  {
+    "name": "P67",
+    "unitTypes": [
+      "Hero-04"
+    ],
+    "prerequisites": [
+      "P60"
+    ],
+    "uniques": [
+      "Unit will heal every turn, even if it performs an action",
+      "[+25]% maintenance costs",
+      "Only available <after discovering [D01-T94]>",
+      "Only available <for units without [P61]>"
+    ]
+  },
+  {
+    "name": "P68",
+    "unitTypes": [
+      "医护"
+    ],
+    "prerequisites": [
+      "P30"
+    ],
+    "uniques": [
+      "All adjacent units heal [5] HP when healing",
+      "[+25]% maintenance costs",
+      "Only available <for units without [P23]>"
+    ]
+  },
+  {
+    "name": "P69",
+    "unitTypes": [
+      "幽魂"
+    ],
+    "prerequisites": [
+      "P04",
+      "P17"
+    ],
+    "uniques": [
+      "Can move after attacking",
+      "Ignores Zone of Control",
+      "[+25]% maintenance costs",
+      "Only available <after discovering [D01-T79]>",
+      "Only available <for units without [P48]>"
+    ]
+  },
+  {
+    "name": "P70",
+    "unitTypes": [
+      "侦察"
+    ],
+    "prerequisites": [
+      "P20"
+    ],
+    "uniques": [
+      "[+1] Sight",
+      "Can build [Repair] improvements on tiles",
+      "Only available <after discovering [D01-T57]>",
+      "Only available <for units without [P21]>"
+    ]
+  },
+  {
+    "name": "P71",
+    "unitTypes": [],
+    "prerequisites": [],
+    "uniques": []
+  },
+  {
+    "name": "P73",
+    "unitTypes": [
+      "Hero-05"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+5] HP when healing"
+    ]
+  },
+  {
+    "name": "P74",
+    "unitTypes": [
+      "Hero-05"
+    ],
+    "prerequisites": [
+      "P73"
+    ],
+    "uniques": [
+      "All adjacent units heal [5] HP when healing",
+      "[+25]% maintenance costs",
+      "Only available <after discovering [D01-T31]>",
+      "Only available <for units without [P75]>"
+    ]
+  },
+  {
+    "name": "P75",
+    "unitTypes": [
+      "Hero-05"
+    ],
+    "prerequisites": [
+      "P73"
+    ],
+    "uniques": [
+      "[+1] Movement",
+      "Unit will heal every turn, even if it performs an action",
+      "[+25]% maintenance costs",
+      "Only available <after discovering [D01-T31]>",
+      "Only available <for units without [P74]>"
+    ]
+  },
+  {
+    "name": "P77",
+    "unitTypes": [
+      "Hero-06"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+10]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "P78",
+    "unitTypes": [
+      "Hero-06"
+    ],
+    "prerequisites": [
+      "P77"
+    ],
+    "uniques": [
+      "Earn [25]% of killed [Military] unit's [Strength] as [Culture]",
+      "Only available <after discovering [D01-T79]>",
+      "Only available <for units without [P79]>"
+    ]
+  },
+  {
+    "name": "P79",
+    "unitTypes": [
+      "Hero-06"
+    ],
+    "prerequisites": [
+      "P77"
+    ],
+    "uniques": [
+      "Can move after attacking",
+      "Ignores Zone of Control",
+      "[+25]% maintenance costs",
+      "Only available <after discovering [D01-T79]>",
+      "Only available <for units without [P78]>"
+    ]
+  },
+  {
+    "name": "P81",
+    "unitTypes": [
+      "Hero-07"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+10]% Strength <when defending> <vs [Ranged] units>"
+    ]
+  },
+  {
+    "name": "P82",
+    "unitTypes": [
+      "Hero-07"
+    ],
+    "prerequisites": [
+      "P81"
+    ],
+    "uniques": [
+      "[+20]% Strength <vs [构装] units>",
+      "Only available <after discovering [D01-T91]>",
+      "Only available <for units without [P83]>"
+    ]
+  },
+  {
+    "name": "P83",
+    "unitTypes": [
+      "Hero-07"
+    ],
+    "prerequisites": [
+      "P81"
+    ],
+    "uniques": [
+      "[+20]% Strength <when defending> <vs [Ranged] units>",
+      "Only available <after discovering [D01-T91]>",
+      "Only available <for units without [P82]>"
+    ]
+  },
+  {
+    "name": "P85",
+    "unitTypes": [
+      "Hero-08"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+10]% Strength <when defending> <vs [Ranged] units>"
+    ]
+  },
+  {
+    "name": "P86",
+    "unitTypes": [
+      "Hero-08"
+    ],
+    "prerequisites": [
+      "P85"
+    ],
+    "uniques": [
+      "[+1] Movement",
+      "Ignores terrain cost",
+      "Only available <after discovering [D01-T102]>",
+      "Only available <for units without [P87]>"
+    ]
+  },
+  {
+    "name": "P87",
+    "unitTypes": [
+      "Hero-08"
+    ],
+    "prerequisites": [
+      "P85"
+    ],
+    "uniques": [
+      "[+25]% Strength <when defending> <vs [Ranged] units>",
+      "Only available <after discovering [D01-T102]>",
+      "Only available <for units without [P86]>"
+    ]
+  },
+  {
+    "name": "P89",
+    "unitTypes": [
+      "Hero-09"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+10]% Strength <when defending> <vs [Ranged] units>"
+    ]
+  },
+  {
+    "name": "P90",
+    "unitTypes": [
+      "Hero-09"
+    ],
+    "prerequisites": [
+      "P89"
+    ],
+    "uniques": [
+      "[+10]% Strength bonus for [{Water} {Military}] units within [2] tiles",
+      "Only available <after discovering [D01-T32]>",
+      "Only available <for units without [P91]>"
+    ]
+  },
+  {
+    "name": "P91",
+    "unitTypes": [
+      "Hero-09"
+    ],
+    "prerequisites": [
+      "P89"
+    ],
+    "uniques": [
+      "[+1] Movement",
+      "Can move after attacking",
+      "Only available <after discovering [D01-T32]>",
+      "Only available <for units without [P90]>"
+    ]
+  },
+  {
+    "name": "P93",
+    "unitTypes": [
+      "Hero-10"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+5] HP when healing"
+    ]
+  },
+  {
+    "name": "P94",
+    "unitTypes": [
+      "Hero-10"
+    ],
+    "prerequisites": [
+      "P93"
+    ],
+    "uniques": [
+      "[+1] Sight",
+      "Can see invisible [幽魂] units",
+      "Can see invisible [英雄幽魂] units",
+      "Only available <after discovering [D01-T79]>",
+      "Only available <for units without [P95]>"
+    ]
+  },
+  {
+    "name": "P95",
+    "unitTypes": [
+      "Hero-10"
+    ],
+    "prerequisites": [
+      "P93"
+    ],
+    "uniques": [
+      "All adjacent units heal [5] HP when healing",
+      "Only available <after discovering [D01-T31]>",
+      "Only available <for units without [P94]>"
+    ]
+  },
+  {
+    "name": "P97",
+    "unitTypes": [
+      "Hero-11"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+10]% Strength <when defending> <vs [Ranged] units>"
+    ]
+  },
+  {
+    "name": "P98",
+    "unitTypes": [
+      "Hero-11"
+    ],
+    "prerequisites": [
+      "P97"
+    ],
+    "uniques": [
+      "All adjacent units heal [5] HP when healing",
+      "Only available <after discovering [D01-T36]>",
+      "Only available <for units without [P99]>"
+    ]
+  },
+  {
+    "name": "P99",
+    "unitTypes": [
+      "Hero-11"
+    ],
+    "prerequisites": [
+      "P97"
+    ],
+    "uniques": [
+      "[+15]% Strength <when adjacent to a [构装] unit>",
+      "Only available <after discovering [D01-T36]>",
+      "Only available <for units without [P98]>"
+    ]
+  },
+  {
+    "name": "P101",
+    "unitTypes": [
+      "Hero-12"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Sight"
+    ]
+  },
+  {
+    "name": "P102",
+    "unitTypes": [
+      "Hero-12"
+    ],
+    "prerequisites": [
+      "P101"
+    ],
+    "uniques": [
+      "Earn [50]% of killed [Military] unit's [Strength] as [Gold]",
+      "Only available <after discovering [D01-T92]>",
+      "Only available <for units without [P103]>"
+    ]
+  },
+  {
+    "name": "P103",
+    "unitTypes": [
+      "Hero-12"
+    ],
+    "prerequisites": [
+      "P101"
+    ],
+    "uniques": [
+      "[+1] Movement",
+      "Unit will heal every turn, even if it performs an action",
+      "[+25]% maintenance costs",
+      "Only available <after discovering [D01-T92]>",
+      "Only available <for units without [P102]>"
+    ]
+  },
+  {
+    "name": "P104",
+    "unitTypes": [],
+    "prerequisites": [],
+    "uniques": [
+      "[+15]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "P109",
+    "unitTypes": [],
+    "prerequisites": [],
+    "uniques": [
+      "Will not be displayed in Civilopedia",
+      "FC medic near active patient"
+    ]
+  },
+  {
+    "name": "P110",
+    "unitTypes": [
+      "Hero-03"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+15]% Strength bonus for [{Land} {Military}] units within [1] tiles",
+      "Only available <for units without [P41]> <hidden from users>"
+    ]
+  },
+  {
+    "name": "P111",
+    "unitTypes": [
+      "Hero-03"
+    ],
+    "prerequisites": [
+      "P110"
+    ],
+    "uniques": [
+      "Unit will heal every turn, even if it performs an action <hidden from users>",
+      "Comment [FC Bridge healing H03]",
+      "[+25]% maintenance costs",
+      "Only available <for units without [P42]> <hidden from users>"
+    ]
+  }
+]

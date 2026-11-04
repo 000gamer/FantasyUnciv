@@ -1,0 +1,717 @@
+[
+  {
+    "name": "PB01",
+    "era": "I",
+    "uniques": [
+      "[+3 Culture] [in capital]",
+      "[-25]% Culture cost of natural border growth [in capital]"
+    ],
+    "priorities": {
+      "Cultural": 8,
+      "Diplomatic": 4,
+      "Domination": 3,
+      "Scientific": 7,
+      "Neutral": 6,
+      "Time": 6
+    },
+    "policies": [
+      {
+        "name": "PL01",
+        "requires": [
+          "PB01"
+        ],
+        "row": 1,
+        "column": 1,
+        "uniques": [
+          "[+2 Food] [in capital]"
+        ]
+      },
+      {
+        "name": "PL02",
+        "requires": [
+          "PB01"
+        ],
+        "row": 1,
+        "column": 3,
+        "uniques": [
+          "Provides the cheapest [Culture] building in your first [4] cities for free"
+        ]
+      },
+      {
+        "name": "PL03",
+        "requires": [
+          "PB01"
+        ],
+        "row": 1,
+        "column": 5,
+        "uniques": [
+          "Units in cities cost no Maintenance"
+        ]
+      },
+      {
+        "name": "PL04",
+        "requires": [
+          "PL01"
+        ],
+        "row": 2,
+        "column": 4,
+        "uniques": [
+          "[+1 Gold, +1 Happiness] per [2] population [in capital]"
+        ]
+      },
+      {
+        "name": "PL05",
+        "requires": [
+          "PL02"
+        ],
+        "row": 2,
+        "column": 2,
+        "uniques": [
+          "[+15]% Production when constructing [All] wonders [in capital]"
+        ]
+      },
+      {
+        "name": "PB01 Complete",
+        "requires": [
+          "PL01",
+          "PL02",
+          "PL03",
+          "PL04",
+          "PL05"
+        ],
+        "uniques": [
+          "[+10]% growth [in capital]",
+          "[+10]% Great Person generation [in capital]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PB02",
+    "era": "I",
+    "uniques": [
+      "[+1 Culture] [in all cities]"
+    ],
+    "priorities": {
+      "Cultural": 4,
+      "Diplomatic": 4,
+      "Domination": 7,
+      "Scientific": 5,
+      "Neutral": 5,
+      "Time": 5
+    },
+    "policies": [
+      {
+        "name": "PL06",
+        "requires": [
+          "PB02"
+        ],
+        "row": 1,
+        "column": 1,
+        "uniques": [
+          "Free [C02] appears",
+          "[-20]% construction time for [All] improvements"
+        ]
+      },
+      {
+        "name": "PL07",
+        "requires": [
+          "PB02"
+        ],
+        "row": 1,
+        "column": 3,
+        "uniques": [
+          "[+50]% Production when constructing [C01] units [in capital]"
+        ]
+      },
+      {
+        "name": "PL08",
+        "requires": [
+          "PB02"
+        ],
+        "row": 1,
+        "column": 5,
+        "uniques": [
+          "[+1 Gold] from [Camp] tiles [in all cities]",
+          "[+1 Gold] from [Pasture] tiles [in all cities]"
+        ]
+      },
+      {
+        "name": "PL09",
+        "requires": [
+          "PL06"
+        ],
+        "row": 2,
+        "column": 4,
+        "uniques": [
+          "[+1 Science] from [Lumber mill] tiles [in all cities]"
+        ]
+      },
+      {
+        "name": "PL10",
+        "requires": [
+          "PL07",
+          "PL08"
+        ],
+        "row": 2,
+        "column": 2,
+        "uniques": [
+          "[+1 Happiness] [in all cities connected to capital]"
+        ]
+      },
+      {
+        "name": "PB02 Complete",
+        "requires": [
+          "PL06",
+          "PL07",
+          "PL08",
+          "PL09",
+          "PL10"
+        ],
+        "uniques": [
+          "[+1 Production] [in all cities]",
+          "[-15]% maintenance on road & railroads"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PB03",
+    "era": "I",
+    "uniques": [
+      "[+20]% Strength <for [{Land} {Military}] units> <vs [Barbarians] units>"
+    ],
+    "priorities": {
+      "Cultural": 2,
+      "Diplomatic": 2,
+      "Domination": 10,
+      "Scientific": 3,
+      "Neutral": 4,
+      "Time": 4
+    },
+    "policies": [
+      {
+        "name": "PL11",
+        "requires": [
+          "PB03"
+        ],
+        "row": 1,
+        "column": 1,
+        "uniques": [
+          "New [步兵] units start with [+10] XP [in all cities]",
+          "New [重步兵] units start with [+10] XP [in all cities]"
+        ]
+      },
+      {
+        "name": "PL12",
+        "requires": [
+          "PB03"
+        ],
+        "row": 1,
+        "column": 3,
+        "uniques": [
+          "[-10]% maintenance costs <for [Military] units>"
+        ]
+      },
+      {
+        "name": "PL13",
+        "requires": [
+          "PB03"
+        ],
+        "row": 1,
+        "column": 5,
+        "uniques": [
+          "[+15]% Production when constructing [攻城] units [in all cities]"
+        ]
+      },
+      {
+        "name": "PL14",
+        "requires": [
+          "PL11"
+        ],
+        "row": 2,
+        "column": 4,
+        "uniques": [
+          "[-10]% XP required for promotions"
+        ]
+      },
+      {
+        "name": "PL15",
+        "requires": [
+          "PL12",
+          "PL13"
+        ],
+        "row": 2,
+        "column": 2,
+        "uniques": [
+          "[+10]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
+          "[-15]% Gold cost of upgrading <for [Military] units>"
+        ]
+      },
+      {
+        "name": "PB03 Complete",
+        "requires": [
+          "PL11",
+          "PL12",
+          "PL13",
+          "PL14",
+          "PL15"
+        ],
+        "uniques": [
+          "[+20]% XP gained from combat <for [Military] units>",
+          "Earn [10]% of killed [Military] unit's [Cost] as [Gold]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PB04",
+    "era": "II",
+    "uniques": [
+      "[+50]% Production when constructing [B05] buildings [in all cities]",
+      "[+50]% Production when constructing [B15] buildings [in all cities]",
+      "Only available <when religion is enabled>"
+    ],
+    "priorities": {
+      "Cultural": 8,
+      "Diplomatic": 5,
+      "Domination": 3,
+      "Scientific": 4,
+      "Neutral": 5,
+      "Time": 5
+    },
+    "policies": [
+      {
+        "name": "PL16",
+        "requires": [
+          "PB04"
+        ],
+        "row": 1,
+        "column": 1,
+        "uniques": [
+          "[+1 Faith] from all [B05] buildings",
+          "[+1 Faith] from all [B15] buildings"
+        ]
+      },
+      {
+        "name": "PL17",
+        "requires": [
+          "PB04"
+        ],
+        "row": 1,
+        "column": 3,
+        "uniques": [
+          "[+1 Culture] from all [B15] buildings"
+        ]
+      },
+      {
+        "name": "PL18",
+        "requires": [
+          "PL16"
+        ],
+        "row": 2,
+        "column": 2,
+        "uniques": [
+          "When spreading religion to a city, gain [2] times the amount of followers of other religions as [Culture]"
+        ]
+      },
+      {
+        "name": "PL19",
+        "requires": [
+          "PL17"
+        ],
+        "row": 2,
+        "column": 4,
+        "uniques": [
+          "[+25]% Natural religion spread [in all cities]"
+        ]
+      },
+      {
+        "name": "PL20",
+        "requires": [
+          "PL16",
+          "PL17"
+        ],
+        "row": 3,
+        "column": 3,
+        "uniques": [
+          "[Faith] cost of purchasing [All] buildings [-15]%"
+        ]
+      },
+      {
+        "name": "PB04 Complete",
+        "requires": [
+          "PL16",
+          "PL17",
+          "PL18",
+          "PL19",
+          "PL20"
+        ],
+        "uniques": [
+          "[+10]% [Faith] [in all cities]",
+          "[+2 Culture] from [Holy site] tiles [in all cities]",
+          "May buy [C10] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [D01-T84]>"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PB05",
+    "era": "II",
+    "uniques": [
+      "[+15]% [Gold] [in capital]"
+    ],
+    "priorities": {
+      "Cultural": 5,
+      "Diplomatic": 7,
+      "Domination": 5,
+      "Scientific": 6,
+      "Neutral": 6,
+      "Time": 6
+    },
+    "policies": [
+      {
+        "name": "PL21",
+        "requires": [
+          "PB05"
+        ],
+        "row": 1,
+        "column": 1,
+        "uniques": [
+          "[-25]% maintenance on road & railroads"
+        ]
+      },
+      {
+        "name": "PL22",
+        "requires": [
+          "PB05"
+        ],
+        "row": 1,
+        "column": 3,
+        "uniques": [
+          "[Gold] cost of purchasing items in cities [-10]%"
+        ]
+      },
+      {
+        "name": "PL23",
+        "requires": [
+          "PB05"
+        ],
+        "row": 1,
+        "column": 5,
+        "uniques": [
+          "[+1 Production] [in all cities connected to capital]",
+          "[+1 Production] [in all coastal cities]"
+        ]
+      },
+      {
+        "name": "PL24",
+        "requires": [
+          "PL21"
+        ],
+        "row": 2,
+        "column": 4,
+        "uniques": [
+          "[+1 Science] from all [B11] buildings",
+          "[+1 Science] from all [B22] buildings"
+        ]
+      },
+      {
+        "name": "PL25",
+        "requires": [
+          "PL22",
+          "PL23"
+        ],
+        "row": 2,
+        "column": 2,
+        "uniques": [
+          "[1] Happiness from each type of luxury resource"
+        ]
+      },
+      {
+        "name": "PB05 Complete",
+        "requires": [
+          "PL21",
+          "PL22",
+          "PL23",
+          "PL24",
+          "PL25"
+        ],
+        "uniques": [
+          "[+20]% [Gold] from Trade Routes",
+          "[+50]% Gold from Great Merchant trade missions",
+          "May buy [C09] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [D01-T81]>"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PB06",
+    "era": "III",
+    "uniques": [
+      "[-15]% City-State Influence degradation"
+    ],
+    "priorities": {
+      "Cultural": 6,
+      "Diplomatic": 10,
+      "Domination": 3,
+      "Scientific": 5,
+      "Neutral": 6,
+      "Time": 6
+    },
+    "policies": [
+      {
+        "name": "PL26",
+        "requires": [
+          "PB06"
+        ],
+        "row": 1,
+        "column": 1,
+        "uniques": [
+          "Gifts of Gold to City-States generate [+20]% more Influence"
+        ]
+      },
+      {
+        "name": "PL27",
+        "requires": [
+          "PB06"
+        ],
+        "row": 1,
+        "column": 3,
+        "uniques": [
+          "Resting point for Influence with City-States is increased by [10]"
+        ]
+      },
+      {
+        "name": "PL28",
+        "requires": [
+          "PB06"
+        ],
+        "row": 1,
+        "column": 5,
+        "uniques": [
+          "Allied City-States provide [Science] equal to [+25]% of what they produce for themselves"
+        ]
+      },
+      {
+        "name": "PL29",
+        "requires": [
+          "PL26"
+        ],
+        "row": 2,
+        "column": 4,
+        "uniques": [
+          "Military Units gifted from City-States start with [10] XP"
+        ]
+      },
+      {
+        "name": "PL30",
+        "requires": [
+          "PL27",
+          "PL28"
+        ],
+        "row": 2,
+        "column": 2,
+        "uniques": [
+          "[+50]% resources gifted by City-States",
+          "[+25]% Happiness from luxury resources gifted by City-States"
+        ]
+      },
+      {
+        "name": "PB06 Complete",
+        "requires": [
+          "PL26",
+          "PL27",
+          "PL28",
+          "PL29",
+          "PL30"
+        ],
+        "uniques": [
+          "City-State Influence recovers at twice the normal rate",
+          "Allied City-States provide [Culture] equal to [+10]% of what they produce for themselves"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PB07",
+    "era": "III",
+    "uniques": [
+      "[+10]% [Science] [in capital]"
+    ],
+    "priorities": {
+      "Cultural": 5,
+      "Diplomatic": 4,
+      "Domination": 4,
+      "Scientific": 10,
+      "Neutral": 6,
+      "Time": 6
+    },
+    "policies": [
+      {
+        "name": "PL31",
+        "requires": [
+          "PB07"
+        ],
+        "row": 1,
+        "column": 1,
+        "uniques": [
+          "[+1 Science] from every [Scientist]"
+        ]
+      },
+      {
+        "name": "PL32",
+        "requires": [
+          "PB07"
+        ],
+        "row": 1,
+        "column": 3,
+        "uniques": [
+          "[+2 Science] from all [B23] buildings"
+        ]
+      },
+      {
+        "name": "PL33",
+        "requires": [
+          "PB07"
+        ],
+        "row": 1,
+        "column": 5,
+        "uniques": [
+          "New [术士] units start with [+10] XP [in all cities]",
+          "New [医护] units start with [+10] XP [in all cities]",
+          "New [死灵] units start with [+10] XP [in all cities]",
+          "New [幽魂] units start with [+10] XP [in all cities]"
+        ]
+      },
+      {
+        "name": "PL34",
+        "requires": [
+          "PL31",
+          "PL32"
+        ],
+        "row": 2,
+        "column": 4,
+        "uniques": [
+          "[+5]% [Science] [in all cities] <in cities with a [B14]>",
+          "Science gained from research agreements [+15]%"
+        ]
+      },
+      {
+        "name": "PL35",
+        "requires": [
+          "PL32",
+          "PL33"
+        ],
+        "row": 2,
+        "column": 2,
+        "uniques": [
+          "[+15]% Great Person generation [in all cities]"
+        ]
+      },
+      {
+        "name": "PB07 Complete",
+        "requires": [
+          "PL31",
+          "PL32",
+          "PL33",
+          "PL34",
+          "PL35"
+        ],
+        "uniques": [
+          "[+5]% [Science] [in all cities]",
+          "Free Technology <starting from the [IV]>",
+          "Free Technology <upon entering the [IV]>",
+          "May buy [C07] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [D01-T86]>"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PB08",
+    "era": "IV",
+    "uniques": [
+      "[-10]% maintenance cost for [all] buildings [in all cities]"
+    ],
+    "priorities": {
+      "Cultural": 5,
+      "Diplomatic": 5,
+      "Domination": 7,
+      "Scientific": 8,
+      "Neutral": 6,
+      "Time": 6
+    },
+    "policies": [
+      {
+        "name": "PL36",
+        "requires": [
+          "PB08"
+        ],
+        "row": 1,
+        "column": 1,
+        "uniques": [
+          "[+10]% Production when constructing [Building] buildings [in all cities]"
+        ]
+      },
+      {
+        "name": "PL37",
+        "requires": [
+          "PB08"
+        ],
+        "row": 1,
+        "column": 3,
+        "uniques": [
+          "[+1 Production] from all [B02] buildings"
+        ]
+      },
+      {
+        "name": "PL38",
+        "requires": [
+          "PB08"
+        ],
+        "row": 1,
+        "column": 5,
+        "uniques": [
+          "[-25]% Food consumption by [Specialists] [in all cities]"
+        ]
+      },
+      {
+        "name": "PL39",
+        "requires": [
+          "PL36"
+        ],
+        "row": 2,
+        "column": 4,
+        "uniques": [
+          "[-10]% Unhappiness from [Population] [in all cities]"
+        ]
+      },
+      {
+        "name": "PL40",
+        "requires": [
+          "PL37",
+          "PL38"
+        ],
+        "row": 2,
+        "column": 2,
+        "uniques": [
+          "[+10]% Production towards any buildings that already exist in the Capital"
+        ]
+      },
+      {
+        "name": "PB08 Complete",
+        "requires": [
+          "PL36",
+          "PL37",
+          "PL38",
+          "PL39",
+          "PL40"
+        ],
+        "uniques": [
+          "[+10]% [Production] [in all cities]",
+          "May buy [C08] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [D01-T29]>"
+        ]
+      }
+    ]
+  }
+]

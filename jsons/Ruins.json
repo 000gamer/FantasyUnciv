@@ -1,0 +1,240 @@
+[
+  {
+    "name": "RU01",
+    "weight": 3,
+    "notification": "Ancient coins: Recovered [] Gold from the ruins.",
+    "uniques": [
+      "Gain [40]-[80] [Gold]"
+    ]
+  },
+  {
+    "name": "RU02",
+    "weight": 3,
+    "notification": "Old songs: Recovered ancestral songs and gained [] Culture.",
+    "uniques": [
+      "Gain [20] [Culture]"
+    ]
+  },
+  {
+    "name": "RU03",
+    "weight": 2,
+    "notification": "Lost calculations: Reconstructed a method and gained [] Science.",
+    "uniques": [
+      "Gain [35] [Science]"
+    ]
+  },
+  {
+    "name": "RU04",
+    "weight": 1,
+    "notification": "Refugee farmers: One of your cities gains 1 population.",
+    "uniques": [
+      "Only available <when number of [Cities] is more than [0]>",
+      "[+1] population in a random city"
+    ]
+  },
+  {
+    "name": "RU05",
+    "weight": 2,
+    "notification": "Old road sketch: A damaged map reveals part of the surrounding terrain.",
+    "uniques": [
+      "From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [3] tiles away with [70]% chance"
+    ]
+  },
+  {
+    "name": "RU06",
+    "weight": 2,
+    "notification": "Ritual inscriptions: Deciphered an ancient prayer and gained [] Faith.",
+    "uniques": [
+      "Only available <when religion is enabled>",
+      "Gain [30] [Faith]"
+    ]
+  },
+  {
+    "name": "RU08",
+    "weight": 2,
+    "notification": "Ancestral training: The exploring unit gains 10 XP.",
+    "uniques": [
+      "Only available <for [Military] units>",
+      "[This Unit] gains [10] XP"
+    ]
+  },
+  {
+    "name": "RU09",
+    "weight": 1,
+    "notification": "Ruin medicines: The explorer recovers up to 30 HP, capped at full health.",
+    "uniques": [
+      "Only available <when below [100] HP>",
+      "[This Unit] heals [30] HP"
+    ]
+  },
+  {
+    "name": "RU10",
+    "weight": 1,
+    "notification": "Repose records: Preserved stories of the dead and gained [] Culture.",
+    "uniques": [
+      "Only available <after discovering [D01-T54]>",
+      "Gain [50] [Culture]"
+    ]
+  },
+  {
+    "name": "RU11",
+    "weight": 1,
+    "notification": "Frontier clues: Revealed barbarian camps within an 8-tile radius.",
+    "uniques": [
+      "Reveal up to [All] [Barbarian encampment] within a [8] tile radius"
+    ]
+  },
+  {
+    "name": "RU13",
+    "weight": 1,
+    "notification": "Calibration table: The exploring mage gains the Crystal Ward Covenant; see its unit action for use.",
+    "uniques": [
+      "Only available <for [术士] units> <for units without [P37]>",
+      "[This Unit] gains the [P37] promotion"
+    ]
+  },
+  {
+    "name": "RU14",
+    "weight": 1,
+    "notification": "Restoration oathstone: The explorer gains the Springwood Covenant and its healing benefits.",
+    "uniques": [
+      "Only available <for units with [P16]> <for units without [P38]>",
+      "[This Unit] gains the [P38] promotion"
+    ]
+  },
+  {
+    "name": "RU15",
+    "weight": 1,
+    "notification": "Survivor guide: A Forest Scout joins your civilization and requires normal upkeep.",
+    "uniques": [
+      "Only available <after discovering [D01-T57]> <before discovering [D01-T33]> <when number of [Cities] is more than [0]>",
+      "Free [U64] found in the ruins"
+    ]
+  },
+  {
+    "name": "RU16",
+    "weight": 2,
+    "notification": "Old road coordinates: Revealed terrain within 5 tiles of the explorer, without claiming land.",
+    "uniques": [
+      "Only available <after discovering [D01-T57]>",
+      "Reveal up to [All] [All] within a [5] tile radius"
+    ]
+  },
+  {
+    "name": "RU17",
+    "weight": 1,
+    "notification": "Inheritance chest: Recovered preserved coins and gained [] Gold.",
+    "uniques": [
+      "Only available <after discovering [D01-T57]>",
+      "Gain [100] [Gold]"
+    ]
+  },
+  {
+    "name": "RU18",
+    "weight": 1,
+    "notification": "Discovery: Watchers Beneath the Oathstone. Read the encounter and choose a response; the outcome depends on your decision.",
+    "uniques": [
+      "Only available <after discovering [D01-T73]> <for [{Land} {Military}] units>",
+      "Triggers a [E16] event"
+    ]
+  },
+  {
+    "name": "RU19",
+    "weight": 1,
+    "notification": "Discovery: The Blind Star Mirror. Read the encounter and choose a response; the outcome depends on your decision.",
+    "uniques": [
+      "Only available <after discovering [D01-T24]> <for [Military] units> <within [2] tiles of a [Hill]>",
+      "Triggers a [E17] event"
+    ]
+  },
+  {
+    "name": "RU20",
+    "weight": 1,
+    "notification": "Discovery: The Old Root Covenant. Read the encounter and choose a response; the outcome depends on your decision.",
+    "uniques": [
+      "Only available <after discovering [D01-T27]> <for [{Land} {Military}] units> <within [2] tiles of a [Forest]>",
+      "Triggers a [E18] event"
+    ]
+  },
+  {
+    "name": "RU21",
+    "weight": 1,
+    "notification": "Discovery: The Sunken Bell Chart. Read the encounter and choose a response; the outcome depends on your decision.",
+    "uniques": [
+      "Only available <after discovering [D01-T19]> <for [{Land} {Military}] units> <within [3] tiles of a [Water]>",
+      "Triggers a [E19] event"
+    ]
+  },
+  {
+    "name": "RU22",
+    "weight": 1,
+    "notification": "Discovery: The Lost Courier Register. Read the encounter and choose a response; the outcome depends on your decision.",
+    "uniques": [
+      "Only available <after discovering [D01-T57]> <for [Military] units>",
+      "Triggers a [E20] event"
+    ]
+  },
+  {
+    "name": "RU23",
+    "weight": 1,
+    "notification": "Discovery: The Sealed Relic Casket. Read the encounter and choose a response; the outcome depends on your decision.",
+    "uniques": [
+      "Only available <for [Hero] units>",
+      "Triggers a [E24] event"
+    ]
+  },
+  {
+    "name": "RU24",
+    "weight": 1,
+    "notification": "Discovery: The Last Load on Springroad. Read the encounter and choose a response; the outcome depends on your decision.",
+    "uniques": [
+      "Only available <after discovering [D01-T27]> <for [{Land} {Military}] units> <within [2] tiles of a [Forest]>",
+      "Triggers a [E25] event"
+    ]
+  },
+  {
+    "name": "RU25",
+    "weight": 1,
+    "notification": "Discovery: The Silent Mirror Watch. Read the encounter and choose a response; the outcome depends on your decision.",
+    "uniques": [
+      "Only available <after discovering [D01-T101]> <for [Military] units> <within [2] tiles of a [Hill]>",
+      "Triggers a [E28] event"
+    ]
+  },
+  {
+    "name": "RU26",
+    "weight": 1,
+    "notification": "Discovery: Watcher at the Broken Stone. Read the encounter and choose a response.",
+    "uniques": [
+      "Only available <after discovering [D01-T73]> <for [{Land} {Military}] units> <within [2] tiles of a [Hill]>",
+      "Triggers a [E26] event"
+    ]
+  },
+  {
+    "name": "RU27",
+    "weight": 1,
+    "notification": "Discovery: Visitor at the Old Forge. Read the encounter and choose a response.",
+    "uniques": [
+      "Only available <after discovering [D01-T30]> <for [Military] units> <within [2] tiles of a [Hill]>",
+      "Triggers a [E27] event"
+    ]
+  },
+  {
+    "name": "RU28",
+    "weight": 1,
+    "notification": "Discovery: Lanterns in the Grove. Read the encounter and choose a response.",
+    "uniques": [
+      "Only available <after discovering [D01-T66]> <when religion is enabled> <for [{Land} {Military}] units> <within [2] tiles of a [Forest]>",
+      "Triggers a [E29] event"
+    ]
+  },
+  {
+    "name": "RU29",
+    "weight": 1,
+    "notification": "Discovery: Guards by the Old Road. Read the encounter and choose a response.",
+    "uniques": [
+      "Only available <after discovering [D01-T81]> <for [{Land} {Military}] units> <within [2] tiles of a [Road]>",
+      "Triggers a [E30] event"
+    ]
+  }
+]

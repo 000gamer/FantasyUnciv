@@ -1,0 +1,1227 @@
+[
+  {
+    "name": "N01",
+    "leaderName": "N01 Leader",
+    "outerColor": [
+      201,
+      172,
+      85
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Domination",
+    "cities": [
+      "N01 City 1",
+      "N01 City 2",
+      "N01 City 3",
+      "N01 City 4",
+      "N01 City 5",
+      "N01 City 6",
+      "N01 City 7",
+      "N01 City 8"
+    ],
+    "favoredReligion": "Church of Order",
+    "uniqueName": "N01 Ability",
+    "uniques": [
+      "[+15]% Production towards any buildings that already exist in the Capital <in [non-[Capital]] cities>"
+    ],
+    "spyNames": [
+      "N01 Agent 1",
+      "N01 Agent 2",
+      "N01 Agent 3",
+      "N01 Agent 4",
+      "N01 Agent 5",
+      "N01 Agent 6",
+      "N01 Agent 7",
+      "N01 Agent 8"
+    ],
+    "introduction": "May our roads bring knowledge and peace.",
+    "declaringWar": "Words can no longer sustain our oath.",
+    "attacked": "Our cities and people will defend their roads.",
+    "defeated": "Our nation falls, but its memory endures.",
+    "neutralHello": "State your proposal.",
+    "hateHello": "Trust must be rebuilt through action.",
+    "declaringFriendship": "May this agreement benefit us both.",
+    "neutralDenouncing": "Your deeds have broken our trust.",
+    "hateDenouncing": "The nations shall hear of your broken oaths.",
+    "denounced": "Let deeds judge these accusations.",
+    "acceptingDemand": "We accept these terms.",
+    "neutralRejectingDemand": "We cannot accept this demand.",
+    "hateRejectingDemand": "Your demands have no place here.",
+    "tradeRequest": "Let us exchange fairly."
+  },
+  {
+    "name": "N02",
+    "leaderName": "N02 Leader",
+    "outerColor": [
+      76,
+      154,
+      176
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [
+      "Coast"
+    ],
+    "preferredVictoryType": "Diplomatic",
+    "cities": [
+      "N02 City 1",
+      "N02 City 2",
+      "N02 City 3",
+      "N02 City 4",
+      "N02 City 5",
+      "N02 City 6",
+      "N02 City 7",
+      "N02 City 8"
+    ],
+    "favoredReligion": "Church of Order",
+    "uniqueName": "N02 Ability",
+    "uniques": [
+      "[+15]% [Gold] from Trade Routes",
+      "[-10]% Gold cost of upgrading"
+    ],
+    "spyNames": [
+      "N02 Agent 1",
+      "N02 Agent 2",
+      "N02 Agent 3",
+      "N02 Agent 4",
+      "N02 Agent 5",
+      "N02 Agent 6",
+      "N02 Agent 7",
+      "N02 Agent 8"
+    ],
+    "introduction": "May our roads bring knowledge and peace.",
+    "declaringWar": "Words can no longer sustain our oath.",
+    "attacked": "Our cities and people will defend their roads.",
+    "defeated": "Our nation falls, but its memory endures.",
+    "neutralHello": "State your proposal.",
+    "hateHello": "Trust must be rebuilt through action.",
+    "declaringFriendship": "May this agreement benefit us both.",
+    "neutralDenouncing": "Your deeds have broken our trust.",
+    "hateDenouncing": "The nations shall hear of your broken oaths.",
+    "denounced": "Let deeds judge these accusations.",
+    "acceptingDemand": "We accept these terms.",
+    "neutralRejectingDemand": "We cannot accept this demand.",
+    "hateRejectingDemand": "Your demands have no place here.",
+    "tradeRequest": "Let us exchange fairly."
+  },
+  {
+    "name": "N03",
+    "leaderName": "N03 Leader",
+    "outerColor": [
+      95,
+      152,
+      82
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [
+      "Forest"
+    ],
+    "preferredVictoryType": "Cultural",
+    "cities": [
+      "N03 City 1",
+      "N03 City 2",
+      "N03 City 3",
+      "N03 City 4",
+      "N03 City 5",
+      "N03 City 6",
+      "N03 City 7",
+      "N03 City 8"
+    ],
+    "favoredReligion": "Forest Faith",
+    "uniqueName": "N03 Ability",
+    "uniques": [
+      "[+1 Faith] from [{Forest} {Camp}] tiles [in all cities]",
+      "[+1 Faith] from [{Forest} {Lumber mill}] tiles [in all cities]",
+      "[+1 Faith] from [{Forest} {I28}] tiles [in all cities]"
+    ],
+    "spyNames": [
+      "N03 Agent 1",
+      "N03 Agent 2",
+      "N03 Agent 3",
+      "N03 Agent 4",
+      "N03 Agent 5",
+      "N03 Agent 6",
+      "N03 Agent 7",
+      "N03 Agent 8"
+    ],
+    "introduction": "May our roads bring knowledge and peace.",
+    "declaringWar": "Words can no longer sustain our oath.",
+    "attacked": "Our cities and people will defend their roads.",
+    "defeated": "Our nation falls, but its memory endures.",
+    "neutralHello": "State your proposal.",
+    "hateHello": "Trust must be rebuilt through action.",
+    "declaringFriendship": "May this agreement benefit us both.",
+    "neutralDenouncing": "Your deeds have broken our trust.",
+    "hateDenouncing": "The nations shall hear of your broken oaths.",
+    "denounced": "Let deeds judge these accusations.",
+    "acceptingDemand": "We accept these terms.",
+    "neutralRejectingDemand": "We cannot accept this demand.",
+    "hateRejectingDemand": "Your demands have no place here.",
+    "tradeRequest": "Let us exchange fairly."
+  },
+  {
+    "name": "N04",
+    "leaderName": "N04 Leader",
+    "outerColor": [
+      75,
+      128,
+      195
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [
+      "Coast"
+    ],
+    "preferredVictoryType": "Diplomatic",
+    "cities": [
+      "N04 City 1",
+      "N04 City 2",
+      "N04 City 3",
+      "N04 City 4",
+      "N04 City 5",
+      "N04 City 6",
+      "N04 City 7",
+      "N04 City 8"
+    ],
+    "favoredReligion": "Ocean Faith",
+    "uniqueName": "N04 Ability",
+    "uniques": [
+      "[+1 Gold] from [Fishing Boats] tiles [in all cities]",
+      "[+1] Movement <for [海近战] units>",
+      "[+1] Movement <for [海远程] units>",
+      "Comment [FC Reef colonization]"
+    ],
+    "spyNames": [
+      "N04 Agent 1",
+      "N04 Agent 2",
+      "N04 Agent 3",
+      "N04 Agent 4",
+      "N04 Agent 5",
+      "N04 Agent 6",
+      "N04 Agent 7",
+      "N04 Agent 8"
+    ],
+    "introduction": "May our roads bring knowledge and peace.",
+    "declaringWar": "Words can no longer sustain our oath.",
+    "attacked": "Our cities and people will defend their roads.",
+    "defeated": "Our nation falls, but its memory endures.",
+    "neutralHello": "State your proposal.",
+    "hateHello": "Trust must be rebuilt through action.",
+    "declaringFriendship": "May this agreement benefit us both.",
+    "neutralDenouncing": "Your deeds have broken our trust.",
+    "hateDenouncing": "The nations shall hear of your broken oaths.",
+    "denounced": "Let deeds judge these accusations.",
+    "acceptingDemand": "We accept these terms.",
+    "neutralRejectingDemand": "We cannot accept this demand.",
+    "hateRejectingDemand": "Your demands have no place here.",
+    "tradeRequest": "Let us exchange fairly."
+  },
+  {
+    "name": "N05",
+    "leaderName": "N05 Leader",
+    "outerColor": [
+      146,
+      125,
+      97
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [
+      "Hill"
+    ],
+    "preferredVictoryType": "Domination",
+    "cities": [
+      "N05 City 1",
+      "N05 City 2",
+      "N05 City 3",
+      "N05 City 4",
+      "N05 City 5",
+      "N05 City 6",
+      "N05 City 7",
+      "N05 City 8"
+    ],
+    "favoredReligion": "Church of the Forge",
+    "uniqueName": "N05 Ability",
+    "uniques": [
+      "[+1 Gold] from [Mine] tiles [in all cities]",
+      "[+15]% Strength for cities"
+    ],
+    "spyNames": [
+      "N05 Agent 1",
+      "N05 Agent 2",
+      "N05 Agent 3",
+      "N05 Agent 4",
+      "N05 Agent 5",
+      "N05 Agent 6",
+      "N05 Agent 7",
+      "N05 Agent 8"
+    ],
+    "introduction": "May our roads bring knowledge and peace.",
+    "declaringWar": "Words can no longer sustain our oath.",
+    "attacked": "Our cities and people will defend their roads.",
+    "defeated": "Our nation falls, but its memory endures.",
+    "neutralHello": "State your proposal.",
+    "hateHello": "Trust must be rebuilt through action.",
+    "declaringFriendship": "May this agreement benefit us both.",
+    "neutralDenouncing": "Your deeds have broken our trust.",
+    "hateDenouncing": "The nations shall hear of your broken oaths.",
+    "denounced": "Let deeds judge these accusations.",
+    "acceptingDemand": "We accept these terms.",
+    "neutralRejectingDemand": "We cannot accept this demand.",
+    "hateRejectingDemand": "Your demands have no place here.",
+    "tradeRequest": "Let us exchange fairly."
+  },
+  {
+    "name": "N06",
+    "leaderName": "N06 Leader",
+    "outerColor": [
+      161,
+      170,
+      197
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [
+      "Hill"
+    ],
+    "preferredVictoryType": "Scientific",
+    "cities": [
+      "N06 City 1",
+      "N06 City 2",
+      "N06 City 3",
+      "N06 City 4",
+      "N06 City 5",
+      "N06 City 6",
+      "N06 City 7",
+      "N06 City 8"
+    ],
+    "favoredReligion": "Church of the Forge",
+    "uniqueName": "N06 Ability",
+    "uniques": [
+      "[+1 Science] from all [B02] buildings",
+      "[+1 Science] from every [Engineer]"
+    ],
+    "spyNames": [
+      "N06 Agent 1",
+      "N06 Agent 2",
+      "N06 Agent 3",
+      "N06 Agent 4",
+      "N06 Agent 5",
+      "N06 Agent 6",
+      "N06 Agent 7",
+      "N06 Agent 8"
+    ],
+    "introduction": "May our roads bring knowledge and peace.",
+    "declaringWar": "Words can no longer sustain our oath.",
+    "attacked": "Our cities and people will defend their roads.",
+    "defeated": "Our nation falls, but its memory endures.",
+    "neutralHello": "State your proposal.",
+    "hateHello": "Trust must be rebuilt through action.",
+    "declaringFriendship": "May this agreement benefit us both.",
+    "neutralDenouncing": "Your deeds have broken our trust.",
+    "hateDenouncing": "The nations shall hear of your broken oaths.",
+    "denounced": "Let deeds judge these accusations.",
+    "acceptingDemand": "We accept these terms.",
+    "neutralRejectingDemand": "We cannot accept this demand.",
+    "hateRejectingDemand": "Your demands have no place here.",
+    "tradeRequest": "Let us exchange fairly."
+  },
+  {
+    "name": "N07",
+    "leaderName": "N07 Leader",
+    "outerColor": [
+      183,
+      160,
+      99
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [
+      "Plains"
+    ],
+    "preferredVictoryType": "Domination",
+    "cities": [
+      "N07 City 1",
+      "N07 City 2",
+      "N07 City 3",
+      "N07 City 4",
+      "N07 City 5",
+      "N07 City 6",
+      "N07 City 7",
+      "N07 City 8"
+    ],
+    "favoredReligion": "Forest Faith",
+    "uniqueName": "N07 Ability",
+    "uniques": [
+      "[+1 Gold] from [Pasture] tiles [in all cities]",
+      "[+1] Movement <for [轻骑] units>",
+      "[+1] Movement <for [骑射] units>"
+    ],
+    "spyNames": [
+      "N07 Agent 1",
+      "N07 Agent 2",
+      "N07 Agent 3",
+      "N07 Agent 4",
+      "N07 Agent 5",
+      "N07 Agent 6",
+      "N07 Agent 7",
+      "N07 Agent 8"
+    ],
+    "introduction": "May our roads bring knowledge and peace.",
+    "declaringWar": "Words can no longer sustain our oath.",
+    "attacked": "Our cities and people will defend their roads.",
+    "defeated": "Our nation falls, but its memory endures.",
+    "neutralHello": "State your proposal.",
+    "hateHello": "Trust must be rebuilt through action.",
+    "declaringFriendship": "May this agreement benefit us both.",
+    "neutralDenouncing": "Your deeds have broken our trust.",
+    "hateDenouncing": "The nations shall hear of your broken oaths.",
+    "denounced": "Let deeds judge these accusations.",
+    "acceptingDemand": "We accept these terms.",
+    "neutralRejectingDemand": "We cannot accept this demand.",
+    "hateRejectingDemand": "Your demands have no place here.",
+    "tradeRequest": "Let us exchange fairly."
+  },
+  {
+    "name": "N08",
+    "leaderName": "N08 Leader",
+    "outerColor": [
+      163,
+      83,
+      67
+    ],
+    "innerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Plains"
+    ],
+    "preferredVictoryType": "Domination",
+    "cities": [
+      "N08 City 1",
+      "N08 City 2",
+      "N08 City 3",
+      "N08 City 4",
+      "N08 City 5",
+      "N08 City 6",
+      "N08 City 7",
+      "N08 City 8"
+    ],
+    "favoredReligion": "Church of War",
+    "uniqueName": "N08 Ability",
+    "uniques": [
+      "[+15]% Production when constructing [步兵] units [in all cities]",
+      "[+15]% Production when constructing [重步兵] units [in all cities]",
+      "[+15]% Production when constructing [长柄] units [in all cities]",
+      "[-10]% XP required for promotions"
+    ],
+    "spyNames": [
+      "N08 Agent 1",
+      "N08 Agent 2",
+      "N08 Agent 3",
+      "N08 Agent 4",
+      "N08 Agent 5",
+      "N08 Agent 6",
+      "N08 Agent 7",
+      "N08 Agent 8"
+    ],
+    "introduction": "May our roads bring knowledge and peace.",
+    "declaringWar": "Words can no longer sustain our oath.",
+    "attacked": "Our cities and people will defend their roads.",
+    "defeated": "Our nation falls, but its memory endures.",
+    "neutralHello": "State your proposal.",
+    "hateHello": "Trust must be rebuilt through action.",
+    "declaringFriendship": "May this agreement benefit us both.",
+    "neutralDenouncing": "Your deeds have broken our trust.",
+    "hateDenouncing": "The nations shall hear of your broken oaths.",
+    "denounced": "Let deeds judge these accusations.",
+    "acceptingDemand": "We accept these terms.",
+    "neutralRejectingDemand": "We cannot accept this demand.",
+    "hateRejectingDemand": "Your demands have no place here.",
+    "tradeRequest": "Let us exchange fairly."
+  },
+  {
+    "name": "N09",
+    "leaderName": "N09 Leader",
+    "outerColor": [
+      201,
+      155,
+      55
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [
+      "Hill"
+    ],
+    "preferredVictoryType": "Scientific",
+    "cities": [
+      "N09 City 1",
+      "N09 City 2",
+      "N09 City 3",
+      "N09 City 4",
+      "N09 City 5",
+      "N09 City 6",
+      "N09 City 7",
+      "N09 City 8"
+    ],
+    "favoredReligion": "Church of Knowledge",
+    "uniqueName": "N09 Ability",
+    "uniques": [
+      "[+1 Production] from all [B02] buildings",
+      "[+15]% Production when constructing [攻城] units [in all cities]",
+      "[+15]% Production when constructing [构装] units [in all cities]"
+    ],
+    "spyNames": [
+      "N09 Agent 1",
+      "N09 Agent 2",
+      "N09 Agent 3",
+      "N09 Agent 4",
+      "N09 Agent 5",
+      "N09 Agent 6",
+      "N09 Agent 7",
+      "N09 Agent 8"
+    ],
+    "introduction": "May our roads bring knowledge and peace.",
+    "declaringWar": "Words can no longer sustain our oath.",
+    "attacked": "Our cities and people will defend their roads.",
+    "defeated": "Our nation falls, but its memory endures.",
+    "neutralHello": "State your proposal.",
+    "hateHello": "Trust must be rebuilt through action.",
+    "declaringFriendship": "May this agreement benefit us both.",
+    "neutralDenouncing": "Your deeds have broken our trust.",
+    "hateDenouncing": "The nations shall hear of your broken oaths.",
+    "denounced": "Let deeds judge these accusations.",
+    "acceptingDemand": "We accept these terms.",
+    "neutralRejectingDemand": "We cannot accept this demand.",
+    "hateRejectingDemand": "Your demands have no place here.",
+    "tradeRequest": "Let us exchange fairly."
+  },
+  {
+    "name": "N10",
+    "leaderName": "N10 Leader",
+    "outerColor": [
+      84,
+      173,
+      162
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Scientific",
+    "cities": [
+      "N10 City 1",
+      "N10 City 2",
+      "N10 City 3",
+      "N10 City 4",
+      "N10 City 5",
+      "N10 City 6",
+      "N10 City 7",
+      "N10 City 8"
+    ],
+    "favoredReligion": "Church of Knowledge",
+    "uniqueName": "N10 Ability",
+    "uniques": [
+      "[+1] Sight <for [侦察] units>",
+      "[+1 Culture] from all [B49] buildings",
+      "[+20]% Production when constructing [侦察] units [in all cities]"
+    ],
+    "spyNames": [
+      "N10 Agent 1",
+      "N10 Agent 2",
+      "N10 Agent 3",
+      "N10 Agent 4",
+      "N10 Agent 5",
+      "N10 Agent 6",
+      "N10 Agent 7",
+      "N10 Agent 8"
+    ],
+    "introduction": "May our roads bring knowledge and peace.",
+    "declaringWar": "Words can no longer sustain our oath.",
+    "attacked": "Our cities and people will defend their roads.",
+    "defeated": "Our nation falls, but its memory endures.",
+    "neutralHello": "State your proposal.",
+    "hateHello": "Trust must be rebuilt through action.",
+    "declaringFriendship": "May this agreement benefit us both.",
+    "neutralDenouncing": "Your deeds have broken our trust.",
+    "hateDenouncing": "The nations shall hear of your broken oaths.",
+    "denounced": "Let deeds judge these accusations.",
+    "acceptingDemand": "We accept these terms.",
+    "neutralRejectingDemand": "We cannot accept this demand.",
+    "hateRejectingDemand": "Your demands have no place here.",
+    "tradeRequest": "Let us exchange fairly."
+  },
+  {
+    "name": "N11",
+    "leaderName": "N11 Leader",
+    "outerColor": [
+      135,
+      93,
+      166
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [
+      "Tundra"
+    ],
+    "preferredVictoryType": "Scientific",
+    "cities": [
+      "N11 City 1",
+      "N11 City 2",
+      "N11 City 3",
+      "N11 City 4",
+      "N11 City 5",
+      "N11 City 6",
+      "N11 City 7",
+      "N11 City 8"
+    ],
+    "favoredReligion": "Faith of the Dead",
+    "uniqueName": "N11 Ability",
+    "uniques": [
+      "[+1 Science] per [3] population [in all cities] <in cities with a [B03]>",
+      "[-15]% maintenance costs <for [死灵] units>",
+      "[-15]% maintenance costs <for [幽魂] units>"
+    ],
+    "spyNames": [
+      "N11 Agent 1",
+      "N11 Agent 2",
+      "N11 Agent 3",
+      "N11 Agent 4",
+      "N11 Agent 5",
+      "N11 Agent 6",
+      "N11 Agent 7",
+      "N11 Agent 8"
+    ],
+    "introduction": "May our roads bring knowledge and peace.",
+    "declaringWar": "Words can no longer sustain our oath.",
+    "attacked": "Our cities and people will defend their roads.",
+    "defeated": "Our nation falls, but its memory endures.",
+    "neutralHello": "State your proposal.",
+    "hateHello": "Trust must be rebuilt through action.",
+    "declaringFriendship": "May this agreement benefit us both.",
+    "neutralDenouncing": "Your deeds have broken our trust.",
+    "hateDenouncing": "The nations shall hear of your broken oaths.",
+    "denounced": "Let deeds judge these accusations.",
+    "acceptingDemand": "We accept these terms.",
+    "neutralRejectingDemand": "We cannot accept this demand.",
+    "hateRejectingDemand": "Your demands have no place here.",
+    "tradeRequest": "Let us exchange fairly."
+  },
+  {
+    "name": "N12",
+    "leaderName": "N12 Leader",
+    "outerColor": [
+      183,
+      179,
+      167
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [
+      "Plains"
+    ],
+    "preferredVictoryType": "Domination",
+    "cities": [
+      "N12 City 1",
+      "N12 City 2",
+      "N12 City 3",
+      "N12 City 4",
+      "N12 City 5",
+      "N12 City 6",
+      "N12 City 7",
+      "N12 City 8"
+    ],
+    "favoredReligion": "Church of Order",
+    "uniqueName": "N12 Ability",
+    "uniques": [
+      "[-15]% maintenance costs <for [步兵] units>",
+      "[-15]% maintenance costs <for [重步兵] units>",
+      "[-15]% maintenance costs <for [长柄] units>",
+      "New [长柄] units start with [+10] XP [in all cities]"
+    ],
+    "spyNames": [
+      "N12 Agent 1",
+      "N12 Agent 2",
+      "N12 Agent 3",
+      "N12 Agent 4",
+      "N12 Agent 5",
+      "N12 Agent 6",
+      "N12 Agent 7",
+      "N12 Agent 8"
+    ],
+    "introduction": "May our roads bring knowledge and peace.",
+    "declaringWar": "Words can no longer sustain our oath.",
+    "attacked": "Our cities and people will defend their roads.",
+    "defeated": "Our nation falls, but its memory endures.",
+    "neutralHello": "State your proposal.",
+    "hateHello": "Trust must be rebuilt through action.",
+    "declaringFriendship": "May this agreement benefit us both.",
+    "neutralDenouncing": "Your deeds have broken our trust.",
+    "hateDenouncing": "The nations shall hear of your broken oaths.",
+    "denounced": "Let deeds judge these accusations.",
+    "acceptingDemand": "We accept these terms.",
+    "neutralRejectingDemand": "We cannot accept this demand.",
+    "hateRejectingDemand": "Your demands have no place here.",
+    "tradeRequest": "Let us exchange fairly."
+  },
+  {
+    "name": "CS01",
+    "cityStateType": "Scientific-CS01",
+    "personality": "Friendly",
+    "cities": [
+      "CS01 Capital"
+    ],
+    "outerColor": [
+      70,
+      150,
+      245
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS02",
+    "cityStateType": "Cultured-CS02",
+    "personality": "Neutral",
+    "cities": [
+      "CS02 Capital"
+    ],
+    "outerColor": [
+      160,
+      95,
+      235
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS03",
+    "cityStateType": "Scientific-CS03",
+    "personality": "Hostile",
+    "cities": [
+      "CS03 Capital"
+    ],
+    "outerColor": [
+      70,
+      150,
+      245
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS04",
+    "cityStateType": "Cultured-CS04",
+    "personality": "Irrational",
+    "cities": [
+      "CS04 Capital"
+    ],
+    "outerColor": [
+      160,
+      95,
+      235
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS05",
+    "cityStateType": "Scientific-CS05",
+    "personality": "Friendly",
+    "cities": [
+      "CS05 Capital"
+    ],
+    "outerColor": [
+      70,
+      150,
+      245
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS06",
+    "cityStateType": "Maritime-CS06",
+    "personality": "Friendly",
+    "cities": [
+      "CS06 Capital"
+    ],
+    "outerColor": [
+      70,
+      200,
+      90
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [
+      "Coast"
+    ],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS07",
+    "cityStateType": "Industrial-CS07",
+    "personality": "Neutral",
+    "cities": [
+      "CS07 Capital"
+    ],
+    "outerColor": [
+      220,
+      145,
+      60
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": [
+      {
+        "text": "Industrial capital total"
+      }
+    ]
+  },
+  {
+    "name": "CS08",
+    "cityStateType": "Happiness-CS08",
+    "personality": "Hostile",
+    "cities": [
+      "CS08 Capital"
+    ],
+    "outerColor": [
+      245,
+      145,
+      180
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS09",
+    "cityStateType": "Maritime-CS09",
+    "personality": "Irrational",
+    "cities": [
+      "CS09 Capital"
+    ],
+    "outerColor": [
+      70,
+      200,
+      90
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [
+      "Coast"
+    ],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS10",
+    "cityStateType": "Maritime-CS10",
+    "personality": "Friendly",
+    "cities": [
+      "CS10 Capital"
+    ],
+    "outerColor": [
+      70,
+      200,
+      90
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [
+      "Coast"
+    ],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS11",
+    "cityStateType": "Mercantile-CS11",
+    "personality": "Friendly",
+    "cities": [
+      "CS11 Capital"
+    ],
+    "outerColor": [
+      245,
+      205,
+      40
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS12",
+    "cityStateType": "Mercantile-CS12",
+    "personality": "Neutral",
+    "cities": [
+      "CS12 Capital"
+    ],
+    "outerColor": [
+      245,
+      205,
+      40
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS13",
+    "cityStateType": "Happiness-CS13",
+    "personality": "Hostile",
+    "cities": [
+      "CS13 Capital"
+    ],
+    "outerColor": [
+      245,
+      145,
+      180
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS14",
+    "cityStateType": "Mercantile-CS14",
+    "personality": "Irrational",
+    "cities": [
+      "CS14 Capital"
+    ],
+    "outerColor": [
+      245,
+      205,
+      40
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS15",
+    "cityStateType": "Industrial-CS15",
+    "personality": "Friendly",
+    "cities": [
+      "CS15 Capital"
+    ],
+    "outerColor": [
+      220,
+      145,
+      60
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": [
+      {
+        "text": "Industrial capital total"
+      }
+    ]
+  },
+  {
+    "name": "CS16",
+    "cityStateType": "Militaristic-CS16",
+    "personality": "Friendly",
+    "cities": [
+      "CS16 Capital"
+    ],
+    "outerColor": [
+      220,
+      65,
+      65
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS17",
+    "cityStateType": "Militaristic-CS17",
+    "personality": "Neutral",
+    "cities": [
+      "CS17 Capital"
+    ],
+    "outerColor": [
+      220,
+      65,
+      65
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS18",
+    "cityStateType": "Industrial-CS18",
+    "personality": "Hostile",
+    "cities": [
+      "CS18 Capital"
+    ],
+    "outerColor": [
+      220,
+      145,
+      60
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": [
+      {
+        "text": "Industrial capital total"
+      }
+    ]
+  },
+  {
+    "name": "CS19",
+    "cityStateType": "Militaristic-CS19",
+    "personality": "Irrational",
+    "cities": [
+      "CS19 Capital"
+    ],
+    "outerColor": [
+      220,
+      65,
+      65
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS20",
+    "cityStateType": "Militaristic-CS20",
+    "personality": "Friendly",
+    "cities": [
+      "CS20 Capital"
+    ],
+    "outerColor": [
+      220,
+      65,
+      65
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS21",
+    "cityStateType": "Religious-CS21",
+    "personality": "Friendly",
+    "cities": [
+      "CS21 Capital"
+    ],
+    "outerColor": [
+      220,
+      225,
+      230
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS22",
+    "cityStateType": "Religious-CS22",
+    "personality": "Neutral",
+    "cities": [
+      "CS22 Capital"
+    ],
+    "outerColor": [
+      220,
+      225,
+      230
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS23",
+    "cityStateType": "Religious-CS23",
+    "personality": "Hostile",
+    "cities": [
+      "CS23 Capital"
+    ],
+    "outerColor": [
+      220,
+      225,
+      230
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "CS24",
+    "cityStateType": "Religious-CS24",
+    "personality": "Irrational",
+    "cities": [
+      "CS24 Capital"
+    ],
+    "outerColor": [
+      220,
+      225,
+      230
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Barbarians",
+    "outerColor": [
+      146,
+      76,
+      76
+    ],
+    "innerColor": [
+      5,
+      5,
+      5
+    ]
+  },
+  {
+    "name": "Spectator",
+    "outerColor": [
+      255,
+      255,
+      255
+    ]
+  }
+]
