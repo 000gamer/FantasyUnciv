@@ -1,6 +1,6 @@
 [
   {
-    "name": "Scientific-CS01",
+    "name": "Scientific City-State - Inkbell",
     "color": [
       70,
       150,
@@ -22,7 +22,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Cultured-CS02",
+    "name": "Cultural City-State - Sevenstrings",
     "color": [
       160,
       95,
@@ -44,7 +44,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Scientific-CS03",
+    "name": "Scientific City-State - Ancient Scroll",
     "color": [
       70,
       150,
@@ -60,14 +60,14 @@
       "[+8 Science] <starting from the [III]> <before the [V]>",
       "[+12 Science] <starting from the [V]>",
       "Comment [City-state pact]",
-      "[+15]% Production when constructing [B03] buildings [in all cities]",
-      "[+15]% Production when constructing [B23] buildings [in all cities]"
+      "[+15]% Production when constructing [Library] buildings [in all cities]",
+      "[+15]% Production when constructing [University] buildings [in all cities]"
     ],
     "uniques": [],
     "civilopediaText": []
   },
   {
-    "name": "Cultured-CS04",
+    "name": "Cultural City-State - Whitepage",
     "color": [
       160,
       95,
@@ -89,7 +89,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Scientific-CS05",
+    "name": "Scientific City-State - Starbridge",
     "color": [
       70,
       150,
@@ -105,13 +105,13 @@
       "[+8 Science] <starting from the [III]> <before the [V]>",
       "[+12 Science] <starting from the [V]>",
       "Comment [City-state pact]",
-      "[+10]% Great Person generation [in all cities] <in cities with a [B54]>"
+      "[+10]% Great Person generation [in all cities] <in cities with a [Star Observatory]>"
     ],
     "uniques": [],
     "civilopediaText": []
   },
   {
-    "name": "Maritime-CS06",
+    "name": "Agrarian City-State - Tidemarket",
     "color": [
       70,
       200,
@@ -124,7 +124,7 @@
       "[+2 Food] [in capital]",
       "[+1 Food] [in all cities]",
       "Comment [City-state pact]",
-      "[+1 Food] from all [B10] buildings"
+      "[+1 Food] from all [Harbor] buildings"
     ],
     "uniques": [
       "Start bias [Coast]"
@@ -132,7 +132,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Industrial-CS07",
+    "name": "Industrial City-State - Twin Oars",
     "color": [
       220,
       145,
@@ -157,7 +157,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Happiness-CS08",
+    "name": "Happiness City-State - Coral Bay",
     "color": [
       245,
       145,
@@ -177,7 +177,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Maritime-CS09",
+    "name": "Agrarian City-State - Wheatsail",
     "color": [
       70,
       200,
@@ -198,7 +198,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Maritime-CS10",
+    "name": "Agrarian City-State - Southlight",
     "color": [
       70,
       200,
@@ -219,7 +219,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Mercantile-CS11",
+    "name": "Commercial City-State - Amber Haven",
     "color": [
       245,
       205,
@@ -241,7 +241,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Mercantile-CS12",
+    "name": "Commercial City-State - Twin Scales Station",
     "color": [
       245,
       205,
@@ -263,7 +263,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Happiness-CS13",
+    "name": "Happiness City-State - Salt Ring",
     "color": [
       245,
       145,
@@ -283,7 +283,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Mercantile-CS14",
+    "name": "Commercial City-State - Spice Road",
     "color": [
       245,
       205,
@@ -305,7 +305,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Industrial-CS15",
+    "name": "Industrial City-State - Silver Market",
     "color": [
       220,
       145,
@@ -330,7 +330,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Militaristic-CS16",
+    "name": "Military City-State - Brokenbridge Fort",
     "color": [
       220,
       65,
@@ -348,7 +348,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Militaristic-CS17",
+    "name": "Military City-State - Redshield",
     "color": [
       220,
       65,
@@ -366,7 +366,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Industrial-CS18",
+    "name": "Industrial City-State - Halberd Pass",
     "color": [
       220,
       145,
@@ -391,7 +391,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Militaristic-CS19",
+    "name": "Military City-State - Beaconstone",
     "color": [
       220,
       65,
@@ -409,7 +409,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Militaristic-CS20",
+    "name": "Military City-State - Blade Trial City",
     "color": [
       220,
       65,
@@ -427,7 +427,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Religious-CS21",
+    "name": "Religious City-State - Spring Altar",
     "color": [
       220,
       225,
@@ -449,7 +449,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Religious-CS22",
+    "name": "Religious City-State - Dusk Prayer",
     "color": [
       220,
       225,
@@ -472,7 +472,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Religious-CS23",
+    "name": "Religious City-State - Green Candle",
     "color": [
       220,
       225,
@@ -495,7 +495,7 @@
     "civilopediaText": []
   },
   {
-    "name": "Religious-CS24",
+    "name": "Religious City-State - Court of Echoes",
     "color": [
       220,
       225,
@@ -511,7 +511,7 @@
       "[+12 Faith] <starting from the [III]> <before the [V]>",
       "[+18 Faith] <starting from the [V]>",
       "Comment [City-state pact]",
-      "[+1 Faith] from all [B15] buildings"
+      "[+1 Faith] from all [Temple] buildings"
     ],
     "uniques": [],
     "civilopediaText": []

@@ -142,7 +142,7 @@
     "aiUnitMaintenanceModifier": 0.8,
     "aiUnitSupplyModifier": 0.3,
     "aiFreeTechs": [
-      "D01-T06"
+      "Basic Crafts"
     ],
     "aiMajorCivBonusStartingUnits": [
       "Era Starting Unit"
@@ -176,12 +176,12 @@
     "aiUnitMaintenanceModifier": 0.75,
     "aiUnitSupplyModifier": 0.3,
     "aiFreeTechs": [
-      "D01-T06",
-      "D01-T02"
+      "Basic Crafts",
+      "Hunting and Husbandry"
     ],
     "aiMajorCivBonusStartingUnits": [
       "Era Starting Unit",
-      "U63"
+      "Scouts"
     ],
     "aiCityStateBonusStartingUnits": [],
     "aiUnhappinessModifier": 0.85,
@@ -212,13 +212,13 @@
     "aiUnitMaintenanceModifier": 0.65,
     "aiUnitSupplyModifier": 0.4,
     "aiFreeTechs": [
-      "D01-T06",
-      "D01-T02",
-      "D01-T03"
+      "Basic Crafts",
+      "Hunting and Husbandry",
+      "Mining"
     ],
     "aiMajorCivBonusStartingUnits": [
-      "C02",
-      "U63",
+      "Worker",
+      "Scouts",
       "Era Starting Unit",
       "Era Starting Unit"
     ],
@@ -251,15 +251,15 @@
     "aiUnitMaintenanceModifier": 0.5,
     "aiUnitSupplyModifier": 0.5,
     "aiFreeTechs": [
-      "D01-T06",
-      "D01-T02",
-      "D01-T03",
-      "D01-T06"
+      "Basic Crafts",
+      "Hunting and Husbandry",
+      "Mining",
+      "Basic Crafts"
     ],
     "aiMajorCivBonusStartingUnits": [
-      "C01",
-      "C02",
-      "U63",
+      "Settler",
+      "Worker",
+      "Scouts",
       "Era Starting Unit",
       "Era Starting Unit",
       "Era Starting Unit"

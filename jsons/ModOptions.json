@@ -1,7 +1,7 @@
 {
   "isBaseRuleset": true,
-  "tileset": "FantasyHex",
-  "unitset": "FantasyHex",
+  "tileset": "HexaRealm",
+  "unitset": "AbsoluteUnits",
   "author": "FantasyUnciv",
   "uniques": []
 }

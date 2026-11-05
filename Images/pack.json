@@ -1,13 +1,15 @@
 {
-  "maxWidth": 2048,
-  "maxHeight": 2048,
+  "maxWidth": 4096,
+  "maxHeight": 4096,
   "pot": true,
   "stripWhitespaceX": false,
   "stripWhitespaceY": false,
   "alias": true,
   "duplicatePadding": true,
-  "filterMin": "Linear",
-  "filterMag": "Linear",
+  "filterMin": "MipMapLinearLinear",
+  "filterMag": "MipMapLinearLinear",
   "combineSubdirectories": true,
-  "flattenPaths": false
+  "flattenPaths": false,
+  "paddingX": 8,
+  "paddingY": 8
 }

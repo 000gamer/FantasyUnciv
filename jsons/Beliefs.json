@@ -1,449 +1,449 @@
 [
   {
-    "name": "RB01",
+    "name": "God of the Forest",
     "type": "Pantheon",
     "uniques": [
       "[+1 Faith] from every [Camp]"
     ]
   },
   {
-    "name": "RB02",
+    "name": "God of Knowledge",
     "type": "Pantheon",
     "uniques": [
-      "[+1 Science] from all [B03] buildings"
+      "[+1 Science] from all [Library] buildings"
     ]
   },
   {
-    "name": "RB03",
+    "name": "Song of the Herds",
     "type": "Pantheon",
     "uniques": [
       "[+1 Culture] from every [Pasture]"
     ]
   },
   {
-    "name": "RB04",
+    "name": "God of the Sea",
     "type": "Pantheon",
     "uniques": [
       "[+1 Faith] from every [Fishing Boats]"
     ]
   },
   {
-    "name": "RB05",
+    "name": "God of the Forge",
     "type": "Pantheon",
     "uniques": [
-      "[+1 Faith] from every [R02]",
-      "[+1 Faith] from every [R04]"
+      "[+1 Faith] from every [Iron]",
+      "[+1 Faith] from every [Mithril]"
     ]
   },
   {
-    "name": "RB06",
+    "name": "Words on Stone Altars",
     "type": "Pantheon",
     "uniques": [
       "[+1 Faith, +1 Culture] from every [Quarry]"
     ]
   },
   {
-    "name": "RB07",
+    "name": "Prayers Beneath the Trees",
     "type": "Pantheon",
     "uniques": [
       "[+1 Culture] from every [Forest]"
     ]
   },
   {
-    "name": "RB08",
+    "name": "Rainforest Echoes",
     "type": "Pantheon",
     "uniques": [
       "[+1 Faith] from every [Jungle]"
     ]
   },
   {
-    "name": "RB09",
+    "name": "Desert Sanctuaries",
     "type": "Pantheon",
     "uniques": [
       "[+1 Faith] from every [Desert]"
     ]
   },
   {
-    "name": "RB10",
+    "name": "Keepers of the Winter Flame",
     "type": "Pantheon",
     "uniques": [
       "[+1 Faith] from [Tundra] tiles without [Forest] [in this city]"
     ]
   },
   {
-    "name": "RB11",
+    "name": "God of Order",
     "type": "Pantheon",
     "uniques": [
-      "[+1 Culture] from all [B41] buildings"
+      "[+1 Culture] from all [Council Hall] buildings"
     ]
   },
   {
-    "name": "RB12",
+    "name": "God of Death",
     "type": "Pantheon",
     "uniques": [
-      "[+1 Faith] from all [B04] buildings"
+      "[+1 Faith] from all [Monument] buildings"
     ]
   },
   {
-    "name": "RB13",
+    "name": "Manifest Earth",
     "type": "Pantheon",
     "uniques": [
       "[+3 Faith] from every [Natural Wonder]"
     ]
   },
   {
-    "name": "RB14",
+    "name": "Family Blessings",
     "type": "Pantheon",
     "uniques": [
       "[+1 Happiness] [in this city] <in cities with at least [6] [Population]>"
     ]
   },
   {
-    "name": "RB15",
+    "name": "God of Life",
     "type": "Pantheon",
     "uniques": [
       "[+10]% growth [in this city]"
     ]
   },
   {
-    "name": "RB16",
+    "name": "God of War",
     "type": "Pantheon",
     "uniques": [
       "Earn [50]% of [Military] unit's [Strength] as [Faith] when killed within 4 tiles of a city following this religion"
     ]
   },
   {
-    "name": "RB55",
+    "name": "God of Rivers",
     "type": "Pantheon",
     "uniques": [
       "[+1 Food, +1 Faith] in cities on [River] tiles"
     ]
   },
   {
-    "name": "RB56",
+    "name": "God of Storms",
     "type": "Pantheon",
     "uniques": [
       "[+15]% Production when constructing [{Water} {Military}] units [in this city]"
     ]
   },
   {
-    "name": "RB57",
+    "name": "God of the Hunt",
     "type": "Pantheon",
     "uniques": [
       "[+1 Food] from every [Camp]"
     ]
   },
   {
-    "name": "RB58",
+    "name": "God of Commerce",
     "type": "Pantheon",
     "uniques": [
       "[+1 Gold, +1 Faith] [in all cities connected to capital]"
     ]
   },
   {
-    "name": "RB59",
+    "name": "God of the Stars",
     "type": "Pantheon",
     "uniques": [
-      "[+1 Faith] from all [B03] buildings",
-      "[+1 Culture] from all [B54] buildings"
+      "[+1 Faith] from all [Library] buildings",
+      "[+1 Culture] from all [Star Observatory] buildings"
     ]
   },
   {
-    "name": "RB60",
+    "name": "God of Travel",
     "type": "Pantheon",
     "uniques": [
-      "All newly-trained [侦察] units [in this city] receive the [P20] promotion <Civilopedia link [Promotion/P20]>"
+      "All newly-trained [侦察] units [in this city] receive the [Far Sight Training] promotion <Civilopedia link [Promotion/Far Sight Training]>"
     ]
   },
   {
-    "name": "RB61",
+    "name": "God of the Earth",
     "type": "Pantheon",
     "uniques": [
       "[+1 Production] from every [Quarry]"
     ]
   },
   {
-    "name": "RB62",
+    "name": "God of Peace",
     "type": "Pantheon",
     "uniques": [
       "[+15]% growth [in this city] <when not at war>"
     ]
   },
   {
-    "name": "RB17",
+    "name": "Neighborly Donations",
     "type": "Founder",
     "uniques": [
       "[+2 Gold] for each global city following this religion"
     ]
   },
   {
-    "name": "RB18",
+    "name": "Offerings of Learning",
     "type": "Founder",
     "uniques": [
       "[+1 Science] for each global city following this religion"
     ]
   },
   {
-    "name": "RB19",
+    "name": "Communal Ritual",
     "type": "Founder",
     "uniques": [
       "[+1 Faith] for each global city following this religion"
     ]
   },
   {
-    "name": "RB20",
+    "name": "Archived Canons",
     "type": "Founder",
     "uniques": [
       "[+1 Culture] for each global city following this religion"
     ]
   },
   {
-    "name": "RB21",
+    "name": "Tithe Ledgers",
     "type": "Founder",
     "uniques": [
       "[+1 Gold] from every [4] global followers [in all cities]"
     ]
   },
   {
-    "name": "RB22",
+    "name": "Fellowship of Practice",
     "type": "Founder",
     "uniques": [
       "[+1 Science] from every [6] global followers [in all cities]"
     ]
   },
   {
-    "name": "RB23",
+    "name": "Songs from Abroad",
     "type": "Founder",
     "uniques": [
       "[+1 Culture] from every [8] global followers [in foreign cities]"
     ]
   },
   {
-    "name": "RB24",
+    "name": "Initiation Donations",
     "type": "Founder",
     "uniques": [
       "[+30 Gold] when a city adopts this religion for the first time"
     ]
   },
   {
-    "name": "RB25",
+    "name": "Sacred Diplomacy",
     "type": "Founder",
     "uniques": [
       "Resting point for Influence with City-States following this religion [10]"
     ]
   },
   {
-    "name": "RB26",
+    "name": "Public Oaths",
     "type": "Founder",
     "uniques": [
       "[+2 Culture, +2 Faith] [in capital]"
     ]
   },
   {
-    "name": "RB27",
+    "name": "Dawnoath Worship",
     "type": "Follower",
     "uniques": [
-      "May buy [B70] buildings for [200] [Faith] [in this city]"
+      "May buy [Dawnoath Chapel] buildings for [200] [Faith] [in this city]"
     ]
   },
   {
-    "name": "RB28",
+    "name": "Order of the Living Spring",
     "type": "Follower",
     "uniques": [
-      "May buy [B71] buildings for [220] [Faith] [in this city]"
+      "May buy [Monastery of Life] buildings for [220] [Faith] [in this city]"
     ]
   },
   {
-    "name": "RB29",
+    "name": "Greenring Ministry",
     "type": "Follower",
     "uniques": [
-      "May buy [B72] buildings for [200] [Faith] [in this city]"
+      "May buy [Greenring Shrine] buildings for [200] [Faith] [in this city]"
     ]
   },
   {
-    "name": "RB30",
+    "name": "Hearth Worship",
     "type": "Follower",
     "uniques": [
-      "May buy [B73] buildings for [220] [Faith] [in this city]"
+      "May buy [Hearth Sanctuary] buildings for [220] [Faith] [in this city]"
     ]
   },
   {
-    "name": "RB31",
+    "name": "Tideway Congregation",
     "type": "Follower",
     "uniques": [
-      "May buy [B74] buildings for [200] [Faith] [in this city]"
+      "May buy [Tideway Meeting Hall] buildings for [200] [Faith] [in this city]"
     ]
   },
   {
-    "name": "RB32",
+    "name": "Quiet Remembrance",
     "type": "Follower",
     "uniques": [
-      "May buy [B75] buildings for [220] [Faith] [in this city]"
+      "May buy [Hall of Quiet Memory] buildings for [220] [Faith] [in this city]"
     ]
   },
   {
-    "name": "RB33",
+    "name": "Sharing Bread",
     "type": "Follower",
     "uniques": [
-      "[+1 Food] from all [B01] buildings"
+      "[+1 Food] from all [Granary] buildings"
     ]
   },
   {
-    "name": "RB34",
+    "name": "Ritual of Crafts",
     "type": "Follower",
     "uniques": [
-      "[+1 Production] from all [B02] buildings"
+      "[+1 Production] from all [Workshop] buildings"
     ]
   },
   {
-    "name": "RB35",
+    "name": "Schools of Teaching",
     "type": "Follower",
     "uniques": [
-      "[+1 Science] from all [B12] buildings"
+      "[+1 Science] from all [School] buildings"
     ]
   },
   {
-    "name": "RB36",
+    "name": "Choral Rites",
     "type": "Follower",
     "uniques": [
-      "[+2 Culture] from all [B15] buildings"
+      "[+2 Culture] from all [Temple] buildings"
     ]
   },
   {
-    "name": "RB37",
+    "name": "Public Rest",
     "type": "Follower",
     "uniques": [
-      "[+1 Happiness] from all [B41] buildings"
+      "[+1 Happiness] from all [Council Hall] buildings"
     ]
   },
   {
-    "name": "RB38",
+    "name": "Peaceful Cultivation",
     "type": "Follower",
     "uniques": [
       "[+10]% growth [in this city]"
     ]
   },
   {
-    "name": "RB39",
+    "name": "Festival Markets",
     "type": "Follower",
     "uniques": [
-      "[+2 Gold] from all [B11] buildings"
+      "[+2 Gold] from all [Market] buildings"
     ]
   },
   {
-    "name": "RB40",
+    "name": "Shelter of Life",
     "type": "Follower",
     "uniques": [
-      "[+2 Faith, +1 Happiness] from all [B24] buildings"
+      "[+2 Faith, +1 Happiness] from all [Life Research Hall] buildings"
     ]
   },
   {
-    "name": "RB41",
+    "name": "Sourceflow Rituals",
     "type": "Follower",
     "uniques": [
-      "[+2 Faith, +1 Culture] from all [B14] buildings"
+      "[+2 Faith, +1 Culture] from all [Academy of Magic] buildings"
     ]
   },
   {
-    "name": "RB42",
+    "name": "Inquiring Faithful",
     "type": "Follower",
     "uniques": [
       "[+10]% [Science] [in this city]"
     ]
   },
   {
-    "name": "RB43",
+    "name": "Clerical Military Training",
     "type": "Follower",
     "uniques": [
       "New [医护] units start with [+10] XP [in this city]"
     ]
   },
   {
-    "name": "RB44",
+    "name": "Battlefield Care",
     "type": "Follower",
     "uniques": [
       "[All] Units adjacent to this city heal [5] HP per turn when healing"
     ]
   },
   {
-    "name": "RB63",
+    "name": "Watchful Witnesses",
     "type": "Follower",
     "uniques": [
-      "All newly-trained [侦察] units [in this city] receive the [P47] promotion <Civilopedia link [Promotion/P47]>"
+      "All newly-trained [侦察] units [in this city] receive the [Seal Detection] promotion <Civilopedia link [Promotion/Seal Detection]>"
     ]
   },
   {
-    "name": "RB64",
+    "name": "Care of Bound Spirits",
     "type": "Follower",
     "uniques": [
-      "All newly-trained [构装] units [in this city] receive the [P34] promotion <Civilopedia link [Promotion/P34]>"
+      "All newly-trained [构装] units [in this city] receive the [Marching Prayer] promotion <Civilopedia link [Promotion/Marching Prayer]>"
     ]
   },
   {
-    "name": "RB45",
+    "name": "Itinerant Preaching",
     "type": "Enhancer",
     "uniques": [
       "[+25]% Natural religion spread [in all cities]"
     ]
   },
   {
-    "name": "RB46",
+    "name": "Traveling Order",
     "type": "Enhancer",
     "uniques": [
       "Religion naturally spreads to cities [13] tiles away"
     ]
   },
   {
-    "name": "RB47",
+    "name": "Spiritual Revelation",
     "type": "Enhancer",
     "uniques": [
       "[-15]% Faith cost of generating Great Prophet equivalents"
     ]
   },
   {
-    "name": "RB48",
+    "name": "Simple Vestments",
     "type": "Enhancer",
     "uniques": [
-      "[Faith] cost of purchasing [C04] units [-15]%"
+      "[Faith] cost of purchasing [Missionary] units [-15]%"
     ]
   },
   {
-    "name": "RB49",
+    "name": "Physicians Oath",
     "type": "Enhancer",
     "uniques": [
-      "[+2 Faith] from all [B28] buildings"
+      "[+2 Faith] from all [Infirmary] buildings"
     ]
   },
   {
-    "name": "RB50",
+    "name": "Way of the Wise",
     "type": "Enhancer",
     "uniques": [
-      "[+2 Faith] from all [B49] buildings"
+      "[+2 Faith] from all [Survey Hall] buildings"
     ]
   },
   {
-    "name": "RB51",
+    "name": "Teaching by Lamplight",
     "type": "Enhancer",
     "uniques": [
-      "[+2 Culture] from all [B45] buildings"
+      "[+2 Culture] from all [Lighthouse] buildings"
     ]
   },
   {
-    "name": "RB52",
+    "name": "Preservation of the Ancestors",
     "type": "Enhancer",
     "uniques": [
-      "[+2 Faith, +1 Culture] from all [B32] buildings"
+      "[+2 Faith, +1 Culture] from all [Museum] buildings"
     ]
   },
   {
-    "name": "RB53",
+    "name": "Exchange of Covenants",
     "type": "Enhancer",
     "uniques": [
-      "[+1 Faith] from all [B41] buildings"
+      "[+1 Faith] from all [Council Hall] buildings"
     ]
   },
   {
-    "name": "RB54",
+    "name": "Shared Sanctuary",
     "type": "Enhancer",
     "uniques": [
       "[+2 Gold] from every [Holy site]"

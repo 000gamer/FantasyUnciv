@@ -9,10 +9,10 @@
     "turnsToBuild": 6,
     "uniques": [
       "Cannot be built on [Hill] tiles",
-      "[+1 Food] <in [Fresh water] tiles> <after discovering [D01-T39]>"
+      "[+1 Food] <in [Fresh water] tiles> <after discovering [Irrigation]>"
     ],
     "shortcutKey": "F",
-    "techRequired": "D01-T01",
+    "techRequired": "Agriculture and Storage",
     "food": 1
   },
   {
@@ -22,7 +22,7 @@
       "Can only be built to improve a resource"
     ],
     "shortcutKey": "P",
-    "techRequired": "D01-T02",
+    "techRequired": "Hunting and Husbandry",
     "production": 1,
     "terrainsCanBeBuiltOn": []
   },
@@ -34,7 +34,7 @@
       "Does not need removal of [Forest]"
     ],
     "shortcutKey": "C",
-    "techRequired": "D01-T02",
+    "techRequired": "Hunting and Husbandry",
     "gold": 1,
     "terrainsCanBeBuiltOn": []
   },
@@ -45,10 +45,10 @@
     ],
     "turnsToBuild": 7,
     "uniques": [
-      "[+1 Production] <after discovering [D01-T28]>"
+      "[+1 Production] <after discovering [Mithril Metallurgy]>"
     ],
     "shortcutKey": "M",
-    "techRequired": "D01-T03",
+    "techRequired": "Mining",
     "production": 1
   },
   {
@@ -58,7 +58,7 @@
       "Can only be built to improve a resource"
     ],
     "shortcutKey": "Q",
-    "techRequired": "D01-T03",
+    "techRequired": "Mining",
     "production": 1,
     "terrainsCanBeBuiltOn": []
   },
@@ -70,7 +70,7 @@
       "Can only be built to improve a resource"
     ],
     "shortcutKey": "F",
-    "techRequired": "D01-T07",
+    "techRequired": "Coastal Navigation",
     "food": 1
   },
   {
@@ -96,7 +96,7 @@
         "link": "Technology/Engineering"
       }
     ],
-    "techRequired": "D01-T11"
+    "techRequired": "City-State Organization"
   },
   {
     "name": "Plantation",
@@ -105,7 +105,7 @@
       "Can only be built to improve a resource"
     ],
     "shortcutKey": "P",
-    "techRequired": "D01-T14",
+    "techRequired": "Currency and Exchange",
     "gold": 1,
     "terrainsCanBeBuiltOn": []
   },
@@ -117,7 +117,7 @@
     "turnsToBuild": 7,
     "uniques": [],
     "shortcutKey": "L",
-    "techRequired": "D01-T16",
+    "techRequired": "Mechanical Engineering",
     "production": 1
   },
   {
@@ -130,7 +130,7 @@
       "Gives a defensive bonus of [+25]%"
     ],
     "shortcutKey": "O",
-    "techRequired": "D01-T16"
+    "techRequired": "Mechanical Engineering"
   },
   {
     "name": "Remove Forest",
@@ -142,21 +142,21 @@
         "text": "Provides a one-time Production bonus depending on distance to the closest city once finished"
       }
     ],
-    "techRequired": "D01-T06"
+    "techRequired": "Basic Crafts"
   },
   {
     "name": "Remove Jungle",
     "turnsToBuild": 5,
     "uniques": [],
     "shortcutKey": "X",
-    "techRequired": "D01-T16"
+    "techRequired": "Mechanical Engineering"
   },
   {
     "name": "Remove Marsh",
     "turnsToBuild": 5,
     "uniques": [],
     "shortcutKey": "X",
-    "techRequired": "D01-T16"
+    "techRequired": "Mechanical Engineering"
   },
   {
     "name": "Railroad",
@@ -176,7 +176,7 @@
         "text": "Provides a +25% [Production] bonus to cities connected to the capital by Railroads"
       }
     ],
-    "techRequired": "D01-T36"
+    "techRequired": "Grand Crafts"
   },
   {
     "name": "Academy",
@@ -296,20 +296,20 @@
     "turnsToBuild": -1
   },
   {
-    "name": "I28",
+    "name": "Spiritroot Reserve",
     "terrainsCanBeBuiltOn": [
       "Forest"
     ],
     "uniques": [
       "Cannot be built on [resource] tiles"
     ],
-    "techRequired": "D01-T112",
+    "techRequired": "Spiritual Symbiosis",
     "turnsToBuild": 8,
     "food": 1,
     "faith": 1
   },
   {
-    "name": "I29",
+    "name": "Trade Post",
     "terrainsCanBeBuiltOn": [
       "Grassland",
       "Plains"
@@ -317,60 +317,60 @@
     "uniques": [
       "Cannot be built on [Hill] tiles",
       "Cannot be built on [resource] tiles",
-      "[+1 Gold] <after discovering [D01-T81]>"
+      "[+1 Gold] <after discovering [Trade Charters]>"
     ],
-    "techRequired": "D01-T14",
+    "techRequired": "Currency and Exchange",
     "turnsToBuild": 7,
     "gold": 2
   },
   {
-    "name": "I30",
+    "name": "Ley Extractor",
     "terrainsCanBeBuiltOn": [],
     "uniques": [
       "Can only be built to improve a resource",
       "Does not need removal of [Forest]"
     ],
-    "techRequired": "D01-T04",
+    "techRequired": "Rituals",
     "turnsToBuild": 8,
     "science": 1
   },
   {
-    "name": "I31",
+    "name": "Spring Garden",
     "terrainsCanBeBuiltOn": [],
     "uniques": [
       "Can only be built to improve a resource",
       "Does not need removal of [Forest]"
     ],
-    "techRequired": "D01-T98",
+    "techRequired": "Attunement of Life",
     "turnsToBuild": 8,
     "food": 1,
     "faith": 1
   },
   {
-    "name": "I32",
+    "name": "Kiln",
     "terrainsCanBeBuiltOn": [],
     "uniques": [
       "Can only be built to improve a resource",
-      "[+1 Gold] <after discovering [D01-T08]>"
+      "[+1 Gold] <after discovering [Smelting]>"
     ],
-    "techRequired": "D01-T06",
+    "techRequired": "Basic Crafts",
     "turnsToBuild": 7,
     "production": 1
   },
   {
-    "name": "I33",
+    "name": "Apiary",
     "terrainsCanBeBuiltOn": [],
     "uniques": [
       "Can only be built to improve a resource",
       "Does not need removal of [Forest]",
-      "[+1 Faith] <after discovering [D01-T98]>"
+      "[+1 Faith] <after discovering [Attunement of Life]>"
     ],
-    "techRequired": "D01-T39",
+    "techRequired": "Irrigation",
     "turnsToBuild": 7,
     "gold": 1
   },
   {
-    "name": "I35",
+    "name": "Terrace Farm",
     "terrainsCanBeBuiltOn": [
       "Hill"
     ],
@@ -379,28 +379,28 @@
       "Cannot be built on [resource] tiles",
       "[+1 Food] <in [Fresh water] tiles>"
     ],
-    "techRequired": "D01-T39",
+    "techRequired": "Irrigation",
     "turnsToBuild": 8,
     "food": 1
   },
   {
-    "name": "I36",
+    "name": "Practice Circle",
     "terrainsCanBeBuiltOn": [
       "Land"
     ],
     "uniques": [
       "Cannot be built on [resource] tiles",
-      "Must be next to [R03]",
+      "Must be next to [Mana Crystals]",
       "Does not need removal of [Forest] <hidden from users>",
       "Does not need removal of [Jungle] <hidden from users>",
-      "[+1 Science] <after discovering [D01-T17]>"
+      "[+1 Science] <after discovering [Education]>"
     ],
-    "techRequired": "D01-T04",
+    "techRequired": "Rituals",
     "turnsToBuild": 7,
     "faith": 1
   },
   {
-    "name": "I37",
+    "name": "Waterwheel Yard",
     "terrainsCanBeBuiltOn": [
       "Grassland",
       "Plains"
@@ -410,7 +410,7 @@
       "Cannot be built on [resource] tiles",
       "Must be next to [River]"
     ],
-    "techRequired": "D01-T110",
+    "techRequired": "Mathematics and Measurement",
     "turnsToBuild": 8,
     "production": 1,
     "gold": 1

@@ -1,6 +1,6 @@
 [
   {
-    "name": "U01",
+    "name": "Militia",
     "unitType": "步兵",
     "strength": 9,
     "rangedStrength": 0,
@@ -10,10 +10,10 @@
     "uniques": [
       "Never appears as a Barbarian unit"
     ],
-    "upgradesTo": "U02"
+    "upgradesTo": "Shield Infantry"
   },
   {
-    "name": "U02",
+    "name": "Shield Infantry",
     "unitType": "步兵",
     "strength": 13,
     "rangedStrength": 0,
@@ -22,14 +22,14 @@
     "cost": 65,
     "uniques": [
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R02]"
+      "Consumes [1] [Iron]"
     ],
-    "requiredTech": "D01-T08",
-    "upgradesTo": "U03",
-    "obsoleteTech": "D01-T15"
+    "requiredTech": "Smelting",
+    "upgradesTo": "Regular Infantry",
+    "obsoleteTech": "Steel Forging"
   },
   {
-    "name": "U03",
+    "name": "Regular Infantry",
     "unitType": "步兵",
     "strength": 18,
     "rangedStrength": 0,
@@ -38,14 +38,14 @@
     "cost": 95,
     "uniques": [
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R02]"
+      "Consumes [1] [Iron]"
     ],
-    "requiredTech": "D01-T15",
-    "upgradesTo": "U04",
-    "obsoleteTech": "D01-T22"
+    "requiredTech": "Steel Forging",
+    "upgradesTo": "Formation Infantry",
+    "obsoleteTech": "Military Formations"
   },
   {
-    "name": "U04",
+    "name": "Formation Infantry",
     "unitType": "步兵",
     "strength": 24,
     "rangedStrength": 0,
@@ -54,14 +54,14 @@
     "cost": 140,
     "uniques": [
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R02]"
+      "Consumes [1] [Iron]"
     ],
-    "requiredTech": "D01-T22",
-    "upgradesTo": "U05",
-    "obsoleteTech": "D01-T28"
+    "requiredTech": "Military Formations",
+    "upgradesTo": "Heavy Infantry",
+    "obsoleteTech": "Mithril Metallurgy"
   },
   {
-    "name": "U05",
+    "name": "Heavy Infantry",
     "unitType": "重步兵",
     "strength": 30,
     "rangedStrength": 0,
@@ -70,14 +70,14 @@
     "cost": 190,
     "uniques": [
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R02]"
+      "Consumes [1] [Iron]"
     ],
-    "requiredTech": "D01-T28",
-    "upgradesTo": "U06",
-    "obsoleteTech": "D01-T38"
+    "requiredTech": "Mithril Metallurgy",
+    "upgradesTo": "Legion Guards",
+    "obsoleteTech": "World Strategy"
   },
   {
-    "name": "U06",
+    "name": "Legion Guards",
     "unitType": "重步兵",
     "strength": 40,
     "rangedStrength": 0,
@@ -86,12 +86,12 @@
     "cost": 285,
     "uniques": [
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R02]"
+      "Consumes [1] [Iron]"
     ],
-    "requiredTech": "D01-T38"
+    "requiredTech": "World Strategy"
   },
   {
-    "name": "U07",
+    "name": "Spearmen",
     "unitType": "长柄",
     "strength": 11,
     "rangedStrength": 0,
@@ -105,12 +105,12 @@
       "[+35]% Strength <vs [野兽] units>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T06",
-    "upgradesTo": "U08",
-    "obsoleteTech": "D01-T15"
+    "requiredTech": "Basic Crafts",
+    "upgradesTo": "Pikemen",
+    "obsoleteTech": "Steel Forging"
   },
   {
-    "name": "U08",
+    "name": "Pikemen",
     "unitType": "长柄",
     "strength": 16,
     "rangedStrength": 0,
@@ -124,12 +124,12 @@
       "[+35]% Strength <vs [野兽] units>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T15",
-    "upgradesTo": "U09",
-    "obsoleteTech": "D01-T22"
+    "requiredTech": "Steel Forging",
+    "upgradesTo": "Halberdiers",
+    "obsoleteTech": "Military Formations"
   },
   {
-    "name": "U09",
+    "name": "Halberdiers",
     "unitType": "长柄",
     "strength": 21,
     "rangedStrength": 0,
@@ -143,12 +143,12 @@
       "[+35]% Strength <vs [野兽] units>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T22",
-    "upgradesTo": "U10",
-    "obsoleteTech": "D01-T33"
+    "requiredTech": "Military Formations",
+    "upgradesTo": "Phalanx Guards",
+    "obsoleteTech": "War Coordination"
   },
   {
-    "name": "U10",
+    "name": "Phalanx Guards",
     "unitType": "长柄",
     "strength": 27,
     "rangedStrength": 0,
@@ -162,12 +162,12 @@
       "[+35]% Strength <vs [野兽] units>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T33",
-    "upgradesTo": "U11",
-    "obsoleteTech": "D01-T38"
+    "requiredTech": "War Coordination",
+    "upgradesTo": "Massed Pike Guards",
+    "obsoleteTech": "World Strategy"
   },
   {
-    "name": "U11",
+    "name": "Massed Pike Guards",
     "unitType": "长柄",
     "strength": 35,
     "rangedStrength": 0,
@@ -181,10 +181,10 @@
       "[+35]% Strength <vs [野兽] units>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T38"
+    "requiredTech": "World Strategy"
   },
   {
-    "name": "U12",
+    "name": "Archers",
     "unitType": "射手",
     "strength": 5,
     "rangedStrength": 10,
@@ -195,12 +195,12 @@
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T02",
-    "upgradesTo": "U13",
-    "obsoleteTech": "D01-T10"
+    "requiredTech": "Hunting and Husbandry",
+    "upgradesTo": "Composite Bowmen",
+    "obsoleteTech": "Composite Bows"
   },
   {
-    "name": "U14",
+    "name": "Crossbowmen",
     "unitType": "射手",
     "strength": 9,
     "rangedStrength": 18,
@@ -211,12 +211,12 @@
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T16",
-    "upgradesTo": "U16",
-    "obsoleteTech": "D01-T29"
+    "requiredTech": "Mechanical Engineering",
+    "upgradesTo": "Windlass Crossbowmen",
+    "obsoleteTech": "Precision Manufacturing"
   },
   {
-    "name": "U16",
+    "name": "Windlass Crossbowmen",
     "unitType": "射手",
     "strength": 16,
     "rangedStrength": 32,
@@ -227,12 +227,12 @@
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T29",
-    "upgradesTo": "U17",
-    "obsoleteTech": "D01-T38"
+    "requiredTech": "Precision Manufacturing",
+    "upgradesTo": "Sharpshooters",
+    "obsoleteTech": "World Strategy"
   },
   {
-    "name": "U17",
+    "name": "Sharpshooters",
     "unitType": "射手",
     "strength": 22,
     "rangedStrength": 42,
@@ -243,10 +243,10 @@
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T38"
+    "requiredTech": "World Strategy"
   },
   {
-    "name": "U18",
+    "name": "Light Cavalry",
     "unitType": "轻骑",
     "strength": 12,
     "rangedStrength": 0,
@@ -257,14 +257,14 @@
       "No defensive terrain bonus",
       "Can move after attacking",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R01]"
+      "Consumes [1] [Horses]"
     ],
-    "requiredTech": "D01-T09",
-    "upgradesTo": "U19",
-    "obsoleteTech": "D01-T23"
+    "requiredTech": "Riding",
+    "upgradesTo": "Rangers",
+    "obsoleteTech": "Mobile Warfare"
   },
   {
-    "name": "U19",
+    "name": "Rangers",
     "unitType": "轻骑",
     "strength": 22,
     "rangedStrength": 0,
@@ -276,14 +276,14 @@
       "Can move after attacking",
       "[+1] Sight",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R01]"
+      "Consumes [1] [Horses]"
     ],
-    "requiredTech": "D01-T23",
-    "upgradesTo": "U21",
-    "obsoleteTech": "D01-T38"
+    "requiredTech": "Mobile Warfare",
+    "upgradesTo": "Windriders",
+    "obsoleteTech": "World Strategy"
   },
   {
-    "name": "U21",
+    "name": "Windriders",
     "unitType": "轻骑",
     "strength": 36,
     "rangedStrength": 0,
@@ -295,12 +295,12 @@
       "Can move after attacking",
       "[+1] Sight",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R01]"
+      "Consumes [1] [Horses]"
     ],
-    "requiredTech": "D01-T38"
+    "requiredTech": "World Strategy"
   },
   {
-    "name": "U22",
+    "name": "Heavy Cavalry",
     "unitType": "重骑",
     "strength": 27,
     "rangedStrength": 0,
@@ -311,16 +311,16 @@
       "No defensive terrain bonus",
       "Can move after attacking",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R01]",
-      "Consumes [1] [R02]",
+      "Consumes [1] [Horses]",
+      "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "D01-T23",
-    "upgradesTo": "U24",
-    "obsoleteTech": "D01-T38"
+    "requiredTech": "Mobile Warfare",
+    "upgradesTo": "Royal Cavalry",
+    "obsoleteTech": "World Strategy"
   },
   {
-    "name": "U24",
+    "name": "Royal Cavalry",
     "unitType": "重骑",
     "strength": 45,
     "rangedStrength": 0,
@@ -331,14 +331,14 @@
       "No defensive terrain bonus",
       "Can move after attacking",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R01]",
-      "Consumes [1] [R02]",
+      "Consumes [1] [Horses]",
+      "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "D01-T38"
+    "requiredTech": "World Strategy"
   },
   {
-    "name": "U25",
+    "name": "Catapults",
     "unitType": "攻城",
     "strength": 8,
     "rangedStrength": 17,
@@ -351,12 +351,12 @@
       "[+100]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T16",
-    "upgradesTo": "U26",
-    "obsoleteTech": "D01-T22"
+    "requiredTech": "Mechanical Engineering",
+    "upgradesTo": "Heavy Catapults",
+    "obsoleteTech": "Military Formations"
   },
   {
-    "name": "U26",
+    "name": "Heavy Catapults",
     "unitType": "攻城",
     "strength": 11,
     "rangedStrength": 23,
@@ -369,12 +369,12 @@
       "[+100]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T22",
-    "upgradesTo": "U27",
-    "obsoleteTech": "D01-T29"
+    "requiredTech": "Military Formations",
+    "upgradesTo": "Heavy Ballistae",
+    "obsoleteTech": "Precision Manufacturing"
   },
   {
-    "name": "U27",
+    "name": "Heavy Ballistae",
     "unitType": "攻城",
     "strength": 14,
     "rangedStrength": 31,
@@ -387,12 +387,12 @@
       "[+100]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T29",
-    "upgradesTo": "U28",
-    "obsoleteTech": "D01-T36"
+    "requiredTech": "Precision Manufacturing",
+    "upgradesTo": "Great Siege Arbalest",
+    "obsoleteTech": "Grand Crafts"
   },
   {
-    "name": "U28",
+    "name": "Great Siege Arbalest",
     "unitType": "攻城",
     "strength": 19,
     "rangedStrength": 42,
@@ -405,10 +405,10 @@
       "[+100]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T36"
+    "requiredTech": "Grand Crafts"
   },
   {
-    "name": "U29",
+    "name": "Oared Galleys",
     "unitType": "海近战",
     "strength": 12,
     "rangedStrength": 0,
@@ -417,15 +417,15 @@
     "cost": 65,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T07",
-    "upgradesTo": "U30",
-    "obsoleteTech": "D01-T19"
+    "requiredTech": "Coastal Navigation",
+    "upgradesTo": "Ocean Escorts",
+    "obsoleteTech": "Ocean Navigation"
   },
   {
-    "name": "U30",
+    "name": "Ocean Escorts",
     "unitType": "海近战",
     "strength": 23,
     "rangedStrength": 0,
@@ -434,14 +434,14 @@
     "cost": 130,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T19",
-    "upgradesTo": "U31"
+    "requiredTech": "Ocean Navigation",
+    "upgradesTo": "Deep-Sea Warships"
   },
   {
-    "name": "U31",
+    "name": "Deep-Sea Warships",
     "unitType": "海近战",
     "strength": 36,
     "rangedStrength": 0,
@@ -450,17 +450,17 @@
     "cost": 225,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R02]",
+      "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "D01-T32",
-    "upgradesTo": "U32",
-    "obsoleteTech": "D01-T95"
+    "requiredTech": "Deep-Sea Shipbuilding",
+    "upgradesTo": "Armored Warships",
+    "obsoleteTech": "Ocean Supremacy"
   },
   {
-    "name": "U32",
+    "name": "Armored Warships",
     "unitType": "海近战",
     "strength": 47,
     "rangedStrength": 0,
@@ -469,15 +469,15 @@
     "cost": 320,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R02]",
+      "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "D01-T95"
+    "requiredTech": "Ocean Supremacy"
   },
   {
-    "name": "U33",
+    "name": "Naval Ballistae",
     "unitType": "海远程",
     "strength": 15,
     "rangedStrength": 22,
@@ -486,14 +486,14 @@
     "cost": 145,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T20",
-    "upgradesTo": "U34"
+    "requiredTech": "Naval Armaments",
+    "upgradesTo": "Heavy Ballista Ships"
   },
   {
-    "name": "U34",
+    "name": "Heavy Ballista Ships",
     "unitType": "海远程",
     "strength": 24,
     "rangedStrength": 34,
@@ -502,17 +502,17 @@
     "cost": 235,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R02]",
+      "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "D01-T32",
-    "upgradesTo": "U35",
-    "obsoleteTech": "D01-T95"
+    "requiredTech": "Deep-Sea Shipbuilding",
+    "upgradesTo": "Armored Ballista Ships",
+    "obsoleteTech": "Ocean Supremacy"
   },
   {
-    "name": "U35",
+    "name": "Armored Ballista Ships",
     "unitType": "海远程",
     "strength": 31,
     "rangedStrength": 45,
@@ -521,15 +521,15 @@
     "cost": 330,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R02]",
+      "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "D01-T95"
+    "requiredTech": "Ocean Supremacy"
   },
   {
-    "name": "U36",
+    "name": "Evokers",
     "unitType": "术士",
     "strength": 5,
     "rangedStrength": 12,
@@ -541,18 +541,18 @@
       "[+20]% Strength <vs [重步兵] units>",
       "[+20]% Strength <vs [重骑] units>",
       "[+20]% Strength <vs [构装] units>",
-      "[+25]% Strength <vs [UX06] units>",
-      "[+25]% Strength <vs [UX30] units>",
-      "[+25]% Strength <vs [M05] units>",
+      "[+25]% Strength <vs [Ancient Grove Guardians] units>",
+      "[+25]% Strength <vs [Elder Tree Guards] units>",
+      "[+25]% Strength <vs [Feral Tree Guards] units>",
       "[-35]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
-      "[This Unit] gains the [P104] status for [2] turn(s) <for all movement> <for units without [P104]>"
+      "[This Unit] gains the [Crystal Ward] status for [2] turn(s) <for all movement> <for units without [Crystal Ward]>"
     ],
-    "requiredTech": "D01-T99",
-    "upgradesTo": "U38"
+    "requiredTech": "Elemental Guidance",
+    "upgradesTo": "Shaping Mages"
   },
   {
-    "name": "U38",
+    "name": "Shaping Mages",
     "unitType": "术士",
     "strength": 15,
     "rangedStrength": 30,
@@ -564,21 +564,21 @@
       "[+20]% Strength <vs [重步兵] units>",
       "[+20]% Strength <vs [重骑] units>",
       "[+20]% Strength <vs [构装] units>",
-      "[+25]% Strength <vs [UX06] units>",
-      "[+25]% Strength <vs [UX30] units>",
-      "[+25]% Strength <vs [M05] units>",
+      "[+25]% Strength <vs [Ancient Grove Guardians] units>",
+      "[+25]% Strength <vs [Elder Tree Guards] units>",
+      "[+25]% Strength <vs [Feral Tree Guards] units>",
       "[-35]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R03]",
+      "Consumes [1] [Mana Crystals]",
       "[+25]% maintenance costs",
-      "[This Unit] gains the [P104] status for [2] turn(s) <for all movement> <for units without [P104]>"
+      "[This Unit] gains the [Crystal Ward] status for [2] turn(s) <for all movement> <for units without [Crystal Ward]>"
     ],
-    "requiredTech": "D01-T30",
-    "upgradesTo": "U40",
-    "obsoleteTech": "D01-T91"
+    "requiredTech": "Elemental Shaping",
+    "upgradesTo": "Boundary Mages",
+    "obsoleteTech": "Elemental Boundaries"
   },
   {
-    "name": "U40",
+    "name": "Boundary Mages",
     "unitType": "术士",
     "strength": 23,
     "rangedStrength": 42,
@@ -590,19 +590,19 @@
       "[+20]% Strength <vs [重步兵] units>",
       "[+20]% Strength <vs [重骑] units>",
       "[+20]% Strength <vs [构装] units>",
-      "[+25]% Strength <vs [UX06] units>",
-      "[+25]% Strength <vs [UX30] units>",
-      "[+25]% Strength <vs [M05] units>",
+      "[+25]% Strength <vs [Ancient Grove Guardians] units>",
+      "[+25]% Strength <vs [Elder Tree Guards] units>",
+      "[+25]% Strength <vs [Feral Tree Guards] units>",
       "[-35]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R03]",
+      "Consumes [1] [Mana Crystals]",
       "[+25]% maintenance costs",
-      "[This Unit] gains the [P104] status for [2] turn(s) <for all movement> <for units without [P104]>"
+      "[This Unit] gains the [Crystal Ward] status for [2] turn(s) <for all movement> <for units without [Crystal Ward]>"
     ],
-    "requiredTech": "D01-T91"
+    "requiredTech": "Elemental Boundaries"
   },
   {
-    "name": "U41",
+    "name": "Field Physicians",
     "unitType": "医护",
     "strength": 8,
     "rangedStrength": 0,
@@ -611,15 +611,15 @@
     "cost": 65,
     "uniques": [
       "Comment [Field medicine]",
-      "FC medic near active patient <when adjacent to a [P109] unit> <hidden from users>",
+      "FC medic near active patient <when adjacent to a [Medical resolution marker] unit> <hidden from users>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T98",
-    "upgradesTo": "U43",
-    "obsoleteTech": "D01-T27"
+    "requiredTech": "Attunement of Life",
+    "upgradesTo": "Life Physicians",
+    "obsoleteTech": "Covenants of Life"
   },
   {
-    "name": "U43",
+    "name": "Life Physicians",
     "unitType": "医护",
     "strength": 18,
     "rangedStrength": 0,
@@ -628,15 +628,15 @@
     "cost": 155,
     "uniques": [
       "Comment [Field medicine]",
-      "FC medic near active patient <when adjacent to a [P109] unit> <hidden from users>",
+      "FC medic near active patient <when adjacent to a [Medical resolution marker] unit> <hidden from users>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T27",
-    "upgradesTo": "U45",
-    "obsoleteTech": "D01-T31"
+    "requiredTech": "Covenants of Life",
+    "upgradesTo": "Harmony Physicians",
+    "obsoleteTech": "Harmony of Life"
   },
   {
-    "name": "U45",
+    "name": "Harmony Physicians",
     "unitType": "医护",
     "strength": 27,
     "rangedStrength": 0,
@@ -645,13 +645,13 @@
     "cost": 230,
     "uniques": [
       "Comment [Field medicine]",
-      "FC medic near active patient <when adjacent to a [P109] unit> <hidden from users>",
+      "FC medic near active patient <when adjacent to a [Medical resolution marker] unit> <hidden from users>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T31"
+    "requiredTech": "Harmony of Life"
   },
   {
-    "name": "U54",
+    "name": "Construct Guards",
     "unitType": "构装",
     "strength": 35,
     "rangedStrength": 0,
@@ -662,15 +662,15 @@
       "No defensive terrain bonus",
       "[+10]% Strength <when defending>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R02]",
-      "Consumes [1] [R03]",
+      "Consumes [1] [Iron]",
+      "Consumes [1] [Mana Crystals]",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "D01-T30",
-    "upgradesTo": "U55"
+    "requiredTech": "Elemental Shaping",
+    "upgradesTo": "Heavy Construct Guards"
   },
   {
-    "name": "U55",
+    "name": "Heavy Construct Guards",
     "unitType": "构装",
     "strength": 46,
     "rangedStrength": 0,
@@ -681,14 +681,14 @@
       "No defensive terrain bonus",
       "[+10]% Strength <when defending>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R04]",
-      "Consumes [1] [R03]",
+      "Consumes [1] [Mithril]",
+      "Consumes [1] [Mana Crystals]",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "D01-T91"
+    "requiredTech": "Elemental Boundaries"
   },
   {
-    "name": "U63",
+    "name": "Scouts",
     "unitType": "侦察",
     "strength": 6,
     "rangedStrength": 0,
@@ -700,11 +700,11 @@
       "[+1] Sight",
       "Never appears as a Barbarian unit"
     ],
-    "upgradesTo": "U64",
-    "obsoleteTech": "D01-T57"
+    "upgradesTo": "Woodland Scouts",
+    "obsoleteTech": "Cartography"
   },
   {
-    "name": "U64",
+    "name": "Woodland Scouts",
     "unitType": "侦察",
     "strength": 14,
     "rangedStrength": 0,
@@ -716,12 +716,12 @@
       "[+1] Sight",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T57",
-    "upgradesTo": "U65",
-    "obsoleteTech": "D01-T33"
+    "requiredTech": "Cartography",
+    "upgradesTo": "Expedition Scouts",
+    "obsoleteTech": "War Coordination"
   },
   {
-    "name": "U65",
+    "name": "Expedition Scouts",
     "unitType": "侦察",
     "strength": 25,
     "rangedStrength": 0,
@@ -733,10 +733,10 @@
       "[+1] Sight",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T33"
+    "requiredTech": "War Coordination"
   },
   {
-    "name": "U70",
+    "name": "Horse Archers",
     "unitType": "骑射",
     "strength": 7,
     "rangedStrength": 12,
@@ -747,14 +747,14 @@
       "No defensive terrain bonus",
       "Can move after attacking",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R01]"
+      "Consumes [1] [Horses]"
     ],
-    "requiredTech": "D01-T48",
-    "upgradesTo": "U71",
-    "obsoleteTech": "D01-T23"
+    "requiredTech": "Saddlery",
+    "upgradesTo": "Windstring Horse Archers",
+    "obsoleteTech": "Mobile Warfare"
   },
   {
-    "name": "U71",
+    "name": "Windstring Horse Archers",
     "unitType": "骑射",
     "strength": 13,
     "rangedStrength": 23,
@@ -765,14 +765,14 @@
       "No defensive terrain bonus",
       "Can move after attacking",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R01]"
+      "Consumes [1] [Horses]"
     ],
-    "requiredTech": "D01-T23",
-    "upgradesTo": "U72",
-    "obsoleteTech": "D01-T38"
+    "requiredTech": "Mobile Warfare",
+    "upgradesTo": "Skyline Horse Archers",
+    "obsoleteTech": "World Strategy"
   },
   {
-    "name": "U72",
+    "name": "Skyline Horse Archers",
     "unitType": "骑射",
     "strength": 21,
     "rangedStrength": 35,
@@ -783,12 +783,12 @@
       "No defensive terrain bonus",
       "Can move after attacking",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R01]"
+      "Consumes [1] [Horses]"
     ],
-    "requiredTech": "D01-T38"
+    "requiredTech": "World Strategy"
   },
   {
-    "name": "U76",
+    "name": "Ocean Supply Ship",
     "unitType": "海近战",
     "strength": 18,
     "rangedStrength": 0,
@@ -797,15 +797,15 @@
     "cost": 150,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "All adjacent units heal [5] HP when healing",
       "Never appears as a Barbarian unit",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "D01-T19"
+    "requiredTech": "Ocean Navigation"
   },
   {
-    "name": "U77",
+    "name": "Mirror Detection Team",
     "unitType": "侦察",
     "strength": 18,
     "rangedStrength": 0,
@@ -822,10 +822,10 @@
       "[+25]% maintenance costs",
       "Reveal up to [All] [All] within a [5] tile radius <for all movement> <[2] times>"
     ],
-    "requiredTech": "D01-T101"
+    "requiredTech": "Mental Coordination"
   },
   {
-    "name": "U13",
+    "name": "Composite Bowmen",
     "unitType": "射手",
     "strength": 7,
     "rangedStrength": 13,
@@ -836,12 +836,12 @@
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T10",
-    "upgradesTo": "U14",
-    "obsoleteTech": "D01-T16"
+    "requiredTech": "Composite Bows",
+    "upgradesTo": "Crossbowmen",
+    "obsoleteTech": "Mechanical Engineering"
   },
   {
-    "name": "U58",
+    "name": "Trained Warbeasts",
     "unitType": "野兽",
     "strength": 26,
     "rangedStrength": 0,
@@ -854,12 +854,12 @@
       "Never appears as a Barbarian unit",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "D01-T23",
-    "upgradesTo": "U60",
-    "obsoleteTech": "D01-T38"
+    "requiredTech": "Mobile Warfare",
+    "upgradesTo": "Armored Warbeasts",
+    "obsoleteTech": "World Strategy"
   },
   {
-    "name": "U60",
+    "name": "Armored Warbeasts",
     "unitType": "野兽",
     "strength": 41,
     "rangedStrength": 0,
@@ -872,10 +872,10 @@
       "Never appears as a Barbarian unit",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "D01-T38"
+    "requiredTech": "World Strategy"
   },
   {
-    "name": "U66",
+    "name": "Necromancers",
     "unitType": "死灵",
     "strength": 7,
     "rangedStrength": 13,
@@ -888,11 +888,11 @@
       "[-35]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T54",
-    "upgradesTo": "U74"
+    "requiredTech": "Repose and Memory",
+    "upgradesTo": "Soulbinders"
   },
   {
-    "name": "U74",
+    "name": "Soulbinders",
     "unitType": "死灵",
     "strength": 18,
     "rangedStrength": 30,
@@ -904,15 +904,15 @@
       "Heals [10] damage if it kills a unit",
       "[-35]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R03]",
+      "Consumes [1] [Mana Crystals]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "D01-T79",
-    "upgradesTo": "U75",
-    "obsoleteTech": "D01-T93"
+    "requiredTech": "Soul Covenants",
+    "upgradesTo": "Final Cantors",
+    "obsoleteTech": "Enduring Memory"
   },
   {
-    "name": "U75",
+    "name": "Final Cantors",
     "unitType": "死灵",
     "strength": 26,
     "rangedStrength": 42,
@@ -924,20 +924,20 @@
       "Heals [10] damage if it kills a unit",
       "[-35]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R03]",
+      "Consumes [1] [Mana Crystals]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "D01-T93"
+    "requiredTech": "Enduring Memory"
   },
   {
-    "name": "U78",
+    "name": "Spirit Survey Team",
     "unitType": "侦察",
     "strength": 7,
     "movement": 2,
     "cost": 75,
-    "requiredTech": "D01-T53",
-    "upgradesTo": "U77",
-    "obsoleteTech": "D01-T101",
+    "requiredTech": "Symbolic Arts",
+    "upgradesTo": "Mirror Detection Team",
+    "obsoleteTech": "Mental Coordination",
     "uniques": [
       "Ignores terrain cost",
       "[+1] Sight",
@@ -949,7 +949,7 @@
     "range": 0
   },
   {
-    "name": "UX01",
+    "name": "Imperial Legion",
     "unitType": "步兵",
     "strength": 19,
     "rangedStrength": 0,
@@ -959,16 +959,16 @@
     "uniques": [
       "[+50]% to Flank Attack bonuses",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R02]"
+      "Consumes [1] [Iron]"
     ],
-    "requiredTech": "D01-T15",
-    "upgradesTo": "U04",
-    "obsoleteTech": "D01-T22",
-    "uniqueTo": "N01",
-    "replaces": "U03"
+    "requiredTech": "Steel Forging",
+    "upgradesTo": "Formation Infantry",
+    "obsoleteTech": "Military Formations",
+    "uniqueTo": "Human Empire",
+    "replaces": "Regular Infantry"
   },
   {
-    "name": "UX02",
+    "name": "Oathshield Guards",
     "unitType": "重步兵",
     "strength": 42,
     "rangedStrength": 0,
@@ -978,14 +978,14 @@
     "uniques": [
       "[+15]% Strength <when defending> <vs [Ranged] units>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R02]"
+      "Consumes [1] [Iron]"
     ],
-    "requiredTech": "D01-T38",
-    "uniqueTo": "N01",
-    "replaces": "U06"
+    "requiredTech": "World Strategy",
+    "uniqueTo": "Human Empire",
+    "replaces": "Legion Guards"
   },
   {
-    "name": "UX03",
+    "name": "Contract Guards",
     "unitType": "长柄",
     "strength": 18,
     "rangedStrength": 0,
@@ -1000,14 +1000,14 @@
       "[+15]% Strength <when defending> <in [Friendly Land] tiles>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T15",
-    "upgradesTo": "U09",
-    "obsoleteTech": "D01-T22",
-    "uniqueTo": "N02",
-    "replaces": "U08"
+    "requiredTech": "Steel Forging",
+    "upgradesTo": "Halberdiers",
+    "obsoleteTech": "Military Formations",
+    "uniqueTo": "Mercantile Republic",
+    "replaces": "Pikemen"
   },
   {
-    "name": "UX04",
+    "name": "Convoy Escort",
     "unitType": "海近战",
     "strength": 25,
     "rangedStrength": 0,
@@ -1016,17 +1016,17 @@
     "cost": 145,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "[+1] Sight",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T19",
-    "upgradesTo": "U31",
-    "uniqueTo": "N02",
-    "replaces": "U30"
+    "requiredTech": "Ocean Navigation",
+    "upgradesTo": "Deep-Sea Warships",
+    "uniqueTo": "Mercantile Republic",
+    "replaces": "Ocean Escorts"
   },
   {
-    "name": "UX05",
+    "name": "Woodland Bowmen",
     "unitType": "射手",
     "strength": 7,
     "rangedStrength": 14,
@@ -1039,14 +1039,14 @@
       "[+20]% Strength <when fighting in [Forest] tiles>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T10",
-    "upgradesTo": "U14",
-    "obsoleteTech": "D01-T16",
-    "uniqueTo": "N03",
-    "replaces": "U13"
+    "requiredTech": "Composite Bows",
+    "upgradesTo": "Crossbowmen",
+    "obsoleteTech": "Mechanical Engineering",
+    "uniqueTo": "Forest Elves",
+    "replaces": "Composite Bowmen"
   },
   {
-    "name": "UX06",
+    "name": "Ancient Grove Guardians",
     "unitType": "步兵",
     "strength": 28,
     "rangedStrength": 0,
@@ -1058,13 +1058,13 @@
       "Never appears as a Barbarian unit",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "D01-T27",
-    "upgradesTo": "UX30",
-    "obsoleteTech": "D01-T80",
-    "uniqueTo": "N03"
+    "requiredTech": "Covenants of Life",
+    "upgradesTo": "Elder Tree Guards",
+    "obsoleteTech": "Ecological Accords",
+    "uniqueTo": "Forest Elves"
   },
   {
-    "name": "UX07",
+    "name": "Moonbranch Archers",
     "unitType": "射手",
     "strength": 22,
     "rangedStrength": 43,
@@ -1076,12 +1076,12 @@
       "[+20]% Strength <when fighting in [Forest] tiles>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T38",
-    "uniqueTo": "N03",
-    "replaces": "U17"
+    "requiredTech": "World Strategy",
+    "uniqueTo": "Forest Elves",
+    "replaces": "Sharpshooters"
   },
   {
-    "name": "UX08",
+    "name": "Tidepattern Galley",
     "unitType": "海近战",
     "strength": 14,
     "rangedStrength": 0,
@@ -1090,18 +1090,18 @@
     "cost": 70,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "[+1] Sight",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T07",
-    "upgradesTo": "U30",
-    "obsoleteTech": "D01-T19",
-    "uniqueTo": "N04",
-    "replaces": "U29"
+    "requiredTech": "Coastal Navigation",
+    "upgradesTo": "Ocean Escorts",
+    "obsoleteTech": "Ocean Navigation",
+    "uniqueTo": "Sea Elves",
+    "replaces": "Oared Galleys"
   },
   {
-    "name": "UX09",
+    "name": "Sail Ballista Ship",
     "unitType": "海远程",
     "strength": 24,
     "rangedStrength": 35,
@@ -1110,20 +1110,20 @@
     "cost": 250,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "[+1] Sight",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R02]",
+      "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "D01-T32",
-    "upgradesTo": "U35",
-    "obsoleteTech": "D01-T95",
-    "uniqueTo": "N04",
-    "replaces": "U34"
+    "requiredTech": "Deep-Sea Shipbuilding",
+    "upgradesTo": "Armored Ballista Ships",
+    "obsoleteTech": "Ocean Supremacy",
+    "uniqueTo": "Sea Elves",
+    "replaces": "Heavy Ballista Ships"
   },
   {
-    "name": "UX10",
+    "name": "Pass Pikemen",
     "unitType": "长柄",
     "strength": 17,
     "rangedStrength": 0,
@@ -1138,14 +1138,14 @@
       "[+15]% Strength <when defending>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T15",
-    "upgradesTo": "U09",
-    "obsoleteTech": "D01-T22",
-    "uniqueTo": "N05",
-    "replaces": "U08"
+    "requiredTech": "Steel Forging",
+    "upgradesTo": "Halberdiers",
+    "obsoleteTech": "Military Formations",
+    "uniqueTo": "Mountain Dwarves",
+    "replaces": "Pikemen"
   },
   {
-    "name": "UX11",
+    "name": "Mountain Gate Guards",
     "unitType": "重步兵",
     "strength": 32,
     "rangedStrength": 0,
@@ -1155,16 +1155,16 @@
     "uniques": [
       "[+15]% Strength <when defending> <vs [Ranged] units>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R02]"
+      "Consumes [1] [Iron]"
     ],
-    "requiredTech": "D01-T28",
-    "upgradesTo": "U06",
-    "obsoleteTech": "D01-T38",
-    "uniqueTo": "N05",
-    "replaces": "U05"
+    "requiredTech": "Mithril Metallurgy",
+    "upgradesTo": "Legion Guards",
+    "obsoleteTech": "World Strategy",
+    "uniqueTo": "Mountain Dwarves",
+    "replaces": "Heavy Infantry"
   },
   {
-    "name": "UX13",
+    "name": "Precision Construct Guards",
     "unitType": "构装",
     "strength": 48,
     "rangedStrength": 0,
@@ -1176,16 +1176,16 @@
       "[+10]% Strength <when defending>",
       "[+5] HP when healing",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R04]",
-      "Consumes [1] [R03]",
+      "Consumes [1] [Mithril]",
+      "Consumes [1] [Mana Crystals]",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "D01-T91",
-    "uniqueTo": "N06",
-    "replaces": "U55"
+    "requiredTech": "Elemental Boundaries",
+    "uniqueTo": "Artificer Dwarves",
+    "replaces": "Heavy Construct Guards"
   },
   {
-    "name": "UX14",
+    "name": "Wolf Riders",
     "unitType": "轻骑",
     "strength": 12,
     "rangedStrength": 0,
@@ -1197,13 +1197,13 @@
       "Can move after attacking",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T09",
-    "upgradesTo": "U19",
-    "uniqueTo": "N07",
-    "replaces": "U18"
+    "requiredTech": "Riding",
+    "upgradesTo": "Rangers",
+    "uniqueTo": "Nomadic Orcs",
+    "replaces": "Light Cavalry"
   },
   {
-    "name": "UX15",
+    "name": "Steppe Horse Archers",
     "unitType": "骑射",
     "strength": 13,
     "rangedStrength": 24,
@@ -1215,16 +1215,16 @@
       "Can move after attacking",
       "[+1] Sight",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R01]"
+      "Consumes [1] [Horses]"
     ],
-    "requiredTech": "D01-T23",
-    "upgradesTo": "U72",
-    "obsoleteTech": "D01-T38",
-    "uniqueTo": "N07",
-    "replaces": "U71"
+    "requiredTech": "Mobile Warfare",
+    "upgradesTo": "Skyline Horse Archers",
+    "obsoleteTech": "World Strategy",
+    "uniqueTo": "Nomadic Orcs",
+    "replaces": "Windstring Horse Archers"
   },
   {
-    "name": "UX16",
+    "name": "Ancestral Banner Riders",
     "unitType": "轻骑",
     "strength": 37,
     "rangedStrength": 0,
@@ -1236,14 +1236,14 @@
       "Can move after attacking",
       "[+1] Sight",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R01]"
+      "Consumes [1] [Horses]"
     ],
-    "requiredTech": "D01-T38",
-    "uniqueTo": "N07",
-    "replaces": "U21"
+    "requiredTech": "World Strategy",
+    "uniqueTo": "Nomadic Orcs",
+    "replaces": "Windriders"
   },
   {
-    "name": "UX17",
+    "name": "Legion Assault Infantry",
     "unitType": "步兵",
     "strength": 26,
     "rangedStrength": 0,
@@ -1253,16 +1253,16 @@
     "uniques": [
       "[+15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R02]"
+      "Consumes [1] [Iron]"
     ],
-    "requiredTech": "D01-T22",
-    "upgradesTo": "U05",
-    "obsoleteTech": "D01-T28",
-    "uniqueTo": "N08",
-    "replaces": "U04"
+    "requiredTech": "Military Formations",
+    "upgradesTo": "Heavy Infantry",
+    "obsoleteTech": "Mithril Metallurgy",
+    "uniqueTo": "Orc Empire",
+    "replaces": "Formation Infantry"
   },
   {
-    "name": "UX18",
+    "name": "Gatebreaker Catapult",
     "unitType": "攻城",
     "strength": 11,
     "rangedStrength": 25,
@@ -1275,14 +1275,14 @@
       "[+100]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T22",
-    "upgradesTo": "U27",
-    "obsoleteTech": "D01-T29",
-    "uniqueTo": "N08",
-    "replaces": "U26"
+    "requiredTech": "Military Formations",
+    "upgradesTo": "Heavy Ballistae",
+    "obsoleteTech": "Precision Manufacturing",
+    "uniqueTo": "Orc Empire",
+    "replaces": "Heavy Catapults"
   },
   {
-    "name": "UX19",
+    "name": "Ironback Warbeasts",
     "unitType": "野兽",
     "strength": 28,
     "rangedStrength": 0,
@@ -1296,14 +1296,14 @@
       "Never appears as a Barbarian unit",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "D01-T23",
-    "upgradesTo": "U60",
-    "obsoleteTech": "D01-T38",
-    "uniqueTo": "N08",
-    "replaces": "U58"
+    "requiredTech": "Mobile Warfare",
+    "upgradesTo": "Armored Warbeasts",
+    "obsoleteTech": "World Strategy",
+    "uniqueTo": "Orc Empire",
+    "replaces": "Trained Warbeasts"
   },
   {
-    "name": "UX20",
+    "name": "Gear Ballista",
     "unitType": "攻城",
     "strength": 15,
     "rangedStrength": 33,
@@ -1317,14 +1317,14 @@
       "[+25]% Strength <vs [构装] units>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T29",
-    "upgradesTo": "U28",
-    "obsoleteTech": "D01-T36",
-    "uniqueTo": "N09",
-    "replaces": "U27"
+    "requiredTech": "Precision Manufacturing",
+    "upgradesTo": "Great Siege Arbalest",
+    "obsoleteTech": "Grand Crafts",
+    "uniqueTo": "Industrial Goblins",
+    "replaces": "Heavy Ballistae"
   },
   {
-    "name": "UX21",
+    "name": "War Golems",
     "unitType": "构装",
     "strength": 38,
     "rangedStrength": 0,
@@ -1336,17 +1336,17 @@
       "[+10]% Strength <when defending>",
       "[+15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R02]",
-      "Consumes [1] [R03]",
+      "Consumes [1] [Iron]",
+      "Consumes [1] [Mana Crystals]",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "D01-T30",
-    "upgradesTo": "U55",
-    "uniqueTo": "N09",
-    "replaces": "U54"
+    "requiredTech": "Elemental Shaping",
+    "upgradesTo": "Heavy Construct Guards",
+    "uniqueTo": "Industrial Goblins",
+    "replaces": "Construct Guards"
   },
   {
-    "name": "UX22",
+    "name": "Ruin Surveyors",
     "unitType": "侦察",
     "strength": 6,
     "rangedStrength": 0,
@@ -1358,13 +1358,13 @@
       "[+1] Sight",
       "Never appears as a Barbarian unit"
     ],
-    "upgradesTo": "U64",
-    "obsoleteTech": "D01-T57",
-    "uniqueTo": "N10",
-    "replaces": "U63"
+    "upgradesTo": "Woodland Scouts",
+    "obsoleteTech": "Cartography",
+    "uniqueTo": "Explorers Guild",
+    "replaces": "Scouts"
   },
   {
-    "name": "UX23",
+    "name": "Mercenary Crossbowmen",
     "unitType": "射手",
     "strength": 10,
     "rangedStrength": 19,
@@ -1375,15 +1375,15 @@
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T16",
-    "upgradesTo": "U16",
-    "obsoleteTech": "D01-T29",
-    "uniqueTo": "N10",
-    "replaces": "U14",
+    "requiredTech": "Mechanical Engineering",
+    "upgradesTo": "Windlass Crossbowmen",
+    "obsoleteTech": "Precision Manufacturing",
+    "uniqueTo": "Explorers Guild",
+    "replaces": "Crossbowmen",
     "hurryCostModifier": -20
   },
   {
-    "name": "UX24",
+    "name": "Lich Apprentices",
     "unitType": "死灵",
     "strength": 8,
     "rangedStrength": 14,
@@ -1396,13 +1396,13 @@
       "[-35]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T54",
-    "upgradesTo": "U74",
-    "uniqueTo": "N11",
-    "replaces": "U66"
+    "requiredTech": "Repose and Memory",
+    "upgradesTo": "Soulbinders",
+    "uniqueTo": "Lich Dynasty",
+    "replaces": "Necromancers"
   },
   {
-    "name": "UX25",
+    "name": "Spectral Knights",
     "unitType": "幽魂",
     "strength": 22,
     "rangedStrength": 0,
@@ -1418,12 +1418,12 @@
       "Never appears as a Barbarian unit",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "D01-T73",
-    "upgradesTo": "UX32",
-    "uniqueTo": "N11"
+    "requiredTech": "Soul Recognition",
+    "upgradesTo": "Nether Oath Rangers",
+    "uniqueTo": "Lich Dynasty"
   },
   {
-    "name": "UX26",
+    "name": "Court Liches",
     "unitType": "死灵",
     "strength": 28,
     "rangedStrength": 44,
@@ -1436,15 +1436,15 @@
       "[+1] Sight",
       "[-35]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R03]",
+      "Consumes [1] [Mana Crystals]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "D01-T93",
-    "uniqueTo": "N11",
-    "replaces": "U75"
+    "requiredTech": "Enduring Memory",
+    "uniqueTo": "Lich Dynasty",
+    "replaces": "Final Cantors"
   },
   {
-    "name": "UX27",
+    "name": "Bone Legion",
     "unitType": "步兵",
     "strength": 8,
     "rangedStrength": 0,
@@ -1454,12 +1454,12 @@
     "uniques": [
       "Never appears as a Barbarian unit"
     ],
-    "upgradesTo": "U02",
-    "uniqueTo": "N12",
-    "replaces": "U01"
+    "upgradesTo": "Shield Infantry",
+    "uniqueTo": "Bone Empire",
+    "replaces": "Militia"
   },
   {
-    "name": "UX28",
+    "name": "Bone Halberdiers",
     "unitType": "长柄",
     "strength": 22,
     "rangedStrength": 0,
@@ -1474,14 +1474,14 @@
       "[+15]% Strength <when defending> <in [Friendly Land] tiles>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T22",
-    "upgradesTo": "U10",
-    "obsoleteTech": "D01-T33",
-    "uniqueTo": "N12",
-    "replaces": "U09"
+    "requiredTech": "Military Formations",
+    "upgradesTo": "Phalanx Guards",
+    "obsoleteTech": "War Coordination",
+    "uniqueTo": "Bone Empire",
+    "replaces": "Halberdiers"
   },
   {
-    "name": "UX29",
+    "name": "Undead Guards",
     "unitType": "重步兵",
     "strength": 39,
     "rangedStrength": 0,
@@ -1491,14 +1491,14 @@
     "uniques": [
       "[+15]% Strength <when defending>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R02]"
+      "Consumes [1] [Iron]"
     ],
-    "requiredTech": "D01-T38",
-    "uniqueTo": "N12",
-    "replaces": "U06"
+    "requiredTech": "World Strategy",
+    "uniqueTo": "Bone Empire",
+    "replaces": "Legion Guards"
   },
   {
-    "name": "UX30",
+    "name": "Elder Tree Guards",
     "unitType": "步兵",
     "strength": 39,
     "rangedStrength": 0,
@@ -1510,11 +1510,11 @@
       "Never appears as a Barbarian unit",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "D01-T80",
-    "uniqueTo": "N03"
+    "requiredTech": "Ecological Accords",
+    "uniqueTo": "Forest Elves"
   },
   {
-    "name": "UX32",
+    "name": "Nether Oath Rangers",
     "unitType": "幽魂",
     "strength": 36,
     "rangedStrength": 0,
@@ -1528,52 +1528,52 @@
       "[-35]% Strength <when attacking> <vs cities>",
       "[+5] HP when healing",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [R03]",
+      "Consumes [1] [Mana Crystals]",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "D01-T93",
-    "uniqueTo": "N11"
+    "requiredTech": "Enduring Memory",
+    "uniqueTo": "Lich Dynasty"
   },
   {
-    "name": "K13",
+    "name": "Starlight Research Ritualists",
     "unitType": "Civilian",
     "strength": 0,
     "movement": 2,
     "cost": 400,
-    "requiredTech": "D01-T102",
+    "requiredTech": "Collaborative Research",
     "uniques": [
       "Cannot attack",
       "Uncapturable",
       "Cannot be purchased",
       "Never appears as a Barbarian unit",
       "Limited to [1] per Civilization",
-      "Only available <in cities with a [B52]> <without [R25]>",
-      "Triggers a [E31] event <by consuming this unit> <in [your] tiles> <in [Land] tiles> <without [R25]> <after discovering [D01-T102]>"
+      "Only available <in cities with a [Mirror Tower]> <without [Research Ritual Active]>",
+      "Triggers a [Starlight Research] event <by consuming this unit> <in [your] tiles> <in [Land] tiles> <without [Research Ritual Active]> <after discovering [Collaborative Research]>"
     ],
     "rangedStrength": 0,
     "range": 0
   },
   {
-    "name": "K14",
+    "name": "National Ward Ritualists",
     "unitType": "Civilian",
     "strength": 0,
     "movement": 2,
     "cost": 300,
-    "requiredTech": "D01-T24",
+    "requiredTech": "Runic Crafts",
     "uniques": [
       "Cannot attack",
       "Uncapturable",
       "Cannot be purchased",
       "Never appears as a Barbarian unit",
       "Limited to [1] per Civilization",
-      "Only available <in cities with a [B14]> <without [R26]>",
-      "Triggers a [E32] event <by consuming this unit> <in [your] tiles> <in [Land] tiles> <without [R26]> <after discovering [D01-T24]>"
+      "Only available <in cities with a [Academy of Magic]> <without [National Ward Active]>",
+      "Triggers a [National Ward] event <by consuming this unit> <in [your] tiles> <in [Land] tiles> <without [National Ward Active]> <after discovering [Runic Crafts]>"
     ],
     "rangedStrength": 0,
     "range": 0
   },
   {
-    "name": "C01",
+    "name": "Settler",
     "unitType": "Civilian",
     "movement": 2,
     "cost": 100,
@@ -1589,11 +1589,11 @@
     "range": 0
   },
   {
-    "name": "C02",
+    "name": "Worker",
     "unitType": "Civilian",
     "movement": 2,
     "uniques": [
-      "Can build [non-[{non-[Farm]} {non-[Pasture]} {non-[Camp]} {non-[Mine]} {non-[Quarry]} {non-[Road]} {non-[Plantation]} {non-[Lumber mill]} {non-[Fort]} {non-[Remove Forest]} {non-[Remove Jungle]} {non-[Remove Marsh]} {non-[Railroad]} {non-[I28]} {non-[I29]} {non-[I30]} {non-[I31]} {non-[I32]} {non-[I33]} {non-[I35]} {non-[I36]} {non-[I37]}]] improvements on tiles <hidden from users>",
+      "Can build [non-[{non-[Farm]} {non-[Pasture]} {non-[Camp]} {non-[Mine]} {non-[Quarry]} {non-[Road]} {non-[Plantation]} {non-[Lumber mill]} {non-[Fort]} {non-[Remove Forest]} {non-[Remove Jungle]} {non-[Remove Marsh]} {non-[Railroad]} {non-[Spiritroot Reserve]} {non-[Trade Post]} {non-[Ley Extractor]} {non-[Spring Garden]} {non-[Kiln]} {non-[Apiary]} {non-[Terrace Farm]} {non-[Practice Circle]} {non-[Waterwheel Yard]}]] improvements on tiles <hidden from users>",
       "Can build [Repair] improvements on tiles <hidden from users>",
       "Comment [Build tile improvements]",
       "Never appears as a Barbarian unit"
@@ -1603,22 +1603,22 @@
     "range": 0
   },
   {
-    "name": "C03",
+    "name": "Work Boat",
     "unitType": "Civilian Water",
     "movement": 3,
     "cost": 45,
     "uniques": [
       "May create improvements on water resources",
       "Uncapturable",
-      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "D01-T07",
+    "requiredTech": "Coastal Navigation",
     "rangedStrength": 0,
     "range": 0
   },
   {
-    "name": "C04",
+    "name": "Missionary",
     "unitType": "Civilian",
     "uniques": [
       "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
@@ -1632,12 +1632,12 @@
     ],
     "movement": 4,
     "religiousStrength": 1000,
-    "requiredTech": "D01-T62",
+    "requiredTech": "Theology",
     "rangedStrength": 0,
     "range": 0
   },
   {
-    "name": "C05",
+    "name": "Inquisitor",
     "unitType": "Civilian",
     "uniques": [
       "Prevents spreading of religion to the city it is next to",
@@ -1650,12 +1650,12 @@
       "Never appears as a Barbarian unit"
     ],
     "movement": 3,
-    "requiredTech": "D01-T62",
+    "requiredTech": "Theology",
     "rangedStrength": 0,
     "range": 0
   },
   {
-    "name": "C06",
+    "name": "Great Prophet",
     "unitType": "Civilian",
     "uniques": [
       "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
@@ -1679,7 +1679,7 @@
     "range": 0
   },
   {
-    "name": "C07",
+    "name": "Great Scholar",
     "unitType": "Civilian",
     "uniques": [
       "Unbuildable",
@@ -1694,7 +1694,7 @@
     "range": 0
   },
   {
-    "name": "C08",
+    "name": "Great Artificer",
     "unitType": "Civilian",
     "uniques": [
       "Unbuildable",
@@ -1709,7 +1709,7 @@
     "range": 0
   },
   {
-    "name": "C09",
+    "name": "Great Trade Envoy",
     "unitType": "Civilian",
     "uniques": [
       "Unbuildable",
@@ -1724,7 +1724,7 @@
     "range": 0
   },
   {
-    "name": "C10",
+    "name": "Great Artist",
     "unitType": "Civilian",
     "uniques": [
       "Unbuildable",
@@ -1740,7 +1740,7 @@
     "range": 0
   },
   {
-    "name": "C11",
+    "name": "Great Commander",
     "unitType": "Civilian",
     "uniques": [
       "Unbuildable",
@@ -1758,8 +1758,8 @@
     "range": 0
   },
   {
-    "name": "H01",
-    "unitType": "Hero-01",
+    "name": "Oathsworn Commander",
+    "unitType": "Hero - Oathsworn Commander",
     "strength": 24,
     "rangedStrength": 0,
     "range": 0,
@@ -1786,8 +1786,8 @@
     ]
   },
   {
-    "name": "H02",
-    "unitType": "Hero-02",
+    "name": "Star-Mirror Sage",
+    "unitType": "Hero - Star-Mirror Sage",
     "strength": 15,
     "rangedStrength": 27,
     "range": 2,
@@ -1819,8 +1819,8 @@
     ]
   },
   {
-    "name": "H03",
-    "unitType": "Hero-03",
+    "name": "Guardian of the Wilds",
+    "unitType": "Hero - Guardian of the Wilds",
     "strength": 20,
     "rangedStrength": 0,
     "range": 0,
@@ -1837,10 +1837,10 @@
       "[+20]% Strength <when fighting in [Forest] tiles>",
       "[+5] HP when healing",
       "All adjacent units heal [5] HP when healing",
-      "[This Unit] gains the [P110] promotion <upon turn start> <for units with [P41]> <for units without [P110]> <hidden from users>",
-      "[This Unit] loses the [P41] promotion <upon turn start> <for units with [P41]> <for units with [P110]> <hidden from users>",
-      "[This Unit] gains the [P111] promotion <upon turn start> <for units with [P42]> <for units without [P111]> <hidden from users>",
-      "[This Unit] loses the [P42] promotion <upon turn start> <for units with [P42]> <for units with [P111]> <hidden from users>",
+      "[This Unit] gains the [Guardian Command] promotion <upon turn start> <for units with [Command]> <for units without [Guardian Command]> <hidden from users>",
+      "[This Unit] loses the [Command] promotion <upon turn start> <for units with [Command]> <for units with [Guardian Command]> <hidden from users>",
+      "[This Unit] gains the [Guardian Oath of the Bridge] promotion <upon turn start> <for units with [Oath of the Bridge]> <for units without [Guardian Oath of the Bridge]> <hidden from users>",
+      "[This Unit] loses the [Oath of the Bridge] promotion <upon turn start> <for units with [Oath of the Bridge]> <for units with [Guardian Oath of the Bridge]> <hidden from users>",
       "英雄近战 <hidden from users>",
       "Hero <hidden from users>"
     ],
@@ -1853,8 +1853,8 @@
     ]
   },
   {
-    "name": "H04",
-    "unitType": "Hero-04",
+    "name": "Ancient Oath Dragon",
+    "unitType": "Hero - Ancient Oath Dragon",
     "strength": 52,
     "rangedStrength": 0,
     "range": 0,
@@ -1882,8 +1882,8 @@
     ]
   },
   {
-    "name": "H05",
-    "unitType": "Hero-05",
+    "name": "Springroad Physician",
+    "unitType": "Hero - Springroad Physician",
     "strength": 10,
     "rangedStrength": 16,
     "range": 1,
@@ -1901,7 +1901,7 @@
       "[-50]% Strength <when attacking> <vs cities>",
       "英雄施法 <hidden from users>",
       "Hero <hidden from users>",
-      "P71 <hidden from users>"
+      "Visitor Covenant Seal <hidden from users>"
     ],
     "promotions": [],
     "civilopediaText": [
@@ -1912,8 +1912,8 @@
     ]
   },
   {
-    "name": "H06",
-    "unitType": "Hero-06",
+    "name": "Monument Oathwalker",
+    "unitType": "Hero - Monument Oathwalker",
     "strength": 22,
     "rangedStrength": 0,
     "range": 0,
@@ -1932,7 +1932,7 @@
       "[-25]% Strength <when attacking> <vs cities>",
       "英雄幽魂 <hidden from users>",
       "Hero <hidden from users>",
-      "P71 <hidden from users>"
+      "Visitor Covenant Seal <hidden from users>"
     ],
     "promotions": [],
     "civilopediaText": [
@@ -1943,8 +1943,8 @@
     ]
   },
   {
-    "name": "H07",
-    "unitType": "Hero-07",
+    "name": "Molten Seal Envoy",
+    "unitType": "Hero - Molten Seal Envoy",
     "strength": 12,
     "rangedStrength": 26,
     "range": 2,
@@ -1964,8 +1964,8 @@
       "[-50]% Strength <when attacking> <vs cities>",
       "英雄施法 <hidden from users>",
       "Hero <hidden from users>",
-      "P71 <hidden from users>",
-      "Consumes [1] [R03]"
+      "Visitor Covenant Seal <hidden from users>",
+      "Consumes [1] [Mana Crystals]"
     ],
     "promotions": [],
     "civilopediaText": [
@@ -1976,8 +1976,8 @@
     ]
   },
   {
-    "name": "H08",
-    "unitType": "Hero-08",
+    "name": "Silent Mirror Keeper",
+    "unitType": "Hero - Silent Mirror Keeper",
     "strength": 13,
     "rangedStrength": 22,
     "range": 2,
@@ -1999,7 +1999,7 @@
       "[-50]% Strength <when attacking> <vs cities>",
       "英雄施法 <hidden from users>",
       "Hero <hidden from users>",
-      "P71 <hidden from users>"
+      "Visitor Covenant Seal <hidden from users>"
     ],
     "promotions": [],
     "civilopediaText": [
@@ -2010,8 +2010,8 @@
     ]
   },
   {
-    "name": "H09",
-    "unitType": "Hero-09",
+    "name": "Sea Road Navigator",
+    "unitType": "Hero - Sea Road Navigator",
     "strength": 24,
     "rangedStrength": 0,
     "range": 0,
@@ -2028,10 +2028,10 @@
       "May heal outside of friendly territory",
       "[+5] HP when healing",
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "英雄海军 <hidden from users>",
       "Hero <hidden from users>",
-      "P71 <hidden from users>"
+      "Visitor Covenant Seal <hidden from users>"
     ],
     "promotions": [],
     "civilopediaText": [
@@ -2042,8 +2042,8 @@
     ]
   },
   {
-    "name": "H10",
-    "unitType": "Hero-10",
+    "name": "Lantern Oathguard",
+    "unitType": "Hero - Lantern Oathguard",
     "strength": 22,
     "rangedStrength": 0,
     "range": 0,
@@ -2063,7 +2063,7 @@
       "[-25]% Strength <when attacking> <vs cities>",
       "英雄近战 <hidden from users>",
       "Hero <hidden from users>",
-      "P71 <hidden from users>"
+      "Visitor Covenant Seal <hidden from users>"
     ],
     "promotions": [],
     "civilopediaText": [
@@ -2074,8 +2074,8 @@
     ]
   },
   {
-    "name": "H11",
-    "unitType": "Hero-11",
+    "name": "Hundredforge Artificer",
+    "unitType": "Hero - Hundredforge Artificer",
     "strength": 28,
     "rangedStrength": 0,
     "range": 0,
@@ -2095,9 +2095,9 @@
       "[-25]% Strength <when attacking> <vs cities>",
       "英雄近战 <hidden from users>",
       "Hero <hidden from users>",
-      "P71 <hidden from users>",
-      "Consumes [1] [R02]",
-      "Consumes [1] [R03]"
+      "Visitor Covenant Seal <hidden from users>",
+      "Consumes [1] [Iron]",
+      "Consumes [1] [Mana Crystals]"
     ],
     "promotions": [],
     "civilopediaText": [
@@ -2108,8 +2108,8 @@
     ]
   },
   {
-    "name": "H12",
-    "unitType": "Hero-12",
+    "name": "Caravan Arbiter",
+    "unitType": "Hero - Caravan Arbiter",
     "strength": 22,
     "rangedStrength": 0,
     "range": 0,
@@ -2127,7 +2127,7 @@
       "[-50]% Strength <when attacking> <vs cities>",
       "英雄近战 <hidden from users>",
       "Hero <hidden from users>",
-      "P71 <hidden from users>"
+      "Visitor Covenant Seal <hidden from users>"
     ],
     "promotions": [],
     "civilopediaText": [
@@ -2138,7 +2138,7 @@
     ]
   },
   {
-    "name": "C12",
+    "name": "Reef Settler",
     "unitType": "Civilian",
     "movement": 3,
     "cost": 180,
@@ -2151,20 +2151,20 @@
       "May travel on Water tiles without embarking",
       "Only available <in [Coastal] cities>",
       "FC Reef near city <within [3] tiles of a [City center]> <hidden from users>",
-      "Turn this tile into a [Reef Island] tile <in [{Coast} {Featureless} {Unowned} {unimproved} {non-[pillaged]} {non-[resource]} {non-[Natural Wonder]}] tiles> <for [non-[FC Reef near city]] units> <for [N04] Civilizations> <for [0] movement> <[1] times> <hidden from users>",
+      "Turn this tile into a [Reef Island] tile <in [{Coast} {Featureless} {Unowned} {unimproved} {non-[pillaged]} {non-[resource]} {non-[Natural Wonder]}] tiles> <for [non-[FC Reef near city]] units> <for [Sea Elves] Civilizations> <for [0] movement> <[1] times> <hidden from users>",
       "Comment [FC Reef foundation]",
       "Never appears as a Barbarian unit"
     ],
     "hurryCostModifier": 20,
-    "uniqueTo": "N04",
-    "requiredTech": "D01-T19",
+    "uniqueTo": "Sea Elves",
+    "requiredTech": "Ocean Navigation",
     "civilopediaText": [
       {
         "text": "FC Reef workflow"
       },
       {
-        "text": "D01-T19",
-        "link": "Technology/D01-T19"
+        "text": "Ocean Navigation",
+        "link": "Technology/Ocean Navigation"
       },
       {
         "text": "Reef Island",
@@ -2175,75 +2175,75 @@
     "range": 0
   },
   {
-    "name": "S01",
+    "name": "Resonance Anchor",
     "unitType": "Civilian",
     "strength": 0,
     "movement": 2,
     "cost": 900,
-    "requiredTech": "D01-T94",
+    "requiredTech": "Resonance of Heaven and Earth",
     "uniques": [
       "Spaceship part",
       "Can be added to [Origin Apparatus] in the Capital",
       "Cannot be purchased",
       "Never appears as a Barbarian unit",
-      "Only available <if [J01] is constructed> <when [Scientific] Victory is enabled>"
+      "Only available <if [Origin Observation Project] is constructed> <when [Scientific] Victory is enabled>"
     ],
     "rangedStrength": 0,
     "range": 0
   },
   {
-    "name": "S02",
+    "name": "Stellar Matrix",
     "unitType": "Civilian",
     "strength": 0,
     "movement": 2,
     "cost": 1100,
-    "requiredTech": "D01-T86",
+    "requiredTech": "Celestial Surveying",
     "uniques": [
       "Spaceship part",
       "Can be added to [Origin Apparatus] in the Capital",
       "Cannot be purchased",
       "Never appears as a Barbarian unit",
-      "Only available <if [J01] is constructed> <when [Scientific] Victory is enabled>"
+      "Only available <if [Origin Observation Project] is constructed> <when [Scientific] Victory is enabled>"
     ],
     "rangedStrength": 0,
     "range": 0
   },
   {
-    "name": "S03",
+    "name": "Stabilization Core",
     "unitType": "Civilian",
     "strength": 0,
     "movement": 2,
     "cost": 1100,
-    "requiredTech": "D01-T91",
+    "requiredTech": "Elemental Boundaries",
     "uniques": [
       "Spaceship part",
       "Can be added to [Origin Apparatus] in the Capital",
       "Cannot be purchased",
       "Never appears as a Barbarian unit",
-      "Only available <if [J01] is constructed> <when [Scientific] Victory is enabled>"
+      "Only available <if [Origin Observation Project] is constructed> <when [Scientific] Victory is enabled>"
     ],
     "rangedStrength": 0,
     "range": 0
   },
   {
-    "name": "S04",
+    "name": "Material Calibrator",
     "unitType": "Civilian",
     "strength": 0,
     "movement": 2,
     "cost": 1100,
-    "requiredTech": "D01-T89",
+    "requiredTech": "Mithril Composites",
     "uniques": [
       "Spaceship part",
       "Can be added to [Origin Apparatus] in the Capital",
       "Cannot be purchased",
       "Never appears as a Barbarian unit",
-      "Only available <if [J01] is constructed> <when [Scientific] Victory is enabled>"
+      "Only available <if [Origin Observation Project] is constructed> <when [Scientific] Victory is enabled>"
     ],
     "rangedStrength": 0,
     "range": 0
   },
   {
-    "name": "M01",
+    "name": "Wild Wolf Pack",
     "unitType": "野兽",
     "strength": 7,
     "rangedStrength": 0,
@@ -2254,10 +2254,10 @@
       "Only available <for [Barbarians] Civilizations>",
       "No defensive terrain bonus"
     ],
-    "obsoleteTech": "D01-T08"
+    "obsoleteTech": "Smelting"
   },
   {
-    "name": "M02",
+    "name": "Outlaw Raiders",
     "unitType": "步兵",
     "strength": 12,
     "rangedStrength": 0,
@@ -2267,11 +2267,11 @@
     "uniques": [
       "Only available <for [Barbarians] Civilizations>"
     ],
-    "requiredTech": "D01-T08",
-    "obsoleteTech": "D01-T15"
+    "requiredTech": "Smelting",
+    "obsoleteTech": "Steel Forging"
   },
   {
-    "name": "M03",
+    "name": "Bone Hunters",
     "unitType": "射手",
     "strength": 6,
     "rangedStrength": 12,
@@ -2282,11 +2282,11 @@
       "No defensive terrain bonus",
       "Only available <for [Barbarians] Civilizations>"
     ],
-    "requiredTech": "D01-T10",
-    "obsoleteTech": "D01-T22"
+    "requiredTech": "Composite Bows",
+    "obsoleteTech": "Military Formations"
   },
   {
-    "name": "M04",
+    "name": "Stone-Eating Giant",
     "unitType": "野兽",
     "strength": 20,
     "rangedStrength": 0,
@@ -2298,11 +2298,11 @@
       "No defensive terrain bonus",
       "[-25]% Strength <when attacking> <vs cities>"
     ],
-    "requiredTech": "D01-T15",
-    "obsoleteTech": "D01-T29"
+    "requiredTech": "Steel Forging",
+    "obsoleteTech": "Precision Manufacturing"
   },
   {
-    "name": "M05",
+    "name": "Feral Tree Guards",
     "unitType": "步兵",
     "strength": 28,
     "rangedStrength": 0,
@@ -2313,11 +2313,11 @@
       "[+20]% Strength <when fighting in [Forest] tiles>",
       "Only available <for [Barbarians] Civilizations>"
     ],
-    "requiredTech": "D01-T25",
-    "obsoleteTech": "D01-T36"
+    "requiredTech": "Administration and Finance",
+    "obsoleteTech": "Grand Crafts"
   },
   {
-    "name": "M06",
+    "name": "Rogue Construct",
     "unitType": "构装",
     "strength": 33,
     "rangedStrength": 0,
@@ -2329,10 +2329,10 @@
       "[+10]% Strength <when defending>",
       "Only available <for [Barbarians] Civilizations>"
     ],
-    "requiredTech": "D01-T29"
+    "requiredTech": "Precision Manufacturing"
   },
   {
-    "name": "M07",
+    "name": "Raging Elemental",
     "unitType": "元素",
     "strength": 31,
     "rangedStrength": 0,
@@ -2344,10 +2344,10 @@
       "No defensive terrain bonus",
       "[+15]% Strength <when attacking>"
     ],
-    "requiredTech": "D01-T29"
+    "requiredTech": "Precision Manufacturing"
   },
   {
-    "name": "M08",
+    "name": "Bay Serpent",
     "unitType": "海近战",
     "strength": 12,
     "rangedStrength": 0,
@@ -2356,14 +2356,14 @@
     "cost": 65,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Only available <for [Barbarians] Civilizations>"
     ],
-    "requiredTech": "D01-T07",
-    "obsoleteTech": "D01-T32"
+    "requiredTech": "Coastal Navigation",
+    "obsoleteTech": "Deep-Sea Shipbuilding"
   },
   {
-    "name": "M09",
+    "name": "Deep-Tide Serpent",
     "unitType": "海近战",
     "strength": 34,
     "rangedStrength": 0,
@@ -2372,13 +2372,13 @@
     "cost": 220,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Only available <for [Barbarians] Civilizations>"
     ],
-    "requiredTech": "D01-T32"
+    "requiredTech": "Deep-Sea Shipbuilding"
   },
   {
-    "name": "M10",
+    "name": "Forsworn Specter",
     "unitType": "幽魂",
     "strength": 19,
     "rangedStrength": 0,
@@ -2393,11 +2393,11 @@
       "[+5] HP when healing",
       "Only available <for [Barbarians] Civilizations>"
     ],
-    "requiredTech": "D01-T25",
-    "obsoleteTech": "D01-T36"
+    "requiredTech": "Administration and Finance",
+    "obsoleteTech": "Grand Crafts"
   },
   {
-    "name": "M11",
+    "name": "Echo Wraithlord",
     "unitType": "幽魂",
     "strength": 30,
     "rangedStrength": 0,
@@ -2412,10 +2412,10 @@
       "[+5] HP when healing",
       "Only available <for [Barbarians] Civilizations>"
     ],
-    "requiredTech": "D01-T36"
+    "requiredTech": "Grand Crafts"
   },
   {
-    "name": "M12",
+    "name": "Wandering Spiritfire",
     "unitType": "元素",
     "strength": 10,
     "rangedStrength": 22,
@@ -2426,10 +2426,10 @@
       "No defensive terrain bonus",
       "Only available <for [Barbarians] Civilizations>"
     ],
-    "requiredTech": "D01-T22"
+    "requiredTech": "Military Formations"
   },
   {
-    "name": "M13",
+    "name": "Tidal Jellyfish Swarm",
     "unitType": "海远程",
     "strength": 9,
     "rangedStrength": 24,
@@ -2438,9 +2438,9 @@
     "cost": 190,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [D01-T19]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Only available <for [Barbarians] Civilizations>"
     ],
-    "requiredTech": "D01-T32"
+    "requiredTech": "Deep-Sea Shipbuilding"
   }
 ]

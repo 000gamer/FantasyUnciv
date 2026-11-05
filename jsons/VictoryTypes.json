@@ -3,16 +3,16 @@
     "name": "Scientific",
     "victoryScreenHeader": "AOD Scientific Objective",
     "milestones": [
-      "Build [J01]",
+      "Build [Origin Observation Project]",
       "Add all [Origin Apparatus parts] in capital"
     ],
     "requiredSpaceshipParts": [
-      "S01",
-      "S01",
-      "S01",
-      "S02",
-      "S03",
-      "S04"
+      "Resonance Anchor",
+      "Resonance Anchor",
+      "Resonance Anchor",
+      "Stellar Matrix",
+      "Stabilization Core",
+      "Material Calibrator"
     ],
     "victoryString": "Magic victory won",
     "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!",
@@ -33,7 +33,7 @@
     "victoryScreenHeader": "AOD Cultural Objective",
     "milestones": [
       "Complete [5] Policy branches",
-      "Build [J02]"
+      "Build [Great Chronicle of Civilizations]"
     ],
     "victoryString": "You have achieved victory through the awesome power of your Culture. Your civilization's greatness - the magnificence of its monuments and the power of its artists - have astounded the world! Poets will honor you as long as beauty brings gladness to a weary heart.",
     "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
@@ -51,7 +51,7 @@
     "name": "Diplomatic",
     "victoryScreenHeader": "AOD Diplomatic Objective",
     "milestones": [
-      "Anyone should build [W18]",
+      "Anyone should build [Assembly of Nations]",
       "Win diplomatic vote"
     ],
     "victoryString": "You have triumphed over your foes through the art of diplomacy! Your cunning and wisdom have earned you great friends - and divided and sown confusion among your enemies! Forever will you be remembered as the leader who brought peace to this weary world!",

@@ -8,7 +8,7 @@
       255
     ],
     "greatPersonPoints": {
-      "C07": 3
+      "Great Scholar": 3
     }
   },
   {
@@ -20,7 +20,7 @@
       0
     ],
     "greatPersonPoints": {
-      "C09": 3
+      "Great Trade Envoy": 3
     }
   },
   {
@@ -32,7 +32,7 @@
       0
     ],
     "greatPersonPoints": {
-      "C08": 3
+      "Great Artificer": 3
     }
   },
   {
@@ -44,7 +44,7 @@
       240
     ],
     "greatPersonPoints": {
-      "C10": 3
+      "Great Artist": 3
     }
   }
 ]

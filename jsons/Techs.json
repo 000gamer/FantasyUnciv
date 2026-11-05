@@ -7,35 +7,35 @@
     "wonderCost": 1,
     "techs": [
       {
-        "name": "D01-T01",
+        "name": "Agriculture and Storage",
         "cost": 35,
         "row": 9,
         "prerequisites": [],
         "uniques": []
       },
       {
-        "name": "D01-T02",
+        "name": "Hunting and Husbandry",
         "cost": 35,
         "row": 4,
         "prerequisites": [],
         "uniques": []
       },
       {
-        "name": "D01-T04",
+        "name": "Rituals",
         "cost": 35,
         "row": 11,
         "prerequisites": [],
         "uniques": []
       },
       {
-        "name": "D01-T03",
+        "name": "Mining",
         "cost": 35,
         "row": 8,
         "prerequisites": [],
         "uniques": []
       },
       {
-        "name": "D01-T07",
+        "name": "Coastal Navigation",
         "cost": 35,
         "row": 1,
         "prerequisites": [],
@@ -51,60 +51,60 @@
     "wonderCost": 1,
     "techs": [
       {
-        "name": "D01-T05",
+        "name": "Writing",
         "cost": 55,
         "row": 10,
         "prerequisites": [
-          "D01-T01"
+          "Agriculture and Storage"
         ],
         "uniques": [
           "Enables establishment of embassies"
         ]
       },
       {
-        "name": "D01-T39",
+        "name": "Irrigation",
         "cost": 55,
         "row": 9,
         "prerequisites": [
-          "D01-T01"
+          "Agriculture and Storage"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T41",
+        "name": "Oral Tradition",
         "cost": 55,
         "row": 16,
         "prerequisites": [
-          "D01-T04"
+          "Rituals"
         ],
         "uniques": [
-          "[+1 Culture] from all [B04] buildings"
+          "[+1 Culture] from all [Monument] buildings"
         ]
       },
       {
-        "name": "D01-T42",
+        "name": "Herbalism",
         "cost": 55,
         "row": 8,
         "prerequisites": [
-          "D01-T02"
+          "Hunting and Husbandry"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T06",
+        "name": "Basic Crafts",
         "cost": 55,
         "row": 7,
         "prerequisites": [
-          "D01-T03"
+          "Mining"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T44",
+        "name": "Laws of War",
         "cost": 55,
         "row": 6,
         "prerequisites": [
-          "D01-T02"
+          "Hunting and Husbandry"
         ],
         "uniques": []
       }
@@ -118,42 +118,42 @@
     "wonderCost": 1,
     "techs": [
       {
-        "name": "D01-T11",
+        "name": "City-State Organization",
         "cost": 200,
         "row": 15,
         "prerequisites": [
-          "D01-T41",
-          "D01-T05"
+          "Oral Tradition",
+          "Writing"
         ],
         "uniques": [
           "Enables Open Borders agreements"
         ]
       },
       {
-        "name": "D01-T09",
+        "name": "Riding",
         "cost": 200,
         "row": 4,
         "prerequisites": [
-          "D01-T02"
+          "Hunting and Husbandry"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T10",
+        "name": "Composite Bows",
         "cost": 200,
         "row": 6,
         "prerequisites": [
-          "D01-T44",
-          "D01-T06"
+          "Laws of War",
+          "Basic Crafts"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T54",
+        "name": "Repose and Memory",
         "cost": 200,
         "row": 16,
         "prerequisites": [
-          "D01-T41"
+          "Oral Tradition"
         ],
         "uniques": []
       }
@@ -167,11 +167,11 @@
     "wonderCost": 1,
     "techs": [
       {
-        "name": "D01-T99",
+        "name": "Elemental Guidance",
         "cost": 200,
         "row": 7,
         "prerequisites": [
-          "D01-T06"
+          "Basic Crafts"
         ],
         "uniques": []
       }
@@ -185,79 +185,79 @@
     "wonderCost": 1,
     "techs": [
       {
-        "name": "D01-T14",
+        "name": "Currency and Exchange",
         "cost": 200,
         "row": 14,
         "prerequisites": [
-          "D01-T05"
+          "Writing"
         ],
         "uniques": [
           "Enables conversion of city production to [Gold]"
         ]
       },
       {
-        "name": "D01-T08",
+        "name": "Smelting",
         "cost": 200,
         "row": 6,
         "prerequisites": [
-          "D01-T06"
+          "Basic Crafts"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T13",
+        "name": "Shipbuilding",
         "cost": 200,
         "row": 1,
         "prerequisites": [
-          "D01-T07",
-          "D01-T06"
+          "Coastal Navigation",
+          "Basic Crafts"
         ],
         "uniques": [
           "Enables embarkation for land units"
         ]
       },
       {
-        "name": "D01-T50",
+        "name": "Codes of Law",
         "cost": 200,
         "row": 15,
         "prerequisites": [
-          "D01-T11"
+          "City-State Organization"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T48",
+        "name": "Saddlery",
         "cost": 200,
         "row": 4,
         "prerequisites": [
-          "D01-T09"
+          "Riding"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T53",
+        "name": "Symbolic Arts",
         "cost": 200,
         "row": 11,
         "prerequisites": [
-          "D01-T05"
+          "Writing"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T98",
+        "name": "Attunement of Life",
         "cost": 200,
         "row": 8,
         "prerequisites": [
-          "D01-T42"
+          "Herbalism"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T110",
+        "name": "Mathematics and Measurement",
         "cost": 200,
         "row": 9,
         "prerequisites": [
-          "D01-T05"
+          "Writing"
         ],
         "uniques": []
       }
@@ -271,50 +271,50 @@
     "wonderCost": 1,
     "techs": [
       {
-        "name": "D01-T21",
+        "name": "Guilds",
         "cost": 500,
         "row": 14,
         "prerequisites": [
-          "D01-T14",
-          "D01-T50"
+          "Currency and Exchange",
+          "Codes of Law"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T16",
+        "name": "Mechanical Engineering",
         "cost": 500,
         "row": 6,
         "prerequisites": [
-          "D01-T08",
-          "D01-T110"
+          "Smelting",
+          "Mathematics and Measurement"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T15",
+        "name": "Steel Forging",
         "cost": 500,
         "row": 3,
         "prerequisites": [
-          "D01-T08"
+          "Smelting"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T63",
+        "name": "Literature",
         "cost": 500,
         "row": 16,
         "prerequisites": [
-          "D01-T11"
+          "City-State Organization"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T111",
+        "name": "Natural Philosophy",
         "cost": 500,
         "row": 13,
         "prerequisites": [
-          "D01-T42",
-          "D01-T110"
+          "Herbalism",
+          "Mathematics and Measurement"
         ],
         "uniques": []
       }
@@ -328,40 +328,40 @@
     "wonderCost": 1,
     "techs": [
       {
-        "name": "D01-T17",
+        "name": "Education",
         "cost": 500,
         "row": 10,
         "prerequisites": [
-          "D01-T110"
+          "Mathematics and Measurement"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T57",
+        "name": "Cartography",
         "cost": 500,
         "row": 9,
         "prerequisites": [
-          "D01-T110"
+          "Mathematics and Measurement"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T112",
+        "name": "Spiritual Symbiosis",
         "cost": 500,
         "row": 8,
         "prerequisites": [
-          "D01-T98",
-          "D01-T111"
+          "Attunement of Life",
+          "Natural Philosophy"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T114",
+        "name": "Rune Weaving",
         "cost": 500,
         "row": 7,
         "prerequisites": [
-          "D01-T99",
-          "D01-T16"
+          "Elemental Guidance",
+          "Mechanical Engineering"
         ],
         "uniques": []
       }
@@ -375,75 +375,75 @@
     "wonderCost": 1,
     "techs": [
       {
-        "name": "D01-T58",
+        "name": "Diplomatic Envoys",
         "cost": 500,
         "row": 14,
         "prerequisites": [
-          "D01-T50"
+          "Codes of Law"
         ],
         "uniques": [
           "Enables Research agreements"
         ]
       },
       {
-        "name": "D01-T19",
+        "name": "Ocean Navigation",
         "cost": 500,
         "row": 1,
         "prerequisites": [
-          "D01-T13",
-          "D01-T57"
+          "Shipbuilding",
+          "Cartography"
         ],
         "uniques": [
           "Enables [All] units to enter ocean tiles"
         ]
       },
       {
-        "name": "D01-T62",
+        "name": "Theology",
         "cost": 500,
         "row": 12,
         "prerequisites": [
-          "D01-T63"
+          "Literature"
         ],
         "uniques": [
-          "[+1 Science] from all [B05] buildings"
+          "[+1 Science] from all [Altar] buildings"
         ]
       },
       {
-        "name": "D01-T60",
+        "name": "Garrison Systems",
         "cost": 500,
         "row": 4,
         "prerequisites": [
-          "D01-T15"
+          "Steel Forging"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T20",
+        "name": "Naval Armaments",
         "cost": 500,
         "row": 2,
         "prerequisites": [
-          "D01-T13",
-          "D01-T16"
+          "Shipbuilding",
+          "Mechanical Engineering"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T64",
+        "name": "Mirror Arts",
         "cost": 500,
         "row": 11,
         "prerequisites": [
-          "D01-T53",
-          "D01-T57"
+          "Symbolic Arts",
+          "Cartography"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T113",
+        "name": "Spirit Communion",
         "cost": 500,
         "row": 15,
         "prerequisites": [
-          "D01-T54",
-          "D01-T63"
+          "Repose and Memory",
+          "Literature"
         ],
         "uniques": []
       }
@@ -457,73 +457,73 @@
     "wonderCost": 1,
     "techs": [
       {
-        "name": "D01-T25",
+        "name": "Administration and Finance",
         "cost": 1000,
         "row": 13,
         "prerequisites": [
-          "D01-T21"
+          "Guilds"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T23",
+        "name": "Mobile Warfare",
         "cost": 1000,
         "row": 3,
         "prerequisites": [
-          "D01-T15",
-          "D01-T48"
+          "Steel Forging",
+          "Saddlery"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T22",
+        "name": "Military Formations",
         "cost": 1000,
         "row": 8,
         "prerequisites": [
-          "D01-T16",
-          "D01-T60"
+          "Mechanical Engineering",
+          "Garrison Systems"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T71",
+        "name": "Structural Engineering",
         "cost": 1000,
         "row": 10,
         "prerequisites": [
-          "D01-T16"
+          "Mechanical Engineering"
         ],
         "uniques": [
           "Roads connect tiles across rivers"
         ]
       },
       {
-        "name": "D01-T101",
+        "name": "Mental Coordination",
         "cost": 1000,
         "row": 11,
         "prerequisites": [
-          "D01-T64"
+          "Mirror Arts"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T66",
+        "name": "Citizenship",
         "cost": 1000,
         "row": 16,
         "prerequisites": [
-          "D01-T50",
-          "D01-T63"
+          "Codes of Law",
+          "Literature"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T73",
+        "name": "Soul Recognition",
         "cost": 1000,
         "row": 15,
         "prerequisites": [
-          "D01-T113"
+          "Spirit Communion"
         ],
         "uniques": [
-          "[+1 Culture] from all [B03] buildings"
+          "[+1 Culture] from all [Library] buildings"
         ]
       }
     ]
@@ -536,40 +536,40 @@
     "wonderCost": 1,
     "techs": [
       {
-        "name": "D01-T26",
+        "name": "Higher Learning",
         "cost": 1000,
         "row": 12,
         "prerequisites": [
-          "D01-T17"
+          "Education"
         ],
         "uniques": [
           "Enables conversion of city production to [Science]"
         ]
       },
       {
-        "name": "D01-T24",
+        "name": "Runic Crafts",
         "cost": 1000,
         "row": 5,
         "prerequisites": [
-          "D01-T114"
+          "Rune Weaving"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T27",
+        "name": "Covenants of Life",
         "cost": 1000,
         "row": 4,
         "prerequisites": [
-          "D01-T112"
+          "Spiritual Symbiosis"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T67",
+        "name": "Star Charts",
         "cost": 1000,
         "row": 6,
         "prerequisites": [
-          "D01-T57"
+          "Cartography"
         ],
         "uniques": []
       }
@@ -583,76 +583,76 @@
     "wonderCost": 1,
     "techs": [
       {
-        "name": "D01-T83",
+        "name": "Medicine",
         "cost": 2200,
         "row": 14,
         "prerequisites": [
-          "D01-T111",
-          "D01-T26"
+          "Natural Philosophy",
+          "Higher Learning"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T28",
+        "name": "Mithril Metallurgy",
         "cost": 2200,
         "row": 7,
         "prerequisites": [
-          "D01-T15",
-          "D01-T71"
+          "Steel Forging",
+          "Structural Engineering"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T29",
+        "name": "Precision Manufacturing",
         "cost": 2200,
         "row": 8,
         "prerequisites": [
-          "D01-T71",
-          "D01-T26"
+          "Structural Engineering",
+          "Higher Learning"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T79",
+        "name": "Soul Covenants",
         "cost": 2200,
         "row": 13,
         "prerequisites": [
-          "D01-T73"
+          "Soul Recognition"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T102",
+        "name": "Collaborative Research",
         "cost": 2200,
         "row": 11,
         "prerequisites": [
-          "D01-T101",
-          "D01-T26"
+          "Mental Coordination",
+          "Higher Learning"
         ],
         "uniques": [
-          "Production to [Science] conversion in cities changed by [+60]% <if [B52] is constructed> <with [R18]>"
+          "Production to [Science] conversion in cities changed by [+60]% <if [Mirror Tower] is constructed> <with [Night Jade]>"
         ]
       },
       {
-        "name": "D01-T85",
+        "name": "Mutual Defense",
         "cost": 2200,
         "row": 16,
         "prerequisites": [
-          "D01-T58",
-          "D01-T66"
+          "Diplomatic Envoys",
+          "Citizenship"
         ],
         "uniques": [
           "Enables Defensive Pacts"
         ]
       },
       {
-        "name": "D01-T32",
+        "name": "Deep-Sea Shipbuilding",
         "cost": 2200,
         "row": 1,
         "prerequisites": [
-          "D01-T19",
-          "D01-T20",
-          "D01-T67"
+          "Ocean Navigation",
+          "Naval Armaments",
+          "Star Charts"
         ],
         "uniques": []
       }
@@ -666,60 +666,60 @@
     "wonderCost": 1,
     "techs": [
       {
-        "name": "D01-T81",
+        "name": "Trade Charters",
         "cost": 2200,
         "row": 12,
         "prerequisites": [
-          "D01-T25"
+          "Administration and Finance"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T84",
+        "name": "Cultural Exchange",
         "cost": 2200,
         "row": 15,
         "prerequisites": [
-          "D01-T66",
-          "D01-T58"
+          "Citizenship",
+          "Diplomatic Envoys"
         ],
         "uniques": [
           "When declaring friendship, both parties gain a [+10]% boost to great person generation"
         ]
       },
       {
-        "name": "D01-T33",
+        "name": "War Coordination",
         "cost": 2200,
         "row": 9,
         "prerequisites": [
-          "D01-T22"
+          "Military Formations"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T30",
+        "name": "Elemental Shaping",
         "cost": 2200,
         "row": 5,
         "prerequisites": [
-          "D01-T24"
+          "Runic Crafts"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T80",
+        "name": "Ecological Accords",
         "cost": 2200,
         "row": 14,
         "prerequisites": [
-          "D01-T83"
+          "Medicine"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T31",
+        "name": "Harmony of Life",
         "cost": 2200,
         "row": 4,
         "prerequisites": [
-          "D01-T27",
-          "D01-T83"
+          "Covenants of Life",
+          "Medicine"
         ],
         "uniques": []
       }
@@ -733,60 +733,60 @@
     "wonderCost": 1,
     "techs": [
       {
-        "name": "D01-T35",
+        "name": "Governance of Nations",
         "cost": 4000,
         "row": 15,
         "prerequisites": [
-          "D01-T84"
+          "Cultural Exchange"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T36",
+        "name": "Grand Crafts",
         "cost": 4000,
         "row": 7,
         "prerequisites": [
-          "D01-T28",
-          "D01-T29"
+          "Mithril Metallurgy",
+          "Precision Manufacturing"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T86",
+        "name": "Celestial Surveying",
         "cost": 4000,
         "row": 6,
         "prerequisites": [
-          "D01-T67",
-          "D01-T29"
+          "Star Charts",
+          "Precision Manufacturing"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T87",
+        "name": "History and Classical Studies",
         "cost": 4000,
         "row": 13,
         "prerequisites": [
-          "D01-T84",
-          "D01-T26"
+          "Cultural Exchange",
+          "Higher Learning"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T38",
+        "name": "World Strategy",
         "cost": 4000,
         "row": 10,
         "prerequisites": [
-          "D01-T33",
-          "D01-T71"
+          "War Coordination",
+          "Structural Engineering"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T95",
+        "name": "Ocean Supremacy",
         "cost": 4000,
         "row": 1,
         "prerequisites": [
-          "D01-T32"
+          "Deep-Sea Shipbuilding"
         ],
         "uniques": []
       }
@@ -800,89 +800,89 @@
     "wonderCost": 1,
     "techs": [
       {
-        "name": "D01-T37",
+        "name": "Source Synergy",
         "cost": 4000,
         "row": 4,
         "prerequisites": [
-          "D01-T30",
-          "D01-T31",
-          "D01-T79",
-          "D01-T102"
+          "Elemental Shaping",
+          "Harmony of Life",
+          "Soul Covenants",
+          "Collaborative Research"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T90",
+        "name": "Integrated City Governance",
         "cost": 4000,
         "row": 11,
         "prerequisites": [
-          "D01-T35",
-          "D01-T71"
+          "Governance of Nations",
+          "Structural Engineering"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T92",
+        "name": "Charter of Shared Rule",
         "cost": 4000,
         "row": 16,
         "prerequisites": [
-          "D01-T35",
-          "D01-T85"
+          "Governance of Nations",
+          "Mutual Defense"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T89",
+        "name": "Mithril Composites",
         "cost": 4000,
         "row": 7,
         "prerequisites": [
-          "D01-T36"
+          "Grand Crafts"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T93",
+        "name": "Enduring Memory",
         "cost": 4000,
         "row": 12,
         "prerequisites": [
-          "D01-T79",
-          "D01-T87"
+          "Soul Covenants",
+          "History and Classical Studies"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T91",
+        "name": "Elemental Boundaries",
         "cost": 4000,
         "row": 5,
         "prerequisites": [
-          "D01-T30",
-          "D01-T36"
+          "Elemental Shaping",
+          "Grand Crafts"
         ],
         "uniques": []
       },
       {
-        "name": "D01-T96",
+        "name": "Heritage of Nations",
         "cost": 4000,
         "row": 14,
         "prerequisites": [
-          "D01-T87",
-          "D01-T35"
+          "History and Classical Studies",
+          "Governance of Nations"
         ],
         "uniques": [
           "[+10]% [Culture] [in all cities]"
         ]
       },
       {
-        "name": "D01-T103",
+        "name": "Mental Resonance",
         "cost": 4000,
         "row": 8,
         "prerequisites": [
-          "D01-T102",
-          "D01-T67"
+          "Collaborative Research",
+          "Star Charts"
         ],
         "uniques": [
-          "[侦察] units gain the [P47] promotion",
-          "All newly-trained [侦察] units [in all cities] receive the [P47] promotion <Civilopedia link [Promotion/P47]>",
+          "[侦察] units gain the [Seal Detection] promotion",
+          "All newly-trained [侦察] units [in all cities] receive the [Seal Detection] promotion <Civilopedia link [Promotion/Seal Detection]>",
           "New [侦察] units start with [+10] XP [in all cities]"
         ]
       }
@@ -896,13 +896,13 @@
     "wonderCost": 1,
     "techs": [
       {
-        "name": "D01-T94",
+        "name": "Resonance of Heaven and Earth",
         "cost": 5000,
         "row": 7,
         "prerequisites": [
-          "D01-T37",
-          "D01-T91",
-          "D01-T103"
+          "Source Synergy",
+          "Elemental Boundaries",
+          "Mental Resonance"
         ],
         "uniques": []
       }

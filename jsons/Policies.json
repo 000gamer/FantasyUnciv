@@ -1,6 +1,6 @@
 [
   {
-    "name": "PB01",
+    "name": "Civic Tradition",
     "era": "I",
     "uniques": [
       "[+3 Culture] [in capital]",
@@ -16,9 +16,9 @@
     },
     "policies": [
       {
-        "name": "PL01",
+        "name": "Public Granaries",
         "requires": [
-          "PB01"
+          "Civic Tradition"
         ],
         "row": 1,
         "column": 1,
@@ -27,9 +27,9 @@
         ]
       },
       {
-        "name": "PL02",
+        "name": "Public Learning",
         "requires": [
-          "PB01"
+          "Civic Tradition"
         ],
         "row": 1,
         "column": 3,
@@ -38,9 +38,9 @@
         ]
       },
       {
-        "name": "PL03",
+        "name": "City Guard",
         "requires": [
-          "PB01"
+          "Civic Tradition"
         ],
         "row": 1,
         "column": 5,
@@ -49,9 +49,9 @@
         ]
       },
       {
-        "name": "PL04",
+        "name": "City Charters",
         "requires": [
-          "PL01"
+          "Public Granaries"
         ],
         "row": 2,
         "column": 4,
@@ -60,9 +60,9 @@
         ]
       },
       {
-        "name": "PL05",
+        "name": "Court Construction",
         "requires": [
-          "PL02"
+          "Public Learning"
         ],
         "row": 2,
         "column": 2,
@@ -71,13 +71,13 @@
         ]
       },
       {
-        "name": "PB01 Complete",
+        "name": "Civic Tradition Complete",
         "requires": [
-          "PL01",
-          "PL02",
-          "PL03",
-          "PL04",
-          "PL05"
+          "Public Granaries",
+          "Public Learning",
+          "City Guard",
+          "City Charters",
+          "Court Construction"
         ],
         "uniques": [
           "[+10]% growth [in capital]",
@@ -87,7 +87,7 @@
     ]
   },
   {
-    "name": "PB02",
+    "name": "Frontier and Autonomy",
     "era": "I",
     "uniques": [
       "[+1 Culture] [in all cities]"
@@ -102,32 +102,32 @@
     },
     "policies": [
       {
-        "name": "PL06",
+        "name": "Organized Labor",
         "requires": [
-          "PB02"
+          "Frontier and Autonomy"
         ],
         "row": 1,
         "column": 1,
         "uniques": [
-          "Free [C02] appears",
+          "Free [Worker] appears",
           "[-20]% construction time for [All] improvements"
         ]
       },
       {
-        "name": "PL07",
+        "name": "Reclamation",
         "requires": [
-          "PB02"
+          "Frontier and Autonomy"
         ],
         "row": 1,
         "column": 3,
         "uniques": [
-          "[+50]% Production when constructing [C01] units [in capital]"
+          "[+50]% Production when constructing [Settler] units [in capital]"
         ]
       },
       {
-        "name": "PL08",
+        "name": "Rural Exchange",
         "requires": [
-          "PB02"
+          "Frontier and Autonomy"
         ],
         "row": 1,
         "column": 5,
@@ -137,9 +137,9 @@
         ]
       },
       {
-        "name": "PL09",
+        "name": "Woodland Knowledge",
         "requires": [
-          "PL06"
+          "Organized Labor"
         ],
         "row": 2,
         "column": 4,
@@ -148,10 +148,10 @@
         ]
       },
       {
-        "name": "PL10",
+        "name": "Frontier Connections",
         "requires": [
-          "PL07",
-          "PL08"
+          "Reclamation",
+          "Rural Exchange"
         ],
         "row": 2,
         "column": 2,
@@ -160,13 +160,13 @@
         ]
       },
       {
-        "name": "PB02 Complete",
+        "name": "Frontier and Autonomy Complete",
         "requires": [
-          "PL06",
-          "PL07",
-          "PL08",
-          "PL09",
-          "PL10"
+          "Organized Labor",
+          "Reclamation",
+          "Rural Exchange",
+          "Woodland Knowledge",
+          "Frontier Connections"
         ],
         "uniques": [
           "[+1 Production] [in all cities]",
@@ -176,7 +176,7 @@
     ]
   },
   {
-    "name": "PB03",
+    "name": "Legions and Expeditions",
     "era": "I",
     "uniques": [
       "[+20]% Strength <for [{Land} {Military}] units> <vs [Barbarians] units>"
@@ -191,9 +191,9 @@
     },
     "policies": [
       {
-        "name": "PL11",
+        "name": "Regular Training",
         "requires": [
-          "PB03"
+          "Legions and Expeditions"
         ],
         "row": 1,
         "column": 1,
@@ -203,9 +203,9 @@
         ]
       },
       {
-        "name": "PL12",
+        "name": "Military Logistics",
         "requires": [
-          "PB03"
+          "Legions and Expeditions"
         ],
         "row": 1,
         "column": 3,
@@ -214,9 +214,9 @@
         ]
       },
       {
-        "name": "PL13",
+        "name": "Siege Preparation",
         "requires": [
-          "PB03"
+          "Legions and Expeditions"
         ],
         "row": 1,
         "column": 5,
@@ -225,9 +225,9 @@
         ]
       },
       {
-        "name": "PL14",
+        "name": "Drills",
         "requires": [
-          "PL11"
+          "Regular Training"
         ],
         "row": 2,
         "column": 4,
@@ -236,10 +236,10 @@
         ]
       },
       {
-        "name": "PL15",
+        "name": "Homeland Defense",
         "requires": [
-          "PL12",
-          "PL13"
+          "Military Logistics",
+          "Siege Preparation"
         ],
         "row": 2,
         "column": 2,
@@ -249,13 +249,13 @@
         ]
       },
       {
-        "name": "PB03 Complete",
+        "name": "Legions and Expeditions Complete",
         "requires": [
-          "PL11",
-          "PL12",
-          "PL13",
-          "PL14",
-          "PL15"
+          "Regular Training",
+          "Military Logistics",
+          "Siege Preparation",
+          "Drills",
+          "Homeland Defense"
         ],
         "uniques": [
           "[+20]% XP gained from combat <for [Military] units>",
@@ -265,11 +265,11 @@
     ]
   },
   {
-    "name": "PB04",
+    "name": "Temples and Oaths",
     "era": "II",
     "uniques": [
-      "[+50]% Production when constructing [B05] buildings [in all cities]",
-      "[+50]% Production when constructing [B15] buildings [in all cities]",
+      "[+50]% Production when constructing [Altar] buildings [in all cities]",
+      "[+50]% Production when constructing [Temple] buildings [in all cities]",
       "Only available <when religion is enabled>"
     ],
     "priorities": {
@@ -282,32 +282,32 @@
     },
     "policies": [
       {
-        "name": "PL16",
+        "name": "Morning Prayer",
         "requires": [
-          "PB04"
+          "Temples and Oaths"
         ],
         "row": 1,
         "column": 1,
         "uniques": [
-          "[+1 Faith] from all [B05] buildings",
-          "[+1 Faith] from all [B15] buildings"
+          "[+1 Faith] from all [Altar] buildings",
+          "[+1 Faith] from all [Temple] buildings"
         ]
       },
       {
-        "name": "PL17",
+        "name": "Public Teachings",
         "requires": [
-          "PB04"
+          "Temples and Oaths"
         ],
         "row": 1,
         "column": 3,
         "uniques": [
-          "[+1 Culture] from all [B15] buildings"
+          "[+1 Culture] from all [Temple] buildings"
         ]
       },
       {
-        "name": "PL18",
+        "name": "Missionary Learning",
         "requires": [
-          "PL16"
+          "Morning Prayer"
         ],
         "row": 2,
         "column": 2,
@@ -316,9 +316,9 @@
         ]
       },
       {
-        "name": "PL19",
+        "name": "Congregations",
         "requires": [
-          "PL17"
+          "Public Teachings"
         ],
         "row": 2,
         "column": 4,
@@ -327,10 +327,10 @@
         ]
       },
       {
-        "name": "PL20",
+        "name": "Public Rites",
         "requires": [
-          "PL16",
-          "PL17"
+          "Morning Prayer",
+          "Public Teachings"
         ],
         "row": 3,
         "column": 3,
@@ -339,24 +339,24 @@
         ]
       },
       {
-        "name": "PB04 Complete",
+        "name": "Temples and Oaths Complete",
         "requires": [
-          "PL16",
-          "PL17",
-          "PL18",
-          "PL19",
-          "PL20"
+          "Morning Prayer",
+          "Public Teachings",
+          "Missionary Learning",
+          "Congregations",
+          "Public Rites"
         ],
         "uniques": [
           "[+10]% [Faith] [in all cities]",
           "[+2 Culture] from [Holy site] tiles [in all cities]",
-          "May buy [C10] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [D01-T84]>"
+          "May buy [Great Artist] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [Cultural Exchange]>"
         ]
       }
     ]
   },
   {
-    "name": "PB05",
+    "name": "Guilds and Sea Routes",
     "era": "II",
     "uniques": [
       "[+15]% [Gold] [in capital]"
@@ -371,9 +371,9 @@
     },
     "policies": [
       {
-        "name": "PL21",
+        "name": "Road Maintenance",
         "requires": [
-          "PB05"
+          "Guilds and Sea Routes"
         ],
         "row": 1,
         "column": 1,
@@ -382,9 +382,9 @@
         ]
       },
       {
-        "name": "PL22",
+        "name": "Contract Procurement",
         "requires": [
-          "PB05"
+          "Guilds and Sea Routes"
         ],
         "row": 1,
         "column": 3,
@@ -393,9 +393,9 @@
         ]
       },
       {
-        "name": "PL23",
+        "name": "Trade Workshops",
         "requires": [
-          "PB05"
+          "Guilds and Sea Routes"
         ],
         "row": 1,
         "column": 5,
@@ -405,22 +405,22 @@
         ]
       },
       {
-        "name": "PL24",
+        "name": "Commercial Studies",
         "requires": [
-          "PL21"
+          "Road Maintenance"
         ],
         "row": 2,
         "column": 4,
         "uniques": [
-          "[+1 Science] from all [B11] buildings",
-          "[+1 Science] from all [B22] buildings"
+          "[+1 Science] from all [Market] buildings",
+          "[+1 Science] from all [Bank] buildings"
         ]
       },
       {
-        "name": "PL25",
+        "name": "Exchange of Goods",
         "requires": [
-          "PL22",
-          "PL23"
+          "Contract Procurement",
+          "Trade Workshops"
         ],
         "row": 2,
         "column": 2,
@@ -429,24 +429,24 @@
         ]
       },
       {
-        "name": "PB05 Complete",
+        "name": "Guilds and Sea Routes Complete",
         "requires": [
-          "PL21",
-          "PL22",
-          "PL23",
-          "PL24",
-          "PL25"
+          "Road Maintenance",
+          "Contract Procurement",
+          "Trade Workshops",
+          "Commercial Studies",
+          "Exchange of Goods"
         ],
         "uniques": [
           "[+20]% [Gold] from Trade Routes",
           "[+50]% Gold from Great Merchant trade missions",
-          "May buy [C09] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [D01-T81]>"
+          "May buy [Great Trade Envoy] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [Trade Charters]>"
         ]
       }
     ]
   },
   {
-    "name": "PB06",
+    "name": "Diplomacy of Nations",
     "era": "III",
     "uniques": [
       "[-15]% City-State Influence degradation"
@@ -461,9 +461,9 @@
     },
     "policies": [
       {
-        "name": "PL26",
+        "name": "Reciprocal Gifts",
         "requires": [
-          "PB06"
+          "Diplomacy of Nations"
         ],
         "row": 1,
         "column": 1,
@@ -472,9 +472,9 @@
         ]
       },
       {
-        "name": "PL27",
+        "name": "Resident Envoys",
         "requires": [
-          "PB06"
+          "Diplomacy of Nations"
         ],
         "row": 1,
         "column": 3,
@@ -483,9 +483,9 @@
         ]
       },
       {
-        "name": "PL28",
+        "name": "Academic Accords",
         "requires": [
-          "PB06"
+          "Diplomacy of Nations"
         ],
         "row": 1,
         "column": 5,
@@ -494,9 +494,9 @@
         ]
       },
       {
-        "name": "PL29",
+        "name": "Joint Instructors",
         "requires": [
-          "PL26"
+          "Reciprocal Gifts"
         ],
         "row": 2,
         "column": 4,
@@ -505,10 +505,10 @@
         ]
       },
       {
-        "name": "PL30",
+        "name": "Common Measures",
         "requires": [
-          "PL27",
-          "PL28"
+          "Resident Envoys",
+          "Academic Accords"
         ],
         "row": 2,
         "column": 2,
@@ -518,13 +518,13 @@
         ]
       },
       {
-        "name": "PB06 Complete",
+        "name": "Diplomacy of Nations Complete",
         "requires": [
-          "PL26",
-          "PL27",
-          "PL28",
-          "PL29",
-          "PL30"
+          "Reciprocal Gifts",
+          "Resident Envoys",
+          "Academic Accords",
+          "Joint Instructors",
+          "Common Measures"
         ],
         "uniques": [
           "City-State Influence recovers at twice the normal rate",
@@ -534,7 +534,7 @@
     ]
   },
   {
-    "name": "PB07",
+    "name": "Academies and Runes",
     "era": "III",
     "uniques": [
       "[+10]% [Science] [in capital]"
@@ -549,9 +549,9 @@
     },
     "policies": [
       {
-        "name": "PL31",
+        "name": "Experimental Methods",
         "requires": [
-          "PB07"
+          "Academies and Runes"
         ],
         "row": 1,
         "column": 1,
@@ -560,20 +560,20 @@
         ]
       },
       {
-        "name": "PL32",
+        "name": "Academic Alliance",
         "requires": [
-          "PB07"
+          "Academies and Runes"
         ],
         "row": 1,
         "column": 3,
         "uniques": [
-          "[+2 Science] from all [B23] buildings"
+          "[+2 Science] from all [University] buildings"
         ]
       },
       {
-        "name": "PL33",
+        "name": "Spellcraft Curriculum",
         "requires": [
-          "PB07"
+          "Academies and Runes"
         ],
         "row": 1,
         "column": 5,
@@ -585,23 +585,23 @@
         ]
       },
       {
-        "name": "PL34",
+        "name": "Research Community",
         "requires": [
-          "PL31",
-          "PL32"
+          "Experimental Methods",
+          "Academic Alliance"
         ],
         "row": 2,
         "column": 4,
         "uniques": [
-          "[+5]% [Science] [in all cities] <in cities with a [B14]>",
+          "[+5]% [Science] [in all cities] <in cities with a [Academy of Magic]>",
           "Science gained from research agreements [+15]%"
         ]
       },
       {
-        "name": "PL35",
+        "name": "Academic Succession",
         "requires": [
-          "PL32",
-          "PL33"
+          "Academic Alliance",
+          "Spellcraft Curriculum"
         ],
         "row": 2,
         "column": 2,
@@ -610,25 +610,25 @@
         ]
       },
       {
-        "name": "PB07 Complete",
+        "name": "Academies and Runes Complete",
         "requires": [
-          "PL31",
-          "PL32",
-          "PL33",
-          "PL34",
-          "PL35"
+          "Experimental Methods",
+          "Academic Alliance",
+          "Spellcraft Curriculum",
+          "Research Community",
+          "Academic Succession"
         ],
         "uniques": [
           "[+5]% [Science] [in all cities]",
           "Free Technology <starting from the [IV]>",
           "Free Technology <upon entering the [IV]>",
-          "May buy [C07] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [D01-T86]>"
+          "May buy [Great Scholar] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [Celestial Surveying]>"
         ]
       }
     ]
   },
   {
-    "name": "PB08",
+    "name": "Citizens and Crafts",
     "era": "IV",
     "uniques": [
       "[-10]% maintenance cost for [all] buildings [in all cities]"
@@ -643,9 +643,9 @@
     },
     "policies": [
       {
-        "name": "PL36",
+        "name": "Public Works",
         "requires": [
-          "PB08"
+          "Citizens and Crafts"
         ],
         "row": 1,
         "column": 1,
@@ -654,20 +654,20 @@
         ]
       },
       {
-        "name": "PL37",
+        "name": "Craft Standards",
         "requires": [
-          "PB08"
+          "Citizens and Crafts"
         ],
         "row": 1,
         "column": 3,
         "uniques": [
-          "[+1 Production] from all [B02] buildings"
+          "[+1 Production] from all [Workshop] buildings"
         ]
       },
       {
-        "name": "PL38",
+        "name": "Specialist Support",
         "requires": [
-          "PB08"
+          "Citizens and Crafts"
         ],
         "row": 1,
         "column": 5,
@@ -676,9 +676,9 @@
         ]
       },
       {
-        "name": "PL39",
+        "name": "Civil Rights",
         "requires": [
-          "PL36"
+          "Public Works"
         ],
         "row": 2,
         "column": 4,
@@ -687,10 +687,10 @@
         ]
       },
       {
-        "name": "PL40",
+        "name": "Municipal Coordination",
         "requires": [
-          "PL37",
-          "PL38"
+          "Craft Standards",
+          "Specialist Support"
         ],
         "row": 2,
         "column": 2,
@@ -699,17 +699,17 @@
         ]
       },
       {
-        "name": "PB08 Complete",
+        "name": "Citizens and Crafts Complete",
         "requires": [
-          "PL36",
-          "PL37",
-          "PL38",
-          "PL39",
-          "PL40"
+          "Public Works",
+          "Craft Standards",
+          "Specialist Support",
+          "Civil Rights",
+          "Municipal Coordination"
         ],
         "uniques": [
           "[+10]% [Production] [in all cities]",
-          "May buy [C08] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [D01-T29]>"
+          "May buy [Great Artificer] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [Precision Manufacturing]>"
         ]
       }
     ]

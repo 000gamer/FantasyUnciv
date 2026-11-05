@@ -45,27 +45,27 @@
       },
       {},
       {
-        "text": "H03",
+        "text": "Guardian of the Wilds",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10,
-        "link": "Unit/H03"
+        "link": "Unit/Guardian of the Wilds"
       },
       {
-        "text": "FC Hero source H03",
+        "text": "FC Hero source Guardian of the Wilds",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {
-        "text": "FC Hero research H03",
+        "text": "FC Hero research Guardian of the Wilds",
         "indent": 1,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Hero requirements H03",
+        "text": "FC Hero requirements Guardian of the Wilds",
         "indent": 1,
         "size": 18,
         "padding": 6,
@@ -73,27 +73,27 @@
       },
       {},
       {
-        "text": "H01",
+        "text": "Oathsworn Commander",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10,
-        "link": "Unit/H01"
+        "link": "Unit/Oathsworn Commander"
       },
       {
-        "text": "FC Hero source H01",
+        "text": "FC Hero source Oathsworn Commander",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {
-        "text": "FC Hero research H01",
+        "text": "FC Hero research Oathsworn Commander",
         "indent": 1,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Hero requirements H01",
+        "text": "FC Hero requirements Oathsworn Commander",
         "indent": 1,
         "size": 18,
         "padding": 6,
@@ -101,27 +101,27 @@
       },
       {},
       {
-        "text": "H02",
+        "text": "Star-Mirror Sage",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10,
-        "link": "Unit/H02"
+        "link": "Unit/Star-Mirror Sage"
       },
       {
-        "text": "FC Hero source H02",
+        "text": "FC Hero source Star-Mirror Sage",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {
-        "text": "FC Hero research H02",
+        "text": "FC Hero research Star-Mirror Sage",
         "indent": 1,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Hero requirements H02",
+        "text": "FC Hero requirements Star-Mirror Sage",
         "indent": 1,
         "size": 18,
         "padding": 6,
@@ -129,27 +129,27 @@
       },
       {},
       {
-        "text": "H04",
+        "text": "Ancient Oath Dragon",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10,
-        "link": "Unit/H04"
+        "link": "Unit/Ancient Oath Dragon"
       },
       {
-        "text": "FC Hero source H04",
+        "text": "FC Hero source Ancient Oath Dragon",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {
-        "text": "FC Hero research H04",
+        "text": "FC Hero research Ancient Oath Dragon",
         "indent": 1,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Hero requirements H04",
+        "text": "FC Hero requirements Ancient Oath Dragon",
         "indent": 1,
         "size": 18,
         "padding": 6,
@@ -174,111 +174,111 @@
       {},
       {},
       {
-        "text": "H05",
+        "text": "Springroad Physician",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10,
-        "link": "Unit/H05"
+        "link": "Unit/Springroad Physician"
       },
       {
-        "text": "FC Hero source H05",
+        "text": "FC Hero source Springroad Physician",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "H06",
+        "text": "Monument Oathwalker",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10,
-        "link": "Unit/H06"
+        "link": "Unit/Monument Oathwalker"
       },
       {
-        "text": "FC Hero source H06",
+        "text": "FC Hero source Monument Oathwalker",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "H07",
+        "text": "Molten Seal Envoy",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10,
-        "link": "Unit/H07"
+        "link": "Unit/Molten Seal Envoy"
       },
       {
-        "text": "FC Hero source H07",
+        "text": "FC Hero source Molten Seal Envoy",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "H08",
+        "text": "Silent Mirror Keeper",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10,
-        "link": "Unit/H08"
+        "link": "Unit/Silent Mirror Keeper"
       },
       {
-        "text": "FC Hero source H08",
+        "text": "FC Hero source Silent Mirror Keeper",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "H10",
+        "text": "Lantern Oathguard",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10,
-        "link": "Unit/H10"
+        "link": "Unit/Lantern Oathguard"
       },
       {
-        "text": "FC Hero source H10",
+        "text": "FC Hero source Lantern Oathguard",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "H12",
+        "text": "Caravan Arbiter",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10,
-        "link": "Unit/H12"
+        "link": "Unit/Caravan Arbiter"
       },
       {
-        "text": "FC Hero source H12",
+        "text": "FC Hero source Caravan Arbiter",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "H09",
+        "text": "Sea Road Navigator",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10,
-        "link": "Unit/H09"
+        "link": "Unit/Sea Road Navigator"
       },
       {
-        "text": "FC Hero source H09",
+        "text": "FC Hero source Sea Road Navigator",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {
-        "text": "FC Hero research H09",
+        "text": "FC Hero research Sea Road Navigator",
         "indent": 1,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Hero requirements H09",
+        "text": "FC Hero requirements Sea Road Navigator",
         "indent": 1,
         "size": 18,
         "padding": 6,
@@ -286,27 +286,27 @@
       },
       {},
       {
-        "text": "H11",
+        "text": "Hundredforge Artificer",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10,
-        "link": "Unit/H11"
+        "link": "Unit/Hundredforge Artificer"
       },
       {
-        "text": "FC Hero source H11",
+        "text": "FC Hero source Hundredforge Artificer",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {
-        "text": "FC Hero research H11",
+        "text": "FC Hero research Hundredforge Artificer",
         "indent": 1,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Hero requirements H11",
+        "text": "FC Hero requirements Hundredforge Artificer",
         "indent": 1,
         "size": 18,
         "padding": 6,
@@ -344,195 +344,195 @@
       },
       {},
       {
-        "text": "FC Ruin RU01 title",
+        "text": "FC Ruin Ruin - Ancient Coins title",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Ruin RU01",
+        "text": "FC Ruin Ruin - Ancient Coins",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "FC Ruin RU02 title",
+        "text": "FC Ruin Ruin - Fragments of Old Songs title",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Ruin RU02",
+        "text": "FC Ruin Ruin - Fragments of Old Songs",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "FC Ruin RU03 title",
+        "text": "FC Ruin Ruin - Lost Calculations title",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Ruin RU03",
+        "text": "FC Ruin Ruin - Lost Calculations",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "FC Ruin RU04 title",
+        "text": "FC Ruin Ruin - Exiled Farmers title",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Ruin RU04",
+        "text": "FC Ruin Ruin - Exiled Farmers",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "FC Ruin RU05 title",
+        "text": "FC Ruin Ruin - Sketch of the Old Roads title",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Ruin RU05",
+        "text": "FC Ruin Ruin - Sketch of the Old Roads",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "FC Ruin RU06 title",
+        "text": "FC Ruin Ruin - Ritual Inscriptions title",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Ruin RU06",
+        "text": "FC Ruin Ruin - Ritual Inscriptions",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "FC Ruin RU08 title",
+        "text": "FC Ruin Ruin - Ancestral Training title",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Ruin RU08",
+        "text": "FC Ruin Ruin - Ancestral Training",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "FC Ruin RU09 title",
+        "text": "FC Ruin Ruin - Ruin Medicine title",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Ruin RU09",
+        "text": "FC Ruin Ruin - Ruin Medicine",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "FC Ruin RU10 title",
+        "text": "FC Ruin Ruin - Records of Repose title",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Ruin RU10",
+        "text": "FC Ruin Ruin - Records of Repose",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "FC Ruin RU11 title",
+        "text": "FC Ruin Ruin - Frontline Clues title",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Ruin RU11",
+        "text": "FC Ruin Ruin - Frontline Clues",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "FC Ruin RU13 title",
+        "text": "FC Ruin Ruin - Spell Calibration Platform title",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Ruin RU13",
+        "text": "FC Ruin Ruin - Spell Calibration Platform",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "FC Ruin RU14 title",
+        "text": "FC Ruin Ruin - Monument of Renewal title",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Ruin RU14",
+        "text": "FC Ruin Ruin - Monument of Renewal",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "FC Ruin RU15 title",
+        "text": "FC Ruin Ruin - Refugee Guides title",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Ruin RU15",
+        "text": "FC Ruin Ruin - Refugee Guides",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "FC Ruin RU16 title",
+        "text": "FC Ruin Ruin - Old Road Coordinates title",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Ruin RU16",
+        "text": "FC Ruin Ruin - Old Road Coordinates",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "FC Ruin RU17 title",
+        "text": "FC Ruin Ruin - Sealed Heritage Chest title",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Ruin RU17",
+        "text": "FC Ruin Ruin - Sealed Heritage Chest",
         "indent": 1,
         "size": 20,
         "padding": 6
@@ -558,20 +558,20 @@
         "separator": true
       },
       {
-        "text": "E16",
+        "text": "Watchers Beneath the Oathstone",
         "header": 3,
         "color": "#F0CE83",
         "padding": 10
       },
       {
-        "text": "FC Encounter E16 eligibility line 1",
+        "text": "FC Encounter Watchers Beneath the Oathstone eligibility line 1",
         "indent": 0,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E16 eligibility line 2",
+        "text": "FC Encounter Watchers Beneath the Oathstone eligibility line 2",
         "indent": 1,
         "size": 18,
         "padding": 4,
@@ -579,21 +579,21 @@
       },
       {},
       {
-        "text": "E16 Paragraph 1",
+        "text": "Watchers Beneath the Oathstone Paragraph 1",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E16 Paragraph 2",
+        "text": "Watchers Beneath the Oathstone Paragraph 2",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E16 Paragraph 3",
+        "text": "Watchers Beneath the Oathstone Paragraph 3",
         "indent": 0,
         "size": 18,
         "padding": 6,
@@ -601,74 +601,74 @@
       },
       {},
       {
-        "text": "E16 Paragraph 4",
+        "text": "Watchers Beneath the Oathstone Paragraph 4",
         "indent": 0,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E16-A",
+        "text": "Watchers Beneath the Oathstone-A",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E16-A Requirements",
+        "text": "FC Encounter Watchers Beneath the Oathstone-A Requirements",
         "indent": 1,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E16-A result",
+        "text": "FC Encounter Watchers Beneath the Oathstone-A result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E16-B",
+        "text": "Watchers Beneath the Oathstone-B",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E16-B Requirements line 1",
+        "text": "FC Encounter Watchers Beneath the Oathstone-B Requirements line 1",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E16-B Requirements line 2",
+        "text": "FC Encounter Watchers Beneath the Oathstone-B Requirements line 2",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E16-B Requirements line 3",
+        "text": "FC Encounter Watchers Beneath the Oathstone-B Requirements line 3",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E16-B result",
+        "text": "FC Encounter Watchers Beneath the Oathstone-B result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E16-C",
+        "text": "Watchers Beneath the Oathstone-C",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E16-C result",
+        "text": "FC Encounter Watchers Beneath the Oathstone-C result",
         "indent": 1,
         "size": 20,
         "padding": 6
@@ -678,27 +678,27 @@
         "separator": true
       },
       {
-        "text": "E17",
+        "text": "The Blind Star Mirror",
         "header": 3,
         "color": "#F0CE83",
         "padding": 10
       },
       {
-        "text": "FC Encounter E17 eligibility line 1",
+        "text": "FC Encounter The Blind Star Mirror eligibility line 1",
         "indent": 0,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E17 eligibility line 2",
+        "text": "FC Encounter The Blind Star Mirror eligibility line 2",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E17 eligibility line 3",
+        "text": "FC Encounter The Blind Star Mirror eligibility line 3",
         "indent": 1,
         "size": 18,
         "padding": 4,
@@ -706,21 +706,21 @@
       },
       {},
       {
-        "text": "E17 Paragraph 1",
-        "indent": 0,
-        "size": 18,
-        "padding": 6,
-        "color": "#B8C5D6"
-      },
-      {
-        "text": "E17 Paragraph 2",
+        "text": "The Blind Star Mirror Paragraph 1",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E17 Paragraph 3",
+        "text": "The Blind Star Mirror Paragraph 2",
+        "indent": 0,
+        "size": 18,
+        "padding": 6,
+        "color": "#B8C5D6"
+      },
+      {
+        "text": "The Blind Star Mirror Paragraph 3",
         "indent": 0,
         "size": 18,
         "padding": 6,
@@ -728,67 +728,67 @@
       },
       {},
       {
-        "text": "E17 Paragraph 4",
+        "text": "The Blind Star Mirror Paragraph 4",
         "indent": 0,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E17-A",
+        "text": "The Blind Star Mirror-A",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E17-A Requirements line 1",
+        "text": "FC Encounter The Blind Star Mirror-A Requirements line 1",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E17-A Requirements line 2",
+        "text": "FC Encounter The Blind Star Mirror-A Requirements line 2",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E17-A Requirements line 3",
+        "text": "FC Encounter The Blind Star Mirror-A Requirements line 3",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E17-A result",
+        "text": "FC Encounter The Blind Star Mirror-A result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E17-B",
+        "text": "The Blind Star Mirror-B",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E17-B result",
+        "text": "FC Encounter The Blind Star Mirror-B result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E17-C",
+        "text": "The Blind Star Mirror-C",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E17-C result",
+        "text": "FC Encounter The Blind Star Mirror-C result",
         "indent": 1,
         "size": 20,
         "padding": 6
@@ -798,27 +798,27 @@
         "separator": true
       },
       {
-        "text": "E18",
+        "text": "The Old Root Covenant",
         "header": 3,
         "color": "#F0CE83",
         "padding": 10
       },
       {
-        "text": "FC Encounter E18 eligibility line 1",
+        "text": "FC Encounter The Old Root Covenant eligibility line 1",
         "indent": 0,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E18 eligibility line 2",
+        "text": "FC Encounter The Old Root Covenant eligibility line 2",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E18 eligibility line 3",
+        "text": "FC Encounter The Old Root Covenant eligibility line 3",
         "indent": 1,
         "size": 18,
         "padding": 4,
@@ -826,21 +826,21 @@
       },
       {},
       {
-        "text": "E18 Paragraph 1",
+        "text": "The Old Root Covenant Paragraph 1",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E18 Paragraph 2",
+        "text": "The Old Root Covenant Paragraph 2",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E18 Paragraph 3",
+        "text": "The Old Root Covenant Paragraph 3",
         "indent": 0,
         "size": 18,
         "padding": 6,
@@ -848,74 +848,74 @@
       },
       {},
       {
-        "text": "E18 Paragraph 4",
+        "text": "The Old Root Covenant Paragraph 4",
         "indent": 0,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E18-A",
+        "text": "The Old Root Covenant-A",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E18-A Requirements",
+        "text": "FC Encounter The Old Root Covenant-A Requirements",
         "indent": 1,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E18-A result",
+        "text": "FC Encounter The Old Root Covenant-A result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E18-B",
+        "text": "The Old Root Covenant-B",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E18-B Requirements line 1",
+        "text": "FC Encounter The Old Root Covenant-B Requirements line 1",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E18-B Requirements line 2",
+        "text": "FC Encounter The Old Root Covenant-B Requirements line 2",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E18-B Requirements line 3",
+        "text": "FC Encounter The Old Root Covenant-B Requirements line 3",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E18-B result",
+        "text": "FC Encounter The Old Root Covenant-B result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E18-C",
+        "text": "The Old Root Covenant-C",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E18-C result",
+        "text": "FC Encounter The Old Root Covenant-C result",
         "indent": 1,
         "size": 20,
         "padding": 6
@@ -925,27 +925,27 @@
         "separator": true
       },
       {
-        "text": "E19",
+        "text": "The Sunken Bell Chart",
         "header": 3,
         "color": "#F0CE83",
         "padding": 10
       },
       {
-        "text": "FC Encounter E19 eligibility line 1",
+        "text": "FC Encounter The Sunken Bell Chart eligibility line 1",
         "indent": 0,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E19 eligibility line 2",
+        "text": "FC Encounter The Sunken Bell Chart eligibility line 2",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E19 eligibility line 3",
+        "text": "FC Encounter The Sunken Bell Chart eligibility line 3",
         "indent": 1,
         "size": 18,
         "padding": 4,
@@ -953,21 +953,21 @@
       },
       {},
       {
-        "text": "E19 Paragraph 1",
-        "indent": 0,
-        "size": 18,
-        "padding": 6,
-        "color": "#B8C5D6"
-      },
-      {
-        "text": "E19 Paragraph 2",
+        "text": "The Sunken Bell Chart Paragraph 1",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E19 Paragraph 3",
+        "text": "The Sunken Bell Chart Paragraph 2",
+        "indent": 0,
+        "size": 18,
+        "padding": 6,
+        "color": "#B8C5D6"
+      },
+      {
+        "text": "The Sunken Bell Chart Paragraph 3",
         "indent": 0,
         "size": 18,
         "padding": 6,
@@ -975,60 +975,60 @@
       },
       {},
       {
-        "text": "E19 Paragraph 4",
+        "text": "The Sunken Bell Chart Paragraph 4",
         "indent": 0,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E19-A",
+        "text": "The Sunken Bell Chart-A",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E19-A Requirements line 1",
+        "text": "FC Encounter The Sunken Bell Chart-A Requirements line 1",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E19-A Requirements line 2",
+        "text": "FC Encounter The Sunken Bell Chart-A Requirements line 2",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E19-A result",
+        "text": "FC Encounter The Sunken Bell Chart-A result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E19-B",
+        "text": "The Sunken Bell Chart-B",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E19-B result",
+        "text": "FC Encounter The Sunken Bell Chart-B result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E19-C",
+        "text": "The Sunken Bell Chart-C",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E19-C result",
+        "text": "FC Encounter The Sunken Bell Chart-C result",
         "indent": 1,
         "size": 20,
         "padding": 6
@@ -1038,20 +1038,20 @@
         "separator": true
       },
       {
-        "text": "E20",
+        "text": "The Lost Courier Register",
         "header": 3,
         "color": "#F0CE83",
         "padding": 10
       },
       {
-        "text": "FC Encounter E20 eligibility line 1",
+        "text": "FC Encounter The Lost Courier Register eligibility line 1",
         "indent": 0,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E20 eligibility line 2",
+        "text": "FC Encounter The Lost Courier Register eligibility line 2",
         "indent": 1,
         "size": 18,
         "padding": 4,
@@ -1059,21 +1059,21 @@
       },
       {},
       {
-        "text": "E20 Paragraph 1",
+        "text": "The Lost Courier Register Paragraph 1",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E20 Paragraph 2",
+        "text": "The Lost Courier Register Paragraph 2",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E20 Paragraph 3",
+        "text": "The Lost Courier Register Paragraph 3",
         "indent": 0,
         "size": 18,
         "padding": 6,
@@ -1081,53 +1081,53 @@
       },
       {},
       {
-        "text": "E20 Paragraph 4",
+        "text": "The Lost Courier Register Paragraph 4",
         "indent": 0,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E20-A",
+        "text": "The Lost Courier Register-A",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E20-A result",
+        "text": "FC Encounter The Lost Courier Register-A result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E20-B",
+        "text": "The Lost Courier Register-B",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E20-B Requirements",
+        "text": "FC Encounter The Lost Courier Register-B Requirements",
         "indent": 1,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E20-B result",
+        "text": "FC Encounter The Lost Courier Register-B result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E20-C",
+        "text": "The Lost Courier Register-C",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E20-C result",
+        "text": "FC Encounter The Lost Courier Register-C result",
         "indent": 1,
         "size": 20,
         "padding": 6
@@ -1137,13 +1137,13 @@
         "separator": true
       },
       {
-        "text": "E24",
+        "text": "The Sealed Relic Casket",
         "header": 3,
         "color": "#F0CE83",
         "padding": 10
       },
       {
-        "text": "FC Encounter E24 eligibility",
+        "text": "FC Encounter The Sealed Relic Casket eligibility",
         "indent": 0,
         "size": 18,
         "padding": 6,
@@ -1151,21 +1151,21 @@
       },
       {},
       {
-        "text": "E24 Paragraph 1",
+        "text": "The Sealed Relic Casket Paragraph 1",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E24 Paragraph 2",
+        "text": "The Sealed Relic Casket Paragraph 2",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E24 Paragraph 3",
+        "text": "The Sealed Relic Casket Paragraph 3",
         "indent": 0,
         "size": 18,
         "padding": 6,
@@ -1173,53 +1173,53 @@
       },
       {},
       {
-        "text": "E24 Paragraph 4",
+        "text": "The Sealed Relic Casket Paragraph 4",
         "indent": 0,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E24-A",
+        "text": "The Sealed Relic Casket-A",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E24-A result",
+        "text": "FC Encounter The Sealed Relic Casket-A result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E24-B",
+        "text": "The Sealed Relic Casket-B",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E24-B result",
+        "text": "FC Encounter The Sealed Relic Casket-B result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E24-C",
+        "text": "The Sealed Relic Casket-C",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E24-C Requirements",
+        "text": "FC Encounter The Sealed Relic Casket-C Requirements",
         "indent": 1,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E24-C result",
+        "text": "FC Encounter The Sealed Relic Casket-C result",
         "indent": 1,
         "size": 20,
         "padding": 6
@@ -1246,27 +1246,27 @@
         "separator": true
       },
       {
-        "text": "E25",
+        "text": "The Last Load on Springroad",
         "header": 3,
         "color": "#F0CE83",
         "padding": 10
       },
       {
-        "text": "FC Encounter E25 eligibility line 1",
+        "text": "FC Encounter The Last Load on Springroad eligibility line 1",
         "indent": 0,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E25 eligibility line 2",
+        "text": "FC Encounter The Last Load on Springroad eligibility line 2",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E25 eligibility line 3",
+        "text": "FC Encounter The Last Load on Springroad eligibility line 3",
         "indent": 1,
         "size": 18,
         "padding": 4,
@@ -1274,21 +1274,21 @@
       },
       {},
       {
-        "text": "E25 Paragraph 1",
+        "text": "The Last Load on Springroad Paragraph 1",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E25 Paragraph 2",
+        "text": "The Last Load on Springroad Paragraph 2",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E25 Paragraph 3",
+        "text": "The Last Load on Springroad Paragraph 3",
         "indent": 0,
         "size": 18,
         "padding": 6,
@@ -1296,60 +1296,60 @@
       },
       {},
       {
-        "text": "E25 Paragraph 4",
+        "text": "The Last Load on Springroad Paragraph 4",
         "indent": 0,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E25-A",
+        "text": "The Last Load on Springroad-A",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E25-A Requirements",
+        "text": "FC Encounter The Last Load on Springroad-A Requirements",
         "indent": 1,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E25-A result",
+        "text": "FC Encounter The Last Load on Springroad-A result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E25-B",
+        "text": "The Last Load on Springroad-B",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E25-B Requirements",
+        "text": "FC Encounter The Last Load on Springroad-B Requirements",
         "indent": 1,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E25-B result",
+        "text": "FC Encounter The Last Load on Springroad-B result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E25-C",
+        "text": "The Last Load on Springroad-C",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E25-C result",
+        "text": "FC Encounter The Last Load on Springroad-C result",
         "indent": 1,
         "size": 20,
         "padding": 6
@@ -1359,27 +1359,27 @@
         "separator": true
       },
       {
-        "text": "E26",
+        "text": "A Voluntary Soul Covenant",
         "header": 3,
         "color": "#F0CE83",
         "padding": 10
       },
       {
-        "text": "FC Encounter E26 eligibility line 1",
+        "text": "FC Encounter A Voluntary Soul Covenant eligibility line 1",
         "indent": 0,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E26 eligibility line 2",
+        "text": "FC Encounter A Voluntary Soul Covenant eligibility line 2",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E26 eligibility line 3",
+        "text": "FC Encounter A Voluntary Soul Covenant eligibility line 3",
         "indent": 1,
         "size": 18,
         "padding": 4,
@@ -1387,21 +1387,21 @@
       },
       {},
       {
-        "text": "E26 Paragraph 1",
+        "text": "A Voluntary Soul Covenant Paragraph 1",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E26 Paragraph 2",
+        "text": "A Voluntary Soul Covenant Paragraph 2",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E26 Paragraph 3",
+        "text": "A Voluntary Soul Covenant Paragraph 3",
         "indent": 0,
         "size": 18,
         "padding": 6,
@@ -1409,33 +1409,33 @@
       },
       {},
       {
-        "text": "E26 Paragraph 4",
+        "text": "A Voluntary Soul Covenant Paragraph 4",
         "indent": 0,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E26-A",
+        "text": "A Voluntary Soul Covenant-A",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E26-A result",
+        "text": "FC Encounter A Voluntary Soul Covenant-A result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E26-B",
+        "text": "A Voluntary Soul Covenant-B",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E26-B result",
+        "text": "FC Encounter A Voluntary Soul Covenant-B result",
         "indent": 1,
         "size": 20,
         "padding": 6
@@ -1445,27 +1445,27 @@
         "separator": true
       },
       {
-        "text": "E27",
+        "text": "The Molten Seal Envoy",
         "header": 3,
         "color": "#F0CE83",
         "padding": 10
       },
       {
-        "text": "FC Encounter E27 eligibility line 1",
+        "text": "FC Encounter The Molten Seal Envoy eligibility line 1",
         "indent": 0,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E27 eligibility line 2",
+        "text": "FC Encounter The Molten Seal Envoy eligibility line 2",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E27 eligibility line 3",
+        "text": "FC Encounter The Molten Seal Envoy eligibility line 3",
         "indent": 1,
         "size": 18,
         "padding": 4,
@@ -1473,21 +1473,21 @@
       },
       {},
       {
-        "text": "E27 Paragraph 1",
+        "text": "The Molten Seal Envoy Paragraph 1",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E27 Paragraph 2",
+        "text": "The Molten Seal Envoy Paragraph 2",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E27 Paragraph 3",
+        "text": "The Molten Seal Envoy Paragraph 3",
         "indent": 0,
         "size": 18,
         "padding": 6,
@@ -1495,40 +1495,40 @@
       },
       {},
       {
-        "text": "E27 Paragraph 4",
+        "text": "The Molten Seal Envoy Paragraph 4",
         "indent": 0,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E27-A",
+        "text": "The Molten Seal Envoy-A",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E27-A Requirements",
+        "text": "FC Encounter The Molten Seal Envoy-A Requirements",
         "indent": 1,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E27-A result",
+        "text": "FC Encounter The Molten Seal Envoy-A result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E27-B",
+        "text": "The Molten Seal Envoy-B",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E27-B result",
+        "text": "FC Encounter The Molten Seal Envoy-B result",
         "indent": 1,
         "size": 20,
         "padding": 6
@@ -1538,27 +1538,27 @@
         "separator": true
       },
       {
-        "text": "E28",
+        "text": "The Silent Mirror Watch",
         "header": 3,
         "color": "#F0CE83",
         "padding": 10
       },
       {
-        "text": "FC Encounter E28 eligibility line 1",
+        "text": "FC Encounter The Silent Mirror Watch eligibility line 1",
         "indent": 0,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E28 eligibility line 2",
+        "text": "FC Encounter The Silent Mirror Watch eligibility line 2",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E28 eligibility line 3",
+        "text": "FC Encounter The Silent Mirror Watch eligibility line 3",
         "indent": 1,
         "size": 18,
         "padding": 4,
@@ -1566,21 +1566,21 @@
       },
       {},
       {
-        "text": "E28 Paragraph 1",
+        "text": "The Silent Mirror Watch Paragraph 1",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E28 Paragraph 2",
+        "text": "The Silent Mirror Watch Paragraph 2",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E28 Paragraph 3",
+        "text": "The Silent Mirror Watch Paragraph 3",
         "indent": 0,
         "size": 18,
         "padding": 6,
@@ -1588,40 +1588,40 @@
       },
       {},
       {
-        "text": "E28 Paragraph 4",
+        "text": "The Silent Mirror Watch Paragraph 4",
         "indent": 0,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E28-A",
+        "text": "The Silent Mirror Watch-A",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E28-A Requirements",
+        "text": "FC Encounter The Silent Mirror Watch-A Requirements",
         "indent": 1,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E28-A result",
+        "text": "FC Encounter The Silent Mirror Watch-A result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E28-B",
+        "text": "The Silent Mirror Watch-B",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E28-B result",
+        "text": "FC Encounter The Silent Mirror Watch-B result",
         "indent": 1,
         "size": 20,
         "padding": 6
@@ -1631,34 +1631,34 @@
         "separator": true
       },
       {
-        "text": "E29",
+        "text": "Lanterns in the Grove",
         "header": 3,
         "color": "#F0CE83",
         "padding": 10
       },
       {
-        "text": "FC Encounter E29 eligibility line 1",
+        "text": "FC Encounter Lanterns in the Grove eligibility line 1",
         "indent": 0,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E29 eligibility line 2",
+        "text": "FC Encounter Lanterns in the Grove eligibility line 2",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E29 eligibility line 3",
+        "text": "FC Encounter Lanterns in the Grove eligibility line 3",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E29 eligibility line 4",
+        "text": "FC Encounter Lanterns in the Grove eligibility line 4",
         "indent": 1,
         "size": 18,
         "padding": 4,
@@ -1666,21 +1666,21 @@
       },
       {},
       {
-        "text": "E29 Paragraph 1",
+        "text": "Lanterns in the Grove Paragraph 1",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E29 Paragraph 2",
+        "text": "Lanterns in the Grove Paragraph 2",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E29 Paragraph 3",
+        "text": "Lanterns in the Grove Paragraph 3",
         "indent": 0,
         "size": 18,
         "padding": 6,
@@ -1688,33 +1688,33 @@
       },
       {},
       {
-        "text": "E29 Paragraph 4",
+        "text": "Lanterns in the Grove Paragraph 4",
         "indent": 0,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E29-A",
+        "text": "Lanterns in the Grove-A",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E29-A result",
+        "text": "FC Encounter Lanterns in the Grove-A result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E29-B",
+        "text": "Lanterns in the Grove-B",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E29-B result",
+        "text": "FC Encounter Lanterns in the Grove-B result",
         "indent": 1,
         "size": 20,
         "padding": 6
@@ -1724,27 +1724,27 @@
         "separator": true
       },
       {
-        "text": "E30",
+        "text": "Guards by the Old Road",
         "header": 3,
         "color": "#F0CE83",
         "padding": 10
       },
       {
-        "text": "FC Encounter E30 eligibility line 1",
+        "text": "FC Encounter Guards by the Old Road eligibility line 1",
         "indent": 0,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E30 eligibility line 2",
+        "text": "FC Encounter Guards by the Old Road eligibility line 2",
         "indent": 1,
         "size": 18,
         "padding": 4,
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter E30 eligibility line 3",
+        "text": "FC Encounter Guards by the Old Road eligibility line 3",
         "indent": 1,
         "size": 18,
         "padding": 4,
@@ -1752,21 +1752,21 @@
       },
       {},
       {
-        "text": "E30 Paragraph 1",
+        "text": "Guards by the Old Road Paragraph 1",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E30 Paragraph 2",
+        "text": "Guards by the Old Road Paragraph 2",
         "indent": 0,
         "size": 18,
         "padding": 6,
         "color": "#B8C5D6"
       },
       {
-        "text": "E30 Paragraph 3",
+        "text": "Guards by the Old Road Paragraph 3",
         "indent": 0,
         "size": 18,
         "padding": 6,
@@ -1774,33 +1774,33 @@
       },
       {},
       {
-        "text": "E30 Paragraph 4",
+        "text": "Guards by the Old Road Paragraph 4",
         "indent": 0,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E30-A",
+        "text": "Guards by the Old Road-A",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E30-A result",
+        "text": "FC Encounter Guards by the Old Road-A result",
         "indent": 1,
         "size": 20,
         "padding": 6
       },
       {},
       {
-        "text": "E30-B",
+        "text": "Guards by the Old Road-B",
         "header": 5,
         "color": "#A6D4F5",
         "padding": 10
       },
       {
-        "text": "FC Encounter E30-B result",
+        "text": "FC Encounter Guards by the Old Road-B result",
         "indent": 1,
         "size": 20,
         "padding": 6

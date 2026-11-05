@@ -1,6 +1,6 @@
 [
   {
-    "name": "Hero-01",
+    "name": "Hero - Oathsworn Commander",
     "movementType": "Land",
     "civilopediaText": [
       {
@@ -10,7 +10,7 @@
     ]
   },
   {
-    "name": "Hero-02",
+    "name": "Hero - Star-Mirror Sage",
     "movementType": "Land",
     "civilopediaText": [
       {
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "name": "Hero-03",
+    "name": "Hero - Guardian of the Wilds",
     "movementType": "Land",
     "civilopediaText": [
       {
@@ -30,7 +30,7 @@
     ]
   },
   {
-    "name": "Hero-04",
+    "name": "Hero - Ancient Oath Dragon",
     "movementType": "Land",
     "civilopediaText": [
       {
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "name": "Hero-05",
+    "name": "Hero - Springroad Physician",
     "movementType": "Land",
     "civilopediaText": [
       {
@@ -50,7 +50,7 @@
     ]
   },
   {
-    "name": "Hero-06",
+    "name": "Hero - Monument Oathwalker",
     "movementType": "Land",
     "civilopediaText": [
       {
@@ -60,7 +60,7 @@
     ]
   },
   {
-    "name": "Hero-07",
+    "name": "Hero - Molten Seal Envoy",
     "movementType": "Land",
     "civilopediaText": [
       {
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "name": "Hero-08",
+    "name": "Hero - Silent Mirror Keeper",
     "movementType": "Land",
     "civilopediaText": [
       {
@@ -80,7 +80,7 @@
     ]
   },
   {
-    "name": "Hero-09",
+    "name": "Hero - Sea Road Navigator",
     "movementType": "Water",
     "civilopediaText": [
       {
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "name": "Hero-10",
+    "name": "Hero - Lantern Oathguard",
     "movementType": "Land",
     "civilopediaText": [
       {
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "name": "Hero-11",
+    "name": "Hero - Hundredforge Artificer",
     "movementType": "Land",
     "civilopediaText": [
       {
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "name": "Hero-12",
+    "name": "Hero - Caravan Arbiter",
     "movementType": "Land",
     "civilopediaText": [
       {

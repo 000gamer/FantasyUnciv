@@ -1,6 +1,6 @@
 [
   {
-    "name": "P01",
+    "name": "Open-Field Tactics I",
     "unitTypes": [
       "步兵",
       "重步兵",
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "name": "P02",
+    "name": "Open-Field Tactics II",
     "unitTypes": [
       "步兵",
       "重步兵",
@@ -31,14 +31,14 @@
       "幽魂"
     ],
     "prerequisites": [
-      "P01"
+      "Open-Field Tactics I"
     ],
     "uniques": [
       "[+10]% Strength <when fighting in [Open terrain] tiles>"
     ]
   },
   {
-    "name": "P03",
+    "name": "Rough-Terrain Tactics I",
     "unitTypes": [
       "步兵",
       "重步兵",
@@ -56,7 +56,7 @@
     ]
   },
   {
-    "name": "P04",
+    "name": "Rough-Terrain Tactics II",
     "unitTypes": [
       "步兵",
       "重步兵",
@@ -69,14 +69,14 @@
       "幽魂"
     ],
     "prerequisites": [
-      "P03"
+      "Rough-Terrain Tactics I"
     ],
     "uniques": [
       "[+10]% Strength <when fighting in [Rough terrain] tiles>"
     ]
   },
   {
-    "name": "P05",
+    "name": "Armored Protection",
     "unitTypes": [
       "步兵",
       "重步兵",
@@ -86,30 +86,30 @@
       "幽魂"
     ],
     "prerequisites": [
-      "P02",
-      "P04"
+      "Open-Field Tactics II",
+      "Rough-Terrain Tactics II"
     ],
     "uniques": [
       "[+15]% Strength <when defending> <vs [Ranged] units>"
     ]
   },
   {
-    "name": "P06",
+    "name": "Flexible Deployment",
     "unitTypes": [
       "轻骑",
       "重骑",
       "野兽"
     ],
     "prerequisites": [
-      "P02",
-      "P04"
+      "Open-Field Tactics II",
+      "Rough-Terrain Tactics II"
     ],
     "uniques": [
       "[+1] Movement"
     ]
   },
   {
-    "name": "P07",
+    "name": "Sighting I",
     "unitTypes": [
       "射手",
       "术士",
@@ -123,7 +123,7 @@
     ]
   },
   {
-    "name": "P08",
+    "name": "Sighting II",
     "unitTypes": [
       "射手",
       "术士",
@@ -132,14 +132,14 @@
       "死灵"
     ],
     "prerequisites": [
-      "P07"
+      "Sighting I"
     ],
     "uniques": [
       "[+10]% Strength <when attacking>"
     ]
   },
   {
-    "name": "P09",
+    "name": "Skirmisher Protection",
     "unitTypes": [
       "射手",
       "术士",
@@ -148,14 +148,14 @@
       "死灵"
     ],
     "prerequisites": [
-      "P07"
+      "Sighting I"
     ],
     "uniques": [
       "[+15]% Strength <when defending>"
     ]
   },
   {
-    "name": "P10",
+    "name": "Breaching I",
     "unitTypes": [
       "攻城"
     ],
@@ -165,31 +165,31 @@
     ]
   },
   {
-    "name": "P11",
+    "name": "Breaching II",
     "unitTypes": [
       "攻城"
     ],
     "prerequisites": [
-      "P10"
+      "Breaching I"
     ],
     "uniques": [
       "[+15]% Strength <vs cities>"
     ]
   },
   {
-    "name": "P12",
+    "name": "Protect the Engines",
     "unitTypes": [
       "攻城"
     ],
     "prerequisites": [
-      "P10"
+      "Breaching I"
     ],
     "uniques": [
       "[+15]% Strength <when defending>"
     ]
   },
   {
-    "name": "P13",
+    "name": "Crew Drills I",
     "unitTypes": [
       "海近战"
     ],
@@ -199,33 +199,33 @@
     ]
   },
   {
-    "name": "P14",
+    "name": "Crew Drills II",
     "unitTypes": [
       "海近战"
     ],
     "prerequisites": [
-      "P13"
+      "Crew Drills I"
     ],
     "uniques": [
       "[+10]% Strength"
     ]
   },
   {
-    "name": "P15",
+    "name": "Ocean Sail Handling",
     "unitTypes": [
       "海近战",
       "海远程"
     ],
     "prerequisites": [
-      "P14",
-      "P08"
+      "Crew Drills II",
+      "Sighting II"
     ],
     "uniques": [
       "[+1] Movement"
     ]
   },
   {
-    "name": "P16",
+    "name": "Breath of Life",
     "unitTypes": [
       "医护",
       "幽魂"
@@ -233,11 +233,11 @@
     "prerequisites": [],
     "uniques": [
       "[+5] HP when healing",
-      "Only available <after discovering [D01-T98]>"
+      "Only available <after discovering [Attunement of Life]>"
     ]
   },
   {
-    "name": "P17",
+    "name": "Mental Ward",
     "unitTypes": [
       "医护",
       "术士",
@@ -247,29 +247,29 @@
     "prerequisites": [],
     "uniques": [
       "[+10]% Strength <when defending>",
-      "Only available <after discovering [D01-T53]>"
+      "Only available <after discovering [Symbolic Arts]>"
     ]
   },
   {
-    "name": "P18",
+    "name": "Elemental Penetration",
     "unitTypes": [
       "术士"
     ],
     "prerequisites": [
-      "P08"
+      "Sighting II"
     ],
     "uniques": [
       "[+15]% Strength <vs [重步兵] units>",
       "[+15]% Strength <vs [重骑] units>",
       "[+15]% Strength <vs [构装] units>",
-      "[+15]% Strength <vs [UX06] units>",
-      "[+15]% Strength <vs [UX30] units>",
-      "[+15]% Strength <vs [M05] units>",
-      "Only available <after discovering [D01-T99]>"
+      "[+15]% Strength <vs [Ancient Grove Guardians] units>",
+      "[+15]% Strength <vs [Elder Tree Guards] units>",
+      "[+15]% Strength <vs [Feral Tree Guards] units>",
+      "Only available <after discovering [Elemental Guidance]>"
     ]
   },
   {
-    "name": "P20",
+    "name": "Far Sight Training",
     "unitTypes": [
       "侦察"
     ],
@@ -279,85 +279,85 @@
     ]
   },
   {
-    "name": "P21",
+    "name": "Pathfinder",
     "unitTypes": [
       "侦察"
     ],
     "prerequisites": [
-      "P20"
+      "Far Sight Training"
     ],
     "uniques": [
       "[+1] Movement",
-      "Only available <for units without [P70]>"
+      "Only available <for units without [Dragon Far Sight]>"
     ]
   },
   {
-    "name": "P22",
+    "name": "Field Repairs",
     "unitTypes": [
       "构装"
     ],
     "prerequisites": [
-      "P04",
-      "P02"
+      "Rough-Terrain Tactics II",
+      "Open-Field Tactics II"
     ],
     "uniques": [
       "[+5] HP when healing"
     ]
   },
   {
-    "name": "P23",
+    "name": "Unbinding",
     "unitTypes": [
       "医护"
     ],
     "prerequisites": [
-      "P02",
-      "P04"
+      "Open-Field Tactics II",
+      "Rough-Terrain Tactics II"
     ],
     "uniques": [
       "[+20]% Strength <vs [死灵] units>",
       "[+20]% Strength <vs [幽魂] units>",
       "[+20]% Strength <vs [英雄幽魂] units>",
-      "Only available <for units without [P68]>"
+      "Only available <for units without [Healing Relay]>"
     ]
   },
   {
-    "name": "P25",
+    "name": "Mind Mirror",
     "unitTypes": [
       "术士",
       "死灵"
     ],
     "prerequisites": [
-      "P09",
-      "P17"
+      "Skirmisher Protection",
+      "Mental Ward"
     ],
     "uniques": [
       "[+15]% Strength <when defending> <vs [Ranged] units>",
-      "Only available <after discovering [D01-T64]>"
+      "Only available <after discovering [Mirror Arts]>"
     ]
   },
   {
-    "name": "P26",
+    "name": "Returning Tide",
     "unitTypes": [
       "海近战",
       "海远程"
     ],
     "prerequisites": [
-      "P13",
-      "P07"
+      "Crew Drills I",
+      "Sighting I"
     ],
     "uniques": [
       "[+5] HP when healing"
     ]
   },
   {
-    "name": "P27",
+    "name": "Spirit Binding",
     "unitTypes": [
       "死灵",
       "幽魂"
     ],
     "prerequisites": [
-      "P08",
-      "P04"
+      "Sighting II",
+      "Rough-Terrain Tactics II"
     ],
     "uniques": [
       "[+15]% Strength <vs [元素] units>",
@@ -365,14 +365,14 @@
     ]
   },
   {
-    "name": "P29",
+    "name": "Mounted Raid",
     "unitTypes": [
       "骑射",
       "轻骑"
     ],
     "prerequisites": [
-      "P08",
-      "P02"
+      "Sighting II",
+      "Open-Field Tactics II"
     ],
     "uniques": [
       "[+15]% Strength <vs [射手] units>",
@@ -380,21 +380,21 @@
     ]
   },
   {
-    "name": "P30",
+    "name": "Starlight Watch",
     "unitTypes": [
       "医护",
       "死灵"
     ],
     "prerequisites": [
-      "P16",
-      "P17"
+      "Breath of Life",
+      "Mental Ward"
     ],
     "uniques": [
       "[+1] Sight"
     ]
   },
   {
-    "name": "P31",
+    "name": "Amphibious Transport",
     "unitTypes": [],
     "prerequisites": [],
     "uniques": [
@@ -403,7 +403,7 @@
     ]
   },
   {
-    "name": "P33",
+    "name": "Mirror-Eye Training",
     "unitTypes": [],
     "prerequisites": [],
     "uniques": [
@@ -413,7 +413,7 @@
     ]
   },
   {
-    "name": "P34",
+    "name": "Marching Prayer",
     "unitTypes": [],
     "prerequisites": [],
     "uniques": [
@@ -422,7 +422,7 @@
     ]
   },
   {
-    "name": "P36",
+    "name": "Ocean Supply",
     "unitTypes": [],
     "prerequisites": [],
     "uniques": [
@@ -431,7 +431,7 @@
     ]
   },
   {
-    "name": "P37",
+    "name": "Crystal Ward Covenant",
     "unitTypes": [],
     "prerequisites": [],
     "uniques": [
@@ -439,7 +439,7 @@
     ]
   },
   {
-    "name": "P38",
+    "name": "Springwood Covenant",
     "unitTypes": [],
     "prerequisites": [],
     "uniques": [
@@ -447,7 +447,7 @@
     ]
   },
   {
-    "name": "P39",
+    "name": "Tidal Navigation",
     "unitTypes": [],
     "prerequisites": [],
     "uniques": [
@@ -455,7 +455,7 @@
     ]
   },
   {
-    "name": "P40",
+    "name": "Witness of the Ancestors",
     "unitTypes": [],
     "prerequisites": [],
     "uniques": [
@@ -463,9 +463,9 @@
     ]
   },
   {
-    "name": "P41",
+    "name": "Command",
     "unitTypes": [
-      "Hero-01"
+      "Hero - Oathsworn Commander"
     ],
     "prerequisites": [],
     "uniques": [
@@ -473,62 +473,62 @@
     ]
   },
   {
-    "name": "P42",
+    "name": "Oath of the Bridge",
     "unitTypes": [
-      "Hero-01"
+      "Hero - Oathsworn Commander"
     ],
     "prerequisites": [
-      "P41"
+      "Command"
     ],
     "uniques": [
       "Unit will heal every turn, even if it performs an action <hidden from users>",
-      "Comment [FC Bridge healing H01]",
+      "Comment [FC Bridge healing Oathsworn Commander]",
       "[+25]% maintenance costs"
     ]
   },
   {
-    "name": "P43",
+    "name": "Insight",
     "unitTypes": [
-      "Hero-02"
+      "Hero - Star-Mirror Sage"
     ],
     "prerequisites": [],
     "uniques": [
       "[+1] Sight",
       "Can see invisible [幽魂] units",
       "Can see invisible [英雄幽魂] units",
-      "Only available <after discovering [D01-T64]>"
+      "Only available <after discovering [Mirror Arts]>"
     ]
   },
   {
-    "name": "P44",
+    "name": "Starlight Extension",
     "unitTypes": [
-      "Hero-02"
+      "Hero - Star-Mirror Sage"
     ],
     "prerequisites": [
-      "P43"
+      "Insight"
     ],
     "uniques": [
       "[+1] Range"
     ]
   },
   {
-    "name": "P45",
+    "name": "Dragonspine Oathstone - Monster Hunter",
     "unitTypes": [
-      "Hero-04"
+      "Hero - Ancient Oath Dragon"
     ],
     "prerequisites": [
-      "P60"
+      "Dragonspine Stone - Echoing"
     ],
     "uniques": [
       "[+20]% Strength <vs [构装] units>",
       "[+20]% Strength <vs [元素] units>",
-      "Only available <for units without [P63]>"
+      "Only available <for units without [Dragonspine Oathstone - Sky Patrol]>"
     ]
   },
   {
-    "name": "P46",
+    "name": "Dragon Breath",
     "unitTypes": [
-      "Hero-04"
+      "Hero - Ancient Oath Dragon"
     ],
     "prerequisites": [],
     "uniques": [
@@ -536,7 +536,7 @@
     ]
   },
   {
-    "name": "P47",
+    "name": "Seal Detection",
     "unitTypes": [],
     "prerequisites": [],
     "uniques": [
@@ -545,25 +545,25 @@
     ]
   },
   {
-    "name": "P48",
+    "name": "Memories of the Soul",
     "unitTypes": [
       "死灵",
       "幽魂"
     ],
     "prerequisites": [
-      "P17",
-      "P27"
+      "Mental Ward",
+      "Spirit Binding"
     ],
     "uniques": [
       "Earn [25]% of killed [Military] unit's [Strength] as [Culture]",
-      "Only available <after discovering [D01-T54]>",
-      "Only available <for units without [P69]>"
+      "Only available <after discovering [Repose and Memory]>",
+      "Only available <for units without [Returning Soul Covenant]>"
     ]
   },
   {
-    "name": "P51",
+    "name": "Military Oath Seal - Reforged",
     "unitTypes": [
-      "Hero-01"
+      "Hero - Oathsworn Commander"
     ],
     "prerequisites": [],
     "uniques": [
@@ -571,23 +571,23 @@
     ]
   },
   {
-    "name": "P52",
+    "name": "Military Oath Seal - Alliance",
     "unitTypes": [
-      "Hero-01"
+      "Hero - Oathsworn Commander"
     ],
     "prerequisites": [
-      "P51"
+      "Military Oath Seal - Reforged"
     ],
     "uniques": [
       "All adjacent units heal [5] HP when healing",
-      "Only available <after discovering [D01-T85]>",
-      "Only available <for units without [P65]>"
+      "Only available <after discovering [Mutual Defense]>",
+      "Only available <for units without [Military Oath Seal - Discipline]>"
     ]
   },
   {
-    "name": "P54",
+    "name": "Calendar Mirror - Restored",
     "unitTypes": [
-      "Hero-02"
+      "Hero - Star-Mirror Sage"
     ],
     "prerequisites": [],
     "uniques": [
@@ -595,23 +595,23 @@
     ]
   },
   {
-    "name": "P55",
+    "name": "Calendar Mirror - Afterimage",
     "unitTypes": [
-      "Hero-02"
+      "Hero - Star-Mirror Sage"
     ],
     "prerequisites": [
-      "P54"
+      "Calendar Mirror - Restored"
     ],
     "uniques": [
       "Can move after attacking",
-      "Only available <after discovering [D01-T103]>",
-      "Only available <for units without [P64]>"
+      "Only available <after discovering [Mental Resonance]>",
+      "Only available <for units without [Calendar Mirror - Steadfast]>"
     ]
   },
   {
-    "name": "P57",
+    "name": "Rootbranch Charm - Renewed",
     "unitTypes": [
-      "Hero-03"
+      "Hero - Guardian of the Wilds"
     ],
     "prerequisites": [],
     "uniques": [
@@ -619,23 +619,23 @@
     ]
   },
   {
-    "name": "P58",
+    "name": "Rootbranch Charm - Farwatch",
     "unitTypes": [
-      "Hero-03"
+      "Hero - Guardian of the Wilds"
     ],
     "prerequisites": [
-      "P57"
+      "Rootbranch Charm - Renewed"
     ],
     "uniques": [
       "[+1] Movement",
-      "Only available <after discovering [D01-T80]>",
-      "Only available <for units without [P66]>"
+      "Only available <after discovering [Ecological Accords]>",
+      "Only available <for units without [Rootbranch Charm - Grovekeeper]>"
     ]
   },
   {
-    "name": "P60",
+    "name": "Dragonspine Stone - Echoing",
     "unitTypes": [
-      "Hero-04"
+      "Hero - Ancient Oath Dragon"
     ],
     "prerequisites": [],
     "uniques": [
@@ -643,162 +643,162 @@
     ]
   },
   {
-    "name": "P61",
+    "name": "Dragonspine Stone - Far Oath",
     "unitTypes": [
-      "Hero-04"
+      "Hero - Ancient Oath Dragon"
     ],
     "prerequisites": [
-      "P60"
+      "Dragonspine Stone - Echoing"
     ],
     "uniques": [
       "Ignores Zone of Control",
-      "Only available <after discovering [D01-T94]>",
-      "Only available <for units without [P67]>"
+      "Only available <after discovering [Resonance of Heaven and Earth]>",
+      "Only available <for units without [Dragonspine Stone - Nestguard]>"
     ]
   },
   {
-    "name": "P62",
+    "name": "Unbroken Thought",
     "unitTypes": [
       "术士",
       "死灵"
     ],
     "prerequisites": [
-      "P25"
+      "Mind Mirror"
     ],
     "uniques": [
       "No damage penalty for wounded units",
       "[+25]% maintenance costs",
-      "Only available <after discovering [D01-T101]>"
+      "Only available <after discovering [Mental Coordination]>"
     ]
   },
   {
-    "name": "P63",
+    "name": "Dragonspine Oathstone - Sky Patrol",
     "unitTypes": [
-      "Hero-04"
+      "Hero - Ancient Oath Dragon"
     ],
     "prerequisites": [
-      "P60"
+      "Dragonspine Stone - Echoing"
     ],
     "uniques": [
       "Ignores terrain cost",
       "[+1] Sight",
-      "Only available <for units without [P45]>"
+      "Only available <for units without [Dragonspine Oathstone - Monster Hunter]>"
     ]
   },
   {
-    "name": "P64",
+    "name": "Calendar Mirror - Steadfast",
     "unitTypes": [
-      "Hero-02"
+      "Hero - Star-Mirror Sage"
     ],
     "prerequisites": [
-      "P54"
+      "Calendar Mirror - Restored"
     ],
     "uniques": [
       "No damage penalty for wounded units",
       "[+25]% maintenance costs",
-      "Only available <after discovering [D01-T103]>",
-      "Only available <for units without [P55]>"
+      "Only available <after discovering [Mental Resonance]>",
+      "Only available <for units without [Calendar Mirror - Afterimage]>"
     ]
   },
   {
-    "name": "P65",
+    "name": "Military Oath Seal - Discipline",
     "unitTypes": [
-      "Hero-01"
+      "Hero - Oathsworn Commander"
     ],
     "prerequisites": [
-      "P51"
+      "Military Oath Seal - Reforged"
     ],
     "uniques": [
       "[+15]% Strength bonus for [{Land} {Military}] units within [2] tiles",
-      "Only available <after discovering [D01-T85]>",
-      "Only available <for units without [P52]>"
+      "Only available <after discovering [Mutual Defense]>",
+      "Only available <for units without [Military Oath Seal - Alliance]>"
     ]
   },
   {
-    "name": "P66",
+    "name": "Rootbranch Charm - Grovekeeper",
     "unitTypes": [
-      "Hero-03"
+      "Hero - Guardian of the Wilds"
     ],
     "prerequisites": [
-      "P57"
+      "Rootbranch Charm - Renewed"
     ],
     "uniques": [
       "[+15]% Strength <when fighting in [Forest] tiles>",
-      "Only available <after discovering [D01-T80]>",
-      "Only available <for units without [P58]>"
+      "Only available <after discovering [Ecological Accords]>",
+      "Only available <for units without [Rootbranch Charm - Farwatch]>"
     ]
   },
   {
-    "name": "P67",
+    "name": "Dragonspine Stone - Nestguard",
     "unitTypes": [
-      "Hero-04"
+      "Hero - Ancient Oath Dragon"
     ],
     "prerequisites": [
-      "P60"
+      "Dragonspine Stone - Echoing"
     ],
     "uniques": [
       "Unit will heal every turn, even if it performs an action",
       "[+25]% maintenance costs",
-      "Only available <after discovering [D01-T94]>",
-      "Only available <for units without [P61]>"
+      "Only available <after discovering [Resonance of Heaven and Earth]>",
+      "Only available <for units without [Dragonspine Stone - Far Oath]>"
     ]
   },
   {
-    "name": "P68",
+    "name": "Healing Relay",
     "unitTypes": [
       "医护"
     ],
     "prerequisites": [
-      "P30"
+      "Starlight Watch"
     ],
     "uniques": [
       "All adjacent units heal [5] HP when healing",
       "[+25]% maintenance costs",
-      "Only available <for units without [P23]>"
+      "Only available <for units without [Unbinding]>"
     ]
   },
   {
-    "name": "P69",
+    "name": "Returning Soul Covenant",
     "unitTypes": [
       "幽魂"
     ],
     "prerequisites": [
-      "P04",
-      "P17"
+      "Rough-Terrain Tactics II",
+      "Mental Ward"
     ],
     "uniques": [
       "Can move after attacking",
       "Ignores Zone of Control",
       "[+25]% maintenance costs",
-      "Only available <after discovering [D01-T79]>",
-      "Only available <for units without [P48]>"
+      "Only available <after discovering [Soul Covenants]>",
+      "Only available <for units without [Memories of the Soul]>"
     ]
   },
   {
-    "name": "P70",
+    "name": "Dragon Far Sight",
     "unitTypes": [
       "侦察"
     ],
     "prerequisites": [
-      "P20"
+      "Far Sight Training"
     ],
     "uniques": [
       "[+1] Sight",
       "Can build [Repair] improvements on tiles",
-      "Only available <after discovering [D01-T57]>",
-      "Only available <for units without [P21]>"
+      "Only available <after discovering [Cartography]>",
+      "Only available <for units without [Pathfinder]>"
     ]
   },
   {
-    "name": "P71",
+    "name": "Visitor Covenant Seal",
     "unitTypes": [],
     "prerequisites": [],
     "uniques": []
   },
   {
-    "name": "P73",
+    "name": "Spring Ring - Restored",
     "unitTypes": [
-      "Hero-05"
+      "Hero - Springroad Physician"
     ],
     "prerequisites": [],
     "uniques": [
@@ -806,40 +806,40 @@
     ]
   },
   {
-    "name": "P74",
+    "name": "Spring Ring - Many Springs",
     "unitTypes": [
-      "Hero-05"
+      "Hero - Springroad Physician"
     ],
     "prerequisites": [
-      "P73"
+      "Spring Ring - Restored"
     ],
     "uniques": [
       "All adjacent units heal [5] HP when healing",
       "[+25]% maintenance costs",
-      "Only available <after discovering [D01-T31]>",
-      "Only available <for units without [P75]>"
+      "Only available <after discovering [Harmony of Life]>",
+      "Only available <for units without [Spring Ring - Urgent Care]>"
     ]
   },
   {
-    "name": "P75",
+    "name": "Spring Ring - Urgent Care",
     "unitTypes": [
-      "Hero-05"
+      "Hero - Springroad Physician"
     ],
     "prerequisites": [
-      "P73"
+      "Spring Ring - Restored"
     ],
     "uniques": [
       "[+1] Movement",
       "Unit will heal every turn, even if it performs an action",
       "[+25]% maintenance costs",
-      "Only available <after discovering [D01-T31]>",
-      "Only available <for units without [P74]>"
+      "Only available <after discovering [Harmony of Life]>",
+      "Only available <for units without [Spring Ring - Many Springs]>"
     ]
   },
   {
-    "name": "P77",
+    "name": "Name Tag - Restored",
     "unitTypes": [
-      "Hero-06"
+      "Hero - Monument Oathwalker"
     ],
     "prerequisites": [],
     "uniques": [
@@ -847,39 +847,39 @@
     ]
   },
   {
-    "name": "P78",
+    "name": "Name Tag - Archive",
     "unitTypes": [
-      "Hero-06"
+      "Hero - Monument Oathwalker"
     ],
     "prerequisites": [
-      "P77"
+      "Name Tag - Restored"
     ],
     "uniques": [
       "Earn [25]% of killed [Military] unit's [Strength] as [Culture]",
-      "Only available <after discovering [D01-T79]>",
-      "Only available <for units without [P79]>"
+      "Only available <after discovering [Soul Covenants]>",
+      "Only available <for units without [Name Tag - Unbound]>"
     ]
   },
   {
-    "name": "P79",
+    "name": "Name Tag - Unbound",
     "unitTypes": [
-      "Hero-06"
+      "Hero - Monument Oathwalker"
     ],
     "prerequisites": [
-      "P77"
+      "Name Tag - Restored"
     ],
     "uniques": [
       "Can move after attacking",
       "Ignores Zone of Control",
       "[+25]% maintenance costs",
-      "Only available <after discovering [D01-T79]>",
-      "Only available <for units without [P78]>"
+      "Only available <after discovering [Soul Covenants]>",
+      "Only available <for units without [Name Tag - Archive]>"
     ]
   },
   {
-    "name": "P81",
+    "name": "Molten Rule - Restored",
     "unitTypes": [
-      "Hero-07"
+      "Hero - Molten Seal Envoy"
     ],
     "prerequisites": [],
     "uniques": [
@@ -887,37 +887,37 @@
     ]
   },
   {
-    "name": "P82",
+    "name": "Molten Rule - Breaker",
     "unitTypes": [
-      "Hero-07"
+      "Hero - Molten Seal Envoy"
     ],
     "prerequisites": [
-      "P81"
+      "Molten Rule - Restored"
     ],
     "uniques": [
       "[+20]% Strength <vs [构装] units>",
-      "Only available <after discovering [D01-T91]>",
-      "Only available <for units without [P83]>"
+      "Only available <after discovering [Elemental Boundaries]>",
+      "Only available <for units without [Molten Rule - Solid Phase]>"
     ]
   },
   {
-    "name": "P83",
+    "name": "Molten Rule - Solid Phase",
     "unitTypes": [
-      "Hero-07"
+      "Hero - Molten Seal Envoy"
     ],
     "prerequisites": [
-      "P81"
+      "Molten Rule - Restored"
     ],
     "uniques": [
       "[+20]% Strength <when defending> <vs [Ranged] units>",
-      "Only available <after discovering [D01-T91]>",
-      "Only available <for units without [P82]>"
+      "Only available <after discovering [Elemental Boundaries]>",
+      "Only available <for units without [Molten Rule - Breaker]>"
     ]
   },
   {
-    "name": "P85",
+    "name": "Still Mirror Needle - Restored",
     "unitTypes": [
-      "Hero-08"
+      "Hero - Silent Mirror Keeper"
     ],
     "prerequisites": [],
     "uniques": [
@@ -925,38 +925,38 @@
     ]
   },
   {
-    "name": "P86",
+    "name": "Still Mirror Needle - Displacement",
     "unitTypes": [
-      "Hero-08"
+      "Hero - Silent Mirror Keeper"
     ],
     "prerequisites": [
-      "P85"
+      "Still Mirror Needle - Restored"
     ],
     "uniques": [
       "[+1] Movement",
       "Ignores terrain cost",
-      "Only available <after discovering [D01-T102]>",
-      "Only available <for units without [P87]>"
+      "Only available <after discovering [Collaborative Research]>",
+      "Only available <for units without [Still Mirror Needle - Resolve]>"
     ]
   },
   {
-    "name": "P87",
+    "name": "Still Mirror Needle - Resolve",
     "unitTypes": [
-      "Hero-08"
+      "Hero - Silent Mirror Keeper"
     ],
     "prerequisites": [
-      "P85"
+      "Still Mirror Needle - Restored"
     ],
     "uniques": [
       "[+25]% Strength <when defending> <vs [Ranged] units>",
-      "Only available <after discovering [D01-T102]>",
-      "Only available <for units without [P86]>"
+      "Only available <after discovering [Collaborative Research]>",
+      "Only available <for units without [Still Mirror Needle - Displacement]>"
     ]
   },
   {
-    "name": "P89",
+    "name": "Tideway Needle - Restored",
     "unitTypes": [
-      "Hero-09"
+      "Hero - Sea Road Navigator"
     ],
     "prerequisites": [],
     "uniques": [
@@ -964,38 +964,38 @@
     ]
   },
   {
-    "name": "P90",
+    "name": "Tideway Needle - Escort",
     "unitTypes": [
-      "Hero-09"
+      "Hero - Sea Road Navigator"
     ],
     "prerequisites": [
-      "P89"
+      "Tideway Needle - Restored"
     ],
     "uniques": [
       "[+10]% Strength bonus for [{Water} {Military}] units within [2] tiles",
-      "Only available <after discovering [D01-T32]>",
-      "Only available <for units without [P91]>"
+      "Only available <after discovering [Deep-Sea Shipbuilding]>",
+      "Only available <for units without [Tideway Needle - Racing Tide]>"
     ]
   },
   {
-    "name": "P91",
+    "name": "Tideway Needle - Racing Tide",
     "unitTypes": [
-      "Hero-09"
+      "Hero - Sea Road Navigator"
     ],
     "prerequisites": [
-      "P89"
+      "Tideway Needle - Restored"
     ],
     "uniques": [
       "[+1] Movement",
       "Can move after attacking",
-      "Only available <after discovering [D01-T32]>",
-      "Only available <for units without [P90]>"
+      "Only available <after discovering [Deep-Sea Shipbuilding]>",
+      "Only available <for units without [Tideway Needle - Escort]>"
     ]
   },
   {
-    "name": "P93",
+    "name": "Lantern Seal - Restored",
     "unitTypes": [
-      "Hero-10"
+      "Hero - Lantern Oathguard"
     ],
     "prerequisites": [],
     "uniques": [
@@ -1003,39 +1003,39 @@
     ]
   },
   {
-    "name": "P94",
+    "name": "Lantern Seal - Reveal Specters",
     "unitTypes": [
-      "Hero-10"
+      "Hero - Lantern Oathguard"
     ],
     "prerequisites": [
-      "P93"
+      "Lantern Seal - Restored"
     ],
     "uniques": [
       "[+1] Sight",
       "Can see invisible [幽魂] units",
       "Can see invisible [英雄幽魂] units",
-      "Only available <after discovering [D01-T79]>",
-      "Only available <for units without [P95]>"
+      "Only available <after discovering [Soul Covenants]>",
+      "Only available <for units without [Lantern Seal - Aid All]>"
     ]
   },
   {
-    "name": "P95",
+    "name": "Lantern Seal - Aid All",
     "unitTypes": [
-      "Hero-10"
+      "Hero - Lantern Oathguard"
     ],
     "prerequisites": [
-      "P93"
+      "Lantern Seal - Restored"
     ],
     "uniques": [
       "All adjacent units heal [5] HP when healing",
-      "Only available <after discovering [D01-T31]>",
-      "Only available <for units without [P94]>"
+      "Only available <after discovering [Harmony of Life]>",
+      "Only available <for units without [Lantern Seal - Reveal Specters]>"
     ]
   },
   {
-    "name": "P97",
+    "name": "Hundredforge Ruler - Restored",
     "unitTypes": [
-      "Hero-11"
+      "Hero - Hundredforge Artificer"
     ],
     "prerequisites": [],
     "uniques": [
@@ -1043,37 +1043,37 @@
     ]
   },
   {
-    "name": "P98",
+    "name": "Hundredforge Ruler - Field Repair",
     "unitTypes": [
-      "Hero-11"
+      "Hero - Hundredforge Artificer"
     ],
     "prerequisites": [
-      "P97"
+      "Hundredforge Ruler - Restored"
     ],
     "uniques": [
       "All adjacent units heal [5] HP when healing",
-      "Only available <after discovering [D01-T36]>",
-      "Only available <for units without [P99]>"
+      "Only available <after discovering [Grand Crafts]>",
+      "Only available <for units without [Hundredforge Ruler - Resonance]>"
     ]
   },
   {
-    "name": "P99",
+    "name": "Hundredforge Ruler - Resonance",
     "unitTypes": [
-      "Hero-11"
+      "Hero - Hundredforge Artificer"
     ],
     "prerequisites": [
-      "P97"
+      "Hundredforge Ruler - Restored"
     ],
     "uniques": [
       "[+15]% Strength <when adjacent to a [构装] unit>",
-      "Only available <after discovering [D01-T36]>",
-      "Only available <for units without [P98]>"
+      "Only available <after discovering [Grand Crafts]>",
+      "Only available <for units without [Hundredforge Ruler - Field Repair]>"
     ]
   },
   {
-    "name": "P101",
+    "name": "Twin Scales Badge - Restored",
     "unitTypes": [
-      "Hero-12"
+      "Hero - Caravan Arbiter"
     ],
     "prerequisites": [],
     "uniques": [
@@ -1081,37 +1081,37 @@
     ]
   },
   {
-    "name": "P102",
+    "name": "Twin Scales Badge - Reimbursement",
     "unitTypes": [
-      "Hero-12"
+      "Hero - Caravan Arbiter"
     ],
     "prerequisites": [
-      "P101"
+      "Twin Scales Badge - Restored"
     ],
     "uniques": [
       "Earn [50]% of killed [Military] unit's [Strength] as [Gold]",
-      "Only available <after discovering [D01-T92]>",
-      "Only available <for units without [P103]>"
+      "Only available <after discovering [Charter of Shared Rule]>",
+      "Only available <for units without [Twin Scales Badge - Roadguard]>"
     ]
   },
   {
-    "name": "P103",
+    "name": "Twin Scales Badge - Roadguard",
     "unitTypes": [
-      "Hero-12"
+      "Hero - Caravan Arbiter"
     ],
     "prerequisites": [
-      "P101"
+      "Twin Scales Badge - Restored"
     ],
     "uniques": [
       "[+1] Movement",
       "Unit will heal every turn, even if it performs an action",
       "[+25]% maintenance costs",
-      "Only available <after discovering [D01-T92]>",
-      "Only available <for units without [P102]>"
+      "Only available <after discovering [Charter of Shared Rule]>",
+      "Only available <for units without [Twin Scales Badge - Reimbursement]>"
     ]
   },
   {
-    "name": "P104",
+    "name": "Crystal Ward",
     "unitTypes": [],
     "prerequisites": [],
     "uniques": [
@@ -1119,7 +1119,7 @@
     ]
   },
   {
-    "name": "P109",
+    "name": "Medical resolution marker",
     "unitTypes": [],
     "prerequisites": [],
     "uniques": [
@@ -1128,29 +1128,29 @@
     ]
   },
   {
-    "name": "P110",
+    "name": "Guardian Command",
     "unitTypes": [
-      "Hero-03"
+      "Hero - Guardian of the Wilds"
     ],
     "prerequisites": [],
     "uniques": [
       "[+15]% Strength bonus for [{Land} {Military}] units within [1] tiles",
-      "Only available <for units without [P41]> <hidden from users>"
+      "Only available <for units without [Command]> <hidden from users>"
     ]
   },
   {
-    "name": "P111",
+    "name": "Guardian Oath of the Bridge",
     "unitTypes": [
-      "Hero-03"
+      "Hero - Guardian of the Wilds"
     ],
     "prerequisites": [
-      "P110"
+      "Guardian Command"
     ],
     "uniques": [
       "Unit will heal every turn, even if it performs an action <hidden from users>",
-      "Comment [FC Bridge healing H03]",
+      "Comment [FC Bridge healing Guardian of the Wilds]",
       "[+25]% maintenance costs",
-      "Only available <for units without [P42]> <hidden from users>"
+      "Only available <for units without [Oath of the Bridge]> <hidden from users>"
     ]
   }
 ]

@@ -2,7 +2,7 @@
 
 ### 在魔法与钢铁交织的世界，建立你的文明！
 
-[English](README.md) · **版本 1.0**
+[English](README.md) · **版本 1.1**
 
 **FantasyUnciv** 是 Unciv 的完整奇幻规则模组。建设城市、研究科技、探索遗迹，与城邦结盟，招募英雄，争夺世界的未来。
 
@@ -43,5 +43,14 @@
 
 欢迎大家贡献游玩反馈、平衡建议、翻译、代码，以及新的文明和故事。你可以通过 Issue 分享发现，也可以通过 Pull Request 参与开发。
 
-**原创贴图还待开发。** 当前图标与像素材质取自 Unciv 及其 FantasyHex 素材。欢迎美术作者参与文明徽记、单位、地形、建筑与英雄形象的创作！
+欢迎美术作者参与文明徽记、单位、地形、建筑与英雄形象的创作！
 
+## 美术来源
+
+以下图像来自其他作者：
+
+- 常规兵种的单位图：[AbsoluteUnits](https://github.com/letstalkaboutdune/AbsoluteUnits)（letstalkaboutdune，CC BY 4.0）。
+- 地形图块：[HexaRealm](https://github.com/yairm210/Unciv)（The Bucketeer / @GeneralWadaling，CC BY-SA 3.0）。葡萄、奶牛、岩盐与商驿直接使用其原图，自然奇观与岛礁以其地形为底，这些衍生图像同样以 CC BY-SA 3.0 发布。
+- 部分单位、资源与改良图标：Unciv 原版图标，作者与协议见 [Unciv Credits](https://github.com/yairm210/Unciv/blob/c7e797b8499828bf0fa800668e11901417efc183/docs/Credits.md)。
+
+其余图像均由 AI 生成并经程序处理。

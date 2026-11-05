@@ -1,29 +1,29 @@
 [
   {
-    "name": "E16",
-    "text": "E16",
+    "name": "Watchers Beneath the Oathstone",
+    "text": "Watchers Beneath the Oathstone",
     "presentation": "Alert",
     "civilopediaText": [
       {
-        "text": "E16 Paragraph 1"
+        "text": "Watchers Beneath the Oathstone Paragraph 1"
       },
       {
-        "text": "E16 Paragraph 2"
+        "text": "Watchers Beneath the Oathstone Paragraph 2"
       },
       {
-        "text": "E16 Paragraph 3"
+        "text": "Watchers Beneath the Oathstone Paragraph 3"
       },
       {
-        "text": "E16 Paragraph 4"
+        "text": "Watchers Beneath the Oathstone Paragraph 4"
       }
     ],
     "choices": [
       {
-        "name": "E16-A-Any",
-        "text": "E16-A",
+        "name": "Watchers Beneath the Oathstone - Fund the watcher",
+        "text": "Watchers Beneath the Oathstone-A",
         "civilopediaText": [
           {
-            "text": "E16-A Requirements"
+            "text": "Watchers Beneath the Oathstone-A Requirements"
           }
         ],
         "uniques": [
@@ -33,22 +33,22 @@
         ]
       },
       {
-        "name": "E16-B-Any",
-        "text": "E16-B",
+        "name": "Watchers Beneath the Oathstone - Listen to the echoes",
+        "text": "Watchers Beneath the Oathstone-B",
         "civilopediaText": [
           {
-            "text": "E16-B Requirements"
+            "text": "Watchers Beneath the Oathstone-B Requirements"
           }
         ],
         "uniques": [
-          "Only available <when above [20] HP> <for [{non-[U77]} {non-[H08]}] units> <for units without [P33]> <for units without [P43]> <for units without [P47]> <hidden from users>",
+          "Only available <when above [20] HP> <for [{non-[Mirror Detection Team]} {non-[Silent Mirror Keeper]}] units> <for units without [Mirror-Eye Training]> <for units without [Insight]> <for units without [Seal Detection]> <hidden from users>",
           "[This Unit] takes [20] damage",
-          "[This Unit] gains the [P47] promotion"
+          "[This Unit] gains the [Seal Detection] promotion"
         ]
       },
       {
-        "name": "E16-C-Any",
-        "text": "E16-C",
+        "name": "Watchers Beneath the Oathstone - Take a copy of the names",
+        "text": "Watchers Beneath the Oathstone-C",
         "civilopediaText": [],
         "uniques": [
           "Gain [90] [Culture]"
@@ -57,49 +57,49 @@
     ]
   },
   {
-    "name": "E17",
-    "text": "E17",
+    "name": "The Blind Star Mirror",
+    "text": "The Blind Star Mirror",
     "presentation": "Alert",
     "civilopediaText": [
       {
-        "text": "E17 Paragraph 1"
+        "text": "The Blind Star Mirror Paragraph 1"
       },
       {
-        "text": "E17 Paragraph 2"
+        "text": "The Blind Star Mirror Paragraph 2"
       },
       {
-        "text": "E17 Paragraph 3"
+        "text": "The Blind Star Mirror Paragraph 3"
       },
       {
-        "text": "E17 Paragraph 4"
+        "text": "The Blind Star Mirror Paragraph 4"
       }
     ],
     "choices": [
       {
-        "name": "E17-A-Any",
-        "text": "E17-A",
+        "name": "The Blind Star Mirror - Let a caster try it",
+        "text": "The Blind Star Mirror-A",
         "civilopediaText": [
           {
-            "text": "E17-A Requirements"
+            "text": "The Blind Star Mirror-A Requirements"
           }
         ],
         "uniques": [
-          "Only available <when above [25] HP> <for [non-[{non-[术士]} {non-[英雄施法]}]] units> <for units without [P33]> <hidden from users>",
+          "Only available <when above [25] HP> <for [non-[{non-[术士]} {non-[英雄施法]}]] units> <for units without [Mirror-Eye Training]> <hidden from users>",
           "[This Unit] takes [25] damage",
-          "[This Unit] gains the [P33] promotion"
+          "[This Unit] gains the [Mirror-Eye Training] promotion"
         ]
       },
       {
-        "name": "E17-B-Any",
-        "text": "E17-B",
+        "name": "The Blind Star Mirror - Study the notes",
+        "text": "The Blind Star Mirror-B",
         "civilopediaText": [],
         "uniques": [
           "Gain [180] [Science]"
         ]
       },
       {
-        "name": "E17-C-Any",
-        "text": "E17-C",
+        "name": "The Blind Star Mirror - Sell the fragments",
+        "text": "The Blind Star Mirror-C",
         "civilopediaText": [],
         "uniques": [
           "Gain [100] [Gold]"
@@ -108,30 +108,30 @@
     ]
   },
   {
-    "name": "E18",
-    "text": "E18",
+    "name": "The Old Root Covenant",
+    "text": "The Old Root Covenant",
     "presentation": "Alert",
     "civilopediaText": [
       {
-        "text": "E18 Paragraph 1"
+        "text": "The Old Root Covenant Paragraph 1"
       },
       {
-        "text": "E18 Paragraph 2"
+        "text": "The Old Root Covenant Paragraph 2"
       },
       {
-        "text": "E18 Paragraph 3"
+        "text": "The Old Root Covenant Paragraph 3"
       },
       {
-        "text": "E18 Paragraph 4"
+        "text": "The Old Root Covenant Paragraph 4"
       }
     ],
     "choices": [
       {
-        "name": "E18-A-Any",
-        "text": "E18-A",
+        "name": "The Old Root Covenant - Examine the roots",
+        "text": "The Old Root Covenant-A",
         "civilopediaText": [
           {
-            "text": "E18-A Requirements"
+            "text": "The Old Root Covenant-A Requirements"
           }
         ],
         "uniques": [
@@ -141,22 +141,22 @@
         ]
       },
       {
-        "name": "E18-B-Any",
-        "text": "E18-B",
+        "name": "The Old Root Covenant - Care for the roots",
+        "text": "The Old Root Covenant-B",
         "civilopediaText": [
           {
-            "text": "E18-B Requirements"
+            "text": "The Old Root Covenant-B Requirements"
           }
         ],
         "uniques": [
-          "Only available <when above [20] HP> <for units with [P16]> <for units without [P38]> <hidden from users>",
+          "Only available <when above [20] HP> <for units with [Breath of Life]> <for units without [Springwood Covenant]> <hidden from users>",
           "[This Unit] takes [20] damage",
-          "[This Unit] gains the [P38] promotion"
+          "[This Unit] gains the [Springwood Covenant] promotion"
         ]
       },
       {
-        "name": "E18-C-Any",
-        "text": "E18-C",
+        "name": "The Old Root Covenant - Copy the inscriptions",
+        "text": "The Old Root Covenant-C",
         "civilopediaText": [],
         "uniques": [
           "Gain [90] [Culture]"
@@ -165,41 +165,41 @@
     ]
   },
   {
-    "name": "E19",
-    "text": "E19",
+    "name": "The Sunken Bell Chart",
+    "text": "The Sunken Bell Chart",
     "presentation": "Alert",
     "civilopediaText": [
       {
-        "text": "E19 Paragraph 1"
+        "text": "The Sunken Bell Chart Paragraph 1"
       },
       {
-        "text": "E19 Paragraph 2"
+        "text": "The Sunken Bell Chart Paragraph 2"
       },
       {
-        "text": "E19 Paragraph 3"
+        "text": "The Sunken Bell Chart Paragraph 3"
       },
       {
-        "text": "E19 Paragraph 4"
+        "text": "The Sunken Bell Chart Paragraph 4"
       }
     ],
     "choices": [
       {
-        "name": "E19-A-Any",
-        "text": "E19-A",
+        "name": "The Sunken Bell Chart - Test the crossing",
+        "text": "The Sunken Bell Chart-A",
         "civilopediaText": [
           {
-            "text": "E19-A Requirements"
+            "text": "The Sunken Bell Chart-A Requirements"
           }
         ],
         "uniques": [
-          "Only available <when above [20] HP> <for units without [P31]> <hidden from users>",
+          "Only available <when above [20] HP> <for units without [Amphibious Transport]> <hidden from users>",
           "[This Unit] takes [20] damage",
-          "[This Unit] gains the [P31] promotion"
+          "[This Unit] gains the [Amphibious Transport] promotion"
         ]
       },
       {
-        "name": "E19-B-Any",
-        "text": "E19-B",
+        "name": "The Sunken Bell Chart - Copy the chart",
+        "text": "The Sunken Bell Chart-B",
         "civilopediaText": [],
         "uniques": [
           "Reveal up to [All] [Water] within a [10] tile radius",
@@ -207,8 +207,8 @@
         ]
       },
       {
-        "name": "E19-C-Any",
-        "text": "E19-C",
+        "name": "The Sunken Bell Chart - Sell the equipment",
+        "text": "The Sunken Bell Chart-C",
         "civilopediaText": [],
         "uniques": [
           "Gain [100] [Gold]"
@@ -217,27 +217,27 @@
     ]
   },
   {
-    "name": "E20",
-    "text": "E20",
+    "name": "The Lost Courier Register",
+    "text": "The Lost Courier Register",
     "presentation": "Alert",
     "civilopediaText": [
       {
-        "text": "E20 Paragraph 1"
+        "text": "The Lost Courier Register Paragraph 1"
       },
       {
-        "text": "E20 Paragraph 2"
+        "text": "The Lost Courier Register Paragraph 2"
       },
       {
-        "text": "E20 Paragraph 3"
+        "text": "The Lost Courier Register Paragraph 3"
       },
       {
-        "text": "E20 Paragraph 4"
+        "text": "The Lost Courier Register Paragraph 4"
       }
     ],
     "choices": [
       {
-        "name": "E20-A-Any",
-        "text": "E20-A",
+        "name": "The Lost Courier Register - Find the marked ruins",
+        "text": "The Lost Courier Register-A",
         "civilopediaText": [],
         "uniques": [
           "Reveal up to [All] [Ancient ruins] within a [12] tile radius",
@@ -245,11 +245,11 @@
         ]
       },
       {
-        "name": "E20-B-Any",
-        "text": "E20-B",
+        "name": "The Lost Courier Register - Resupply along the markers",
+        "text": "The Lost Courier Register-B",
         "civilopediaText": [
           {
-            "text": "E20-B Requirements"
+            "text": "The Lost Courier Register-B Requirements"
           }
         ],
         "uniques": [
@@ -259,8 +259,8 @@
         ]
       },
       {
-        "name": "E20-C-Any",
-        "text": "E20-C",
+        "name": "The Lost Courier Register - Preserve the register",
+        "text": "The Lost Courier Register-C",
         "civilopediaText": [],
         "uniques": [
           "Gain [100] [Culture]"
@@ -269,46 +269,46 @@
     ]
   },
   {
-    "name": "E24",
-    "text": "E24",
+    "name": "The Sealed Relic Casket",
+    "text": "The Sealed Relic Casket",
     "presentation": "Alert",
     "civilopediaText": [
       {
-        "text": "E24 Paragraph 1"
+        "text": "The Sealed Relic Casket Paragraph 1"
       },
       {
-        "text": "E24 Paragraph 2"
+        "text": "The Sealed Relic Casket Paragraph 2"
       },
       {
-        "text": "E24 Paragraph 3"
+        "text": "The Sealed Relic Casket Paragraph 3"
       },
       {
-        "text": "E24 Paragraph 4"
+        "text": "The Sealed Relic Casket Paragraph 4"
       }
     ],
     "choices": [
       {
-        "name": "E24-A-Any",
-        "text": "E24-A",
+        "name": "The Sealed Relic Casket - Study the equipment",
+        "text": "The Sealed Relic Casket-A",
         "civilopediaText": [],
         "uniques": [
           "[This Unit] gains [20] XP"
         ]
       },
       {
-        "name": "E24-B-Any",
-        "text": "E24-B",
+        "name": "The Sealed Relic Casket - Copy the records",
+        "text": "The Sealed Relic Casket-B",
         "civilopediaText": [],
         "uniques": [
           "Gain [200] [Culture]"
         ]
       },
       {
-        "name": "E24-C-Any",
-        "text": "E24-C",
+        "name": "The Sealed Relic Casket - Use the medicine",
+        "text": "The Sealed Relic Casket-C",
         "civilopediaText": [
           {
-            "text": "E24-C Requirements"
+            "text": "The Sealed Relic Casket-C Requirements"
           }
         ],
         "uniques": [
@@ -319,46 +319,46 @@
     ]
   },
   {
-    "name": "E25",
-    "text": "E25",
+    "name": "The Last Load on Springroad",
+    "text": "The Last Load on Springroad",
     "presentation": "Alert",
     "civilopediaText": [
       {
-        "text": "E25 Paragraph 1"
+        "text": "The Last Load on Springroad Paragraph 1"
       },
       {
-        "text": "E25 Paragraph 2"
+        "text": "The Last Load on Springroad Paragraph 2"
       },
       {
-        "text": "E25 Paragraph 3"
+        "text": "The Last Load on Springroad Paragraph 3"
       },
       {
-        "text": "E25 Paragraph 4"
+        "text": "The Last Load on Springroad Paragraph 4"
       }
     ],
     "choices": [
       {
-        "name": "E25-A-Any",
-        "text": "E25-A",
+        "name": "The Last Load on Springroad - Invite the physician",
+        "text": "The Last Load on Springroad-A",
         "civilopediaText": [
           {
-            "text": "E25-A Requirements"
+            "text": "The Last Load on Springroad-A Requirements"
           }
         ],
         "uniques": [
-          "Only available <when number of [Cities] is more than [0]> <when above [20] HP> <when number of [[P71] Units] is less than [2]> <when number of [[H05] Units] is equal to [0]> <when above [159] [Gold]> <hidden from users>",
+          "Only available <when number of [Cities] is more than [0]> <when above [20] HP> <when number of [[Visitor Covenant Seal] Units] is less than [2]> <when number of [[Springroad Physician] Units] is equal to [0]> <when above [159] [Gold]> <hidden from users>",
           "Gain [-160] [Gold] <hidden from users>",
           "[This Unit] takes [20] damage",
-          "Free [H05] appears <when number of [[H05] Units] is equal to [0]> <when number of [[P71] Units] is less than [2]>",
+          "Free [Springroad Physician] appears <when number of [[Springroad Physician] Units] is equal to [0]> <when number of [[Visitor Covenant Seal] Units] is less than [2]>",
           "[+25]% weight to this choice for AI decisions"
         ]
       },
       {
-        "name": "E25-B-Any",
-        "text": "E25-B",
+        "name": "The Last Load on Springroad - Use the medicine",
+        "text": "The Last Load on Springroad-B",
         "civilopediaText": [
           {
-            "text": "E25-B Requirements"
+            "text": "The Last Load on Springroad-B Requirements"
           }
         ],
         "uniques": [
@@ -367,8 +367,8 @@
         ]
       },
       {
-        "name": "E25-C-Any",
-        "text": "E25-C",
+        "name": "The Last Load on Springroad - Record the shelters",
+        "text": "The Last Load on Springroad-C",
         "civilopediaText": [],
         "uniques": [
           "Gain [80] [Culture]"
@@ -377,42 +377,42 @@
     ]
   },
   {
-    "name": "E26",
-    "text": "E26",
+    "name": "A Voluntary Soul Covenant",
+    "text": "A Voluntary Soul Covenant",
     "presentation": "Alert",
     "civilopediaText": [
       {
-        "text": "E26 Paragraph 1"
+        "text": "A Voluntary Soul Covenant Paragraph 1"
       },
       {
-        "text": "E26 Paragraph 2"
+        "text": "A Voluntary Soul Covenant Paragraph 2"
       },
       {
-        "text": "E26 Paragraph 3"
+        "text": "A Voluntary Soul Covenant Paragraph 3"
       },
       {
-        "text": "E26 Paragraph 4"
+        "text": "A Voluntary Soul Covenant Paragraph 4"
       }
     ],
     "choices": [
       {
-        "name": "E26-A-Any",
-        "text": "E26-A",
+        "name": "A Voluntary Soul Covenant - Invite the Oathstone Walker",
+        "text": "A Voluntary Soul Covenant-A",
         "civilopediaText": [
           {
-            "text": "E26-A Requirements"
+            "text": "A Voluntary Soul Covenant-A Requirements"
           }
         ],
         "uniques": [
-          "Only available <when number of [Cities] is more than [0]> <when number of [[P71] Units] is less than [2]> <when number of [[H06] Units] is equal to [0]> <when above [239] [Gold]> <hidden from users>",
+          "Only available <when number of [Cities] is more than [0]> <when number of [[Visitor Covenant Seal] Units] is less than [2]> <when number of [[Monument Oathwalker] Units] is equal to [0]> <when above [239] [Gold]> <hidden from users>",
           "Gain [-240] [Gold] <hidden from users>",
-          "Free [H06] appears <when number of [[H06] Units] is equal to [0]> <when number of [[P71] Units] is less than [2]>",
+          "Free [Monument Oathwalker] appears <when number of [[Monument Oathwalker] Units] is equal to [0]> <when number of [[Visitor Covenant Seal] Units] is less than [2]>",
           "[+25]% weight to this choice for AI decisions"
         ]
       },
       {
-        "name": "E26-B-Any",
-        "text": "E26-B",
+        "name": "A Voluntary Soul Covenant - Preserve the names",
+        "text": "A Voluntary Soul Covenant-B",
         "civilopediaText": [],
         "uniques": [
           "Gain [140] [Culture]"
@@ -421,42 +421,42 @@
     ]
   },
   {
-    "name": "E27",
-    "text": "E27",
+    "name": "The Molten Seal Envoy",
+    "text": "The Molten Seal Envoy",
     "presentation": "Alert",
     "civilopediaText": [
       {
-        "text": "E27 Paragraph 1"
+        "text": "The Molten Seal Envoy Paragraph 1"
       },
       {
-        "text": "E27 Paragraph 2"
+        "text": "The Molten Seal Envoy Paragraph 2"
       },
       {
-        "text": "E27 Paragraph 3"
+        "text": "The Molten Seal Envoy Paragraph 3"
       },
       {
-        "text": "E27 Paragraph 4"
+        "text": "The Molten Seal Envoy Paragraph 4"
       }
     ],
     "choices": [
       {
-        "name": "E27-A-Any",
-        "text": "E27-A",
+        "name": "The Molten Seal Envoy - Invite the Molten Sigil Envoy",
+        "text": "The Molten Seal Envoy-A",
         "civilopediaText": [
           {
-            "text": "E27-A Requirements"
+            "text": "The Molten Seal Envoy-A Requirements"
           }
         ],
         "uniques": [
-          "Only available <when number of [Cities] is more than [0]> <when number of [[P71] Units] is less than [2]> <when number of [[H07] Units] is equal to [0]> <with [R03]> <when above [319] [Gold]> <hidden from users>",
+          "Only available <when number of [Cities] is more than [0]> <when number of [[Visitor Covenant Seal] Units] is less than [2]> <when number of [[Molten Seal Envoy] Units] is equal to [0]> <with [Mana Crystals]> <when above [319] [Gold]> <hidden from users>",
           "Gain [-320] [Gold] <hidden from users>",
-          "Free [H07] appears <when number of [[H07] Units] is equal to [0]> <when number of [[P71] Units] is less than [2]>",
+          "Free [Molten Seal Envoy] appears <when number of [[Molten Seal Envoy] Units] is equal to [0]> <when number of [[Visitor Covenant Seal] Units] is less than [2]>",
           "[+25]% weight to this choice for AI decisions"
         ]
       },
       {
-        "name": "E27-B-Any",
-        "text": "E27-B",
+        "name": "The Molten Seal Envoy - Copy the forge notes",
+        "text": "The Molten Seal Envoy-B",
         "civilopediaText": [],
         "uniques": [
           "Gain [220] [Science]"
@@ -465,43 +465,43 @@
     ]
   },
   {
-    "name": "E28",
-    "text": "E28",
+    "name": "The Silent Mirror Watch",
+    "text": "The Silent Mirror Watch",
     "presentation": "Alert",
     "civilopediaText": [
       {
-        "text": "E28 Paragraph 1"
+        "text": "The Silent Mirror Watch Paragraph 1"
       },
       {
-        "text": "E28 Paragraph 2"
+        "text": "The Silent Mirror Watch Paragraph 2"
       },
       {
-        "text": "E28 Paragraph 3"
+        "text": "The Silent Mirror Watch Paragraph 3"
       },
       {
-        "text": "E28 Paragraph 4"
+        "text": "The Silent Mirror Watch Paragraph 4"
       }
     ],
     "choices": [
       {
-        "name": "E28-A-Any",
-        "text": "E28-A",
+        "name": "The Silent Mirror Watch - Repair the frame and invite its keeper",
+        "text": "The Silent Mirror Watch-A",
         "civilopediaText": [
           {
-            "text": "E28-A Requirements"
+            "text": "The Silent Mirror Watch-A Requirements"
           }
         ],
         "uniques": [
-          "Only available <when number of [Cities] is more than [0]> <when above [25] HP> <when number of [[P71] Units] is less than [2]> <when number of [[H08] Units] is equal to [0]> <when above [159] [Gold]> <hidden from users>",
+          "Only available <when number of [Cities] is more than [0]> <when above [25] HP> <when number of [[Visitor Covenant Seal] Units] is less than [2]> <when number of [[Silent Mirror Keeper] Units] is equal to [0]> <when above [159] [Gold]> <hidden from users>",
           "Gain [-160] [Gold] <hidden from users>",
           "[This Unit] takes [25] damage",
-          "Free [H08] appears <when number of [[H08] Units] is equal to [0]> <when number of [[P71] Units] is less than [2]>",
+          "Free [Silent Mirror Keeper] appears <when number of [[Silent Mirror Keeper] Units] is equal to [0]> <when number of [[Visitor Covenant Seal] Units] is less than [2]>",
           "[+25]% weight to this choice for AI decisions"
         ]
       },
       {
-        "name": "E28-B-Any",
-        "text": "E28-B",
+        "name": "The Silent Mirror Watch - Preserve the measurements",
+        "text": "The Silent Mirror Watch-B",
         "civilopediaText": [],
         "uniques": [
           "Gain [160] [Science]"
@@ -510,42 +510,42 @@
     ]
   },
   {
-    "name": "E29",
-    "text": "E29",
+    "name": "Lanterns in the Grove",
+    "text": "Lanterns in the Grove",
     "presentation": "Alert",
     "civilopediaText": [
       {
-        "text": "E29 Paragraph 1"
+        "text": "Lanterns in the Grove Paragraph 1"
       },
       {
-        "text": "E29 Paragraph 2"
+        "text": "Lanterns in the Grove Paragraph 2"
       },
       {
-        "text": "E29 Paragraph 3"
+        "text": "Lanterns in the Grove Paragraph 3"
       },
       {
-        "text": "E29 Paragraph 4"
+        "text": "Lanterns in the Grove Paragraph 4"
       }
     ],
     "choices": [
       {
-        "name": "E29-A-Any",
-        "text": "E29-A",
+        "name": "Lanterns in the Grove - Invite the Lantern Oathguard",
+        "text": "Lanterns in the Grove-A",
         "civilopediaText": [
           {
-            "text": "E29-A Requirements"
+            "text": "Lanterns in the Grove-A Requirements"
           }
         ],
         "uniques": [
-          "Only available <when number of [Cities] is more than [0]> <when number of [[P71] Units] is less than [2]> <when number of [[H10] Units] is equal to [0]> <when religion is enabled> <when above [239] [Gold]> <hidden from users>",
+          "Only available <when number of [Cities] is more than [0]> <when number of [[Visitor Covenant Seal] Units] is less than [2]> <when number of [[Lantern Oathguard] Units] is equal to [0]> <when religion is enabled> <when above [239] [Gold]> <hidden from users>",
           "Gain [-240] [Gold] <hidden from users>",
-          "Free [H10] appears <when number of [[H10] Units] is equal to [0]> <when number of [[P71] Units] is less than [2]>",
+          "Free [Lantern Oathguard] appears <when number of [[Lantern Oathguard] Units] is equal to [0]> <when number of [[Visitor Covenant Seal] Units] is less than [2]>",
           "[+25]% weight to this choice for AI decisions"
         ]
       },
       {
-        "name": "E29-B-Any",
-        "text": "E29-B",
+        "name": "Lanterns in the Grove - Record the healing methods",
+        "text": "Lanterns in the Grove-B",
         "civilopediaText": [],
         "uniques": [
           "Gain [160] [Culture]"
@@ -554,42 +554,42 @@
     ]
   },
   {
-    "name": "E30",
-    "text": "E30",
+    "name": "Guards by the Old Road",
+    "text": "Guards by the Old Road",
     "presentation": "Alert",
     "civilopediaText": [
       {
-        "text": "E30 Paragraph 1"
+        "text": "Guards by the Old Road Paragraph 1"
       },
       {
-        "text": "E30 Paragraph 2"
+        "text": "Guards by the Old Road Paragraph 2"
       },
       {
-        "text": "E30 Paragraph 3"
+        "text": "Guards by the Old Road Paragraph 3"
       },
       {
-        "text": "E30 Paragraph 4"
+        "text": "Guards by the Old Road Paragraph 4"
       }
     ],
     "choices": [
       {
-        "name": "E30-A-Any",
-        "text": "E30-A",
+        "name": "Guards by the Old Road - Invite him to join",
+        "text": "Guards by the Old Road-A",
         "civilopediaText": [
           {
-            "text": "E30-A Requirements"
+            "text": "Guards by the Old Road-A Requirements"
           }
         ],
         "uniques": [
-          "Only available <when number of [Cities] is more than [0]> <when number of [[P71] Units] is less than [2]> <when number of [[H12] Units] is equal to [0]> <when above [399] [Gold]> <hidden from users>",
+          "Only available <when number of [Cities] is more than [0]> <when number of [[Visitor Covenant Seal] Units] is less than [2]> <when number of [[Caravan Arbiter] Units] is equal to [0]> <when above [399] [Gold]> <hidden from users>",
           "Gain [-400] [Gold] <hidden from users>",
-          "Free [H12] appears <when number of [[H12] Units] is equal to [0]> <when number of [[P71] Units] is less than [2]>",
+          "Free [Caravan Arbiter] appears <when number of [[Caravan Arbiter] Units] is equal to [0]> <when number of [[Visitor Covenant Seal] Units] is less than [2]>",
           "[+25]% weight to this choice for AI decisions"
         ]
       },
       {
-        "name": "E30-B-Any",
-        "text": "E30-B",
+        "name": "Guards by the Old Road - Copy the road map",
+        "text": "Guards by the Old Road-B",
         "civilopediaText": [],
         "uniques": [
           "Gain [220] [Culture]"
@@ -598,101 +598,101 @@
     ]
   },
   {
-    "name": "E31",
+    "name": "Starlight Research",
     "presentation": "None",
     "choices": [
       {
-        "name": "E31-Quick",
+        "name": "Starlight Research - Quick",
         "text": "Perform the ritual",
         "uniques": [
-          "Only available <on [Quick] game speed> <without [R25]> <after discovering [D01-T102]>",
-          "Provides [1] [R25] <for [7] turns>",
+          "Only available <on [Quick] game speed> <without [Research Ritual Active]> <after discovering [Collaborative Research]>",
+          "Provides [1] [Research Ritual Active] <for [7] turns>",
           "[+15]% [Science] [in all cities] <for [7] turns>"
         ]
       },
       {
-        "name": "E31-Standard",
+        "name": "Starlight Research - Standard",
         "text": "Perform the ritual",
         "uniques": [
-          "Only available <on [Standard] game speed> <without [R25]> <after discovering [D01-T102]>",
-          "Provides [1] [R25] <for [10] turns>",
+          "Only available <on [Standard] game speed> <without [Research Ritual Active]> <after discovering [Collaborative Research]>",
+          "Provides [1] [Research Ritual Active] <for [10] turns>",
           "[+15]% [Science] [in all cities] <for [10] turns>"
         ]
       },
       {
-        "name": "E31-Epic",
+        "name": "Starlight Research - Epic",
         "text": "Perform the ritual",
         "uniques": [
-          "Only available <on [Epic] game speed> <without [R25]> <after discovering [D01-T102]>",
-          "Provides [1] [R25] <for [15] turns>",
+          "Only available <on [Epic] game speed> <without [Research Ritual Active]> <after discovering [Collaborative Research]>",
+          "Provides [1] [Research Ritual Active] <for [15] turns>",
           "[+15]% [Science] [in all cities] <for [15] turns>"
         ]
       },
       {
-        "name": "E31-Marathon",
+        "name": "Starlight Research - Marathon",
         "text": "Perform the ritual",
         "uniques": [
-          "Only available <on [Marathon] game speed> <without [R25]> <after discovering [D01-T102]>",
-          "Provides [1] [R25] <for [30] turns>",
+          "Only available <on [Marathon] game speed> <without [Research Ritual Active]> <after discovering [Collaborative Research]>",
+          "Provides [1] [Research Ritual Active] <for [30] turns>",
           "[+15]% [Science] [in all cities] <for [30] turns>"
         ]
       }
     ]
   },
   {
-    "name": "E32",
+    "name": "National Ward",
     "presentation": "None",
     "choices": [
       {
-        "name": "E32-Quick",
+        "name": "National Ward - Quick",
         "text": "Perform the ritual",
         "uniques": [
-          "Only available <on [Quick] game speed> <without [R26]> <after discovering [D01-T24]>",
-          "Provides [1] [R26] <for [7] turns>",
+          "Only available <on [Quick] game speed> <without [National Ward Active]> <after discovering [Runic Crafts]>",
+          "Provides [1] [National Ward Active] <for [7] turns>",
           "[+15]% Strength for cities <for [7] turns>"
         ]
       },
       {
-        "name": "E32-Standard",
+        "name": "National Ward - Standard",
         "text": "Perform the ritual",
         "uniques": [
-          "Only available <on [Standard] game speed> <without [R26]> <after discovering [D01-T24]>",
-          "Provides [1] [R26] <for [10] turns>",
+          "Only available <on [Standard] game speed> <without [National Ward Active]> <after discovering [Runic Crafts]>",
+          "Provides [1] [National Ward Active] <for [10] turns>",
           "[+15]% Strength for cities <for [10] turns>"
         ]
       },
       {
-        "name": "E32-Epic",
+        "name": "National Ward - Epic",
         "text": "Perform the ritual",
         "uniques": [
-          "Only available <on [Epic] game speed> <without [R26]> <after discovering [D01-T24]>",
-          "Provides [1] [R26] <for [15] turns>",
+          "Only available <on [Epic] game speed> <without [National Ward Active]> <after discovering [Runic Crafts]>",
+          "Provides [1] [National Ward Active] <for [15] turns>",
           "[+15]% Strength for cities <for [15] turns>"
         ]
       },
       {
-        "name": "E32-Marathon",
+        "name": "National Ward - Marathon",
         "text": "Perform the ritual",
         "uniques": [
-          "Only available <on [Marathon] game speed> <without [R26]> <after discovering [D01-T24]>",
-          "Provides [1] [R26] <for [30] turns>",
+          "Only available <on [Marathon] game speed> <without [National Ward Active]> <after discovering [Runic Crafts]>",
+          "Provides [1] [National Ward Active] <for [30] turns>",
           "[+15]% Strength for cities <for [30] turns>"
         ]
       }
     ]
   },
   {
-    "name": "E33",
-    "text": "E33",
+    "name": "Medical resolution",
+    "text": "Medical resolution",
     "presentation": "None",
     "choices": [
       {
-        "name": "E33-Resolve",
-        "text": "E33-Resolve",
+        "name": "Resolve adjacent medics and clear the temporary status",
+        "text": "Resolve adjacent medics and clear the temporary status",
         "uniques": [
-          "[This Unit] gains the [P109] status for [1] turn(s)",
-          "[This Unit] heals [5] HP <for every [[{医护} {FC medic near active patient} {non-[P109]} {non-[Embarked]}] Units]>",
-          "[This Unit] loses the [P109] status"
+          "[This Unit] gains the [Medical resolution marker] status for [1] turn(s)",
+          "[This Unit] heals [5] HP <for every [[{医护} {FC medic near active patient} {non-[Medical resolution marker]} {non-[Embarked]}] Units]>",
+          "[This Unit] loses the [Medical resolution marker] status"
         ]
       }
     ]

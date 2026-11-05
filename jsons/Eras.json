@@ -5,7 +5,7 @@
     "startingSettlerCount": 1,
     "startingWorkerCount": 0,
     "startingMilitaryUnitCount": 1,
-    "startingMilitaryUnit": "U01",
+    "startingMilitaryUnit": "Militia",
     "settlerPopulation": 1,
     "startingGold": 0,
     "startingCulture": 0,
@@ -18,8 +18,8 @@
       35
     ],
     "uniques": [],
-    "startingSettlerUnit": "C01",
-    "startingWorkerUnit": "C02"
+    "startingSettlerUnit": "Settler",
+    "startingWorkerUnit": "Worker"
   },
   {
     "name": "II",
@@ -27,7 +27,7 @@
     "startingSettlerCount": 1,
     "startingWorkerCount": 1,
     "startingMilitaryUnitCount": 1,
-    "startingMilitaryUnit": "U07",
+    "startingMilitaryUnit": "Spearmen",
     "settlerPopulation": 2,
     "startingGold": 100,
     "startingCulture": 0,
@@ -40,8 +40,8 @@
       99
     ],
     "uniques": [],
-    "startingSettlerUnit": "C01",
-    "startingWorkerUnit": "C02"
+    "startingSettlerUnit": "Settler",
+    "startingWorkerUnit": "Worker"
   },
   {
     "name": "III",
@@ -49,7 +49,7 @@
     "startingSettlerCount": 1,
     "startingWorkerCount": 1,
     "startingMilitaryUnitCount": 1,
-    "startingMilitaryUnit": "U02",
+    "startingMilitaryUnit": "Shield Infantry",
     "settlerPopulation": 3,
     "startingGold": 200,
     "startingCulture": 0,
@@ -64,8 +64,8 @@
     "uniques": [
       "Every major Civilization gains a spy once a civilization enters this era"
     ],
-    "startingSettlerUnit": "C01",
-    "startingWorkerUnit": "C02"
+    "startingSettlerUnit": "Settler",
+    "startingWorkerUnit": "Worker"
   },
   {
     "name": "IV",
@@ -73,7 +73,7 @@
     "startingSettlerCount": 1,
     "startingWorkerCount": 1,
     "startingMilitaryUnitCount": 1,
-    "startingMilitaryUnit": "U03",
+    "startingMilitaryUnit": "Regular Infantry",
     "settlerPopulation": 3,
     "startingGold": 300,
     "startingCulture": 0,
@@ -88,8 +88,8 @@
     "uniques": [
       "Every major Civilization gains a spy once a civilization enters this era"
     ],
-    "startingSettlerUnit": "C01",
-    "startingWorkerUnit": "C02"
+    "startingSettlerUnit": "Settler",
+    "startingWorkerUnit": "Worker"
   },
   {
     "name": "V",
@@ -97,7 +97,7 @@
     "startingSettlerCount": 1,
     "startingWorkerCount": 1,
     "startingMilitaryUnitCount": 1,
-    "startingMilitaryUnit": "U04",
+    "startingMilitaryUnit": "Formation Infantry",
     "settlerPopulation": 4,
     "startingGold": 400,
     "startingCulture": 0,
@@ -112,8 +112,8 @@
     "uniques": [
       "Every major Civilization gains a spy once a civilization enters this era"
     ],
-    "startingSettlerUnit": "C01",
-    "startingWorkerUnit": "C02"
+    "startingSettlerUnit": "Settler",
+    "startingWorkerUnit": "Worker"
   },
   {
     "name": "VI",
@@ -121,7 +121,7 @@
     "startingSettlerCount": 1,
     "startingWorkerCount": 1,
     "startingMilitaryUnitCount": 1,
-    "startingMilitaryUnit": "U05",
+    "startingMilitaryUnit": "Heavy Infantry",
     "settlerPopulation": 4,
     "startingGold": 600,
     "startingCulture": 0,
@@ -136,7 +136,7 @@
     "uniques": [
       "Every major Civilization gains a spy once a civilization enters this era"
     ],
-    "startingSettlerUnit": "C01",
-    "startingWorkerUnit": "C02"
+    "startingSettlerUnit": "Settler",
+    "startingWorkerUnit": "Worker"
   }
 ]

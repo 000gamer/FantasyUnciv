@@ -1,35 +1,35 @@
 [
   {
-    "name": "B01",
+    "name": "Granary",
     "cost": 60,
     "maintenance": 1,
-    "requiredTech": "D01-T01",
+    "requiredTech": "Agriculture and Storage",
     "uniques": [
-      "[+1 Food] from [R05] tiles [in this city]"
+      "[+1 Food] from [Wheat] tiles [in this city]"
     ],
     "food": 2,
     "specialistSlots": {}
   },
   {
-    "name": "B02",
+    "name": "Workshop",
     "cost": 70,
     "maintenance": 1,
-    "requiredTech": "D01-T06",
+    "requiredTech": "Basic Crafts",
     "uniques": [],
     "production": 2,
     "specialistSlots": {}
   },
   {
-    "name": "B03",
+    "name": "Library",
     "cost": 75,
     "maintenance": 1,
-    "requiredTech": "D01-T05",
+    "requiredTech": "Writing",
     "uniques": [],
     "science": 2,
     "specialistSlots": {}
   },
   {
-    "name": "B04",
+    "name": "Monument",
     "cost": 40,
     "maintenance": 1,
     "uniques": [],
@@ -37,22 +37,22 @@
     "specialistSlots": {}
   },
   {
-    "name": "B05",
+    "name": "Altar",
     "cost": 50,
     "maintenance": 1,
-    "requiredTech": "D01-T04",
+    "requiredTech": "Rituals",
     "uniques": [],
     "faith": 2,
     "specialistSlots": {}
   },
   {
-    "name": "B06",
+    "name": "Foundry",
     "cost": 90,
     "maintenance": 1,
-    "requiredTech": "D01-T08",
+    "requiredTech": "Smelting",
     "uniques": [
-      "[+1 Production] from [R02] tiles [in this city]",
-      "Only available <in cities with a [B02]>"
+      "[+1 Production] from [Iron] tiles [in this city]",
+      "Only available <in cities with a [Workshop]>"
     ],
     "production": 1,
     "specialistSlots": {
@@ -60,41 +60,41 @@
     }
   },
   {
-    "name": "B07",
+    "name": "Barracks",
     "cost": 80,
     "maintenance": 1,
-    "requiredTech": "D01-T44",
+    "requiredTech": "Laws of War",
     "uniques": [
       "New [{Land} {Military} {non-[术士]} {non-[医护]} {non-[死灵]} {non-[幽魂]}] units start with [+15] XP [in this city]"
     ],
     "specialistSlots": {}
   },
   {
-    "name": "B08",
+    "name": "Walls",
     "cost": 75,
     "maintenance": 0,
-    "requiredTech": "D01-T11",
+    "requiredTech": "City-State Organization",
     "uniques": [],
     "specialistSlots": {},
     "cityStrength": 5,
     "cityHealth": 50
   },
   {
-    "name": "B09",
+    "name": "Beast Pens",
     "cost": 85,
     "maintenance": 1,
-    "requiredTech": "D01-T09",
+    "requiredTech": "Riding",
     "uniques": [
-      "[+1 Production] from [R01] tiles [in this city]",
-      "[+1 Food] from [R06] tiles [in this city]"
+      "[+1 Production] from [Horses] tiles [in this city]",
+      "[+1 Food] from [Livestock] tiles [in this city]"
     ],
     "specialistSlots": {}
   },
   {
-    "name": "B10",
+    "name": "Harbor",
     "cost": 100,
     "maintenance": 1,
-    "requiredTech": "D01-T13",
+    "requiredTech": "Shipbuilding",
     "uniques": [
       "[+1 Production] from [Fishing Boats] tiles [in this city]",
       "Connects trade routes over water",
@@ -104,10 +104,10 @@
     "specialistSlots": {}
   },
   {
-    "name": "B11",
+    "name": "Market",
     "cost": 90,
     "maintenance": 0,
-    "requiredTech": "D01-T14",
+    "requiredTech": "Currency and Exchange",
     "uniques": [
       "[+15]% [Gold] [in this city]"
     ],
@@ -115,12 +115,12 @@
     "specialistSlots": {}
   },
   {
-    "name": "B12",
+    "name": "School",
     "cost": 130,
     "maintenance": 2,
-    "requiredTech": "D01-T17",
+    "requiredTech": "Education",
     "uniques": [
-      "Only available <in cities with a [B03]>"
+      "Only available <in cities with a [Library]>"
     ],
     "science": 3,
     "specialistSlots": {
@@ -128,13 +128,13 @@
     }
   },
   {
-    "name": "B13",
+    "name": "Theater",
     "cost": 125,
     "maintenance": 1,
-    "requiredTech": "D01-T63",
+    "requiredTech": "Literature",
     "uniques": [
-      "[+1 Culture] from [R31] tiles [in this city]",
-      "Only available <in cities with a [B04]>"
+      "[+1 Culture] from [Dyes] tiles [in this city]",
+      "Only available <in cities with a [Monument]>"
     ],
     "culture": 3,
     "specialistSlots": {
@@ -142,51 +142,51 @@
     }
   },
   {
-    "name": "B14",
+    "name": "Academy of Magic",
     "cost": 135,
     "maintenance": 2,
-    "requiredTech": "D01-T17",
+    "requiredTech": "Education",
     "uniques": [
       "New [术士] units start with [+15] XP [in this city]",
       "New [医护] units start with [+15] XP [in this city]",
       "New [死灵] units start with [+15] XP [in this city]",
       "New [幽魂] units start with [+15] XP [in this city]",
-      "Only available <in cities with a [B03]>"
+      "Only available <in cities with a [Library]>"
     ],
     "science": 2,
     "specialistSlots": {}
   },
   {
-    "name": "B15",
+    "name": "Temple",
     "cost": 110,
     "maintenance": 1,
-    "requiredTech": "D01-T62",
+    "requiredTech": "Theology",
     "uniques": [
-      "Only available <in cities with a [B05]>"
+      "Only available <in cities with a [Altar]>"
     ],
     "faith": 3,
     "specialistSlots": {}
   },
   {
-    "name": "B16",
+    "name": "Shipyard",
     "cost": 135,
     "maintenance": 2,
-    "requiredTech": "D01-T20",
+    "requiredTech": "Naval Armaments",
     "uniques": [
       "[+15]% Production when constructing [{Water} {Military}] units [in this city]",
-      "Only available <in cities with a [B10]>",
+      "Only available <in cities with a [Harbor]>",
       "Must be next to [Coast]"
     ],
     "production": 2,
     "specialistSlots": {}
   },
   {
-    "name": "B17",
+    "name": "Guildhall",
     "cost": 140,
     "maintenance": 2,
-    "requiredTech": "D01-T21",
+    "requiredTech": "Guilds",
     "uniques": [
-      "Only available <in cities with a [B11]>"
+      "Only available <in cities with a [Market]>"
     ],
     "gold": 2,
     "production": 1,
@@ -195,21 +195,21 @@
     }
   },
   {
-    "name": "B19",
+    "name": "Armory",
     "cost": 180,
     "maintenance": 2,
-    "requiredTech": "D01-T60",
+    "requiredTech": "Garrison Systems",
     "uniques": [
       "New [{Land} {Military}] units start with [+15] XP [in this city]",
-      "Only available <in cities with a [B07]>"
+      "Only available <in cities with a [Barracks]>"
     ],
     "specialistSlots": {}
   },
   {
-    "name": "B21",
+    "name": "Administration Hall",
     "cost": 180,
     "maintenance": 2,
-    "requiredTech": "D01-T25",
+    "requiredTech": "Administration and Finance",
     "uniques": [],
     "gold": 2,
     "culture": 2,
@@ -217,13 +217,13 @@
     "specialistSlots": {}
   },
   {
-    "name": "B22",
+    "name": "Bank",
     "cost": 185,
     "maintenance": 2,
-    "requiredTech": "D01-T21",
+    "requiredTech": "Guilds",
     "uniques": [
       "[+20]% [Gold] [in this city]",
-      "Only available <in cities with a [B11]>"
+      "Only available <in cities with a [Market]>"
     ],
     "gold": 3,
     "specialistSlots": {
@@ -231,66 +231,66 @@
     }
   },
   {
-    "name": "B23",
+    "name": "University",
     "cost": 200,
     "maintenance": 3,
-    "requiredTech": "D01-T26",
+    "requiredTech": "Higher Learning",
     "uniques": [
       "[+25]% [Science] [in this city]",
-      "Only available <in cities with a [B12]>"
+      "Only available <in cities with a [School]>"
     ],
     "specialistSlots": {
       "Scientist": 1
     }
   },
   {
-    "name": "B24",
+    "name": "Life Research Hall",
     "cost": 170,
     "maintenance": 2,
-    "requiredTech": "D01-T111",
+    "requiredTech": "Natural Philosophy",
     "uniques": [
       "[+1 Production] from [Forest] tiles [in this city]",
-      "Only available <in cities with a [B01]>"
+      "Only available <in cities with a [Granary]>"
     ],
     "food": 1,
     "faith": 2,
     "specialistSlots": {}
   },
   {
-    "name": "B25",
+    "name": "Advanced Forge",
     "cost": 260,
     "maintenance": 3,
-    "requiredTech": "D01-T28",
+    "requiredTech": "Mithril Metallurgy",
     "uniques": [
-      "[+1 Production] from [R02] tiles [in this city]",
-      "[+1 Production] from [R04] tiles [in this city]",
-      "Only available <in cities with a [B06]>",
+      "[+1 Production] from [Iron] tiles [in this city]",
+      "[+1 Production] from [Mithril] tiles [in this city]",
+      "Only available <in cities with a [Foundry]>",
       "Must have an owned [Mine] within [3] tiles"
     ],
     "production": 3,
     "specialistSlots": {}
   },
   {
-    "name": "B26",
+    "name": "Precision Workshop",
     "cost": 280,
     "maintenance": 3,
-    "requiredTech": "D01-T29",
+    "requiredTech": "Precision Manufacturing",
     "uniques": [
       "[+15]% [Production] [in this city]",
-      "Only available <in cities with a [B02]>"
+      "Only available <in cities with a [Workshop]>"
     ],
     "specialistSlots": {
       "Engineer": 1
     }
   },
   {
-    "name": "B27",
+    "name": "Sourceflow Institute",
     "cost": 300,
     "maintenance": 4,
-    "requiredTech": "D01-T30",
+    "requiredTech": "Elemental Shaping",
     "uniques": [
       "[+15]% [Science] [in this city]",
-      "Only available <in cities with a [B14]>",
+      "Only available <in cities with a [Academy of Magic]>",
       "Requires at least [8] population"
     ],
     "science": 4,
@@ -299,49 +299,49 @@
     }
   },
   {
-    "name": "B28",
+    "name": "Infirmary",
     "cost": 270,
     "maintenance": 2,
-    "requiredTech": "D01-T83",
+    "requiredTech": "Medicine",
     "uniques": [
       "[All] Units adjacent to this city heal [5] HP per turn when healing",
-      "Only available <in cities with a [B01]>"
+      "Only available <in cities with a [Granary]>"
     ],
     "food": 3,
     "specialistSlots": {}
   },
   {
-    "name": "B29",
+    "name": "Ocean Drydock",
     "cost": 280,
     "maintenance": 3,
-    "requiredTech": "D01-T32",
+    "requiredTech": "Deep-Sea Shipbuilding",
     "uniques": [
       "[+15]% Production when constructing [{Water} {Military}] units [in this city]",
-      "Only available <in cities with a [B16]>",
+      "Only available <in cities with a [Shipyard]>",
       "Must be next to [Coast]"
     ],
     "production": 3,
     "specialistSlots": {}
   },
   {
-    "name": "B30",
+    "name": "Military Academy",
     "cost": 280,
     "maintenance": 3,
-    "requiredTech": "D01-T33",
+    "requiredTech": "War Coordination",
     "uniques": [
       "New [{Land} {Military}] units start with [+15] XP [in this city]",
-      "Only available <in cities with a [B19]>"
+      "Only available <in cities with a [Armory]>"
     ],
     "specialistSlots": {}
   },
   {
-    "name": "B31",
+    "name": "Grand Library",
     "cost": 380,
     "maintenance": 4,
-    "requiredTech": "D01-T87",
+    "requiredTech": "History and Classical Studies",
     "uniques": [
       "[+15]% [Science] [in this city]",
-      "Only available <in cities with a [B23]>"
+      "Only available <in cities with a [University]>"
     ],
     "science": 6,
     "specialistSlots": {
@@ -349,13 +349,13 @@
     }
   },
   {
-    "name": "B32",
+    "name": "Museum",
     "cost": 320,
     "maintenance": 3,
-    "requiredTech": "D01-T84",
+    "requiredTech": "Cultural Exchange",
     "uniques": [
       "[+15]% [Culture] [in this city]",
-      "Only available <in cities with a [B13]>"
+      "Only available <in cities with a [Theater]>"
     ],
     "culture": 4,
     "specialistSlots": {
@@ -363,24 +363,24 @@
     }
   },
   {
-    "name": "B33",
+    "name": "Urban Granary",
     "cost": 360,
     "maintenance": 3,
-    "requiredTech": "D01-T90",
+    "requiredTech": "Integrated City Governance",
     "uniques": [
-      "Only available <in cities with a [B01]>",
+      "Only available <in cities with a [Granary]>",
       "Requires at least [9] population"
     ],
     "food": 5,
     "specialistSlots": {}
   },
   {
-    "name": "B35",
+    "name": "Great Factory",
     "cost": 400,
     "maintenance": 4,
-    "requiredTech": "D01-T36",
+    "requiredTech": "Grand Crafts",
     "uniques": [
-      "Only available <in cities with a [B26]>"
+      "Only available <in cities with a [Precision Workshop]>"
     ],
     "production": 5,
     "specialistSlots": {
@@ -388,33 +388,33 @@
     }
   },
   {
-    "name": "B36",
+    "name": "Source Observatory",
     "cost": 420,
     "maintenance": 4,
-    "requiredTech": "D01-T37",
+    "requiredTech": "Source Synergy",
     "uniques": [
       "[+10]% [Science] [in this city]",
-      "Only available <in cities with a [B27]>"
+      "Only available <in cities with a [Sourceflow Institute]>"
     ],
     "science": 3,
     "faith": 3,
     "specialistSlots": {}
   },
   {
-    "name": "B41",
+    "name": "Council Hall",
     "cost": 65,
     "maintenance": 1,
-    "requiredTech": "D01-T41",
+    "requiredTech": "Oral Tradition",
     "uniques": [],
     "culture": 1,
     "happiness": 1,
     "specialistSlots": {}
   },
   {
-    "name": "B44",
+    "name": "Courthouse",
     "cost": 140,
     "maintenance": 3,
-    "requiredTech": "D01-T50",
+    "requiredTech": "Codes of Law",
     "uniques": [
       "Removes extra unhappiness from annexed cities",
       "Only available <in [Annexed] cities>"
@@ -422,10 +422,10 @@
     "specialistSlots": {}
   },
   {
-    "name": "B45",
+    "name": "Lighthouse",
     "cost": 100,
     "maintenance": 1,
-    "requiredTech": "D01-T13",
+    "requiredTech": "Shipbuilding",
     "uniques": [
       "[+1 Food] from [Coast] tiles [in this city]",
       "Must be next to [Coast]"
@@ -433,10 +433,10 @@
     "specialistSlots": {}
   },
   {
-    "name": "B47",
+    "name": "Garden",
     "cost": 110,
     "maintenance": 1,
-    "requiredTech": "D01-T39",
+    "requiredTech": "Irrigation",
     "uniques": [
       "[+15]% Great Person generation [in this city]",
       "Must be next to [River]"
@@ -445,73 +445,73 @@
     "specialistSlots": {}
   },
   {
-    "name": "B49",
+    "name": "Survey Hall",
     "cost": 145,
     "maintenance": 2,
-    "requiredTech": "D01-T57",
+    "requiredTech": "Cartography",
     "uniques": [
-      "Only available <in cities with a [B03]>"
+      "Only available <in cities with a [Library]>"
     ],
     "science": 3,
     "culture": 1,
     "specialistSlots": {}
   },
   {
-    "name": "B51",
+    "name": "Aqueduct",
     "cost": 150,
     "maintenance": 1,
-    "requiredTech": "D01-T39",
+    "requiredTech": "Irrigation",
     "uniques": [
-      "Only available <in cities with a [B01]>"
+      "Only available <in cities with a [Granary]>"
     ],
     "food": 3,
     "specialistSlots": {}
   },
   {
-    "name": "B52",
+    "name": "Mirror Tower",
     "cost": 160,
     "maintenance": 2,
-    "requiredTech": "D01-T53",
+    "requiredTech": "Symbolic Arts",
     "uniques": [
-      "All newly-trained [侦察] units [in this city] receive the [P47] promotion <Civilopedia link [Promotion/P47]>",
-      "Only available <in cities with a [B03]>"
+      "All newly-trained [侦察] units [in this city] receive the [Seal Detection] promotion <Civilopedia link [Promotion/Seal Detection]>",
+      "Only available <in cities with a [Library]>"
     ],
     "science": 2,
     "specialistSlots": {}
   },
   {
-    "name": "B53",
+    "name": "Civic Hall",
     "cost": 200,
     "maintenance": 2,
-    "requiredTech": "D01-T66",
+    "requiredTech": "Citizenship",
     "uniques": [
-      "Only available <in cities with a [B41]>"
+      "Only available <in cities with a [Council Hall]>"
     ],
     "culture": 2,
     "happiness": 2,
     "specialistSlots": {}
   },
   {
-    "name": "B54",
+    "name": "Star Observatory",
     "cost": 210,
     "maintenance": 2,
-    "requiredTech": "D01-T67",
+    "requiredTech": "Star Charts",
     "uniques": [
       "[+25]% [Science] [in this city]",
-      "Only available <in cities with a [B03]>",
+      "Only available <in cities with a [Library]>",
       "Must be next to [Mountain]"
     ],
     "science": 2,
     "specialistSlots": {}
   },
   {
-    "name": "B55",
+    "name": "Supply Harbor",
     "cost": 190,
     "maintenance": 2,
-    "requiredTech": "D01-T19",
+    "requiredTech": "Ocean Navigation",
     "uniques": [
-      "All newly-trained [{Water} {Military}] units [in this city] receive the [P36] promotion <Civilopedia link [Promotion/P36]>",
-      "Only available <in cities with a [B10]>",
+      "All newly-trained [{Water} {Military}] units [in this city] receive the [Ocean Supply] promotion <Civilopedia link [Promotion/Ocean Supply]>",
+      "Only available <in cities with a [Harbor]>",
       "Must be next to [Coast]"
     ],
     "food": 2,
@@ -519,50 +519,50 @@
     "specialistSlots": {}
   },
   {
-    "name": "B57",
+    "name": "Fortress",
     "cost": 200,
     "maintenance": 1,
-    "requiredTech": "D01-T71",
+    "requiredTech": "Structural Engineering",
     "uniques": [
-      "Only available <in cities with a [B08]>"
+      "Only available <in cities with a [Walls]>"
     ],
     "specialistSlots": {},
     "cityStrength": 8,
     "cityHealth": 50
   },
   {
-    "name": "B59",
+    "name": "Waterworks Factory",
     "cost": 300,
     "maintenance": 3,
-    "requiredTech": "D01-T29",
+    "requiredTech": "Precision Manufacturing",
     "uniques": [
       "[+15]% Production when constructing [All] buildings [in this city]",
-      "Only available <in cities with a [B02]>",
+      "Only available <in cities with a [Workshop]>",
       "Must be next to [River]"
     ],
     "production": 4,
     "specialistSlots": {}
   },
   {
-    "name": "B60",
+    "name": "Soul Archive",
     "cost": 290,
     "maintenance": 3,
-    "requiredTech": "D01-T79",
+    "requiredTech": "Soul Covenants",
     "uniques": [
-      "Only available <in cities with a [B13]>"
+      "Only available <in cities with a [Theater]>"
     ],
     "science": 2,
     "culture": 4,
     "specialistSlots": {}
   },
   {
-    "name": "B61",
+    "name": "Ecological Garden",
     "cost": 300,
     "maintenance": 3,
-    "requiredTech": "D01-T80",
+    "requiredTech": "Ecological Accords",
     "uniques": [
       "[+1 Science] from [Forest] tiles [in this city]",
-      "Only available <in cities with a [B28]>",
+      "Only available <in cities with a [Infirmary]>",
       "Must have an owned [Forest] within [3] tiles"
     ],
     "food": 2,
@@ -570,13 +570,13 @@
     "specialistSlots": {}
   },
   {
-    "name": "B62",
+    "name": "Exchange",
     "cost": 310,
     "maintenance": 3,
-    "requiredTech": "D01-T81",
+    "requiredTech": "Trade Charters",
     "uniques": [
       "[+15]% [Gold] [in this city]",
-      "Only available <in cities with a [B22]>"
+      "Only available <in cities with a [Bank]>"
     ],
     "gold": 3,
     "specialistSlots": {
@@ -584,62 +584,62 @@
     }
   },
   {
-    "name": "B63",
+    "name": "Expedition Camp",
     "cost": 290,
     "maintenance": 2,
-    "requiredTech": "D01-T33",
+    "requiredTech": "War Coordination",
     "uniques": [
-      "All newly-trained [{Land} {Military}] units [in this city] receive the [P31] promotion <Civilopedia link [Promotion/P31]>",
-      "Only available <in cities with a [B07]>",
+      "All newly-trained [{Land} {Military}] units [in this city] receive the [Amphibious Transport] promotion <Civilopedia link [Promotion/Amphibious Transport]>",
+      "Only available <in cities with a [Barracks]>",
       "Must be next to [Coast]"
     ],
     "specialistSlots": {}
   },
   {
-    "name": "B64",
+    "name": "Defense Depot",
     "cost": 280,
     "maintenance": 2,
-    "requiredTech": "D01-T85",
+    "requiredTech": "Mutual Defense",
     "uniques": [
       "[2] Unit Supply",
-      "Only available <in cities with a [B07]>"
+      "Only available <in cities with a [Barracks]>"
     ],
     "production": 1,
     "specialistSlots": {}
   },
   {
-    "name": "B66",
+    "name": "Museum of Civilizations",
     "cost": 450,
     "maintenance": 4,
-    "requiredTech": "D01-T87",
+    "requiredTech": "History and Classical Studies",
     "uniques": [
       "[+10]% [Culture] [in this city]",
-      "Only available <in cities with a [B32]>"
+      "Only available <in cities with a [Museum]>"
     ],
     "culture": 6,
     "science": 2,
     "specialistSlots": {}
   },
   {
-    "name": "B67",
+    "name": "Siege Assembly Plant",
     "cost": 320,
     "maintenance": 3,
-    "requiredTech": "D01-T89",
+    "requiredTech": "Mithril Composites",
     "uniques": [
       "[+25]% Production when constructing [攻城] units [in this city]",
       "[+25]% Production when constructing [构装] units [in this city]",
-      "Only available <in cities with a [B26]>"
+      "Only available <in cities with a [Precision Workshop]>"
     ],
     "production": 2,
     "specialistSlots": {}
   },
   {
-    "name": "B68",
+    "name": "Public Square",
     "cost": 330,
     "maintenance": 3,
-    "requiredTech": "D01-T90",
+    "requiredTech": "Integrated City Governance",
     "uniques": [
-      "Only available <in cities with a [B53]>",
+      "Only available <in cities with a [Civic Hall]>",
       "Requires at least [9] population"
     ],
     "culture": 3,
@@ -647,12 +647,12 @@
     "specialistSlots": {}
   },
   {
-    "name": "B69",
+    "name": "Sanctuary of Memory",
     "cost": 460,
     "maintenance": 4,
-    "requiredTech": "D01-T93",
+    "requiredTech": "Enduring Memory",
     "uniques": [
-      "Only available <in cities with a [B60]>"
+      "Only available <in cities with a [Soul Archive]>"
     ],
     "culture": 4,
     "science": 2,
@@ -660,109 +660,109 @@
     "specialistSlots": {}
   },
   {
-    "name": "B76",
+    "name": "Runeweaving Institute",
     "cost": 220,
     "maintenance": 3,
-    "requiredTech": "D01-T114",
+    "requiredTech": "Rune Weaving",
     "uniques": [
-      "All newly-trained [术士] units [in this city] receive the [P33] promotion <Civilopedia link [Promotion/P33]>",
-      "All newly-trained [死灵] units [in this city] receive the [P33] promotion <Civilopedia link [Promotion/P33]>",
+      "All newly-trained [术士] units [in this city] receive the [Mirror-Eye Training] promotion <Civilopedia link [Promotion/Mirror-Eye Training]>",
+      "All newly-trained [死灵] units [in this city] receive the [Mirror-Eye Training] promotion <Civilopedia link [Promotion/Mirror-Eye Training]>",
       "Unsellable",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [B14]>",
-      "Only available <in cities without a [B77]>",
-      "Only available <in cities without a [B81]>",
-      "Only available <in cities without a [B82]>"
+      "Only available <in cities with a [Academy of Magic]>",
+      "Only available <in cities without a [Oathguard Hospice]>",
+      "Only available <in cities without a [Soul Covenant Archive]>",
+      "Only available <in cities without a [Mental Colloquium]>"
     ],
     "science": 2,
     "specialistSlots": {}
   },
   {
-    "name": "B77",
+    "name": "Oathguard Hospice",
     "cost": 220,
     "maintenance": 2,
-    "requiredTech": "D01-T112",
+    "requiredTech": "Spiritual Symbiosis",
     "uniques": [
-      "All newly-trained [医护] units [in this city] receive the [P34] promotion <Civilopedia link [Promotion/P34]>",
+      "All newly-trained [医护] units [in this city] receive the [Marching Prayer] promotion <Civilopedia link [Promotion/Marching Prayer]>",
       "Unsellable",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [B24]>",
-      "Only available <in cities without a [B76]>",
-      "Only available <in cities without a [B81]>",
-      "Only available <in cities without a [B82]>"
+      "Only available <in cities with a [Life Research Hall]>",
+      "Only available <in cities without a [Runeweaving Institute]>",
+      "Only available <in cities without a [Soul Covenant Archive]>",
+      "Only available <in cities without a [Mental Colloquium]>"
     ],
     "faith": 2,
     "happiness": 1,
     "specialistSlots": {}
   },
   {
-    "name": "B78",
+    "name": "Root Council",
     "cost": 230,
     "maintenance": 2,
-    "requiredTech": "D01-T27",
+    "requiredTech": "Covenants of Life",
     "uniques": [
       "[+1 Culture] from [Forest] tiles [in this city]",
-      "Only available <in cities with a [B24]>",
+      "Only available <in cities with a [Life Research Hall]>",
       "Must have an owned [Forest] within [3] tiles"
     ],
     "food": 1,
     "specialistSlots": {}
   },
   {
-    "name": "B80",
+    "name": "Sealing Node",
     "cost": 400,
     "maintenance": 3,
-    "requiredTech": "D01-T91",
+    "requiredTech": "Elemental Boundaries",
     "uniques": [
-      "All newly-trained [构装] units [in this city] receive the [P47] promotion <Civilopedia link [Promotion/P47]>",
-      "Only available <in cities with a [B14]>",
-      "Consumes [1] [R03]"
+      "All newly-trained [构装] units [in this city] receive the [Seal Detection] promotion <Civilopedia link [Promotion/Seal Detection]>",
+      "Only available <in cities with a [Academy of Magic]>",
+      "Consumes [1] [Mana Crystals]"
     ],
     "science": 2,
     "faith": 2,
     "specialistSlots": {}
   },
   {
-    "name": "B81",
+    "name": "Soul Covenant Archive",
     "cost": 220,
     "maintenance": 2,
-    "requiredTech": "D01-T113",
+    "requiredTech": "Spirit Communion",
     "uniques": [
       "[+1 Gold] from every [Artist]",
       "New [死灵] units start with [+10] XP [in this city]",
       "New [幽魂] units start with [+10] XP [in this city]",
       "Unsellable",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [B13]>",
-      "Only available <in cities without a [B76]>",
-      "Only available <in cities without a [B77]>",
-      "Only available <in cities without a [B82]>"
+      "Only available <in cities with a [Theater]>",
+      "Only available <in cities without a [Runeweaving Institute]>",
+      "Only available <in cities without a [Oathguard Hospice]>",
+      "Only available <in cities without a [Mental Colloquium]>"
     ],
     "culture": 2,
     "specialistSlots": {}
   },
   {
-    "name": "B82",
+    "name": "Mental Colloquium",
     "cost": 220,
     "maintenance": 3,
-    "requiredTech": "D01-T64",
+    "requiredTech": "Mirror Arts",
     "uniques": [
       "[+1 Science] from every specialist [in this city]",
       "Unsellable",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [B52]>",
-      "Only available <in cities without a [B76]>",
-      "Only available <in cities without a [B77]>",
-      "Only available <in cities without a [B81]>"
+      "Only available <in cities with a [Mirror Tower]>",
+      "Only available <in cities without a [Runeweaving Institute]>",
+      "Only available <in cities without a [Oathguard Hospice]>",
+      "Only available <in cities without a [Soul Covenant Archive]>"
     ],
     "science": 2,
     "specialistSlots": {}
   },
   {
-    "name": "B83",
+    "name": "Arcane Lodge",
     "cost": 55,
     "maintenance": 1,
-    "requiredTech": "D01-T53",
+    "requiredTech": "Symbolic Arts",
     "uniques": [
       "New [术士] units start with [+5] XP [in this city]",
       "New [医护] units start with [+5] XP [in this city]",
@@ -773,20 +773,20 @@
     "specialistSlots": {}
   },
   {
-    "name": "B84",
+    "name": "School of Numbers",
     "cost": 85,
     "maintenance": 1,
-    "requiredTech": "D01-T110",
+    "requiredTech": "Mathematics and Measurement",
     "uniques": [],
     "science": 1,
     "production": 1,
     "specialistSlots": {}
   },
   {
-    "name": "XB01",
+    "name": "Provincial Office",
     "cost": 170,
     "maintenance": 2,
-    "requiredTech": "D01-T25",
+    "requiredTech": "Administration and Finance",
     "uniques": [
       "[+2 Production] [in this city] <in cities connected to the capital>"
     ],
@@ -794,93 +794,93 @@
     "culture": 3,
     "happiness": 1,
     "specialistSlots": {},
-    "uniqueTo": "N01",
-    "replaces": "B21"
+    "uniqueTo": "Human Empire",
+    "replaces": "Administration Hall"
   },
   {
-    "name": "XB02",
+    "name": "Legion Camp",
     "cost": 170,
     "maintenance": 2,
-    "requiredTech": "D01-T60",
+    "requiredTech": "Garrison Systems",
     "uniques": [
       "New [{Land} {Military}] units start with [+15] XP [in this city]",
       "[+15]% Production when constructing [步兵] units [in this city]",
       "[+15]% Production when constructing [重步兵] units [in this city]",
-      "Only available <in cities with a [B07]>"
+      "Only available <in cities with a [Barracks]>"
     ],
     "specialistSlots": {},
-    "uniqueTo": "N01",
-    "replaces": "B19"
+    "uniqueTo": "Human Empire",
+    "replaces": "Armory"
   },
   {
-    "name": "XB03",
+    "name": "Trading Hall",
     "cost": 135,
     "maintenance": 1,
-    "requiredTech": "D01-T21",
+    "requiredTech": "Guilds",
     "uniques": [
-      "Only available <in cities with a [B11]>"
+      "Only available <in cities with a [Market]>"
     ],
     "gold": 3,
     "production": 1,
     "specialistSlots": {
       "Merchant": 1
     },
-    "uniqueTo": "N02",
-    "replaces": "B17"
+    "uniqueTo": "Mercantile Republic",
+    "replaces": "Guildhall"
   },
   {
-    "name": "XB04",
+    "name": "Maritime Bank",
     "cost": 190,
     "maintenance": 2,
-    "requiredTech": "D01-T21",
+    "requiredTech": "Guilds",
     "uniques": [
       "[+20]% [Gold] [in this city]",
       "[+1 Gold] from [Fishing Boats] tiles [in this city]",
-      "Only available <in cities with a [B11]>"
+      "Only available <in cities with a [Market]>"
     ],
     "gold": 4,
     "specialistSlots": {
       "Merchant": 1
     },
-    "uniqueTo": "N02",
-    "replaces": "B22"
+    "uniqueTo": "Mercantile Republic",
+    "replaces": "Bank"
   },
   {
-    "name": "XB05",
+    "name": "Canopy Sanctuary",
     "cost": 170,
     "maintenance": 1,
-    "requiredTech": "D01-T111",
+    "requiredTech": "Natural Philosophy",
     "uniques": [
       "[+1 Production] from [Forest] tiles [in this city]",
-      "Only available <in cities with a [B01]>"
+      "Only available <in cities with a [Granary]>"
     ],
     "food": 1,
     "faith": 3,
     "specialistSlots": {},
-    "uniqueTo": "N03",
-    "replaces": "B24"
+    "uniqueTo": "Forest Elves",
+    "replaces": "Life Research Hall"
   },
   {
-    "name": "XB06",
+    "name": "Treespeech School",
     "cost": 125,
     "maintenance": 2,
-    "requiredTech": "D01-T17",
+    "requiredTech": "Education",
     "uniques": [
-      "Only available <in cities with a [B03]>"
+      "Only available <in cities with a [Library]>"
     ],
     "science": 3,
     "culture": 1,
     "specialistSlots": {
       "Scientist": 1
     },
-    "uniqueTo": "N03",
-    "replaces": "B12"
+    "uniqueTo": "Forest Elves",
+    "replaces": "School"
   },
   {
-    "name": "XB07",
+    "name": "Tidal Harbor",
     "cost": 100,
     "maintenance": 1,
-    "requiredTech": "D01-T13",
+    "requiredTech": "Shipbuilding",
     "uniques": [
       "[+1 Production] from [Fishing Boats] tiles [in this city]",
       "Connects trade routes over water",
@@ -889,180 +889,180 @@
     "food": 1,
     "production": 1,
     "specialistSlots": {},
-    "uniqueTo": "N04",
-    "replaces": "B10"
+    "uniqueTo": "Sea Elves",
+    "replaces": "Harbor"
   },
   {
-    "name": "XB08",
+    "name": "Startide Drydock",
     "cost": 270,
     "maintenance": 2,
-    "requiredTech": "D01-T32",
+    "requiredTech": "Deep-Sea Shipbuilding",
     "uniques": [
       "[+20]% Production when constructing [{Water} {Military}] units [in this city]",
       "New [{Water} {Military}] units start with [+15] XP [in this city]",
-      "Only available <in cities with a [B16]>",
+      "Only available <in cities with a [Shipyard]>",
       "Must be next to [Coast]"
     ],
     "production": 3,
     "specialistSlots": {},
-    "uniqueTo": "N04",
-    "replaces": "B29"
+    "uniqueTo": "Sea Elves",
+    "replaces": "Ocean Drydock"
   },
   {
-    "name": "XB09",
+    "name": "Mountain Foundry",
     "cost": 90,
     "maintenance": 1,
-    "requiredTech": "D01-T08",
+    "requiredTech": "Smelting",
     "uniques": [
-      "[+1 Production] from [R02] tiles [in this city]",
-      "Only available <in cities with a [B02]>"
+      "[+1 Production] from [Iron] tiles [in this city]",
+      "Only available <in cities with a [Workshop]>"
     ],
     "production": 2,
     "specialistSlots": {
       "Engineer": 1
     },
-    "uniqueTo": "N05",
-    "replaces": "B06"
+    "uniqueTo": "Mountain Dwarves",
+    "replaces": "Foundry"
   },
   {
-    "name": "XB10",
+    "name": "Rock Bastion",
     "cost": 180,
     "maintenance": 1,
-    "requiredTech": "D01-T71",
+    "requiredTech": "Structural Engineering",
     "uniques": [
-      "Only available <in cities with a [B08]>"
+      "Only available <in cities with a [Walls]>"
     ],
     "specialistSlots": {},
     "cityStrength": 10,
     "cityHealth": 75,
-    "uniqueTo": "N05",
-    "replaces": "B57"
+    "uniqueTo": "Mountain Dwarves",
+    "replaces": "Fortress"
   },
   {
-    "name": "XB11",
+    "name": "Inscription Workshop",
     "cost": 280,
     "maintenance": 3,
-    "requiredTech": "D01-T29",
+    "requiredTech": "Precision Manufacturing",
     "uniques": [
       "[+15]% [Production] [in this city]",
       "[+1 Science] from every [Engineer]",
-      "Only available <in cities with a [B02]>"
+      "Only available <in cities with a [Workshop]>"
     ],
     "specialistSlots": {
       "Engineer": 1
     },
-    "uniqueTo": "N06",
-    "replaces": "B26"
+    "uniqueTo": "Artificer Dwarves",
+    "replaces": "Precision Workshop"
   },
   {
-    "name": "XB12",
+    "name": "Artificer University",
     "cost": 210,
     "maintenance": 3,
-    "requiredTech": "D01-T26",
+    "requiredTech": "Higher Learning",
     "uniques": [
       "[+25]% [Science] [in this city]",
-      "Only available <in cities with a [B12]>"
+      "Only available <in cities with a [School]>"
     ],
     "specialistSlots": {
       "Scientist": 1,
       "Engineer": 1
     },
-    "uniqueTo": "N06",
-    "replaces": "B23"
+    "uniqueTo": "Artificer Dwarves",
+    "replaces": "University"
   },
   {
-    "name": "XB13",
+    "name": "Waterside Pasture",
     "cost": 80,
     "maintenance": 0,
-    "requiredTech": "D01-T09",
+    "requiredTech": "Riding",
     "uniques": [
-      "[+1 Production] from [R01] tiles [in this city]",
-      "[+1 Production] from [R06] tiles [in this city]"
+      "[+1 Production] from [Horses] tiles [in this city]",
+      "[+1 Production] from [Livestock] tiles [in this city]"
     ],
     "food": 1,
     "specialistSlots": {},
-    "uniqueTo": "N07",
-    "replaces": "B09"
+    "uniqueTo": "Nomadic Orcs",
+    "replaces": "Beast Pens"
   },
   {
-    "name": "XB14",
+    "name": "Clan Assembly",
     "cost": 190,
     "maintenance": 1,
-    "requiredTech": "D01-T66",
+    "requiredTech": "Citizenship",
     "uniques": [
       "New [轻骑] units start with [+10] XP [in this city]",
       "New [骑射] units start with [+10] XP [in this city]",
-      "Only available <in cities with a [B41]>"
+      "Only available <in cities with a [Council Hall]>"
     ],
     "culture": 2,
     "happiness": 2,
     "specialistSlots": {},
-    "uniqueTo": "N07",
-    "replaces": "B53"
+    "uniqueTo": "Nomadic Orcs",
+    "replaces": "Civic Hall"
   },
   {
-    "name": "XB15",
+    "name": "Service Hall",
     "cost": 80,
     "maintenance": 1,
-    "requiredTech": "D01-T44",
+    "requiredTech": "Laws of War",
     "uniques": [
       "New [{Land} {Military} {non-[术士]} {non-[医护]} {non-[死灵]} {non-[幽魂]}] units start with [+15] XP [in this city]"
     ],
     "production": 1,
     "specialistSlots": {},
-    "uniqueTo": "N08",
-    "replaces": "B07"
+    "uniqueTo": "Orc Empire",
+    "replaces": "Barracks"
   },
   {
-    "name": "XB16",
+    "name": "Conquest Court",
     "cost": 130,
     "maintenance": 2,
-    "requiredTech": "D01-T50",
+    "requiredTech": "Codes of Law",
     "uniques": [
       "Removes extra unhappiness from annexed cities",
       "Only available <in [Annexed] cities>"
     ],
     "gold": 2,
     "specialistSlots": {},
-    "uniqueTo": "N08",
-    "replaces": "B44"
+    "uniqueTo": "Orc Empire",
+    "replaces": "Courthouse"
   },
   {
-    "name": "XB17",
+    "name": "Engineering Workshop",
     "cost": 75,
     "maintenance": 1,
-    "requiredTech": "D01-T06",
+    "requiredTech": "Basic Crafts",
     "uniques": [
       "[+15]% Production when constructing [攻城] units [in this city]"
     ],
     "production": 2,
     "specialistSlots": {},
-    "uniqueTo": "N09",
-    "replaces": "B02"
+    "uniqueTo": "Industrial Goblins",
+    "replaces": "Workshop"
   },
   {
-    "name": "XB18",
+    "name": "Final Assembly Plant",
     "cost": 410,
     "maintenance": 4,
-    "requiredTech": "D01-T36",
+    "requiredTech": "Grand Crafts",
     "uniques": [
       "[+15]% Production when constructing [构装] units [in this city]",
-      "Only available <in cities with a [B26]>"
+      "Only available <in cities with a [Precision Workshop]>"
     ],
     "production": 6,
     "specialistSlots": {
       "Engineer": 1
     },
-    "uniqueTo": "N09",
-    "replaces": "B35"
+    "uniqueTo": "Industrial Goblins",
+    "replaces": "Great Factory"
   },
   {
-    "name": "XB19",
+    "name": "Surveyors Guild",
     "cost": 145,
     "maintenance": 2,
-    "requiredTech": "D01-T21",
+    "requiredTech": "Guilds",
     "uniques": [
-      "Only available <in cities with a [B11]>"
+      "Only available <in cities with a [Market]>"
     ],
     "gold": 2,
     "production": 1,
@@ -1071,45 +1071,45 @@
     "specialistSlots": {
       "Merchant": 1
     },
-    "uniqueTo": "N10",
-    "replaces": "B17"
+    "uniqueTo": "Explorers Guild",
+    "replaces": "Guildhall"
   },
   {
-    "name": "XB20",
+    "name": "Expedition Archive",
     "cost": 380,
     "maintenance": 3,
-    "requiredTech": "D01-T87",
+    "requiredTech": "History and Classical Studies",
     "uniques": [
       "[+1 Culture] from every [Scientist]",
-      "Only available <in cities with a [B23]>"
+      "Only available <in cities with a [University]>"
     ],
     "science": 5,
     "culture": 2,
     "specialistSlots": {
       "Scientist": 1
     },
-    "uniqueTo": "N10",
-    "replaces": "B31"
+    "uniqueTo": "Explorers Guild",
+    "replaces": "Grand Library"
   },
   {
-    "name": "XB21",
+    "name": "Sleepless Library",
     "cost": 80,
     "maintenance": 1,
-    "requiredTech": "D01-T05",
+    "requiredTech": "Writing",
     "uniques": [],
     "science": 3,
     "specialistSlots": {},
-    "uniqueTo": "N11",
-    "replaces": "B03"
+    "uniqueTo": "Lich Dynasty",
+    "replaces": "Library"
   },
   {
-    "name": "XB22",
+    "name": "Meditation Institute",
     "cost": 310,
     "maintenance": 3,
-    "requiredTech": "D01-T79",
+    "requiredTech": "Soul Covenants",
     "uniques": [
       "[+15]% [Science] [in this city]",
-      "Only available <in cities with a [B14]>",
+      "Only available <in cities with a [Academy of Magic]>",
       "Requires at least [8] population"
     ],
     "science": 4,
@@ -1117,39 +1117,39 @@
     "specialistSlots": {
       "Scientist": 1
     },
-    "uniqueTo": "N11",
-    "replaces": "B27"
+    "uniqueTo": "Lich Dynasty",
+    "replaces": "Sourceflow Institute"
   },
   {
-    "name": "XB23",
+    "name": "Muster Monument Walls",
     "cost": 70,
     "maintenance": 0,
-    "requiredTech": "D01-T11",
+    "requiredTech": "City-State Organization",
     "uniques": [],
     "culture": 1,
     "specialistSlots": {},
     "cityStrength": 5,
     "cityHealth": 50,
-    "uniqueTo": "N12",
-    "replaces": "B08"
+    "uniqueTo": "Bone Empire",
+    "replaces": "Walls"
   },
   {
-    "name": "XB24",
+    "name": "Permanent Supply Depot",
     "cost": 230,
     "maintenance": 1,
-    "requiredTech": "D01-T85",
+    "requiredTech": "Mutual Defense",
     "uniques": [
       "[2] Unit Supply",
-      "Only available <in cities with a [B07]>"
+      "Only available <in cities with a [Barracks]>"
     ],
     "production": 1,
     "culture": 1,
     "specialistSlots": {},
-    "uniqueTo": "N12",
-    "replaces": "B64"
+    "uniqueTo": "Bone Empire",
+    "replaces": "Defense Depot"
   },
   {
-    "name": "B00",
+    "name": "Palace",
     "cost": 0,
     "gold": 3,
     "science": 3,
@@ -1166,8 +1166,8 @@
     ]
   },
   {
-    "name": "W01",
-    "requiredTech": "D01-T41",
+    "name": "Circle of the Ancestors",
+    "requiredTech": "Oral Tradition",
     "cost": 180,
     "maintenance": 0,
     "uniques": [
@@ -1181,8 +1181,8 @@
     "specialistSlots": {}
   },
   {
-    "name": "W02",
-    "requiredTech": "D01-T39",
+    "name": "Terraces of Plenty",
+    "requiredTech": "Irrigation",
     "cost": 185,
     "maintenance": 0,
     "uniques": [
@@ -1197,8 +1197,8 @@
     "specialistSlots": {}
   },
   {
-    "name": "W03",
-    "requiredTech": "D01-T07",
+    "name": "Lights of the Encircling Sea",
+    "requiredTech": "Coastal Navigation",
     "cost": 190,
     "maintenance": 0,
     "uniques": [
@@ -1215,8 +1215,8 @@
     "specialistSlots": {}
   },
   {
-    "name": "W04",
-    "requiredTech": "D01-T50",
+    "name": "Bronze Oath Memorial",
+    "requiredTech": "Codes of Law",
     "cost": 320,
     "maintenance": 0,
     "uniques": [
@@ -1225,7 +1225,7 @@
       "Cannot be hurried <hidden from users>",
       "New [{Land} {Military}] units start with [+15] XP [in this city]",
       "[+15]% Production when constructing [{Land} {Military}] units [in this city]",
-      "Only available <in cities with a [B07]>"
+      "Only available <in cities with a [Barracks]>"
     ],
     "isWonder": true,
     "production": 2,
@@ -1233,27 +1233,27 @@
     "specialistSlots": {}
   },
   {
-    "name": "W05",
-    "requiredTech": "D01-T09",
+    "name": "Festival of Crafts",
+    "requiredTech": "Riding",
     "cost": 320,
     "maintenance": 0,
     "uniques": [
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "Only available <in cities with a [B02]>"
+      "Only available <in cities with a [Workshop]>"
     ],
     "isWonder": true,
     "production": 4,
     "culture": 2,
     "specialistSlots": {},
     "greatPersonPoints": {
-      "C08": 2
+      "Great Artificer": 2
     }
   },
   {
-    "name": "W06",
-    "requiredTech": "D01-T53",
+    "name": "Mirror Lake Academy",
+    "requiredTech": "Symbolic Arts",
     "cost": 330,
     "maintenance": 0,
     "uniques": [
@@ -1261,7 +1261,7 @@
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
       "[+15]% [Science] [in this city]",
-      "Only available <in cities with a [B03]>",
+      "Only available <in cities with a [Library]>",
       "Must be next to [River]"
     ],
     "isWonder": true,
@@ -1269,12 +1269,12 @@
     "culture": 2,
     "specialistSlots": {},
     "greatPersonPoints": {
-      "C07": 2
+      "Great Scholar": 2
     }
   },
   {
-    "name": "W07",
-    "requiredTech": "D01-T58",
+    "name": "League of a Hundred Ports",
+    "requiredTech": "Diplomatic Envoys",
     "cost": 500,
     "maintenance": 0,
     "uniques": [
@@ -1283,7 +1283,7 @@
       "Cannot be hurried <hidden from users>",
       "Gifts of Gold to City-States generate [+15]% more Influence",
       "[+1 Gold] from [Water] tiles [in this city]",
-      "Only available <in cities with a [B10]>",
+      "Only available <in cities with a [Harbor]>",
       "Must be next to [Coast]"
     ],
     "isWonder": true,
@@ -1292,15 +1292,15 @@
     "specialistSlots": {}
   },
   {
-    "name": "W08",
-    "requiredTech": "D01-T27",
+    "name": "Ancient Grove Covenant",
+    "requiredTech": "Covenants of Life",
     "cost": 480,
     "maintenance": 0,
     "uniques": [
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "Free [H03] appears <when number of [[H03] Units] is equal to [0]>",
+      "Free [Guardian of the Wilds] appears <when number of [[Guardian of the Wilds] Units] is equal to [0]>",
       "Must have an owned [Forest] within [3] tiles"
     ],
     "isWonder": true,
@@ -1309,32 +1309,32 @@
     "specialistSlots": {}
   },
   {
-    "name": "W09",
-    "requiredTech": "D01-T60",
+    "name": "Throne of Military Oaths",
+    "requiredTech": "Garrison Systems",
     "cost": 520,
     "maintenance": 0,
     "uniques": [
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "Free [H01] appears <when number of [[H01] Units] is equal to [0]>",
-      "Only available <in cities with a [B07]>"
+      "Free [Oathsworn Commander] appears <when number of [[Oathsworn Commander] Units] is equal to [0]>",
+      "Only available <in cities with a [Barracks]>"
     ],
     "isWonder": true,
     "culture": 2,
     "specialistSlots": {}
   },
   {
-    "name": "W10",
-    "requiredTech": "D01-T67",
+    "name": "Gallery of Star Charts",
+    "requiredTech": "Star Charts",
     "cost": 750,
     "maintenance": 0,
     "uniques": [
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "Free [H02] appears <when number of [[H02] Units] is equal to [0]>",
-      "Only available <in cities with a [B14]>"
+      "Free [Star-Mirror Sage] appears <when number of [[Star-Mirror Sage] Units] is equal to [0]>",
+      "Only available <in cities with a [Academy of Magic]>"
     ],
     "isWonder": true,
     "science": 4,
@@ -1342,8 +1342,8 @@
     "specialistSlots": {}
   },
   {
-    "name": "W11",
-    "requiredTech": "D01-T66",
+    "name": "Dome of Deliberation",
+    "requiredTech": "Citizenship",
     "cost": 720,
     "maintenance": 0,
     "uniques": [
@@ -1352,15 +1352,15 @@
       "Cannot be hurried <hidden from users>",
       "[-10]% Culture cost of adopting new Policies",
       "[+2 Happiness]",
-      "Only available <in cities with a [B41]>"
+      "Only available <in cities with a [Council Hall]>"
     ],
     "isWonder": true,
     "culture": 4,
     "specialistSlots": {}
   },
   {
-    "name": "W12",
-    "requiredTech": "D01-T30",
+    "name": "Great Rune Forge",
+    "requiredTech": "Elemental Shaping",
     "cost": 760,
     "maintenance": 0,
     "uniques": [
@@ -1368,19 +1368,19 @@
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
       "[+20]% Production when constructing [构装] units [in all cities]",
-      "Only available <in cities with a [B26]>"
+      "Only available <in cities with a [Precision Workshop]>"
     ],
     "isWonder": true,
     "production": 6,
     "science": 2,
     "specialistSlots": {},
     "greatPersonPoints": {
-      "C08": 1
+      "Great Artificer": 1
     }
   },
   {
-    "name": "W13",
-    "requiredTech": "D01-T84",
+    "name": "Centennial Exposition",
+    "requiredTech": "Cultural Exchange",
     "cost": 1000,
     "maintenance": 0,
     "uniques": [
@@ -1388,18 +1388,18 @@
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
       "Free Social Policy",
-      "Only available <in cities with a [B13]>"
+      "Only available <in cities with a [Theater]>"
     ],
     "isWonder": true,
     "culture": 6,
     "specialistSlots": {},
     "greatPersonPoints": {
-      "C10": 2
+      "Great Artist": 2
     }
   },
   {
-    "name": "W14",
-    "requiredTech": "D01-T81",
+    "name": "Vault of All Roads",
+    "requiredTech": "Trade Charters",
     "cost": 1000,
     "maintenance": 0,
     "uniques": [
@@ -1407,15 +1407,15 @@
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
       "[-15]% Gold cost of upgrading",
-      "Only available <in cities with a [B22]>"
+      "Only available <in cities with a [Bank]>"
     ],
     "isWonder": true,
     "gold": 8,
     "specialistSlots": {}
   },
   {
-    "name": "W15",
-    "requiredTech": "D01-T80",
+    "name": "Great Garden of Life",
+    "requiredTech": "Ecological Accords",
     "cost": 1050,
     "maintenance": 0,
     "uniques": [
@@ -1423,7 +1423,7 @@
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
       "[+10]% growth [in all cities]",
-      "Only available <in cities with a [B61]>"
+      "Only available <in cities with a [Ecological Garden]>"
     ],
     "isWonder": true,
     "food": 4,
@@ -1431,8 +1431,8 @@
     "specialistSlots": {}
   },
   {
-    "name": "W16",
-    "requiredTech": "D01-T86",
+    "name": "Hall of the Heavens",
+    "requiredTech": "Celestial Surveying",
     "cost": 1400,
     "maintenance": 0,
     "uniques": [
@@ -1440,7 +1440,7 @@
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
       "[+10]% [Science] [in all cities]",
-      "Only available <in cities with a [B31]>"
+      "Only available <in cities with a [Grand Library]>"
     ],
     "isWonder": true,
     "science": 8,
@@ -1448,16 +1448,16 @@
     "specialistSlots": {}
   },
   {
-    "name": "W17",
-    "requiredTech": "D01-T93",
+    "name": "Covenant of Dragons",
+    "requiredTech": "Enduring Memory",
     "cost": 1350,
     "maintenance": 0,
     "uniques": [
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "Free [H04] appears <when number of [[H04] Units] is equal to [0]>",
-      "Only available <in cities with a [B24]>",
+      "Free [Ancient Oath Dragon] appears <when number of [[Ancient Oath Dragon] Units] is equal to [0]>",
+      "Only available <in cities with a [Life Research Hall]>",
       "Must have an owned [Natural Wonder] within [3] tiles"
     ],
     "isWonder": true,
@@ -1466,8 +1466,8 @@
     "specialistSlots": {}
   },
   {
-    "name": "W18",
-    "requiredTech": "D01-T92",
+    "name": "Assembly of Nations",
+    "requiredTech": "Charter of Shared Rule",
     "cost": 1400,
     "maintenance": 0,
     "uniques": [
@@ -1476,7 +1476,7 @@
       "Cannot be hurried <hidden from users>",
       "Triggers voting for the Diplomatic Victory",
       "[+2 Happiness]",
-      "Only available <in cities with a [B21]>",
+      "Only available <in cities with a [Administration Hall]>",
       "Only available <when [Diplomatic] Victory is enabled>"
     ],
     "isWonder": true,
@@ -1484,8 +1484,8 @@
     "specialistSlots": {}
   },
   {
-    "name": "W19",
-    "requiredTech": "D01-T93",
+    "name": "Council of the Gods",
+    "requiredTech": "Enduring Memory",
     "cost": 1300,
     "maintenance": 0,
     "uniques": [
@@ -1493,7 +1493,7 @@
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
       "Gain a free [Enhancer] belief",
-      "Only available <in cities with a [B69]>",
+      "Only available <in cities with a [Sanctuary of Memory]>",
       "Only available <when religion is enabled>",
       "Only available <after enhancing a religion>",
       "Triggers a global alert upon build start",
@@ -1505,8 +1505,8 @@
     "specialistSlots": {}
   },
   {
-    "name": "W20",
-    "requiredTech": "D01-T87",
+    "name": "Atlas of the World",
+    "requiredTech": "History and Classical Studies",
     "cost": 1250,
     "maintenance": 0,
     "uniques": [
@@ -1515,7 +1515,7 @@
       "Cannot be hurried <hidden from users>",
       "Reveals the entire map",
       "Free Social Policy",
-      "Only available <in cities with a [B49]>",
+      "Only available <in cities with a [Survey Hall]>",
       "Triggers a global alert upon build start",
       "Triggers a global alert upon completion"
     ],
@@ -1525,19 +1525,19 @@
     "specialistSlots": {}
   },
   {
-    "name": "W21",
-    "requiredTech": "D01-T94",
+    "name": "Resonance Calibration Array",
+    "requiredTech": "Resonance of Heaven and Earth",
     "cost": 1200,
     "maintenance": 0,
     "uniques": [
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "[+50]% Production when constructing [S01] units [in all cities]",
-      "[+50]% Production when constructing [S02] units [in all cities]",
-      "[+50]% Production when constructing [S03] units [in all cities]",
-      "[+50]% Production when constructing [S04] units [in all cities]",
-      "Only available <in cities with a [B80]>",
+      "[+50]% Production when constructing [Resonance Anchor] units [in all cities]",
+      "[+50]% Production when constructing [Stellar Matrix] units [in all cities]",
+      "[+50]% Production when constructing [Stabilization Core] units [in all cities]",
+      "[+50]% Production when constructing [Material Calibrator] units [in all cities]",
+      "Only available <in cities with a [Sealing Node]>",
       "Only available <when [Scientific] Victory is enabled>",
       "Triggers a global alert upon build start",
       "Triggers a global alert upon completion"
@@ -1547,8 +1547,8 @@
     "specialistSlots": {}
   },
   {
-    "name": "K01",
-    "requiredTech": "D01-T17",
+    "name": "Capital Archive",
+    "requiredTech": "Education",
     "cost": 240,
     "maintenance": 0,
     "uniques": [
@@ -1557,8 +1557,8 @@
       "Cannot be hurried <hidden from users>",
       "[+25]% [Science] [in this city]",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [B03]>",
-      "Only available <in cities with a [B12]>",
+      "Only available <in cities with a [Library]>",
+      "Only available <in cities with a [School]>",
       "Requires at least [6] population"
     ],
     "isNationalWonder": true,
@@ -1566,8 +1566,8 @@
     "specialistSlots": {}
   },
   {
-    "name": "K02",
-    "requiredTech": "D01-T22",
+    "name": "Legion Banner",
+    "requiredTech": "Military Formations",
     "cost": 320,
     "maintenance": 0,
     "uniques": [
@@ -1576,16 +1576,16 @@
       "Cannot be hurried <hidden from users>",
       "[+10]% Production when constructing [{Land} {Military}] units [in this city]",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [B07]>",
-      "Only available <in cities with a [B19]>"
+      "Only available <in cities with a [Barracks]>",
+      "Only available <in cities with a [Armory]>"
     ],
     "isNationalWonder": true,
     "production": 3,
     "specialistSlots": {}
   },
   {
-    "name": "K03",
-    "requiredTech": "D01-T21",
+    "name": "Ledger of All Markets",
+    "requiredTech": "Guilds",
     "cost": 320,
     "maintenance": 0,
     "uniques": [
@@ -1594,16 +1594,16 @@
       "Cannot be hurried <hidden from users>",
       "[+25]% [Gold] [in this city]",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [B11]>",
-      "Only available <in cities with a [B22]>"
+      "Only available <in cities with a [Market]>",
+      "Only available <in cities with a [Bank]>"
     ],
     "isNationalWonder": true,
     "gold": 5,
     "specialistSlots": {}
   },
   {
-    "name": "K04",
-    "requiredTech": "D01-T26",
+    "name": "College of Arts",
+    "requiredTech": "Higher Learning",
     "cost": 450,
     "maintenance": 0,
     "uniques": [
@@ -1612,8 +1612,8 @@
       "Cannot be hurried <hidden from users>",
       "[+20]% Great Person generation [in this city]",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [B13]>",
-      "Only available <in cities with a [B12]>"
+      "Only available <in cities with a [Theater]>",
+      "Only available <in cities with a [School]>"
     ],
     "isNationalWonder": true,
     "culture": 4,
@@ -1621,8 +1621,8 @@
     "specialistSlots": {}
   },
   {
-    "name": "K05",
-    "requiredTech": "D01-T30",
+    "name": "Source Study Society",
+    "requiredTech": "Elemental Shaping",
     "cost": 600,
     "maintenance": 0,
     "uniques": [
@@ -1631,8 +1631,8 @@
       "Cannot be hurried <hidden from users>",
       "[+15]% Great Person generation [in this city]",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [B14]>",
-      "Only available <in cities with a [B27]>"
+      "Only available <in cities with a [Academy of Magic]>",
+      "Only available <in cities with a [Sourceflow Institute]>"
     ],
     "isNationalWonder": true,
     "science": 3,
@@ -1640,8 +1640,8 @@
     "specialistSlots": {}
   },
   {
-    "name": "K06",
-    "requiredTech": "D01-T33",
+    "name": "Maritime and Land Governorate",
+    "requiredTech": "War Coordination",
     "cost": 600,
     "maintenance": 0,
     "uniques": [
@@ -1650,8 +1650,8 @@
       "Cannot be hurried <hidden from users>",
       "[+1] Movement <for [{Water} {Military}] units>",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [B10]>",
-      "Only available <in cities with a [B63]>",
+      "Only available <in cities with a [Harbor]>",
+      "Only available <in cities with a [Expedition Camp]>",
       "Must be next to [Coast]"
     ],
     "isNationalWonder": true,
@@ -1660,8 +1660,8 @@
     "specialistSlots": {}
   },
   {
-    "name": "K07",
-    "requiredTech": "D01-T35",
+    "name": "Grand Civic Assembly",
+    "requiredTech": "Governance of Nations",
     "cost": 650,
     "maintenance": 0,
     "uniques": [
@@ -1670,8 +1670,8 @@
       "Cannot be hurried <hidden from users>",
       "[-5]% Unhappiness from [Population] [in all cities]",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [B53]>",
-      "Only available <in cities with a [B21]>"
+      "Only available <in cities with a [Civic Hall]>",
+      "Only available <in cities with a [Administration Hall]>"
     ],
     "isNationalWonder": true,
     "culture": 4,
@@ -1679,8 +1679,8 @@
     "specialistSlots": {}
   },
   {
-    "name": "K08",
-    "requiredTech": "D01-T87",
+    "name": "Comprehensive Geography",
+    "requiredTech": "History and Classical Studies",
     "cost": 650,
     "maintenance": 0,
     "uniques": [
@@ -1688,8 +1688,8 @@
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [B49]>",
-      "Only available <in cities with a [B23]>"
+      "Only available <in cities with a [Survey Hall]>",
+      "Only available <in cities with a [University]>"
     ],
     "isNationalWonder": true,
     "science": 6,
@@ -1697,8 +1697,8 @@
     "specialistSlots": {}
   },
   {
-    "name": "K09",
-    "requiredTech": "D01-T92",
+    "name": "Heritage Council",
+    "requiredTech": "Charter of Shared Rule",
     "cost": 650,
     "maintenance": 0,
     "uniques": [
@@ -1707,7 +1707,7 @@
       "Cannot be hurried <hidden from users>",
       "Gifts of Gold to City-States generate [+10]% more Influence",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [B13]>"
+      "Only available <in cities with a [Theater]>"
     ],
     "isNationalWonder": true,
     "culture": 4,
@@ -1715,18 +1715,18 @@
     "specialistSlots": {}
   },
   {
-    "name": "K10",
-    "requiredTech": "D01-T80",
+    "name": "Rootwatch",
+    "requiredTech": "Ecological Accords",
     "cost": 700,
     "maintenance": 0,
     "uniques": [
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "[+1 Culture] from [I28] tiles [in all cities]",
+      "[+1 Culture] from [Spiritroot Reserve] tiles [in all cities]",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [B78]>",
-      "Must have an owned [I28] within [3] tiles"
+      "Only available <in cities with a [Root Council]>",
+      "Must have an owned [Spiritroot Reserve] within [3] tiles"
     ],
     "isNationalWonder": true,
     "culture": 3,
@@ -1734,8 +1734,8 @@
     "specialistSlots": {}
   },
   {
-    "name": "J01",
-    "requiredTech": "D01-T94",
+    "name": "Origin Observation Project",
+    "requiredTech": "Resonance of Heaven and Earth",
     "cost": 1200,
     "maintenance": 0,
     "uniques": [
@@ -1744,7 +1744,7 @@
       "Cannot be hurried <hidden from users>",
       "Enables construction of Spaceship parts",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [B36]>",
+      "Only available <in cities with a [Source Observatory]>",
       "Only available <in [Capital] cities>",
       "Only available <when [Scientific] Victory is enabled>",
       "Triggers a global alert upon completion"
@@ -1753,8 +1753,8 @@
     "specialistSlots": {}
   },
   {
-    "name": "J02",
-    "requiredTech": "D01-T96",
+    "name": "Great Chronicle of Civilizations",
+    "requiredTech": "Heritage of Nations",
     "cost": 1800,
     "maintenance": 0,
     "uniques": [
@@ -1762,7 +1762,7 @@
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [B66]>",
+      "Only available <in cities with a [Museum of Civilizations]>",
       "Only available <in [Capital] cities>",
       "Only available <when [Cultural] Victory is enabled>",
       "Only available <when number of [Completed Policy branches] is more than [4]>",
@@ -1773,20 +1773,20 @@
     "specialistSlots": {}
   },
   {
-    "name": "K11",
-    "requiredTech": "D01-T19",
+    "name": "Sea Road Oathhall",
+    "requiredTech": "Ocean Navigation",
     "cost": 500,
     "maintenance": 0,
     "uniques": [
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "Free [H09] appears <when number of [[P71] Units] is less than [2]> <when number of [[H09] Units] is equal to [0]>",
+      "Free [Sea Road Navigator] appears <when number of [[Visitor Covenant Seal] Units] is less than [2]> <when number of [[Sea Road Navigator] Units] is equal to [0]>",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [B55]>",
+      "Only available <in cities with a [Supply Harbor]>",
       "Must be next to [Coast]",
-      "Only available <when number of [[P71] Units] is less than [2]>",
-      "Only available <when number of [[H09] Units] is equal to [0]>"
+      "Only available <when number of [[Visitor Covenant Seal] Units] is less than [2]>",
+      "Only available <when number of [[Sea Road Navigator] Units] is equal to [0]>"
     ],
     "isNationalWonder": true,
     "culture": 1,
@@ -1794,21 +1794,21 @@
     "specialistSlots": {}
   },
   {
-    "name": "K12",
-    "requiredTech": "D01-T30",
+    "name": "Artificers Council",
+    "requiredTech": "Elemental Shaping",
     "cost": 600,
     "maintenance": 0,
     "uniques": [
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "Free [H11] appears <when number of [[P71] Units] is less than [2]> <when number of [[H11] Units] is equal to [0]> <with [R02]> <with [R03]>",
+      "Free [Hundredforge Artificer] appears <when number of [[Visitor Covenant Seal] Units] is less than [2]> <when number of [[Hundredforge Artificer] Units] is equal to [0]> <with [Iron]> <with [Mana Crystals]>",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [B26]>",
-      "Only available <with [R02]>",
-      "Only available <with [R03]>",
-      "Only available <when number of [[P71] Units] is less than [2]>",
-      "Only available <when number of [[H11] Units] is equal to [0]>"
+      "Only available <in cities with a [Precision Workshop]>",
+      "Only available <with [Iron]>",
+      "Only available <with [Mana Crystals]>",
+      "Only available <when number of [[Visitor Covenant Seal] Units] is less than [2]>",
+      "Only available <when number of [[Hundredforge Artificer] Units] is equal to [0]>"
     ],
     "isNationalWonder": true,
     "production": 2,
@@ -1816,7 +1816,7 @@
     "specialistSlots": {}
   },
   {
-    "name": "B70",
+    "name": "Dawnoath Chapel",
     "cost": 200,
     "uniques": [
       "Unbuildable",
@@ -1828,7 +1828,7 @@
     "specialistSlots": {}
   },
   {
-    "name": "B71",
+    "name": "Monastery of Life",
     "cost": 220,
     "uniques": [
       "Unbuildable",
@@ -1839,7 +1839,7 @@
     "specialistSlots": {}
   },
   {
-    "name": "B72",
+    "name": "Greenring Shrine",
     "cost": 200,
     "uniques": [
       "Unbuildable",
@@ -1850,7 +1850,7 @@
     "specialistSlots": {}
   },
   {
-    "name": "B73",
+    "name": "Hearth Sanctuary",
     "cost": 220,
     "uniques": [
       "Unbuildable",
@@ -1861,7 +1861,7 @@
     "specialistSlots": {}
   },
   {
-    "name": "B74",
+    "name": "Tideway Meeting Hall",
     "cost": 200,
     "uniques": [
       "Unbuildable",
@@ -1872,7 +1872,7 @@
     "specialistSlots": {}
   },
   {
-    "name": "B75",
+    "name": "Hall of Quiet Memory",
     "cost": 220,
     "uniques": [
       "Unbuildable",

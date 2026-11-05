@@ -1,6 +1,6 @@
 [
   {
-    "name": "R01",
+    "name": "Horses",
     "resourceType": "Strategic",
     "terrainsCanBeFoundOn": [
       "Grassland",
@@ -16,7 +16,7 @@
       "Minor deposits generated with weight [30] <in [{Featureless} {Plains}] tiles>"
     ],
     "production": 1,
-    "revealedBy": "D01-T02",
+    "revealedBy": "Hunting and Husbandry",
     "improvedBy": [
       "Pasture"
     ],
@@ -32,7 +32,7 @@
     }
   },
   {
-    "name": "R02",
+    "name": "Iron",
     "resourceType": "Strategic",
     "terrainsCanBeFoundOn": [
       "Hill",
@@ -48,7 +48,7 @@
       "Minor deposits generated with weight [20] <in [{Featureless} {Plains}] tiles>"
     ],
     "production": 1,
-    "revealedBy": "D01-T08",
+    "revealedBy": "Smelting",
     "improvedBy": [
       "Mine"
     ],
@@ -64,7 +64,7 @@
     }
   },
   {
-    "name": "R03",
+    "name": "Mana Crystals",
     "resourceType": "Strategic",
     "terrainsCanBeFoundOn": [
       "Hill",
@@ -82,9 +82,9 @@
       "Minor deposits generated with weight [10] <in [{Featureless} {Grassland}] tiles>"
     ],
     "science": 1,
-    "revealedBy": "D01-T04",
+    "revealedBy": "Rituals",
     "improvedBy": [
-      "I30",
+      "Ley Extractor",
       "Mine"
     ],
     "majorDepositAmount": {
@@ -99,7 +99,7 @@
     }
   },
   {
-    "name": "R04",
+    "name": "Mithril",
     "resourceType": "Strategic",
     "terrainsCanBeFoundOn": [
       "Hill"
@@ -109,7 +109,7 @@
       "Minor deposits generated with weight [5] <in [Hill] tiles>"
     ],
     "production": 1,
-    "revealedBy": "D01-T28",
+    "revealedBy": "Mithril Metallurgy",
     "improvedBy": [
       "Mine"
     ],
@@ -125,7 +125,7 @@
     }
   },
   {
-    "name": "R05",
+    "name": "Wheat",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": [
       "Plains",
@@ -143,7 +143,7 @@
     ]
   },
   {
-    "name": "R06",
+    "name": "Livestock",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": [
       "Grassland"
@@ -159,7 +159,7 @@
     ]
   },
   {
-    "name": "R07",
+    "name": "Fish",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": [
       "Coast"
@@ -174,7 +174,7 @@
     ]
   },
   {
-    "name": "R08",
+    "name": "Stone",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": [
       "Grassland",
@@ -194,7 +194,7 @@
     ]
   },
   {
-    "name": "R09",
+    "name": "Deer",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": [
       "Forest",
@@ -210,7 +210,7 @@
     ]
   },
   {
-    "name": "R10",
+    "name": "Silver",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
       "Hill"
@@ -225,7 +225,7 @@
     ]
   },
   {
-    "name": "R11",
+    "name": "Gems",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
       "Hill"
@@ -240,7 +240,7 @@
     ]
   },
   {
-    "name": "R12",
+    "name": "Silk",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
       "Forest"
@@ -255,7 +255,7 @@
     ]
   },
   {
-    "name": "R13",
+    "name": "Spices",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
       "Grassland",
@@ -272,7 +272,7 @@
     ]
   },
   {
-    "name": "R14",
+    "name": "Incense",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
       "Plains",
@@ -290,7 +290,7 @@
     ]
   },
   {
-    "name": "R15",
+    "name": "Pearls",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
       "Coast"
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "name": "R16",
+    "name": "Herbs",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": [
       "Forest",
@@ -319,7 +319,7 @@
       "Generated on every [50] tiles <in [{Featureless} {Plains}] tiles>"
     ],
     "food": 1,
-    "revealedBy": "D01-T42",
+    "revealedBy": "Herbalism",
     "improvedBy": [
       "Camp"
     ],
@@ -328,7 +328,7 @@
     }
   },
   {
-    "name": "R17",
+    "name": "Amber",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
       "Forest"
@@ -343,7 +343,7 @@
     ]
   },
   {
-    "name": "R18",
+    "name": "Night Jade",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
       "Hill"
@@ -355,7 +355,7 @@
       "Generated near City States with weight [1]"
     ],
     "gold": 2,
-    "revealedBy": "D01-T64",
+    "revealedBy": "Mirror Arts",
     "improvedBy": [
       "Mine"
     ],
@@ -364,7 +364,7 @@
     }
   },
   {
-    "name": "R19",
+    "name": "Grapes",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
       "Grassland",
@@ -382,7 +382,7 @@
     ]
   },
   {
-    "name": "R20",
+    "name": "Rock Salt",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
       "Desert",
@@ -401,7 +401,7 @@
     }
   },
   {
-    "name": "R21",
+    "name": "Berries",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": [
       "Forest",
@@ -412,7 +412,7 @@
       "Generated on every [44] tiles <in [{Featureless} {Grassland}] tiles>"
     ],
     "food": 1,
-    "revealedBy": "D01-T39",
+    "revealedBy": "Irrigation",
     "improvedBy": [
       "Plantation"
     ],
@@ -421,7 +421,7 @@
     }
   },
   {
-    "name": "R27",
+    "name": "Copper",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": [
       "Hill",
@@ -442,7 +442,7 @@
     }
   },
   {
-    "name": "R28",
+    "name": "Clay",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": [
       "Grassland",
@@ -458,11 +458,11 @@
     ],
     "production": 1,
     "improvedBy": [
-      "I32"
+      "Kiln"
     ]
   },
   {
-    "name": "R29",
+    "name": "Sheep",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": [
       "Hill",
@@ -485,7 +485,7 @@
     }
   },
   {
-    "name": "R30",
+    "name": "Honey",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
       "Forest",
@@ -497,11 +497,11 @@
     ],
     "food": 1,
     "improvedBy": [
-      "I33"
+      "Apiary"
     ]
   },
   {
-    "name": "R31",
+    "name": "Dyes",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
       "Jungle",
@@ -518,7 +518,7 @@
     ]
   },
   {
-    "name": "R32",
+    "name": "Spirit Spring",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": [
       "Forest",
@@ -531,13 +531,13 @@
       "Generated on every [100] tiles <in [{Featureless} {Tundra}] tiles>"
     ],
     "faith": 1,
-    "revealedBy": "D01-T42",
+    "revealedBy": "Herbalism",
     "improvedBy": [
-      "I31"
+      "Spring Garden"
     ]
   },
   {
-    "name": "R33",
+    "name": "Whales",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
       "Coast"
@@ -553,7 +553,7 @@
     ]
   },
   {
-    "name": "R25",
+    "name": "Research Ritual Active",
     "resourceType": "Strategic",
     "terrainsCanBeFoundOn": [],
     "uniques": [
@@ -563,7 +563,7 @@
     ]
   },
   {
-    "name": "R26",
+    "name": "National Ward Active",
     "resourceType": "Strategic",
     "terrainsCanBeFoundOn": [],
     "uniques": [

@@ -173,11 +173,11 @@
         "link": "Improvement/Farm"
       },
       {
-        "text": "D01-T39",
+        "text": "Irrigation",
         "link": "Technology/Civil Service"
       },
       {
-        "text": "D01-T83",
+        "text": "Medicine",
         "link": "Technology/Fertilizer"
       }
     ]
@@ -403,11 +403,11 @@
         "link": "Improvement/Farm"
       },
       {
-        "text": "D01-T39",
+        "text": "Irrigation",
         "link": "Technology/Civil Service"
       },
       {
-        "text": "D01-T83",
+        "text": "Medicine",
         "link": "Technology/Fertilizer"
       }
     ]
@@ -497,15 +497,15 @@
         "link": "Improvement/Road"
       },
       {
-        "text": "D01-T71",
+        "text": "Structural Engineering",
         "link": "Technology/Engineering"
       },
       {
-        "text": "D01-T39",
+        "text": "Irrigation",
         "link": "Technology/Civil Service"
       },
       {
-        "text": "D01-T83",
+        "text": "Medicine",
         "link": "Technology/Fertilizer"
       },
       {
@@ -530,7 +530,7 @@
     ]
   },
   {
-    "name": "NW01",
+    "name": "Crystalsleep Mountains",
     "type": "NaturalWonder",
     "occursOn": [
       "Mountain",
@@ -539,16 +539,16 @@
     "turnsInto": "Mountain",
     "weight": 10,
     "uniques": [
-      "Grants [P37] ([NW01]) to adjacent [术士] units for the rest of the game",
-      "Grants [P37] ([NW01]) to adjacent [死灵] units for the rest of the game",
-      "Grants [P37] ([NW01]) to adjacent [英雄施法] units for the rest of the game"
+      "Grants [Crystal Ward Covenant] ([Crystalsleep Mountains]) to adjacent [术士] units for the rest of the game",
+      "Grants [Crystal Ward Covenant] ([Crystalsleep Mountains]) to adjacent [死灵] units for the rest of the game",
+      "Grants [Crystal Ward Covenant] ([Crystalsleep Mountains]) to adjacent [英雄施法] units for the rest of the game"
     ],
     "science": 4,
     "faith": 2,
     "impassable": true
   },
   {
-    "name": "NW02",
+    "name": "Dragonbone Plateau",
     "type": "NaturalWonder",
     "occursOn": [
       "Hill",
@@ -557,13 +557,13 @@
     "turnsInto": "Plains",
     "weight": 10,
     "uniques": [
-      "Grants [P40] ([NW02]) to adjacent [{Land} {Military}] units for the rest of the game"
+      "Grants [Witness of the Ancestors] ([Dragonbone Plateau]) to adjacent [{Land} {Military}] units for the rest of the game"
     ],
     "production": 3,
     "culture": 3
   },
   {
-    "name": "NW03",
+    "name": "Star-Mirror Lake",
     "type": "NaturalWonder",
     "occursOn": [
       "Lakes",
@@ -578,7 +578,7 @@
     "science": 3
   },
   {
-    "name": "NW04",
+    "name": "Evergreen Sacred Grove",
     "type": "NaturalWonder",
     "occursOn": [
       "Grassland",
@@ -587,15 +587,15 @@
     "turnsInto": "Grassland",
     "weight": 10,
     "uniques": [
-      "Grants [P38] ([NW04]) to adjacent [医护] units for the rest of the game",
-      "Grants [P38] ([NW04]) to adjacent [英雄近战] units for the rest of the game"
+      "Grants [Springwood Covenant] ([Evergreen Sacred Grove]) to adjacent [医护] units for the rest of the game",
+      "Grants [Springwood Covenant] ([Evergreen Sacred Grove]) to adjacent [英雄近战] units for the rest of the game"
     ],
     "food": 3,
     "faith": 2,
     "culture": 1
   },
   {
-    "name": "NW05",
+    "name": "Singing Tide Pillars",
     "type": "NaturalWonder",
     "occursOn": [
       "Coast"
@@ -603,14 +603,14 @@
     "turnsInto": "Coast",
     "weight": 10,
     "uniques": [
-      "Grants [P39] ([NW05]) to adjacent [{Water} {Military}] units for the rest of the game"
+      "Grants [Tidal Navigation] ([Singing Tide Pillars]) to adjacent [{Water} {Military}] units for the rest of the game"
     ],
     "gold": 2,
     "faith": 3,
     "production": 2
   },
   {
-    "name": "NW06",
+    "name": "Ember Furnace Peak",
     "type": "NaturalWonder",
     "occursOn": [
       "Mountain"
@@ -623,7 +623,7 @@
     "impassable": true
   },
   {
-    "name": "NW07",
+    "name": "Amber Sunken Forest",
     "type": "NaturalWonder",
     "occursOn": [
       "Plains",
@@ -637,7 +637,7 @@
     "culture": 1
   },
   {
-    "name": "NW08",
+    "name": "Mirror Salt Basin",
     "type": "NaturalWonder",
     "occursOn": [
       "Desert",
@@ -650,7 +650,7 @@
     "science": 3
   },
   {
-    "name": "NW09",
+    "name": "Iceblue Springs",
     "type": "NaturalWonder",
     "occursOn": [
       "Tundra",
@@ -665,7 +665,7 @@
     "faith": 2
   },
   {
-    "name": "NW10",
+    "name": "Thunderstone Plains",
     "type": "NaturalWonder",
     "occursOn": [
       "Hill",
@@ -678,7 +678,7 @@
     "science": 2
   },
   {
-    "name": "NW11",
+    "name": "Giant Fern Rain Valley",
     "type": "NaturalWonder",
     "occursOn": [
       "Grassland",
@@ -693,7 +693,7 @@
     "culture": 2
   },
   {
-    "name": "NW12",
+    "name": "Migrating Whale Bay",
     "type": "NaturalWonder",
     "occursOn": [
       "Coast"
@@ -705,7 +705,7 @@
     "gold": 3
   },
   {
-    "name": "NW13",
+    "name": "Silent Sand Sea",
     "type": "NaturalWonder",
     "occursOn": [
       "Desert"
@@ -720,7 +720,7 @@
     "science": 1
   },
   {
-    "name": "NW14",
+    "name": "Skycleft Gorge",
     "type": "NaturalWonder",
     "occursOn": [
       "Mountain",
