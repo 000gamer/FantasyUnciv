@@ -1,157 +1,156 @@
 [
   {
-    "name": "Civic Tradition",
+    "name": "Tradition",
     "era": "I",
     "uniques": [
-      "[+3 Culture] [in capital]",
+      "[+2 Culture] [in capital]",
       "[-25]% Culture cost of natural border growth [in capital]"
     ],
     "priorities": {
       "Cultural": 8,
       "Diplomatic": 4,
       "Domination": 3,
-      "Scientific": 7,
+      "Scientific": 6,
       "Neutral": 6,
       "Time": 6
     },
     "policies": [
       {
-        "name": "Public Granaries",
+        "name": "Oral Heritage",
         "requires": [
-          "Civic Tradition"
+          "Tradition"
         ],
         "row": 1,
         "column": 1,
-        "uniques": [
-          "[+2 Food] [in capital]"
-        ]
-      },
-      {
-        "name": "Public Learning",
-        "requires": [
-          "Civic Tradition"
-        ],
-        "row": 1,
-        "column": 3,
         "uniques": [
           "Provides the cheapest [Culture] building in your first [4] cities for free"
         ]
       },
       {
-        "name": "City Guard",
+        "name": "Social Order",
         "requires": [
-          "Civic Tradition"
+          "Tradition"
+        ],
+        "row": 1,
+        "column": 3,
+        "uniques": [
+          "[-5]% Unhappiness from [Population] [in all non-occupied cities]"
+        ]
+      },
+      {
+        "name": "Historical Memory",
+        "requires": [
+          "Tradition"
         ],
         "row": 1,
         "column": 5,
         "uniques": [
-          "Units in cities cost no Maintenance"
+          "[+2 Culture] from every [Wonder]"
         ]
       },
       {
-        "name": "City Charters",
+        "name": "Traditional Learning",
         "requires": [
-          "Public Granaries"
+          "Historical Memory"
         ],
         "row": 2,
         "column": 4,
         "uniques": [
-          "[+1 Gold, +1 Happiness] per [2] population [in capital]"
+          "[+1 Science] from every [Library]"
         ]
       },
       {
-        "name": "Court Construction",
+        "name": "Cultural Flourishing",
         "requires": [
-          "Public Learning"
+          "Oral Heritage"
         ],
         "row": 2,
         "column": 2,
         "uniques": [
-          "[+15]% Production when constructing [All] wonders [in capital]"
+          "[+10]% [Culture] [in all cities]"
         ]
       },
       {
-        "name": "Civic Tradition Complete",
+        "name": "Tradition Complete",
         "requires": [
-          "Public Granaries",
-          "Public Learning",
-          "City Guard",
-          "City Charters",
-          "Court Construction"
+          "Oral Heritage",
+          "Social Order",
+          "Historical Memory",
+          "Traditional Learning",
+          "Cultural Flourishing"
         ],
         "uniques": [
-          "[+10]% growth [in capital]",
-          "[+10]% Great Person generation [in capital]"
+          "[+1 Culture] [in all cities]",
+          "[-10]% Culture cost of adopting new Policies"
         ]
       }
     ]
   },
   {
-    "name": "Frontier and Autonomy",
+    "name": "Civic",
     "era": "I",
     "uniques": [
-      "[+1 Culture] [in all cities]"
+      "[+2 Food] [in capital]",
+      "[+1 Production] [in capital]"
     ],
     "priorities": {
-      "Cultural": 4,
-      "Diplomatic": 4,
-      "Domination": 7,
-      "Scientific": 5,
-      "Neutral": 5,
-      "Time": 5
+      "Cultural": 6,
+      "Diplomatic": 5,
+      "Domination": 3,
+      "Scientific": 6,
+      "Neutral": 8,
+      "Time": 6
     },
     "policies": [
       {
-        "name": "Organized Labor",
+        "name": "Public Works",
         "requires": [
-          "Frontier and Autonomy"
+          "Civic"
         ],
         "row": 1,
         "column": 1,
         "uniques": [
-          "Free [Worker] appears",
-          "[-20]% construction time for [All] improvements"
+          "[+5]% Production when constructing [All] buildings [in all cities]"
         ]
       },
       {
-        "name": "Reclamation",
+        "name": "Population Growth",
         "requires": [
-          "Frontier and Autonomy"
+          "Civic"
         ],
         "row": 1,
         "column": 3,
         "uniques": [
-          "[+50]% Production when constructing [Settler] units [in capital]"
+          "[+10]% growth [in all cities]"
         ]
       },
       {
-        "name": "Rural Exchange",
+        "name": "City Planning",
         "requires": [
-          "Frontier and Autonomy"
+          "Civic"
         ],
         "row": 1,
         "column": 5,
         "uniques": [
-          "[+1 Gold] from [Camp] tiles [in all cities]",
-          "[+1 Gold] from [Pasture] tiles [in all cities]"
+          "[-25]% Culture cost of natural border growth [in all cities]"
         ]
       },
       {
-        "name": "Woodland Knowledge",
+        "name": "Administrative Reform",
         "requires": [
-          "Organized Labor"
+          "City Planning"
         ],
         "row": 2,
         "column": 4,
         "uniques": [
-          "[+1 Science] from [Lumber mill] tiles [in all cities]"
+          "[-33]% maintenance on road & railroads",
+          "[+1 Gold] from every [Courthouse]"
         ]
       },
       {
-        "name": "Frontier Connections",
+        "name": "Civic Participation",
         "requires": [
-          "Reclamation",
-          "Rural Exchange"
+          "Public Works"
         ],
         "row": 2,
         "column": 2,
@@ -160,556 +159,532 @@
         ]
       },
       {
-        "name": "Frontier and Autonomy Complete",
+        "name": "Civic Complete",
         "requires": [
-          "Organized Labor",
-          "Reclamation",
-          "Rural Exchange",
-          "Woodland Knowledge",
-          "Frontier Connections"
+          "Public Works",
+          "Population Growth",
+          "City Planning",
+          "Administrative Reform",
+          "Civic Participation"
         ],
         "uniques": [
-          "[+1 Production] [in all cities]",
-          "[-15]% maintenance on road & railroads"
+          "[+10]% growth [in capital]",
+          "[+1 Happiness] [in all cities]"
         ]
       }
     ]
   },
   {
-    "name": "Legions and Expeditions",
+    "name": "Valor",
     "era": "I",
     "uniques": [
-      "[+20]% Strength <for [{Land} {Military}] units> <vs [Barbarians] units>"
+      "New [Military] units start with [10] XP [in all cities]"
     ],
     "priorities": {
-      "Cultural": 2,
-      "Diplomatic": 2,
-      "Domination": 10,
-      "Scientific": 3,
-      "Neutral": 4,
-      "Time": 4
+      "Cultural": 3,
+      "Diplomatic": 3,
+      "Domination": 8,
+      "Scientific": 4,
+      "Neutral": 6,
+      "Time": 6
     },
     "policies": [
       {
-        "name": "Regular Training",
+        "name": "Military Training",
         "requires": [
-          "Legions and Expeditions"
+          "Valor"
         ],
         "row": 1,
         "column": 1,
         "uniques": [
-          "New [步兵] units start with [+10] XP [in all cities]",
-          "New [重步兵] units start with [+10] XP [in all cities]"
+          "[+15]% Production when constructing [Military] units [in all cities]"
         ]
       },
       {
-        "name": "Military Logistics",
+        "name": "Military Discipline",
         "requires": [
-          "Legions and Expeditions"
+          "Valor"
         ],
         "row": 1,
         "column": 3,
         "uniques": [
-          "[-10]% maintenance costs <for [Military] units>"
+          "[+25]% Strength <for [Wounded] units>"
         ]
       },
       {
-        "name": "Siege Preparation",
+        "name": "Border Guard",
         "requires": [
-          "Legions and Expeditions"
+          "Valor"
         ],
         "row": 1,
         "column": 5,
         "uniques": [
-          "[+15]% Production when constructing [攻城] units [in all cities]"
+          "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
         ]
       },
       {
-        "name": "Drills",
+        "name": "War Mobilization",
         "requires": [
-          "Regular Training"
+          "Border Guard"
         ],
         "row": 2,
         "column": 4,
         "uniques": [
-          "[-10]% XP required for promotions"
+          "[-33]% maintenance costs <for [All] units>"
         ]
       },
       {
-        "name": "Homeland Defense",
+        "name": "Tactical Research",
         "requires": [
-          "Military Logistics",
-          "Siege Preparation"
+          "Military Training"
         ],
         "row": 2,
         "column": 2,
         "uniques": [
-          "[+10]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
-          "[-15]% Gold cost of upgrading <for [Military] units>"
+          "[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"
         ]
       },
       {
-        "name": "Legions and Expeditions Complete",
+        "name": "Valor Complete",
         "requires": [
-          "Regular Training",
-          "Military Logistics",
-          "Siege Preparation",
-          "Drills",
-          "Homeland Defense"
+          "Military Training",
+          "Military Discipline",
+          "Border Guard",
+          "War Mobilization",
+          "Tactical Research"
         ],
         "uniques": [
-          "[+20]% XP gained from combat <for [Military] units>",
-          "Earn [10]% of killed [Military] unit's [Cost] as [Gold]"
+          "[+25]% XP gained from combat <for [Military] units>",
+          "[-33]% Gold cost of upgrading <for [Military] units>"
         ]
       }
     ]
   },
   {
-    "name": "Temples and Oaths",
+    "name": "Commerce",
     "era": "II",
     "uniques": [
-      "[+50]% Production when constructing [Altar] buildings [in all cities]",
-      "[+50]% Production when constructing [Temple] buildings [in all cities]",
-      "Only available <when religion is enabled>"
+      "[+2 Gold] [in capital]",
+      "[+1 Gold] from every [Trade Post]"
     ],
     "priorities": {
-      "Cultural": 8,
-      "Diplomatic": 5,
+      "Cultural": 4,
+      "Diplomatic": 8,
       "Domination": 3,
-      "Scientific": 4,
-      "Neutral": 5,
-      "Time": 5
+      "Scientific": 5,
+      "Neutral": 7,
+      "Time": 7
     },
     "policies": [
       {
-        "name": "Morning Prayer",
+        "name": "Free Trade",
         "requires": [
-          "Temples and Oaths"
+          "Commerce"
         ],
         "row": 1,
         "column": 1,
         "uniques": [
-          "[+1 Faith] from all [Altar] buildings",
-          "[+1 Faith] from all [Temple] buildings"
+          "[+1 Gold] from every [Harbor]"
         ]
       },
       {
-        "name": "Public Teachings",
+        "name": "Commercial Organization",
         "requires": [
-          "Temples and Oaths"
+          "Commerce"
         ],
         "row": 1,
         "column": 3,
         "uniques": [
-          "[+1 Culture] from all [Temple] buildings"
+          "[+1 Gold] from every [Market]"
         ]
       },
       {
-        "name": "Missionary Learning",
+        "name": "Financial System",
         "requires": [
-          "Morning Prayer"
+          "Commerce"
         ],
-        "row": 2,
-        "column": 2,
+        "row": 1,
+        "column": 5,
         "uniques": [
-          "When spreading religion to a city, gain [2] times the amount of followers of other religions as [Culture]"
+          "[+1 Gold] from every [Bank]"
         ]
       },
       {
-        "name": "Congregations",
+        "name": "Market Prosperity",
         "requires": [
-          "Public Teachings"
+          "Financial System"
         ],
         "row": 2,
         "column": 4,
         "uniques": [
-          "[+25]% Natural religion spread [in all cities]"
+          "[+1] Happiness from each type of luxury resource"
         ]
       },
       {
-        "name": "Public Rites",
+        "name": "Commercial Investment",
         "requires": [
-          "Morning Prayer",
-          "Public Teachings"
+          "Free Trade"
         ],
-        "row": 3,
-        "column": 3,
+        "row": 2,
+        "column": 2,
         "uniques": [
-          "[Faith] cost of purchasing [All] buildings [-15]%"
+          "[Gold] cost of purchasing items in cities [-25]%"
         ]
       },
       {
-        "name": "Temples and Oaths Complete",
+        "name": "Commerce Complete",
         "requires": [
-          "Morning Prayer",
-          "Public Teachings",
-          "Missionary Learning",
-          "Congregations",
-          "Public Rites"
+          "Free Trade",
+          "Commercial Organization",
+          "Financial System",
+          "Market Prosperity",
+          "Commercial Investment"
         ],
         "uniques": [
-          "[+10]% [Faith] [in all cities]",
-          "[+2 Culture] from [Holy site] tiles [in all cities]",
-          "May buy [Great Artist] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [Cultural Exchange]>"
+          "[+10]% [Gold] [in all cities]",
+          "[+25]% [Gold] [in capital]"
         ]
       }
     ]
   },
   {
-    "name": "Guilds and Sea Routes",
-    "era": "II",
+    "name": "Exploration",
+    "era": "III",
     "uniques": [
-      "[+15]% [Gold] [in capital]"
+      "[+1] Sight <for [{Military} {Water}] units>",
+      "Notified of new Barbarian encampments"
     ],
     "priorities": {
       "Cultural": 5,
-      "Diplomatic": 7,
-      "Domination": 5,
-      "Scientific": 6,
+      "Diplomatic": 5,
+      "Domination": 4,
+      "Scientific": 7,
       "Neutral": 6,
       "Time": 6
     },
     "policies": [
       {
-        "name": "Road Maintenance",
+        "name": "Geographic Surveying",
         "requires": [
-          "Guilds and Sea Routes"
+          "Exploration"
         ],
         "row": 1,
         "column": 1,
         "uniques": [
-          "[-25]% maintenance on road & railroads"
+          "[+1 Science] [in all coastal cities]"
         ]
       },
       {
-        "name": "Contract Procurement",
+        "name": "Maritime Tradition",
         "requires": [
-          "Guilds and Sea Routes"
+          "Exploration"
         ],
         "row": 1,
         "column": 3,
         "uniques": [
-          "[Gold] cost of purchasing items in cities [-10]%"
+          "[+1] Movement <for [{Military} {Water}] units>"
         ]
       },
       {
-        "name": "Trade Workshops",
+        "name": "Expedition Organization",
         "requires": [
-          "Guilds and Sea Routes"
+          "Exploration"
         ],
         "row": 1,
         "column": 5,
         "uniques": [
-          "[+1 Production] [in all cities connected to capital]",
-          "[+1 Production] [in all coastal cities]"
+          "Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture]"
         ]
       },
       {
-        "name": "Commercial Studies",
+        "name": "Distant Trade",
         "requires": [
-          "Road Maintenance"
+          "Expedition Organization"
         ],
         "row": 2,
         "column": 4,
         "uniques": [
-          "[+1 Science] from all [Market] buildings",
-          "[+1 Science] from all [Bank] buildings"
+          "[+1 Gold] [in all coastal cities]"
         ]
       },
       {
-        "name": "Exchange of Goods",
+        "name": "Spirit of Discovery",
         "requires": [
-          "Contract Procurement",
-          "Trade Workshops"
+          "Geographic Surveying"
         ],
         "row": 2,
         "column": 2,
         "uniques": [
-          "[1] Happiness from each type of luxury resource"
+          "[+1] Sight <for [{Military} {Land}] units>"
         ]
       },
       {
-        "name": "Guilds and Sea Routes Complete",
+        "name": "Exploration Complete",
         "requires": [
-          "Road Maintenance",
-          "Contract Procurement",
-          "Trade Workshops",
-          "Commercial Studies",
-          "Exchange of Goods"
+          "Geographic Surveying",
+          "Maritime Tradition",
+          "Expedition Organization",
+          "Distant Trade",
+          "Spirit of Discovery"
         ],
         "uniques": [
-          "[+20]% [Gold] from Trade Routes",
-          "[+50]% Gold from Great Merchant trade missions",
-          "May buy [Great Trade Envoy] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [Overseas Trade Network]>"
+          "[+1 Culture, +1 Science] [in all coastal cities]"
         ]
       }
     ]
   },
   {
-    "name": "Diplomacy of Nations",
+    "name": "Scholarship",
     "era": "III",
     "uniques": [
-      "[-15]% City-State Influence degradation"
-    ],
-    "priorities": {
-      "Cultural": 6,
-      "Diplomatic": 10,
-      "Domination": 3,
-      "Scientific": 5,
-      "Neutral": 6,
-      "Time": 6
-    },
-    "policies": [
-      {
-        "name": "Reciprocal Gifts",
-        "requires": [
-          "Diplomacy of Nations"
-        ],
-        "row": 1,
-        "column": 1,
-        "uniques": [
-          "Gifts of Gold to City-States generate [+20]% more Influence"
-        ]
-      },
-      {
-        "name": "Resident Envoys",
-        "requires": [
-          "Diplomacy of Nations"
-        ],
-        "row": 1,
-        "column": 3,
-        "uniques": [
-          "Resting point for Influence with City-States is increased by [10]"
-        ]
-      },
-      {
-        "name": "Academic Accords",
-        "requires": [
-          "Diplomacy of Nations"
-        ],
-        "row": 1,
-        "column": 5,
-        "uniques": [
-          "Allied City-States provide [Science] equal to [+25]% of what they produce for themselves"
-        ]
-      },
-      {
-        "name": "Joint Instructors",
-        "requires": [
-          "Reciprocal Gifts"
-        ],
-        "row": 2,
-        "column": 4,
-        "uniques": [
-          "Military Units gifted from City-States start with [10] XP"
-        ]
-      },
-      {
-        "name": "Common Measures",
-        "requires": [
-          "Resident Envoys",
-          "Academic Accords"
-        ],
-        "row": 2,
-        "column": 2,
-        "uniques": [
-          "[+50]% resources gifted by City-States",
-          "[+25]% Happiness from luxury resources gifted by City-States"
-        ]
-      },
-      {
-        "name": "Diplomacy of Nations Complete",
-        "requires": [
-          "Reciprocal Gifts",
-          "Resident Envoys",
-          "Academic Accords",
-          "Joint Instructors",
-          "Common Measures"
-        ],
-        "uniques": [
-          "City-State Influence recovers at twice the normal rate",
-          "Allied City-States provide [Culture] equal to [+10]% of what they produce for themselves"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Academies and Runes",
-    "era": "III",
-    "uniques": [
-      "[+10]% [Science] [in capital]"
+      "[+2 Science] [in capital]"
     ],
     "priorities": {
       "Cultural": 5,
       "Diplomatic": 4,
-      "Domination": 4,
-      "Scientific": 10,
-      "Neutral": 6,
-      "Time": 6
-    },
-    "policies": [
-      {
-        "name": "Experimental Methods",
-        "requires": [
-          "Academies and Runes"
-        ],
-        "row": 1,
-        "column": 1,
-        "uniques": [
-          "[+1 Science] from every [Scientist]"
-        ]
-      },
-      {
-        "name": "Academic Alliance",
-        "requires": [
-          "Academies and Runes"
-        ],
-        "row": 1,
-        "column": 3,
-        "uniques": [
-          "[+2 Science] from all [University] buildings"
-        ]
-      },
-      {
-        "name": "Spellcraft Curriculum",
-        "requires": [
-          "Academies and Runes"
-        ],
-        "row": 1,
-        "column": 5,
-        "uniques": [
-          "New [术士] units start with [+10] XP [in all cities]",
-          "New [医护] units start with [+10] XP [in all cities]",
-          "New [死灵] units start with [+10] XP [in all cities]",
-          "New [幽魂] units start with [+10] XP [in all cities]"
-        ]
-      },
-      {
-        "name": "Research Community",
-        "requires": [
-          "Experimental Methods",
-          "Academic Alliance"
-        ],
-        "row": 2,
-        "column": 4,
-        "uniques": [
-          "[+5]% [Science] [in all cities] <in cities with a [Academy of Magic]>",
-          "Science gained from research agreements [+15]%"
-        ]
-      },
-      {
-        "name": "Academic Succession",
-        "requires": [
-          "Academic Alliance",
-          "Spellcraft Curriculum"
-        ],
-        "row": 2,
-        "column": 2,
-        "uniques": [
-          "[+15]% Great Person generation [in all cities]"
-        ]
-      },
-      {
-        "name": "Academies and Runes Complete",
-        "requires": [
-          "Experimental Methods",
-          "Academic Alliance",
-          "Spellcraft Curriculum",
-          "Research Community",
-          "Academic Succession"
-        ],
-        "uniques": [
-          "[+5]% [Science] [in all cities]",
-          "Free Technology <starting from the [IV]>",
-          "Free Technology <upon entering the [IV]>",
-          "May buy [Great Scholar] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [Celestial Navigation]>"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Citizens and Crafts",
-    "era": "IV",
-    "uniques": [
-      "[-10]% maintenance cost for [all] buildings [in all cities]"
-    ],
-    "priorities": {
-      "Cultural": 5,
-      "Diplomatic": 5,
-      "Domination": 7,
+      "Domination": 2,
       "Scientific": 8,
       "Neutral": 6,
       "Time": 6
     },
     "policies": [
       {
-        "name": "Public Works",
+        "name": "Universal Education",
         "requires": [
-          "Citizens and Crafts"
+          "Scholarship"
         ],
         "row": 1,
         "column": 1,
         "uniques": [
-          "[+10]% Production when constructing [Building] buildings [in all cities]"
+          "[+1 Science] from every [School]"
         ]
       },
       {
-        "name": "Craft Standards",
+        "name": "Academic Exchange",
         "requires": [
-          "Citizens and Crafts"
+          "Scholarship"
         ],
         "row": 1,
         "column": 3,
         "uniques": [
-          "[+1 Production] from all [Workshop] buildings"
+          "Science gained from research agreements [+50]%"
         ]
       },
       {
-        "name": "Specialist Support",
+        "name": "Research Funding",
         "requires": [
-          "Citizens and Crafts"
+          "Scholarship"
         ],
         "row": 1,
         "column": 5,
         "uniques": [
-          "[-25]% Food consumption by [Specialists] [in all cities]"
+          "[+1 Science] from every [University]"
         ]
       },
       {
-        "name": "Civil Rights",
+        "name": "Academic Freedom",
         "requires": [
-          "Public Works"
+          "Research Funding"
         ],
         "row": 2,
         "column": 4,
         "uniques": [
-          "[-10]% Unhappiness from [Population] [in all cities]"
+          "[+25]% Great Person generation [in all cities]"
         ]
       },
       {
-        "name": "Municipal Coordination",
+        "name": "Knowledge Sharing",
         "requires": [
-          "Craft Standards",
-          "Specialist Support"
+          "Universal Education"
         ],
         "row": 2,
         "column": 2,
         "uniques": [
-          "[+10]% Production towards any buildings that already exist in the Capital"
+          "[+10]% [Science] [in all cities]"
         ]
       },
       {
-        "name": "Citizens and Crafts Complete",
+        "name": "Scholarship Complete",
         "requires": [
-          "Public Works",
-          "Craft Standards",
-          "Specialist Support",
-          "Civil Rights",
-          "Municipal Coordination"
+          "Universal Education",
+          "Academic Exchange",
+          "Research Funding",
+          "Academic Freedom",
+          "Knowledge Sharing"
         ],
         "uniques": [
-          "[+10]% [Production] [in all cities]",
-          "May buy [Great Artificer] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [Precision Manufacturing]>"
+          "[+3 Science] [in capital]",
+          "[+1 Science] [in all cities]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Industry",
+    "era": "VI",
+    "uniques": [
+      "[+2 Production] [in capital]"
+    ],
+    "priorities": {
+      "Cultural": 3,
+      "Diplomatic": 3,
+      "Domination": 5,
+      "Scientific": 6,
+      "Neutral": 8,
+      "Time": 7
+    },
+    "policies": [
+      {
+        "name": "Engineering Education",
+        "requires": [
+          "Industry"
+        ],
+        "row": 1,
+        "column": 1,
+        "uniques": [
+          "[+1 Production] from every [Workshop]"
+        ]
+      },
+      {
+        "name": "Standardized Production",
+        "requires": [
+          "Industry"
+        ],
+        "row": 1,
+        "column": 3,
+        "uniques": [
+          "[+10]% Production when constructing [All] buildings [in all cities]"
+        ]
+      },
+      {
+        "name": "Infrastructure",
+        "requires": [
+          "Industry"
+        ],
+        "row": 1,
+        "column": 5,
+        "uniques": [
+          "[+1 Production] [in all cities connected to capital]"
+        ]
+      },
+      {
+        "name": "Mass Production",
+        "requires": [
+          "Infrastructure"
+        ],
+        "row": 2,
+        "column": 4,
+        "uniques": [
+          "[+1 Production] [in all cities]"
+        ]
+      },
+      {
+        "name": "Industrial Investment",
+        "requires": [
+          "Engineering Education"
+        ],
+        "row": 2,
+        "column": 2,
+        "uniques": [
+          "[+15]% Production when constructing [All] wonders [in all cities]"
+        ]
+      },
+      {
+        "name": "Industry Complete",
+        "requires": [
+          "Engineering Education",
+          "Standardized Production",
+          "Infrastructure",
+          "Mass Production",
+          "Industrial Investment"
+        ],
+        "uniques": [
+          "[+10]% [Production] [in all cities]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Magitech",
+    "era": "VII",
+    "uniques": [
+      "[+1 Science] [in all cities]"
+    ],
+    "priorities": {
+      "Cultural": 4,
+      "Diplomatic": 3,
+      "Domination": 5,
+      "Scientific": 7,
+      "Neutral": 6,
+      "Time": 6
+    },
+    "policies": [
+      {
+        "name": "Magical Popularization",
+        "requires": [
+          "Magitech"
+        ],
+        "row": 1,
+        "column": 1,
+        "uniques": [
+          "[+1 Happiness] [in all cities]"
+        ]
+      },
+      {
+        "name": "Magical Industry",
+        "requires": [
+          "Magitech"
+        ],
+        "row": 1,
+        "column": 3,
+        "uniques": [
+          "[+10]% [Production] [in all cities]"
+        ]
+      },
+      {
+        "name": "Construct Application",
+        "requires": [
+          "Magitech"
+        ],
+        "row": 1,
+        "column": 5,
+        "uniques": [
+          "[+15]% Production when constructing [Military] units [in all cities]"
+        ]
+      },
+      {
+        "name": "Magical Public Facilities",
+        "requires": [
+          "Construct Application"
+        ],
+        "row": 2,
+        "column": 4,
+        "uniques": [
+          "[+1 Food, +1 Gold] [in all cities connected to capital]"
+        ]
+      },
+      {
+        "name": "Engineering Innovation",
+        "requires": [
+          "Magical Popularization"
+        ],
+        "row": 2,
+        "column": 2,
+        "uniques": [
+          "[+15]% [Science] <while the empire is happy>"
+        ]
+      },
+      {
+        "name": "Magitech Complete",
+        "requires": [
+          "Magical Popularization",
+          "Magical Industry",
+          "Construct Application",
+          "Magical Public Facilities",
+          "Engineering Innovation"
+        ],
+        "uniques": [
+          "[+3 Science, +3 Production] [in capital]"
         ]
       }
     ]

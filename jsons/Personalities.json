@@ -17,14 +17,14 @@
     "expansion": 7,
     "denounceWillingness": 5,
     "priorities": {
-      "Civic Tradition": 7,
-      "Frontier and Autonomy": 5,
-      "Legions and Expeditions": 8,
-      "Temples and Oaths": 5,
-      "Guilds and Sea Routes": 5,
-      "Diplomacy of Nations": 5,
-      "Academies and Runes": 5,
-      "Citizens and Crafts": 5
+      "Tradition": 4,
+      "Civic": 8,
+      "Valor": 7,
+      "Commerce": 4,
+      "Exploration": 4,
+      "Scholarship": 4,
+      "Industry": 6,
+      "Magitech": 3
     }
   },
   {
@@ -45,14 +45,14 @@
     "expansion": 6,
     "denounceWillingness": 5,
     "priorities": {
-      "Civic Tradition": 5,
-      "Frontier and Autonomy": 5,
-      "Legions and Expeditions": 5,
-      "Temples and Oaths": 5,
-      "Guilds and Sea Routes": 8,
-      "Diplomacy of Nations": 8,
-      "Academies and Runes": 5,
-      "Citizens and Crafts": 5
+      "Tradition": 4,
+      "Civic": 6,
+      "Valor": 4,
+      "Commerce": 8,
+      "Exploration": 7,
+      "Scholarship": 4,
+      "Industry": 3,
+      "Magitech": 3
     }
   },
   {
@@ -73,14 +73,14 @@
     "expansion": 5,
     "denounceWillingness": 5,
     "priorities": {
-      "Civic Tradition": 5,
-      "Frontier and Autonomy": 6,
-      "Legions and Expeditions": 5,
-      "Temples and Oaths": 8,
-      "Guilds and Sea Routes": 5,
-      "Diplomacy of Nations": 5,
-      "Academies and Runes": 5,
-      "Citizens and Crafts": 5
+      "Tradition": 8,
+      "Civic": 4,
+      "Valor": 4,
+      "Commerce": 4,
+      "Exploration": 7,
+      "Scholarship": 6,
+      "Industry": 3,
+      "Magitech": 3
     }
   },
   {
@@ -101,14 +101,14 @@
     "expansion": 7,
     "denounceWillingness": 5,
     "priorities": {
-      "Civic Tradition": 5,
-      "Frontier and Autonomy": 5,
-      "Legions and Expeditions": 5,
-      "Temples and Oaths": 5,
-      "Guilds and Sea Routes": 8,
-      "Diplomacy of Nations": 7,
-      "Academies and Runes": 5,
-      "Citizens and Crafts": 5
+      "Tradition": 4,
+      "Civic": 4,
+      "Valor": 6,
+      "Commerce": 7,
+      "Exploration": 8,
+      "Scholarship": 4,
+      "Industry": 3,
+      "Magitech": 3
     }
   },
   {
@@ -129,14 +129,14 @@
     "expansion": 5,
     "denounceWillingness": 5,
     "priorities": {
-      "Civic Tradition": 5,
-      "Frontier and Autonomy": 5,
-      "Legions and Expeditions": 7,
-      "Temples and Oaths": 5,
-      "Guilds and Sea Routes": 5,
-      "Diplomacy of Nations": 5,
-      "Academies and Runes": 5,
-      "Citizens and Crafts": 7
+      "Tradition": 6,
+      "Civic": 4,
+      "Valor": 8,
+      "Commerce": 4,
+      "Exploration": 4,
+      "Scholarship": 4,
+      "Industry": 7,
+      "Magitech": 3
     }
   },
   {
@@ -157,14 +157,14 @@
     "expansion": 5,
     "denounceWillingness": 5,
     "priorities": {
-      "Civic Tradition": 5,
-      "Frontier and Autonomy": 5,
-      "Legions and Expeditions": 5,
-      "Temples and Oaths": 5,
-      "Guilds and Sea Routes": 5,
-      "Diplomacy of Nations": 5,
-      "Academies and Runes": 8,
-      "Citizens and Crafts": 7
+      "Tradition": 4,
+      "Civic": 4,
+      "Valor": 4,
+      "Commerce": 4,
+      "Exploration": 4,
+      "Scholarship": 8,
+      "Industry": 7,
+      "Magitech": 6
     }
   },
   {
@@ -185,14 +185,14 @@
     "expansion": 8,
     "denounceWillingness": 5,
     "priorities": {
-      "Civic Tradition": 5,
-      "Frontier and Autonomy": 8,
-      "Legions and Expeditions": 8,
-      "Temples and Oaths": 5,
-      "Guilds and Sea Routes": 5,
-      "Diplomacy of Nations": 5,
-      "Academies and Runes": 5,
-      "Citizens and Crafts": 5
+      "Tradition": 6,
+      "Civic": 4,
+      "Valor": 8,
+      "Commerce": 4,
+      "Exploration": 7,
+      "Scholarship": 4,
+      "Industry": 3,
+      "Magitech": 3
     }
   },
   {
@@ -213,14 +213,14 @@
     "expansion": 7,
     "denounceWillingness": 5,
     "priorities": {
-      "Civic Tradition": 6,
-      "Frontier and Autonomy": 5,
-      "Legions and Expeditions": 9,
-      "Temples and Oaths": 5,
-      "Guilds and Sea Routes": 5,
-      "Diplomacy of Nations": 5,
-      "Academies and Runes": 5,
-      "Citizens and Crafts": 5
+      "Tradition": 4,
+      "Civic": 7,
+      "Valor": 8,
+      "Commerce": 4,
+      "Exploration": 4,
+      "Scholarship": 4,
+      "Industry": 6,
+      "Magitech": 3
     }
   },
   {
@@ -241,14 +241,14 @@
     "expansion": 5,
     "denounceWillingness": 5,
     "priorities": {
-      "Civic Tradition": 5,
-      "Frontier and Autonomy": 5,
-      "Legions and Expeditions": 5,
-      "Temples and Oaths": 5,
-      "Guilds and Sea Routes": 5,
-      "Diplomacy of Nations": 5,
-      "Academies and Runes": 7,
-      "Citizens and Crafts": 8
+      "Tradition": 4,
+      "Civic": 4,
+      "Valor": 4,
+      "Commerce": 4,
+      "Exploration": 4,
+      "Scholarship": 7,
+      "Industry": 8,
+      "Magitech": 6
     }
   },
   {
@@ -269,14 +269,14 @@
     "expansion": 8,
     "denounceWillingness": 5,
     "priorities": {
-      "Civic Tradition": 5,
-      "Frontier and Autonomy": 8,
-      "Legions and Expeditions": 5,
-      "Temples and Oaths": 5,
-      "Guilds and Sea Routes": 5,
-      "Diplomacy of Nations": 5,
-      "Academies and Runes": 7,
-      "Citizens and Crafts": 5
+      "Tradition": 4,
+      "Civic": 4,
+      "Valor": 4,
+      "Commerce": 7,
+      "Exploration": 8,
+      "Scholarship": 6,
+      "Industry": 3,
+      "Magitech": 3
     }
   },
   {
@@ -297,14 +297,14 @@
     "expansion": 5,
     "denounceWillingness": 5,
     "priorities": {
-      "Civic Tradition": 5,
-      "Frontier and Autonomy": 5,
-      "Legions and Expeditions": 5,
-      "Temples and Oaths": 6,
-      "Guilds and Sea Routes": 5,
-      "Diplomacy of Nations": 5,
-      "Academies and Runes": 9,
-      "Citizens and Crafts": 5
+      "Tradition": 7,
+      "Civic": 4,
+      "Valor": 4,
+      "Commerce": 4,
+      "Exploration": 4,
+      "Scholarship": 8,
+      "Industry": 3,
+      "Magitech": 6
     }
   },
   {
@@ -325,14 +325,14 @@
     "expansion": 6,
     "denounceWillingness": 5,
     "priorities": {
-      "Civic Tradition": 6,
-      "Frontier and Autonomy": 5,
-      "Legions and Expeditions": 9,
-      "Temples and Oaths": 5,
-      "Guilds and Sea Routes": 5,
-      "Diplomacy of Nations": 5,
-      "Academies and Runes": 5,
-      "Citizens and Crafts": 5
+      "Tradition": 4,
+      "Civic": 7,
+      "Valor": 8,
+      "Commerce": 4,
+      "Exploration": 4,
+      "Scholarship": 4,
+      "Industry": 6,
+      "Magitech": 3
     }
   }
 ]
