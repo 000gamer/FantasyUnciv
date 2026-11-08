@@ -80,11 +80,11 @@
   {
     "name": "Legion Guards",
     "unitType": "重步兵",
-    "strength": 93,
+    "strength": 72,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
-    "cost": 285,
+    "cost": 255,
     "uniques": [
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]"
@@ -151,11 +151,11 @@
   {
     "name": "Phalanx Guards",
     "unitType": "长柄",
-    "strength": 53,
+    "strength": 40,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
-    "cost": 175,
+    "cost": 155,
     "uniques": [
       "[+35]% Strength <vs [轻骑] units>",
       "[+35]% Strength <vs [重骑] units>",
@@ -170,11 +170,11 @@
   {
     "name": "Massed Pike Guards",
     "unitType": "长柄",
-    "strength": 81,
+    "strength": 60,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
-    "cost": 250,
+    "cost": 220,
     "uniques": [
       "[+35]% Strength <vs [轻骑] units>",
       "[+35]% Strength <vs [重骑] units>",
@@ -219,11 +219,11 @@
   {
     "name": "Windlass Crossbowmen",
     "unitType": "射手",
-    "strength": 26,
-    "rangedStrength": 52,
+    "strength": 22,
+    "rangedStrength": 44,
     "range": 2,
     "movement": 2,
-    "cost": 195,
+    "cost": 180,
     "uniques": [
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit"
@@ -235,11 +235,11 @@
   {
     "name": "Riflemen",
     "unitType": "射手",
-    "strength": 51,
-    "rangedStrength": 97,
+    "strength": 42,
+    "rangedStrength": 80,
     "range": 2,
     "movement": 2,
-    "cost": 280,
+    "cost": 270,
     "uniques": [
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit"
@@ -269,11 +269,11 @@
   {
     "name": "Rangers",
     "unitType": "轻骑",
-    "strength": 29,
+    "strength": 22,
     "rangedStrength": 0,
     "range": 0,
     "movement": 4,
-    "cost": 135,
+    "cost": 120,
     "uniques": [
       "No defensive terrain bonus",
       "Can move after attacking",
@@ -288,11 +288,11 @@
   {
     "name": "Windriders",
     "unitType": "轻骑",
-    "strength": 83,
+    "strength": 62,
     "rangedStrength": 0,
     "range": 0,
     "movement": 5,
-    "cost": 270,
+    "cost": 235,
     "uniques": [
       "No defensive terrain bonus",
       "Can move after attacking",
@@ -325,11 +325,11 @@
   {
     "name": "Royal Cavalry",
     "unitType": "重骑",
-    "strength": 104,
+    "strength": 72,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
-    "cost": 330,
+    "cost": 280,
     "uniques": [
       "No defensive terrain bonus",
       "Can move after attacking",
@@ -429,11 +429,11 @@
   {
     "name": "Deep-Sea Warships",
     "unitType": "海近战",
-    "strength": 59,
+    "strength": 42,
     "rangedStrength": 0,
     "range": 0,
     "movement": 5,
-    "cost": 225,
+    "cost": 195,
     "uniques": [
       "No defensive terrain bonus",
       "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
@@ -448,11 +448,11 @@
   {
     "name": "Armored Warships",
     "unitType": "海近战",
-    "strength": 109,
+    "strength": 70,
     "rangedStrength": 0,
     "range": 0,
     "movement": 5,
-    "cost": 320,
+    "cost": 265,
     "uniques": [
       "No defensive terrain bonus",
       "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
@@ -503,11 +503,11 @@
   {
     "name": "Armored Ballista Ships",
     "unitType": "海远程",
-    "strength": 72,
-    "rangedStrength": 104,
+    "strength": 56,
+    "rangedStrength": 82,
     "range": 2,
     "movement": 4,
-    "cost": 330,
+    "cost": 295,
     "uniques": [
       "No defensive terrain bonus",
       "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
@@ -570,11 +570,11 @@
   {
     "name": "Boundary Mages",
     "unitType": "术士",
-    "strength": 72,
-    "rangedStrength": 132,
+    "strength": 48,
+    "rangedStrength": 92,
     "range": 2,
     "movement": 2,
-    "cost": 300,
+    "cost": 255,
     "uniques": [
       "No defensive terrain bonus",
       "[+20]% Strength <vs [重步兵] units>",
@@ -611,11 +611,11 @@
   {
     "name": "Army Surgeons",
     "unitType": "医护",
-    "strength": 26,
+    "strength": 18,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
-    "cost": 155,
+    "cost": 130,
     "uniques": [
       "Comment [Field medicine]",
       "FC medic near active patient <when adjacent to a [Medical resolution marker] unit> <hidden from users>",
@@ -628,11 +628,11 @@
   {
     "name": "Magical Healers",
     "unitType": "医护",
-    "strength": 53,
+    "strength": 34,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
-    "cost": 230,
+    "cost": 190,
     "uniques": [
       "Comment [Field medicine]",
       "FC medic near active patient <when adjacent to a [Medical resolution marker] unit> <hidden from users>",
@@ -663,11 +663,11 @@
   {
     "name": "Heavy Construct Guards",
     "unitType": "构装",
-    "strength": 145,
+    "strength": 105,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
-    "cost": 350,
+    "cost": 305,
     "uniques": [
       "No defensive terrain bonus",
       "[+10]% Strength <when defending>",
@@ -714,11 +714,11 @@
   {
     "name": "Expedition Scouts",
     "unitType": "侦察",
-    "strength": 49,
+    "strength": 30,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
-    "cost": 170,
+    "cost": 135,
     "uniques": [
       "Ignores terrain cost",
       "[+1] Sight",
@@ -765,11 +765,11 @@
   {
     "name": "Skyline Horse Archers",
     "unitType": "骑射",
-    "strength": 49,
-    "rangedStrength": 81,
+    "strength": 38,
+    "rangedStrength": 66,
     "range": 1,
     "movement": 5,
-    "cost": 285,
+    "cost": 260,
     "uniques": [
       "No defensive terrain bonus",
       "Can move after attacking",
@@ -832,11 +832,11 @@
   {
     "name": "Armored Warbeasts",
     "unitType": "野兽",
-    "strength": 95,
+    "strength": 65,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
-    "cost": 320,
+    "cost": 270,
     "uniques": [
       "No defensive terrain bonus",
       "[-35]% Strength <when attacking> <vs cities>",
@@ -886,11 +886,11 @@
   {
     "name": "Vigil Chanters",
     "unitType": "死灵",
-    "strength": 82,
-    "rangedStrength": 132,
+    "strength": 50,
+    "rangedStrength": 84,
     "range": 1,
     "movement": 2,
-    "cost": 315,
+    "cost": 255,
     "uniques": [
       "No defensive terrain bonus",
       "Heals [10] damage if it kills a unit",
@@ -923,7 +923,7 @@
   {
     "name": "Oathshield Guards",
     "unitType": "重步兵",
-    "strength": 97,
+    "strength": 75,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -1020,8 +1020,8 @@
   {
     "name": "Moonbranch Archers",
     "unitType": "射手",
-    "strength": 51,
-    "rangedStrength": 100,
+    "strength": 42,
+    "rangedStrength": 82,
     "range": 2,
     "movement": 2,
     "cost": 300,
@@ -1122,7 +1122,7 @@
   {
     "name": "Precision Construct Guards",
     "unitType": "构装",
-    "strength": 151,
+    "strength": 109,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -1183,7 +1183,7 @@
   {
     "name": "Ancestral Banner Riders",
     "unitType": "轻骑",
-    "strength": 86,
+    "strength": 64,
     "rangedStrength": 0,
     "range": 0,
     "movement": 5,
@@ -1363,8 +1363,8 @@
   {
     "name": "Court Liches",
     "unitType": "死灵",
-    "strength": 88,
-    "rangedStrength": 138,
+    "strength": 54,
+    "rangedStrength": 88,
     "range": 1,
     "movement": 2,
     "cost": 340,
@@ -1400,7 +1400,7 @@
   {
     "name": "Undead Guards",
     "unitType": "重步兵",
-    "strength": 90,
+    "strength": 70,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -1985,11 +1985,11 @@
   {
     "name": "Arquebusiers",
     "unitType": "射手",
-    "strength": 36,
-    "rangedStrength": 72,
+    "strength": 30,
+    "rangedStrength": 60,
     "range": 2,
     "movement": 2,
-    "cost": 235,
+    "cost": 215,
     "uniques": [
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit"
@@ -2001,11 +2001,11 @@
   {
     "name": "Machine Gun Crews",
     "unitType": "射手",
-    "strength": 48,
-    "rangedStrength": 88,
+    "strength": 40,
+    "rangedStrength": 72,
     "range": 2,
     "movement": 2,
-    "cost": 300,
+    "cost": 275,
     "uniques": [
       "No defensive terrain bonus",
       "Must set up to ranged attack",
@@ -2017,11 +2017,11 @@
   {
     "name": "Rune Riflemen",
     "unitType": "射手",
-    "strength": 70,
-    "rangedStrength": 130,
+    "strength": 56,
+    "rangedStrength": 108,
     "range": 2,
     "movement": 2,
-    "cost": 360,
+    "cost": 345,
     "uniques": [
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit",
@@ -2035,11 +2035,11 @@
   {
     "name": "Magitech Marksmen",
     "unitType": "射手",
-    "strength": 100,
-    "rangedStrength": 190,
+    "strength": 85,
+    "rangedStrength": 160,
     "range": 2,
     "movement": 2,
-    "cost": 440,
+    "cost": 405,
     "uniques": [
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit",
@@ -2088,11 +2088,11 @@
   {
     "name": "Ironclads",
     "unitType": "海近战",
-    "strength": 85,
+    "strength": 60,
     "rangedStrength": 0,
     "range": 0,
     "movement": 5,
-    "cost": 270,
+    "cost": 230,
     "uniques": [
       "No defensive terrain bonus",
       "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
@@ -2107,11 +2107,11 @@
   {
     "name": "Magitech Warships",
     "unitType": "海近战",
-    "strength": 140,
+    "strength": 95,
     "rangedStrength": 0,
     "range": 0,
     "movement": 6,
-    "cost": 400,
+    "cost": 335,
     "uniques": [
       "No defensive terrain bonus",
       "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
@@ -2165,11 +2165,11 @@
   {
     "name": "Guardian Constructs",
     "unitType": "构装",
-    "strength": 110,
+    "strength": 85,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
-    "cost": 330,
+    "cost": 295,
     "uniques": [
       "No defensive terrain bonus",
       "[+10]% Strength <when defending>",
@@ -2483,8 +2483,8 @@
   {
     "name": "Artificer Arquebusiers",
     "unitType": "射手",
-    "strength": 38,
-    "rangedStrength": 78,
+    "strength": 32,
+    "rangedStrength": 65,
     "range": 2,
     "movement": 2,
     "cost": 235,
