@@ -1330,14 +1330,16 @@
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "[+50]% Production when constructing [Resonance Anchor] units [in all cities]",
-      "[+50]% Production when constructing [Stellar Matrix] units [in all cities]",
-      "[+50]% Production when constructing [Stabilization Core] units [in all cities]",
-      "[+50]% Production when constructing [Material Calibrator] units [in all cities]",
       "Only available <in cities with a [Sealing Node]>",
       "Only available <when [Scientific] Victory is enabled>",
       "Triggers a global alert upon build start",
-      "Triggers a global alert upon completion"
+      "Triggers a global alert upon completion",
+      "[+50]% Production when constructing [Plane Core] units [in all cities]",
+      "[+50]% Production when constructing [Plane Locator] units [in all cities]",
+      "[+50]% Production when constructing [Spatial Anchor] units [in all cities]",
+      "[+50]% Production when constructing [Flow Guide] units [in all cities]",
+      "[+50]% Production when constructing [Channel Stabilizer] units [in all cities]",
+      "[+50]% Production when constructing [Gate Control Hub] units [in all cities]"
     ],
     "isWonder": true,
     "science": 4,
@@ -1510,7 +1512,7 @@
     "specialistSlots": {}
   },
   {
-    "name": "Origin Observation Project",
+    "name": "Gate Beyond Project",
     "requiredTech": "Great Magic Engineering",
     "cost": 1200,
     "maintenance": 0,
@@ -1522,7 +1524,8 @@
       "Destroyed when the city is captured",
       "Only available <in [Capital] cities>",
       "Only available <when [Scientific] Victory is enabled>",
-      "Triggers a global alert upon completion"
+      "Triggers a global alert upon completion",
+      "Only available <after discovering [Spatial Engineering]>"
     ],
     "isNationalWonder": true,
     "specialistSlots": {}

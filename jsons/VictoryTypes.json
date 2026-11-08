@@ -3,16 +3,16 @@
     "name": "Scientific",
     "victoryScreenHeader": "AOD Scientific Objective",
     "milestones": [
-      "Build [Origin Observation Project]",
-      "Add all [Origin Apparatus parts] in capital"
+      "Build [Gate Beyond Project]",
+      "Add all [Gate Beyond parts] in capital"
     ],
     "requiredSpaceshipParts": [
-      "Resonance Anchor",
-      "Resonance Anchor",
-      "Resonance Anchor",
-      "Stellar Matrix",
-      "Stabilization Core",
-      "Material Calibrator"
+      "Plane Core",
+      "Plane Locator",
+      "Spatial Anchor",
+      "Flow Guide",
+      "Channel Stabilizer",
+      "Gate Control Hub"
     ],
     "victoryString": "Magic victory won",
     "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!",

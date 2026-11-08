@@ -1789,78 +1789,6 @@
     "range": 0
   },
   {
-    "name": "Resonance Anchor",
-    "unitType": "Civilian",
-    "strength": 0,
-    "movement": 2,
-    "cost": 900,
-    "requiredTech": "Great Magic Engineering",
-    "uniques": [
-      "Spaceship part",
-      "Limited to [3] per Civilization",
-      "Can be added to [Origin Apparatus] in the Capital",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit",
-      "Only available <if [Origin Observation Project] is constructed> <when [Scientific] Victory is enabled>"
-    ],
-    "rangedStrength": 0,
-    "range": 0
-  },
-  {
-    "name": "Stellar Matrix",
-    "unitType": "Civilian",
-    "strength": 0,
-    "movement": 2,
-    "cost": 1100,
-    "requiredTech": "Celestial Navigation",
-    "uniques": [
-      "Spaceship part",
-      "Limited to [1] per Civilization",
-      "Can be added to [Origin Apparatus] in the Capital",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit",
-      "Only available <if [Origin Observation Project] is constructed> <when [Scientific] Victory is enabled>"
-    ],
-    "rangedStrength": 0,
-    "range": 0
-  },
-  {
-    "name": "Stabilization Core",
-    "unitType": "Civilian",
-    "strength": 0,
-    "movement": 2,
-    "cost": 1100,
-    "requiredTech": "Arcane Defense Systems",
-    "uniques": [
-      "Spaceship part",
-      "Limited to [1] per Civilization",
-      "Can be added to [Origin Apparatus] in the Capital",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit",
-      "Only available <if [Origin Observation Project] is constructed> <when [Scientific] Victory is enabled>"
-    ],
-    "rangedStrength": 0,
-    "range": 0
-  },
-  {
-    "name": "Material Calibrator",
-    "unitType": "Civilian",
-    "strength": 0,
-    "movement": 2,
-    "cost": 1100,
-    "requiredTech": "Advanced Material Synthesis",
-    "uniques": [
-      "Spaceship part",
-      "Limited to [1] per Civilization",
-      "Can be added to [Origin Apparatus] in the Capital",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit",
-      "Only available <if [Origin Observation Project] is constructed> <when [Scientific] Victory is enabled>"
-    ],
-    "rangedStrength": 0,
-    "range": 0
-  },
-  {
     "name": "Wild Wolf Pack",
     "unitType": "野兽",
     "strength": 7,
@@ -2060,5 +1988,115 @@
       "Only available <for [Barbarians] Civilizations>"
     ],
     "requiredTech": "Deep-Sea Shipbuilding"
+  },
+  {
+    "name": "Plane Core",
+    "unitType": "Civilian",
+    "strength": 0,
+    "movement": 2,
+    "cost": 1000,
+    "requiredTech": "Spatial Engineering",
+    "uniques": [
+      "Spaceship part",
+      "Limited to [1] per Civilization",
+      "Can be added to [Gate Beyond] in the Capital",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "Only available <if [Gate Beyond Project] is constructed> <when [Scientific] Victory is enabled>"
+    ],
+    "rangedStrength": 0,
+    "range": 0,
+    "requiredResource": "Magic Crystals"
+  },
+  {
+    "name": "Plane Locator",
+    "unitType": "Civilian",
+    "strength": 0,
+    "movement": 2,
+    "cost": 1000,
+    "requiredTech": "Spatial Engineering",
+    "uniques": [
+      "Spaceship part",
+      "Limited to [1] per Civilization",
+      "Can be added to [Gate Beyond] in the Capital",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "Only available <if [Gate Beyond Project] is constructed> <when [Scientific] Victory is enabled>"
+    ],
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "Spatial Anchor",
+    "unitType": "Civilian",
+    "strength": 0,
+    "movement": 2,
+    "cost": 1000,
+    "requiredTech": "Advanced Material Synthesis",
+    "uniques": [
+      "Spaceship part",
+      "Limited to [1] per Civilization",
+      "Can be added to [Gate Beyond] in the Capital",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "Only available <if [Gate Beyond Project] is constructed> <when [Scientific] Victory is enabled>"
+    ],
+    "rangedStrength": 0,
+    "range": 0,
+    "requiredResource": "Mithril"
+  },
+  {
+    "name": "Flow Guide",
+    "unitType": "Civilian",
+    "strength": 0,
+    "movement": 2,
+    "cost": 1000,
+    "requiredTech": "Advanced Energy Engineering",
+    "uniques": [
+      "Spaceship part",
+      "Limited to [1] per Civilization",
+      "Can be added to [Gate Beyond] in the Capital",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "Only available <if [Gate Beyond Project] is constructed> <when [Scientific] Victory is enabled>"
+    ],
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "Channel Stabilizer",
+    "unitType": "Civilian",
+    "strength": 0,
+    "movement": 2,
+    "cost": 1000,
+    "requiredTech": "Great Magic Engineering",
+    "uniques": [
+      "Spaceship part",
+      "Limited to [1] per Civilization",
+      "Can be added to [Gate Beyond] in the Capital",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "Only available <if [Gate Beyond Project] is constructed> <when [Scientific] Victory is enabled>"
+    ],
+    "rangedStrength": 0,
+    "range": 0
+  },
+  {
+    "name": "Gate Control Hub",
+    "unitType": "Civilian",
+    "strength": 0,
+    "movement": 2,
+    "cost": 1000,
+    "requiredTech": "Advanced Automation",
+    "uniques": [
+      "Spaceship part",
+      "Limited to [1] per Civilization",
+      "Can be added to [Gate Beyond] in the Capital",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "Only available <if [Gate Beyond Project] is constructed> <when [Scientific] Victory is enabled>"
+    ],
+    "rangedStrength": 0,
+    "range": 0
   }
 ]
