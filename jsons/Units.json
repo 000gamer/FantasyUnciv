@@ -15,7 +15,7 @@
   {
     "name": "Shield Infantry",
     "unitType": "步兵",
-    "strength": 13,
+    "strength": 16,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -31,7 +31,7 @@
   {
     "name": "Regular Infantry",
     "unitType": "步兵",
-    "strength": 18,
+    "strength": 20,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -47,7 +47,7 @@
   {
     "name": "Formation Infantry",
     "unitType": "步兵",
-    "strength": 24,
+    "strength": 31,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -63,7 +63,7 @@
   {
     "name": "Heavy Infantry",
     "unitType": "重步兵",
-    "strength": 30,
+    "strength": 49,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -79,7 +79,7 @@
   {
     "name": "Legion Guards",
     "unitType": "重步兵",
-    "strength": 40,
+    "strength": 93,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -112,7 +112,7 @@
   {
     "name": "Pikemen",
     "unitType": "长柄",
-    "strength": 16,
+    "strength": 18,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -131,7 +131,7 @@
   {
     "name": "Halberdiers",
     "unitType": "长柄",
-    "strength": 21,
+    "strength": 27,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -150,7 +150,7 @@
   {
     "name": "Phalanx Guards",
     "unitType": "长柄",
-    "strength": 27,
+    "strength": 53,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -169,7 +169,7 @@
   {
     "name": "Massed Pike Guards",
     "unitType": "长柄",
-    "strength": 35,
+    "strength": 81,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -202,8 +202,8 @@
   {
     "name": "Crossbowmen",
     "unitType": "射手",
-    "strength": 9,
-    "rangedStrength": 18,
+    "strength": 10,
+    "rangedStrength": 20,
     "range": 2,
     "movement": 2,
     "cost": 95,
@@ -218,8 +218,8 @@
   {
     "name": "Windlass Crossbowmen",
     "unitType": "射手",
-    "strength": 16,
-    "rangedStrength": 32,
+    "strength": 26,
+    "rangedStrength": 52,
     "range": 2,
     "movement": 2,
     "cost": 195,
@@ -234,8 +234,8 @@
   {
     "name": "Sharpshooters",
     "unitType": "射手",
-    "strength": 22,
-    "rangedStrength": 42,
+    "strength": 51,
+    "rangedStrength": 97,
     "range": 2,
     "movement": 2,
     "cost": 280,
@@ -266,7 +266,7 @@
   {
     "name": "Rangers",
     "unitType": "轻骑",
-    "strength": 22,
+    "strength": 29,
     "rangedStrength": 0,
     "range": 0,
     "movement": 4,
@@ -285,7 +285,7 @@
   {
     "name": "Windriders",
     "unitType": "轻骑",
-    "strength": 36,
+    "strength": 83,
     "rangedStrength": 0,
     "range": 0,
     "movement": 5,
@@ -302,7 +302,7 @@
   {
     "name": "Heavy Cavalry",
     "unitType": "重骑",
-    "strength": 27,
+    "strength": 35,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
@@ -322,7 +322,7 @@
   {
     "name": "Royal Cavalry",
     "unitType": "重骑",
-    "strength": 45,
+    "strength": 104,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
@@ -340,8 +340,8 @@
   {
     "name": "Catapults",
     "unitType": "攻城",
-    "strength": 8,
-    "rangedStrength": 17,
+    "strength": 9,
+    "rangedStrength": 19,
     "range": 2,
     "movement": 2,
     "cost": 105,
@@ -358,8 +358,8 @@
   {
     "name": "Heavy Catapults",
     "unitType": "攻城",
-    "strength": 11,
-    "rangedStrength": 23,
+    "strength": 14,
+    "rangedStrength": 30,
     "range": 2,
     "movement": 2,
     "cost": 150,
@@ -376,8 +376,8 @@
   {
     "name": "Heavy Ballistae",
     "unitType": "攻城",
-    "strength": 14,
-    "rangedStrength": 31,
+    "strength": 23,
+    "rangedStrength": 50,
     "range": 2,
     "movement": 2,
     "cost": 210,
@@ -394,8 +394,8 @@
   {
     "name": "Great Siege Arbalest",
     "unitType": "攻城",
-    "strength": 19,
-    "rangedStrength": 42,
+    "strength": 44,
+    "rangedStrength": 97,
     "range": 2,
     "movement": 2,
     "cost": 295,
@@ -427,7 +427,7 @@
   {
     "name": "Ocean Escorts",
     "unitType": "海近战",
-    "strength": 23,
+    "strength": 26,
     "rangedStrength": 0,
     "range": 0,
     "movement": 5,
@@ -443,7 +443,7 @@
   {
     "name": "Deep-Sea Warships",
     "unitType": "海近战",
-    "strength": 36,
+    "strength": 59,
     "rangedStrength": 0,
     "range": 0,
     "movement": 5,
@@ -462,7 +462,7 @@
   {
     "name": "Armored Warships",
     "unitType": "海近战",
-    "strength": 47,
+    "strength": 109,
     "rangedStrength": 0,
     "range": 0,
     "movement": 5,
@@ -479,8 +479,8 @@
   {
     "name": "Naval Ballistae",
     "unitType": "海远程",
-    "strength": 15,
-    "rangedStrength": 22,
+    "strength": 17,
+    "rangedStrength": 25,
     "range": 2,
     "movement": 4,
     "cost": 145,
@@ -495,8 +495,8 @@
   {
     "name": "Heavy Ballista Ships",
     "unitType": "海远程",
-    "strength": 24,
-    "rangedStrength": 34,
+    "strength": 39,
+    "rangedStrength": 55,
     "range": 2,
     "movement": 4,
     "cost": 235,
@@ -514,8 +514,8 @@
   {
     "name": "Armored Ballista Ships",
     "unitType": "海远程",
-    "strength": 31,
-    "rangedStrength": 45,
+    "strength": 72,
+    "rangedStrength": 104,
     "range": 2,
     "movement": 4,
     "cost": 330,
@@ -532,7 +532,7 @@
     "name": "Evokers",
     "unitType": "术士",
     "strength": 5,
-    "rangedStrength": 12,
+    "rangedStrength": 13,
     "range": 2,
     "movement": 2,
     "cost": 70,
@@ -544,7 +544,7 @@
       "[+25]% Strength <vs [Ancient Grove Guardians] units>",
       "[+25]% Strength <vs [Elder Tree Guards] units>",
       "[+25]% Strength <vs [Feral Tree Guards] units>",
-      "[-35]% Strength <when attacking> <vs cities>",
+      "[-15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
       "[This Unit] gains the [Crystal Ward] status for [2] turn(s) <for all movement> <for units without [Crystal Ward]>"
     ],
@@ -554,8 +554,8 @@
   {
     "name": "Shaping Mages",
     "unitType": "术士",
-    "strength": 15,
-    "rangedStrength": 30,
+    "strength": 29,
+    "rangedStrength": 59,
     "range": 2,
     "movement": 2,
     "cost": 200,
@@ -567,7 +567,7 @@
       "[+25]% Strength <vs [Ancient Grove Guardians] units>",
       "[+25]% Strength <vs [Elder Tree Guards] units>",
       "[+25]% Strength <vs [Feral Tree Guards] units>",
-      "[-35]% Strength <when attacking> <vs cities>",
+      "[-15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Mana Crystals]",
       "[+25]% maintenance costs",
@@ -580,8 +580,8 @@
   {
     "name": "Boundary Mages",
     "unitType": "术士",
-    "strength": 23,
-    "rangedStrength": 42,
+    "strength": 72,
+    "rangedStrength": 132,
     "range": 2,
     "movement": 2,
     "cost": 300,
@@ -593,7 +593,7 @@
       "[+25]% Strength <vs [Ancient Grove Guardians] units>",
       "[+25]% Strength <vs [Elder Tree Guards] units>",
       "[+25]% Strength <vs [Feral Tree Guards] units>",
-      "[-35]% Strength <when attacking> <vs cities>",
+      "[-15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Mana Crystals]",
       "[+25]% maintenance costs",
@@ -604,7 +604,7 @@
   {
     "name": "Field Physicians",
     "unitType": "医护",
-    "strength": 8,
+    "strength": 10,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -621,7 +621,7 @@
   {
     "name": "Life Physicians",
     "unitType": "医护",
-    "strength": 18,
+    "strength": 26,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -638,7 +638,7 @@
   {
     "name": "Harmony Physicians",
     "unitType": "医护",
-    "strength": 27,
+    "strength": 53,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -653,7 +653,7 @@
   {
     "name": "Construct Guards",
     "unitType": "构装",
-    "strength": 35,
+    "strength": 69,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -672,7 +672,7 @@
   {
     "name": "Heavy Construct Guards",
     "unitType": "构装",
-    "strength": 46,
+    "strength": 145,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -706,7 +706,7 @@
   {
     "name": "Woodland Scouts",
     "unitType": "侦察",
-    "strength": 14,
+    "strength": 16,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
@@ -723,7 +723,7 @@
   {
     "name": "Expedition Scouts",
     "unitType": "侦察",
-    "strength": 25,
+    "strength": 49,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
@@ -738,8 +738,8 @@
   {
     "name": "Horse Archers",
     "unitType": "骑射",
-    "strength": 7,
-    "rangedStrength": 12,
+    "strength": 8,
+    "rangedStrength": 15,
     "range": 1,
     "movement": 4,
     "cost": 100,
@@ -756,8 +756,8 @@
   {
     "name": "Windstring Horse Archers",
     "unitType": "骑射",
-    "strength": 13,
-    "rangedStrength": 23,
+    "strength": 17,
+    "rangedStrength": 30,
     "range": 1,
     "movement": 4,
     "cost": 175,
@@ -774,8 +774,8 @@
   {
     "name": "Skyline Horse Archers",
     "unitType": "骑射",
-    "strength": 21,
-    "rangedStrength": 35,
+    "strength": 49,
+    "rangedStrength": 81,
     "range": 1,
     "movement": 5,
     "cost": 285,
@@ -790,7 +790,7 @@
   {
     "name": "Ocean Supply Ship",
     "unitType": "海近战",
-    "strength": 18,
+    "strength": 21,
     "rangedStrength": 0,
     "range": 0,
     "movement": 4,
@@ -807,7 +807,7 @@
   {
     "name": "Mirror Detection Team",
     "unitType": "侦察",
-    "strength": 18,
+    "strength": 24,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
@@ -843,7 +843,7 @@
   {
     "name": "Trained Warbeasts",
     "unitType": "野兽",
-    "strength": 26,
+    "strength": 34,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
@@ -861,7 +861,7 @@
   {
     "name": "Armored Warbeasts",
     "unitType": "野兽",
-    "strength": 41,
+    "strength": 95,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
@@ -885,7 +885,7 @@
     "uniques": [
       "No defensive terrain bonus",
       "Heals [10] damage if it kills a unit",
-      "[-35]% Strength <when attacking> <vs cities>",
+      "[-15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Repose and Memory",
@@ -894,15 +894,15 @@
   {
     "name": "Soulbinders",
     "unitType": "死灵",
-    "strength": 18,
-    "rangedStrength": 30,
+    "strength": 29,
+    "rangedStrength": 49,
     "range": 1,
     "movement": 2,
     "cost": 210,
     "uniques": [
       "No defensive terrain bonus",
       "Heals [10] damage if it kills a unit",
-      "[-35]% Strength <when attacking> <vs cities>",
+      "[-15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Mana Crystals]",
       "[+25]% maintenance costs"
@@ -914,15 +914,15 @@
   {
     "name": "Final Cantors",
     "unitType": "死灵",
-    "strength": 26,
-    "rangedStrength": 42,
+    "strength": 82,
+    "rangedStrength": 132,
     "range": 1,
     "movement": 2,
     "cost": 315,
     "uniques": [
       "No defensive terrain bonus",
       "Heals [10] damage if it kills a unit",
-      "[-35]% Strength <when attacking> <vs cities>",
+      "[-15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Mana Crystals]",
       "[+25]% maintenance costs"
@@ -932,7 +932,7 @@
   {
     "name": "Spirit Survey Team",
     "unitType": "侦察",
-    "strength": 7,
+    "strength": 8,
     "movement": 2,
     "cost": 75,
     "requiredTech": "Symbolic Arts",
@@ -951,7 +951,7 @@
   {
     "name": "Imperial Legion",
     "unitType": "步兵",
-    "strength": 19,
+    "strength": 21,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -970,7 +970,7 @@
   {
     "name": "Oathshield Guards",
     "unitType": "重步兵",
-    "strength": 42,
+    "strength": 97,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -987,7 +987,7 @@
   {
     "name": "Contract Guards",
     "unitType": "长柄",
-    "strength": 18,
+    "strength": 20,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -1009,7 +1009,7 @@
   {
     "name": "Convoy Escort",
     "unitType": "海近战",
-    "strength": 25,
+    "strength": 29,
     "rangedStrength": 0,
     "range": 0,
     "movement": 5,
@@ -1048,7 +1048,7 @@
   {
     "name": "Ancient Grove Guardians",
     "unitType": "步兵",
-    "strength": 28,
+    "strength": 40,
     "rangedStrength": 0,
     "range": 0,
     "movement": 1,
@@ -1066,8 +1066,8 @@
   {
     "name": "Moonbranch Archers",
     "unitType": "射手",
-    "strength": 22,
-    "rangedStrength": 43,
+    "strength": 51,
+    "rangedStrength": 100,
     "range": 2,
     "movement": 2,
     "cost": 300,
@@ -1103,8 +1103,8 @@
   {
     "name": "Sail Ballista Ship",
     "unitType": "海远程",
-    "strength": 24,
-    "rangedStrength": 35,
+    "strength": 39,
+    "rangedStrength": 57,
     "range": 2,
     "movement": 5,
     "cost": 250,
@@ -1125,7 +1125,7 @@
   {
     "name": "Pass Pikemen",
     "unitType": "长柄",
-    "strength": 17,
+    "strength": 19,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -1147,7 +1147,7 @@
   {
     "name": "Mountain Gate Guards",
     "unitType": "重步兵",
-    "strength": 32,
+    "strength": 52,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -1166,7 +1166,7 @@
   {
     "name": "Precision Construct Guards",
     "unitType": "构装",
-    "strength": 48,
+    "strength": 151,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -1205,8 +1205,8 @@
   {
     "name": "Steppe Horse Archers",
     "unitType": "骑射",
-    "strength": 13,
-    "rangedStrength": 24,
+    "strength": 17,
+    "rangedStrength": 31,
     "range": 1,
     "movement": 4,
     "cost": 185,
@@ -1226,7 +1226,7 @@
   {
     "name": "Ancestral Banner Riders",
     "unitType": "轻骑",
-    "strength": 37,
+    "strength": 86,
     "rangedStrength": 0,
     "range": 0,
     "movement": 5,
@@ -1245,7 +1245,7 @@
   {
     "name": "Legion Assault Infantry",
     "unitType": "步兵",
-    "strength": 26,
+    "strength": 34,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -1264,8 +1264,8 @@
   {
     "name": "Gatebreaker Catapult",
     "unitType": "攻城",
-    "strength": 11,
-    "rangedStrength": 25,
+    "strength": 14,
+    "rangedStrength": 33,
     "range": 2,
     "movement": 2,
     "cost": 165,
@@ -1284,7 +1284,7 @@
   {
     "name": "Ironback Warbeasts",
     "unitType": "野兽",
-    "strength": 28,
+    "strength": 37,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
@@ -1305,8 +1305,8 @@
   {
     "name": "Gear Ballista",
     "unitType": "攻城",
-    "strength": 15,
-    "rangedStrength": 33,
+    "strength": 24,
+    "rangedStrength": 54,
     "range": 2,
     "movement": 2,
     "cost": 225,
@@ -1326,7 +1326,7 @@
   {
     "name": "War Golems",
     "unitType": "构装",
-    "strength": 38,
+    "strength": 74,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -1366,8 +1366,8 @@
   {
     "name": "Mercenary Crossbowmen",
     "unitType": "射手",
-    "strength": 10,
-    "rangedStrength": 19,
+    "strength": 11,
+    "rangedStrength": 21,
     "range": 2,
     "movement": 2,
     "cost": 105,
@@ -1393,7 +1393,7 @@
     "uniques": [
       "No defensive terrain bonus",
       "Heals [10] damage if it kills a unit",
-      "[-35]% Strength <when attacking> <vs cities>",
+      "[-15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Repose and Memory",
@@ -1404,7 +1404,7 @@
   {
     "name": "Spectral Knights",
     "unitType": "幽魂",
-    "strength": 22,
+    "strength": 29,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
@@ -1425,8 +1425,8 @@
   {
     "name": "Court Liches",
     "unitType": "死灵",
-    "strength": 28,
-    "rangedStrength": 44,
+    "strength": 88,
+    "rangedStrength": 138,
     "range": 1,
     "movement": 2,
     "cost": 340,
@@ -1434,7 +1434,7 @@
       "No defensive terrain bonus",
       "Heals [10] damage if it kills a unit",
       "[+1] Sight",
-      "[-35]% Strength <when attacking> <vs cities>",
+      "[-15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Mana Crystals]",
       "[+25]% maintenance costs"
@@ -1461,7 +1461,7 @@
   {
     "name": "Bone Halberdiers",
     "unitType": "长柄",
-    "strength": 22,
+    "strength": 29,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -1483,7 +1483,7 @@
   {
     "name": "Undead Guards",
     "unitType": "重步兵",
-    "strength": 39,
+    "strength": 90,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -1500,7 +1500,7 @@
   {
     "name": "Elder Tree Guards",
     "unitType": "步兵",
-    "strength": 39,
+    "strength": 76,
     "rangedStrength": 0,
     "range": 0,
     "movement": 1,
@@ -1516,7 +1516,7 @@
   {
     "name": "Nether Oath Rangers",
     "unitType": "幽魂",
-    "strength": 36,
+    "strength": 113,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
@@ -1760,7 +1760,7 @@
   {
     "name": "Oathsworn Commander",
     "unitType": "Hero - Oathsworn Commander",
-    "strength": 24,
+    "strength": 27,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -1788,8 +1788,8 @@
   {
     "name": "Star-Mirror Sage",
     "unitType": "Hero - Star-Mirror Sage",
-    "strength": 15,
-    "rangedStrength": 27,
+    "strength": 21,
+    "rangedStrength": 39,
     "range": 2,
     "movement": 2,
     "cost": 0,
@@ -1821,7 +1821,7 @@
   {
     "name": "Guardian of the Wilds",
     "unitType": "Hero - Guardian of the Wilds",
-    "strength": 20,
+    "strength": 29,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
@@ -1855,7 +1855,7 @@
   {
     "name": "Ancient Oath Dragon",
     "unitType": "Hero - Ancient Oath Dragon",
-    "strength": 52,
+    "strength": 163,
     "rangedStrength": 0,
     "range": 0,
     "movement": 4,
@@ -1884,8 +1884,8 @@
   {
     "name": "Springroad Physician",
     "unitType": "Hero - Springroad Physician",
-    "strength": 10,
-    "rangedStrength": 16,
+    "strength": 14,
+    "rangedStrength": 23,
     "range": 1,
     "movement": 3,
     "cost": 0,
@@ -1914,7 +1914,7 @@
   {
     "name": "Monument Oathwalker",
     "unitType": "Hero - Monument Oathwalker",
-    "strength": 22,
+    "strength": 29,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
@@ -1945,8 +1945,8 @@
   {
     "name": "Molten Seal Envoy",
     "unitType": "Hero - Molten Seal Envoy",
-    "strength": 12,
-    "rangedStrength": 26,
+    "strength": 24,
+    "rangedStrength": 51,
     "range": 2,
     "movement": 2,
     "cost": 0,
@@ -1978,8 +1978,8 @@
   {
     "name": "Silent Mirror Keeper",
     "unitType": "Hero - Silent Mirror Keeper",
-    "strength": 13,
-    "rangedStrength": 22,
+    "strength": 17,
+    "rangedStrength": 29,
     "range": 2,
     "movement": 2,
     "cost": 0,
@@ -2012,7 +2012,7 @@
   {
     "name": "Sea Road Navigator",
     "unitType": "Hero - Sea Road Navigator",
-    "strength": 24,
+    "strength": 27,
     "rangedStrength": 0,
     "range": 0,
     "movement": 5,
@@ -2044,7 +2044,7 @@
   {
     "name": "Lantern Oathguard",
     "unitType": "Hero - Lantern Oathguard",
-    "strength": 22,
+    "strength": 29,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -2076,7 +2076,7 @@
   {
     "name": "Hundredforge Artificer",
     "unitType": "Hero - Hundredforge Artificer",
-    "strength": 28,
+    "strength": 55,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -2110,7 +2110,7 @@
   {
     "name": "Caravan Arbiter",
     "unitType": "Hero - Caravan Arbiter",
-    "strength": 22,
+    "strength": 43,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
@@ -2183,6 +2183,7 @@
     "requiredTech": "Resonance of Heaven and Earth",
     "uniques": [
       "Spaceship part",
+      "Limited to [3] per Civilization",
       "Can be added to [Origin Apparatus] in the Capital",
       "Cannot be purchased",
       "Never appears as a Barbarian unit",
@@ -2200,6 +2201,7 @@
     "requiredTech": "Celestial Surveying",
     "uniques": [
       "Spaceship part",
+      "Limited to [1] per Civilization",
       "Can be added to [Origin Apparatus] in the Capital",
       "Cannot be purchased",
       "Never appears as a Barbarian unit",
@@ -2217,6 +2219,7 @@
     "requiredTech": "Elemental Boundaries",
     "uniques": [
       "Spaceship part",
+      "Limited to [1] per Civilization",
       "Can be added to [Origin Apparatus] in the Capital",
       "Cannot be purchased",
       "Never appears as a Barbarian unit",
@@ -2234,6 +2237,7 @@
     "requiredTech": "Mithril Composites",
     "uniques": [
       "Spaceship part",
+      "Limited to [1] per Civilization",
       "Can be added to [Origin Apparatus] in the Capital",
       "Cannot be purchased",
       "Never appears as a Barbarian unit",
@@ -2259,7 +2263,7 @@
   {
     "name": "Outlaw Raiders",
     "unitType": "步兵",
-    "strength": 12,
+    "strength": 15,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -2288,7 +2292,7 @@
   {
     "name": "Stone-Eating Giant",
     "unitType": "野兽",
-    "strength": 20,
+    "strength": 22,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -2304,7 +2308,7 @@
   {
     "name": "Feral Tree Guards",
     "unitType": "步兵",
-    "strength": 28,
+    "strength": 37,
     "rangedStrength": 0,
     "range": 0,
     "movement": 1,
@@ -2319,7 +2323,7 @@
   {
     "name": "Rogue Construct",
     "unitType": "构装",
-    "strength": 33,
+    "strength": 54,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -2334,7 +2338,7 @@
   {
     "name": "Raging Elemental",
     "unitType": "元素",
-    "strength": 31,
+    "strength": 50,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
@@ -2365,7 +2369,7 @@
   {
     "name": "Deep-Tide Serpent",
     "unitType": "海近战",
-    "strength": 34,
+    "strength": 55,
     "rangedStrength": 0,
     "range": 0,
     "movement": 4,
@@ -2380,7 +2384,7 @@
   {
     "name": "Forsworn Specter",
     "unitType": "幽魂",
-    "strength": 19,
+    "strength": 25,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
@@ -2399,7 +2403,7 @@
   {
     "name": "Echo Wraithlord",
     "unitType": "幽魂",
-    "strength": 30,
+    "strength": 70,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
@@ -2417,8 +2421,8 @@
   {
     "name": "Wandering Spiritfire",
     "unitType": "元素",
-    "strength": 10,
-    "rangedStrength": 22,
+    "strength": 13,
+    "rangedStrength": 29,
     "range": 2,
     "movement": 2,
     "cost": 150,
@@ -2431,8 +2435,8 @@
   {
     "name": "Tidal Jellyfish Swarm",
     "unitType": "海远程",
-    "strength": 9,
-    "rangedStrength": 24,
+    "strength": 15,
+    "rangedStrength": 39,
     "range": 2,
     "movement": 2,
     "cost": 190,

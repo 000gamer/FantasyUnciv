@@ -2,7 +2,7 @@
 
 ### Build your civilization in a world of magic and steel!
 
-[简体中文](README.zh-CN.md) · **Version 1.2**
+[简体中文](README.zh-CN.md) · **Version 1.3**
 
 **FantasyUnciv** is a complete fantasy ruleset mod for Unciv. Build cities, research technologies, explore ruins, ally with city-states and recruit heroes as you compete to shape the world.
 

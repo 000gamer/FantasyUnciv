@@ -54,7 +54,13 @@
     "acceptingDemand": "We accept these terms.",
     "neutralRejectingDemand": "We cannot accept this demand.",
     "hateRejectingDemand": "Your demands have no place here.",
-    "tradeRequest": "Let us exchange fairly."
+    "tradeRequest": "Let us exchange fairly.",
+    "civilopediaText": [
+      {
+        "text": "FC Civ Human Empire lore"
+      }
+    ],
+    "personality": "Human Empire Personality"
   },
   {
     "name": "Mercantile Republic",
@@ -112,7 +118,13 @@
     "acceptingDemand": "We accept these terms.",
     "neutralRejectingDemand": "We cannot accept this demand.",
     "hateRejectingDemand": "Your demands have no place here.",
-    "tradeRequest": "Let us exchange fairly."
+    "tradeRequest": "Let us exchange fairly.",
+    "civilopediaText": [
+      {
+        "text": "FC Civ Mercantile Republic lore"
+      }
+    ],
+    "personality": "Mercantile Republic Personality"
   },
   {
     "name": "Forest Elves",
@@ -171,7 +183,13 @@
     "acceptingDemand": "We accept these terms.",
     "neutralRejectingDemand": "We cannot accept this demand.",
     "hateRejectingDemand": "Your demands have no place here.",
-    "tradeRequest": "Let us exchange fairly."
+    "tradeRequest": "Let us exchange fairly.",
+    "civilopediaText": [
+      {
+        "text": "FC Civ Forest Elves lore"
+      }
+    ],
+    "personality": "Forest Elves Personality"
   },
   {
     "name": "Sea Elves",
@@ -231,7 +249,13 @@
     "acceptingDemand": "We accept these terms.",
     "neutralRejectingDemand": "We cannot accept this demand.",
     "hateRejectingDemand": "Your demands have no place here.",
-    "tradeRequest": "Let us exchange fairly."
+    "tradeRequest": "Let us exchange fairly.",
+    "civilopediaText": [
+      {
+        "text": "FC Civ Sea Elves lore"
+      }
+    ],
+    "personality": "Sea Elves Personality"
   },
   {
     "name": "Mountain Dwarves",
@@ -289,7 +313,13 @@
     "acceptingDemand": "We accept these terms.",
     "neutralRejectingDemand": "We cannot accept this demand.",
     "hateRejectingDemand": "Your demands have no place here.",
-    "tradeRequest": "Let us exchange fairly."
+    "tradeRequest": "Let us exchange fairly.",
+    "civilopediaText": [
+      {
+        "text": "FC Civ Mountain Dwarves lore"
+      }
+    ],
+    "personality": "Mountain Dwarves Personality"
   },
   {
     "name": "Artificer Dwarves",
@@ -347,7 +377,13 @@
     "acceptingDemand": "We accept these terms.",
     "neutralRejectingDemand": "We cannot accept this demand.",
     "hateRejectingDemand": "Your demands have no place here.",
-    "tradeRequest": "Let us exchange fairly."
+    "tradeRequest": "Let us exchange fairly.",
+    "civilopediaText": [
+      {
+        "text": "FC Civ Artificer Dwarves lore"
+      }
+    ],
+    "personality": "Artificer Dwarves Personality"
   },
   {
     "name": "Nomadic Orcs",
@@ -406,7 +442,13 @@
     "acceptingDemand": "We accept these terms.",
     "neutralRejectingDemand": "We cannot accept this demand.",
     "hateRejectingDemand": "Your demands have no place here.",
-    "tradeRequest": "Let us exchange fairly."
+    "tradeRequest": "Let us exchange fairly.",
+    "civilopediaText": [
+      {
+        "text": "FC Civ Nomadic Orcs lore"
+      }
+    ],
+    "personality": "Nomadic Orcs Personality"
   },
   {
     "name": "Orc Empire",
@@ -466,7 +508,13 @@
     "acceptingDemand": "We accept these terms.",
     "neutralRejectingDemand": "We cannot accept this demand.",
     "hateRejectingDemand": "Your demands have no place here.",
-    "tradeRequest": "Let us exchange fairly."
+    "tradeRequest": "Let us exchange fairly.",
+    "civilopediaText": [
+      {
+        "text": "FC Civ Orc Empire lore"
+      }
+    ],
+    "personality": "Orc Empire Personality"
   },
   {
     "name": "Industrial Goblins",
@@ -525,7 +573,13 @@
     "acceptingDemand": "We accept these terms.",
     "neutralRejectingDemand": "We cannot accept this demand.",
     "hateRejectingDemand": "Your demands have no place here.",
-    "tradeRequest": "Let us exchange fairly."
+    "tradeRequest": "Let us exchange fairly.",
+    "civilopediaText": [
+      {
+        "text": "FC Civ Industrial Goblins lore"
+      }
+    ],
+    "personality": "Industrial Goblins Personality"
   },
   {
     "name": "Explorers Guild",
@@ -584,7 +638,13 @@
     "acceptingDemand": "We accept these terms.",
     "neutralRejectingDemand": "We cannot accept this demand.",
     "hateRejectingDemand": "Your demands have no place here.",
-    "tradeRequest": "Let us exchange fairly."
+    "tradeRequest": "Let us exchange fairly.",
+    "civilopediaText": [
+      {
+        "text": "FC Civ Explorers Guild lore"
+      }
+    ],
+    "personality": "Explorers Guild Personality"
   },
   {
     "name": "Lich Dynasty",
@@ -643,7 +703,13 @@
     "acceptingDemand": "We accept these terms.",
     "neutralRejectingDemand": "We cannot accept this demand.",
     "hateRejectingDemand": "Your demands have no place here.",
-    "tradeRequest": "Let us exchange fairly."
+    "tradeRequest": "Let us exchange fairly.",
+    "civilopediaText": [
+      {
+        "text": "FC Civ Lich Dynasty lore"
+      }
+    ],
+    "personality": "Lich Dynasty Personality"
   },
   {
     "name": "Bone Empire",
@@ -703,7 +769,13 @@
     "acceptingDemand": "We accept these terms.",
     "neutralRejectingDemand": "We cannot accept this demand.",
     "hateRejectingDemand": "Your demands have no place here.",
-    "tradeRequest": "Let us exchange fairly."
+    "tradeRequest": "Let us exchange fairly.",
+    "civilopediaText": [
+      {
+        "text": "FC Civ Bone Empire lore"
+      }
+    ],
+    "personality": "Bone Empire Personality"
   },
   {
     "name": "Inkbell",
