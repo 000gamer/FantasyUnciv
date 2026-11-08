@@ -42,6 +42,7 @@
     "name": "Religious",
     "victoryScreenHeader": "AOD Religious Objective",
     "milestones": [
+      "Build [Grand Synod]",
       "Become the world religion"
     ],
     "victoryString": "Religious victory won",

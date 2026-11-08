@@ -1926,8 +1926,7 @@
       "Only available <if [Gate Beyond Project] is constructed> <when [Scientific] Victory is enabled>"
     ],
     "rangedStrength": 0,
-    "range": 0,
-    "requiredResource": "Mithril"
+    "range": 0
   },
   {
     "name": "Flow Guide",

@@ -2341,5 +2341,23 @@
     "isWonder": true,
     "science": 10,
     "specialistSlots": {}
+  },
+  {
+    "name": "Grand Synod",
+    "requiredTech": "Printing and Publishing",
+    "cost": 900,
+    "maintenance": 0,
+    "uniques": [
+      "Cannot be purchased <hidden from users>",
+      "Unsellable <hidden from users>",
+      "Cannot be hurried <hidden from users>",
+      "Destroyed when the city is captured",
+      "Only available <in cities with a [Theological College]>",
+      "Only available <when religion is enabled>"
+    ],
+    "isNationalWonder": true,
+    "faith": 4,
+    "culture": 3,
+    "specialistSlots": {}
   }
 ]
