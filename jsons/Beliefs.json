@@ -249,7 +249,9 @@
   {
     "name": "Order of the Living Spring",
     "type": "Follower",
-    "uniques": []
+    "uniques": [
+      "May buy [Monastery] buildings for [220] [Faith] [in this city]"
+    ]
   },
   {
     "name": "Greenring Ministry",
@@ -331,7 +333,9 @@
   {
     "name": "Shelter of Life",
     "type": "Follower",
-    "uniques": []
+    "uniques": [
+      "[+2 Faith, +1 Happiness] from all [Monastery] buildings"
+    ]
   },
   {
     "name": "Sourceflow Rituals",
@@ -364,7 +368,9 @@
   {
     "name": "Watchful Witnesses",
     "type": "Follower",
-    "uniques": []
+    "uniques": [
+      "[+1 Happiness] from all [Temple] buildings"
+    ]
   },
   {
     "name": "Care of Bound Spirits",
