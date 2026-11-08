@@ -721,5 +721,49 @@
     "science": 3,
     "culture": 2,
     "impassable": true
+  },
+  {
+    "name": "Sunken Bell Reef",
+    "type": "NaturalWonder",
+    "occursOn": [
+      "Coast",
+      "Ocean"
+    ],
+    "turnsInto": "Coast",
+    "weight": 10,
+    "uniques": [
+      "Grants [+100 Culture] to the first civilization to discover it"
+    ],
+    "culture": 3,
+    "gold": 1
+  },
+  {
+    "name": "Drowned Fleet Graveyard",
+    "type": "NaturalWonder",
+    "occursOn": [
+      "Coast",
+      "Ocean"
+    ],
+    "turnsInto": "Coast",
+    "weight": 10,
+    "uniques": [
+      "Grants [+150 Gold] to the first civilization to discover it"
+    ],
+    "production": 2,
+    "gold": 2
+  },
+  {
+    "name": "Abyssal Ancient City",
+    "type": "NaturalWonder",
+    "occursOn": [
+      "Ocean"
+    ],
+    "turnsInto": "Coast",
+    "weight": 10,
+    "uniques": [
+      "Grants [+200 Science] to the first civilization to discover it"
+    ],
+    "science": 3,
+    "culture": 2
   }
 ]

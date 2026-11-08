@@ -331,7 +331,7 @@
     ]
   },
   {
-    "name": "Shelter of Life",
+    "name": "Haven of Life",
     "type": "Follower",
     "uniques": [
       "[+2 Faith, +1 Happiness] from all [Monastery] buildings"
@@ -373,7 +373,7 @@
     ]
   },
   {
-    "name": "Care of Bound Spirits",
+    "name": "Care of Constructs",
     "type": "Follower",
     "uniques": [
       "All newly-trained [构装] units [in this city] receive the [Marching Prayer] promotion <Civilopedia link [Promotion/Marching Prayer]>"

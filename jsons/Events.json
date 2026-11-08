@@ -33,7 +33,7 @@
         ]
       },
       {
-        "name": "The Old Root Covenant - Care for the roots",
+        "name": "The Old Root Covenant - Tend the garden",
         "text": "The Old Root Covenant-B",
         "civilopediaText": [
           {
@@ -41,7 +41,10 @@
           }
         ],
         "uniques": [
-          "[This Unit] takes [20] damage"
+          "Only available <when above [20] HP> <hidden from users>",
+          "[This Unit] takes [20] damage",
+          "Only available <when number of [Cities] is more than [0]>",
+          "[+1] population in a random city"
         ]
       },
       {

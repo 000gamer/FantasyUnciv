@@ -85,18 +85,6 @@
     ]
   },
   {
-    "name": "Ruin - Spell Calibration Platform",
-    "weight": 1,
-    "notification": "Calibration table: The exploring mage gains the Crystal Ward Covenant; see its unit action for use.",
-    "uniques": []
-  },
-  {
-    "name": "Ruin - Monument of Renewal",
-    "weight": 1,
-    "notification": "Restoration oathstone: The explorer gains the Springwood Covenant and its healing benefits.",
-    "uniques": []
-  },
-  {
     "name": "Ruin - Refugee Guides",
     "weight": 1,
     "notification": "Survivor guide: A Forest Scout joins your civilization and requires normal upkeep.",
@@ -148,6 +136,24 @@
     "uniques": [
       "Only available <after discovering [Cartography]> <for [Military] units>",
       "Triggers a [The Lost Courier Register] event"
+    ]
+  },
+  {
+    "name": "Ruin - Forgotten Mage Cache",
+    "weight": 1,
+    "notification": "Mage cache: Recovered arcane notes and gained [] Science.",
+    "uniques": [
+      "Only available <after discovering [Arcane Research]>",
+      "Gain [80] [Science]"
+    ]
+  },
+  {
+    "name": "Ruin - Veteran Cache",
+    "weight": 1,
+    "notification": "Veteran cache: The explorer studies old drill manuals and gains 15 XP.",
+    "uniques": [
+      "Only available <for [Military] units>",
+      "[This Unit] gains [15] XP"
     ]
   }
 ]
