@@ -88,19 +88,13 @@
     "name": "Ruin - Spell Calibration Platform",
     "weight": 1,
     "notification": "Calibration table: The exploring mage gains the Crystal Ward Covenant; see its unit action for use.",
-    "uniques": [
-      "Only available <for [术士] units> <for units without [Crystal Ward Covenant]>",
-      "[This Unit] gains the [Crystal Ward Covenant] promotion"
-    ]
+    "uniques": []
   },
   {
     "name": "Ruin - Monument of Renewal",
     "weight": 1,
     "notification": "Restoration oathstone: The explorer gains the Springwood Covenant and its healing benefits.",
-    "uniques": [
-      "Only available <for units with [Breath of Life]> <for units without [Springwood Covenant]>",
-      "[This Unit] gains the [Springwood Covenant] promotion"
-    ]
+    "uniques": []
   },
   {
     "name": "Ruin - Refugee Guides",
@@ -130,24 +124,6 @@
     ]
   },
   {
-    "name": "Ruin - Watchers Beneath the Oathstone",
-    "weight": 1,
-    "notification": "Discovery: Watchers Beneath the Oathstone. Read the encounter and choose a response; the outcome depends on your decision.",
-    "uniques": [
-      "Only available <after discovering [Arcane Research]> <for [{Land} {Military}] units>",
-      "Triggers a [Watchers Beneath the Oathstone] event"
-    ]
-  },
-  {
-    "name": "Ruin - Blind Calendar Mirror",
-    "weight": 1,
-    "notification": "Discovery: The Blind Star Mirror. Read the encounter and choose a response; the outcome depends on your decision.",
-    "uniques": [
-      "Only available <after discovering [Runic Crafts]> <for [Military] units> <within [2] tiles of a [Hill]>",
-      "Triggers a [The Blind Star Mirror] event"
-    ]
-  },
-  {
     "name": "Ruin - Sealed Root Garden",
     "weight": 1,
     "notification": "Discovery: The Old Root Covenant. Read the encounter and choose a response; the outcome depends on your decision.",
@@ -172,69 +148,6 @@
     "uniques": [
       "Only available <after discovering [Cartography]> <for [Military] units>",
       "Triggers a [The Lost Courier Register] event"
-    ]
-  },
-  {
-    "name": "Ruin - Unclaimed Sealed Casket",
-    "weight": 1,
-    "notification": "Discovery: The Sealed Relic Casket. Read the encounter and choose a response; the outcome depends on your decision.",
-    "uniques": [
-      "Only available <for [Hero] units>",
-      "Triggers a [The Sealed Relic Casket] event"
-    ]
-  },
-  {
-    "name": "Ruin - The Last Load on Springroad",
-    "weight": 1,
-    "notification": "Discovery: The Last Load on Springroad. Read the encounter and choose a response; the outcome depends on your decision.",
-    "uniques": [
-      "Only available <after discovering [Medicine and Anatomy]> <for [{Land} {Military}] units> <within [2] tiles of a [Forest]>",
-      "Triggers a [The Last Load on Springroad] event"
-    ]
-  },
-  {
-    "name": "Ruin - Silent Mirror Watch",
-    "weight": 1,
-    "notification": "Discovery: The Silent Mirror Watch. Read the encounter and choose a response; the outcome depends on your decision.",
-    "uniques": [
-      "Only available <after discovering [Arcane Research]> <for [Military] units> <within [2] tiles of a [Hill]>",
-      "Triggers a [The Silent Mirror Watch] event"
-    ]
-  },
-  {
-    "name": "Ruin - Watcher at the Broken Stone",
-    "weight": 1,
-    "notification": "Discovery: Watcher at the Broken Stone. Read the encounter and choose a response.",
-    "uniques": [
-      "Only available <after discovering [Arcane Research]> <for [{Land} {Military}] units> <within [2] tiles of a [Hill]>",
-      "Triggers a [A Voluntary Soul Covenant] event"
-    ]
-  },
-  {
-    "name": "Ruin - Visitor at the Old Forge",
-    "weight": 1,
-    "notification": "Discovery: Visitor at the Old Forge. Read the encounter and choose a response.",
-    "uniques": [
-      "Only available <after discovering [Magic Engineering]> <for [Military] units> <within [2] tiles of a [Hill]>",
-      "Triggers a [The Molten Seal Envoy] event"
-    ]
-  },
-  {
-    "name": "Ruin - Lanterns in the Grove",
-    "weight": 1,
-    "notification": "Discovery: Lanterns in the Grove. Read the encounter and choose a response.",
-    "uniques": [
-      "Only available <after discovering [Diplomatic Envoys]> <when religion is enabled> <for [{Land} {Military}] units> <within [2] tiles of a [Forest]>",
-      "Triggers a [Lanterns in the Grove] event"
-    ]
-  },
-  {
-    "name": "Ruin - Guards by the Old Road",
-    "weight": 1,
-    "notification": "Discovery: Guards by the Old Road. Read the encounter and choose a response.",
-    "uniques": [
-      "Only available <after discovering [Overseas Trade Network]> <for [{Land} {Military}] units> <within [2] tiles of a [Road]>",
-      "Triggers a [Guards by the Old Road] event"
     ]
   }
 ]

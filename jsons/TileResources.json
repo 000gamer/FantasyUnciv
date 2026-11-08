@@ -64,7 +64,7 @@
     }
   },
   {
-    "name": "Mana Crystals",
+    "name": "Magic Crystals",
     "resourceType": "Strategic",
     "terrainsCanBeFoundOn": [
       "Hill",
@@ -82,9 +82,8 @@
       "Minor deposits generated with weight [10] <in [{Featureless} {Grassland}] tiles>"
     ],
     "science": 1,
-    "revealedBy": "Ritual Traditions",
+    "revealedBy": "Arcane Research",
     "improvedBy": [
-      "Ley Extractor",
       "Mine"
     ],
     "majorDepositAmount": {
@@ -518,25 +517,6 @@
     ]
   },
   {
-    "name": "Spirit Spring",
-    "resourceType": "Bonus",
-    "terrainsCanBeFoundOn": [
-      "Forest",
-      "Grassland",
-      "Tundra"
-    ],
-    "uniques": [
-      "Generated on every [100] tiles <in [Forest] tiles>",
-      "Generated on every [100] tiles <in [{Featureless} {Grassland}] tiles>",
-      "Generated on every [100] tiles <in [{Featureless} {Tundra}] tiles>"
-    ],
-    "faith": 1,
-    "revealedBy": "Herbalism",
-    "improvedBy": [
-      "Spring Garden"
-    ]
-  },
-  {
     "name": "Whales",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
@@ -550,26 +530,6 @@
     "production": 1,
     "improvedBy": [
       "Fishing Boats"
-    ]
-  },
-  {
-    "name": "Research Ritual Active",
-    "resourceType": "Strategic",
-    "terrainsCanBeFoundOn": [],
-    "uniques": [
-      "Doesn't generate naturally",
-      "Cannot be traded",
-      "Not shown on world screen"
-    ]
-  },
-  {
-    "name": "National Ward Active",
-    "resourceType": "Strategic",
-    "terrainsCanBeFoundOn": [],
-    "uniques": [
-      "Doesn't generate naturally",
-      "Cannot be traded",
-      "Not shown on world screen"
     ]
   }
 ]

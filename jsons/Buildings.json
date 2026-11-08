@@ -244,19 +244,6 @@
     }
   },
   {
-    "name": "Life Research Hall",
-    "cost": 170,
-    "maintenance": 2,
-    "requiredTech": "Natural Philosophy",
-    "uniques": [
-      "[+1 Production] from [Forest] tiles [in this city]",
-      "Only available <in cities with a [Granary]>"
-    ],
-    "food": 1,
-    "faith": 2,
-    "specialistSlots": {}
-  },
-  {
     "name": "Advanced Forge",
     "cost": 260,
     "maintenance": 3,
@@ -281,21 +268,6 @@
     ],
     "specialistSlots": {
       "Engineer": 1
-    }
-  },
-  {
-    "name": "Sourceflow Institute",
-    "cost": 300,
-    "maintenance": 4,
-    "requiredTech": "Magic Engineering",
-    "uniques": [
-      "[+15]% [Science] [in this city]",
-      "Only available <in cities with a [Academy of Magic]>",
-      "Requires at least [8] population"
-    ],
-    "science": 4,
-    "specialistSlots": {
-      "Scientist": 1
     }
   },
   {
@@ -388,19 +360,6 @@
     }
   },
   {
-    "name": "Source Observatory",
-    "cost": 420,
-    "maintenance": 4,
-    "requiredTech": "Great Magic Engineering",
-    "uniques": [
-      "[+10]% [Science] [in this city]",
-      "Only available <in cities with a [Sourceflow Institute]>"
-    ],
-    "science": 3,
-    "faith": 3,
-    "specialistSlots": {}
-  },
-  {
     "name": "Council Hall",
     "cost": 65,
     "maintenance": 1,
@@ -468,18 +427,6 @@
     "specialistSlots": {}
   },
   {
-    "name": "Mirror Tower",
-    "cost": 160,
-    "maintenance": 2,
-    "requiredTech": "Magic Records",
-    "uniques": [
-      "All newly-trained [侦察] units [in this city] receive the [Seal Detection] promotion <Civilopedia link [Promotion/Seal Detection]>",
-      "Only available <in cities with a [Library]>"
-    ],
-    "science": 2,
-    "specialistSlots": {}
-  },
-  {
     "name": "Civic Hall",
     "cost": 200,
     "maintenance": 2,
@@ -541,18 +488,6 @@
       "Must be next to [River]"
     ],
     "production": 4,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Soul Archive",
-    "cost": 290,
-    "maintenance": 3,
-    "requiredTech": "Magic Instruments",
-    "uniques": [
-      "Only available <in cities with a [Theater]>"
-    ],
-    "science": 2,
-    "culture": 4,
     "specialistSlots": {}
   },
   {
@@ -651,9 +586,7 @@
     "cost": 460,
     "maintenance": 4,
     "requiredTech": "Memory Preservation",
-    "uniques": [
-      "Only available <in cities with a [Soul Archive]>"
-    ],
+    "uniques": [],
     "culture": 4,
     "science": 2,
     "faith": 2,
@@ -665,13 +598,10 @@
     "maintenance": 3,
     "requiredTech": "Runic Crafts",
     "uniques": [
-      "All newly-trained [术士] units [in this city] receive the [Mirror-Eye Training] promotion <Civilopedia link [Promotion/Mirror-Eye Training]>",
-      "All newly-trained [死灵] units [in this city] receive the [Mirror-Eye Training] promotion <Civilopedia link [Promotion/Mirror-Eye Training]>",
       "Unsellable",
       "Destroyed when the city is captured",
       "Only available <in cities with a [Academy of Magic]>",
       "Only available <in cities without a [Oathguard Hospice]>",
-      "Only available <in cities without a [Soul Covenant Archive]>",
       "Only available <in cities without a [Mental Colloquium]>"
     ],
     "science": 2,
@@ -686,9 +616,7 @@
       "All newly-trained [医护] units [in this city] receive the [Marching Prayer] promotion <Civilopedia link [Promotion/Marching Prayer]>",
       "Unsellable",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [Life Research Hall]>",
       "Only available <in cities without a [Runeweaving Institute]>",
-      "Only available <in cities without a [Soul Covenant Archive]>",
       "Only available <in cities without a [Mental Colloquium]>"
     ],
     "faith": 2,
@@ -702,7 +630,6 @@
     "requiredTech": "Medicine and Anatomy",
     "uniques": [
       "[+1 Culture] from [Forest] tiles [in this city]",
-      "Only available <in cities with a [Life Research Hall]>",
       "Must have an owned [Forest] within [3] tiles"
     ],
     "food": 1,
@@ -714,31 +641,11 @@
     "maintenance": 3,
     "requiredTech": "Arcane Defense Systems",
     "uniques": [
-      "All newly-trained [构装] units [in this city] receive the [Seal Detection] promotion <Civilopedia link [Promotion/Seal Detection]>",
       "Only available <in cities with a [Academy of Magic]>",
-      "Consumes [1] [Mana Crystals]"
+      "Consumes [1] [Magic Crystals]"
     ],
     "science": 2,
     "faith": 2,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Soul Covenant Archive",
-    "cost": 220,
-    "maintenance": 2,
-    "requiredTech": "Arcane Research",
-    "uniques": [
-      "[+1 Gold] from every [Artist]",
-      "New [死灵] units start with [+10] XP [in this city]",
-      "New [幽魂] units start with [+10] XP [in this city]",
-      "Unsellable",
-      "Destroyed when the city is captured",
-      "Only available <in cities with a [Theater]>",
-      "Only available <in cities without a [Runeweaving Institute]>",
-      "Only available <in cities without a [Oathguard Hospice]>",
-      "Only available <in cities without a [Mental Colloquium]>"
-    ],
-    "culture": 2,
     "specialistSlots": {}
   },
   {
@@ -750,10 +657,8 @@
       "[+1 Science] from every specialist [in this city]",
       "Unsellable",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [Mirror Tower]>",
       "Only available <in cities without a [Runeweaving Institute]>",
-      "Only available <in cities without a [Oathguard Hospice]>",
-      "Only available <in cities without a [Soul Covenant Archive]>"
+      "Only available <in cities without a [Oathguard Hospice]>"
     ],
     "science": 2,
     "specialistSlots": {}
@@ -844,21 +749,6 @@
     },
     "uniqueTo": "Mercantile Republic",
     "replaces": "Bank"
-  },
-  {
-    "name": "Canopy Sanctuary",
-    "cost": 170,
-    "maintenance": 1,
-    "requiredTech": "Natural Philosophy",
-    "uniques": [
-      "[+1 Production] from [Forest] tiles [in this city]",
-      "Only available <in cities with a [Granary]>"
-    ],
-    "food": 1,
-    "faith": 3,
-    "specialistSlots": {},
-    "uniqueTo": "Forest Elves",
-    "replaces": "Life Research Hall"
   },
   {
     "name": "Treespeech School",
@@ -1103,24 +993,6 @@
     "replaces": "Library"
   },
   {
-    "name": "Meditation Institute",
-    "cost": 310,
-    "maintenance": 3,
-    "requiredTech": "Magic Instruments",
-    "uniques": [
-      "[+15]% [Science] [in this city]",
-      "Only available <in cities with a [Academy of Magic]>",
-      "Requires at least [8] population"
-    ],
-    "science": 4,
-    "faith": 2,
-    "specialistSlots": {
-      "Scientist": 1
-    },
-    "uniqueTo": "Lich Dynasty",
-    "replaces": "Sourceflow Institute"
-  },
-  {
     "name": "Muster Monument Walls",
     "cost": 70,
     "maintenance": 0,
@@ -1252,27 +1124,6 @@
     }
   },
   {
-    "name": "Mirror Lake Academy",
-    "requiredTech": "Magic Records",
-    "cost": 330,
-    "maintenance": 0,
-    "uniques": [
-      "Cannot be purchased <hidden from users>",
-      "Unsellable <hidden from users>",
-      "Cannot be hurried <hidden from users>",
-      "[+15]% [Science] [in this city]",
-      "Only available <in cities with a [Library]>",
-      "Must be next to [River]"
-    ],
-    "isWonder": true,
-    "science": 4,
-    "culture": 2,
-    "specialistSlots": {},
-    "greatPersonPoints": {
-      "Great Scholar": 2
-    }
-  },
-  {
     "name": "League of a Hundred Ports",
     "requiredTech": "Diplomatic Envoys",
     "cost": 500,
@@ -1292,23 +1143,6 @@
     "specialistSlots": {}
   },
   {
-    "name": "Ancient Grove Covenant",
-    "requiredTech": "Medicine and Anatomy",
-    "cost": 480,
-    "maintenance": 0,
-    "uniques": [
-      "Cannot be purchased <hidden from users>",
-      "Unsellable <hidden from users>",
-      "Cannot be hurried <hidden from users>",
-      "Free [Guardian of the Wilds] appears <when number of [[Guardian of the Wilds] Units] is equal to [0]>",
-      "Must have an owned [Forest] within [3] tiles"
-    ],
-    "isWonder": true,
-    "culture": 2,
-    "faith": 2,
-    "specialistSlots": {}
-  },
-  {
     "name": "Throne of Military Oaths",
     "requiredTech": "Military Organization",
     "cost": 520,
@@ -1317,7 +1151,6 @@
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "Free [Oathsworn Commander] appears <when number of [[Oathsworn Commander] Units] is equal to [0]>",
       "Only available <in cities with a [Barracks]>"
     ],
     "isWonder": true,
@@ -1333,7 +1166,6 @@
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "Free [Star-Mirror Sage] appears <when number of [[Star-Mirror Sage] Units] is equal to [0]>",
       "Only available <in cities with a [Academy of Magic]>"
     ],
     "isWonder": true,
@@ -1414,23 +1246,6 @@
     "specialistSlots": {}
   },
   {
-    "name": "Great Garden of Life",
-    "requiredTech": "Ecological Engineering",
-    "cost": 1050,
-    "maintenance": 0,
-    "uniques": [
-      "Cannot be purchased <hidden from users>",
-      "Unsellable <hidden from users>",
-      "Cannot be hurried <hidden from users>",
-      "[+10]% growth [in all cities]",
-      "Only available <in cities with a [Ecological Garden]>"
-    ],
-    "isWonder": true,
-    "food": 4,
-    "faith": 4,
-    "specialistSlots": {}
-  },
-  {
     "name": "Hall of the Heavens",
     "requiredTech": "Celestial Navigation",
     "cost": 1400,
@@ -1445,24 +1260,6 @@
     "isWonder": true,
     "science": 8,
     "culture": 2,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Covenant of Dragons",
-    "requiredTech": "Memory Preservation",
-    "cost": 1350,
-    "maintenance": 0,
-    "uniques": [
-      "Cannot be purchased <hidden from users>",
-      "Unsellable <hidden from users>",
-      "Cannot be hurried <hidden from users>",
-      "Free [Ancient Oath Dragon] appears <when number of [[Ancient Oath Dragon] Units] is equal to [0]>",
-      "Only available <in cities with a [Life Research Hall]>",
-      "Must have an owned [Natural Wonder] within [3] tiles"
-    ],
-    "isWonder": true,
-    "culture": 3,
-    "faith": 3,
     "specialistSlots": {}
   },
   {
@@ -1621,25 +1418,6 @@
     "specialistSlots": {}
   },
   {
-    "name": "Source Study Society",
-    "requiredTech": "Magic Engineering",
-    "cost": 600,
-    "maintenance": 0,
-    "uniques": [
-      "Cannot be purchased <hidden from users>",
-      "Unsellable <hidden from users>",
-      "Cannot be hurried <hidden from users>",
-      "[+15]% Great Person generation [in this city]",
-      "Destroyed when the city is captured",
-      "Only available <in cities with a [Academy of Magic]>",
-      "Only available <in cities with a [Sourceflow Institute]>"
-    ],
-    "isNationalWonder": true,
-    "science": 3,
-    "faith": 2,
-    "specialistSlots": {}
-  },
-  {
     "name": "Maritime and Land Governorate",
     "requiredTech": "Advanced Metallurgy",
     "cost": 600,
@@ -1723,10 +1501,8 @@
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "[+1 Culture] from [Spiritroot Reserve] tiles [in all cities]",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [Root Council]>",
-      "Must have an owned [Spiritroot Reserve] within [3] tiles"
+      "Only available <in cities with a [Root Council]>"
     ],
     "isNationalWonder": true,
     "culture": 3,
@@ -1744,7 +1520,6 @@
       "Cannot be hurried <hidden from users>",
       "Enables construction of Spaceship parts",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [Source Observatory]>",
       "Only available <in [Capital] cities>",
       "Only available <when [Scientific] Victory is enabled>",
       "Triggers a global alert upon completion"
@@ -1781,12 +1556,9 @@
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "Free [Sea Road Navigator] appears <when number of [[Visitor Covenant Seal] Units] is less than [2]> <when number of [[Sea Road Navigator] Units] is equal to [0]>",
       "Destroyed when the city is captured",
       "Only available <in cities with a [Supply Harbor]>",
-      "Must be next to [Coast]",
-      "Only available <when number of [[Visitor Covenant Seal] Units] is less than [2]>",
-      "Only available <when number of [[Sea Road Navigator] Units] is equal to [0]>"
+      "Must be next to [Coast]"
     ],
     "isNationalWonder": true,
     "culture": 1,
@@ -1802,13 +1574,10 @@
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "Free [Hundredforge Artificer] appears <when number of [[Visitor Covenant Seal] Units] is less than [2]> <when number of [[Hundredforge Artificer] Units] is equal to [0]> <with [Iron]> <with [Mana Crystals]>",
       "Destroyed when the city is captured",
       "Only available <in cities with a [Precision Workshop]>",
       "Only available <with [Iron]>",
-      "Only available <with [Mana Crystals]>",
-      "Only available <when number of [[Visitor Covenant Seal] Units] is less than [2]>",
-      "Only available <when number of [[Hundredforge Artificer] Units] is equal to [0]>"
+      "Only available <with [Magic Crystals]>"
     ],
     "isNationalWonder": true,
     "production": 2,
@@ -1825,17 +1594,6 @@
     "faith": 2,
     "culture": 1,
     "happiness": 1,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Monastery of Life",
-    "cost": 220,
-    "uniques": [
-      "Unbuildable",
-      "Only available <when religion is enabled>"
-    ],
-    "food": 2,
-    "faith": 2,
     "specialistSlots": {}
   },
   {

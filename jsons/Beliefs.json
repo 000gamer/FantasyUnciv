@@ -249,9 +249,7 @@
   {
     "name": "Order of the Living Spring",
     "type": "Follower",
-    "uniques": [
-      "May buy [Monastery of Life] buildings for [220] [Faith] [in this city]"
-    ]
+    "uniques": []
   },
   {
     "name": "Greenring Ministry",
@@ -333,9 +331,7 @@
   {
     "name": "Shelter of Life",
     "type": "Follower",
-    "uniques": [
-      "[+2 Faith, +1 Happiness] from all [Life Research Hall] buildings"
-    ]
+    "uniques": []
   },
   {
     "name": "Sourceflow Rituals",
@@ -368,9 +364,7 @@
   {
     "name": "Watchful Witnesses",
     "type": "Follower",
-    "uniques": [
-      "All newly-trained [侦察] units [in this city] receive the [Seal Detection] promotion <Civilopedia link [Promotion/Seal Detection]>"
-    ]
+    "uniques": []
   },
   {
     "name": "Care of Bound Spirits",

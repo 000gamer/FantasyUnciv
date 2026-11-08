@@ -296,19 +296,6 @@
     "turnsToBuild": -1
   },
   {
-    "name": "Spiritroot Reserve",
-    "terrainsCanBeBuiltOn": [
-      "Forest"
-    ],
-    "uniques": [
-      "Cannot be built on [resource] tiles"
-    ],
-    "techRequired": "Natural Philosophy",
-    "turnsToBuild": 8,
-    "food": 1,
-    "faith": 1
-  },
-  {
     "name": "Trade Post",
     "terrainsCanBeBuiltOn": [
       "Grassland",
@@ -322,29 +309,6 @@
     "techRequired": "Currency and Exchange",
     "turnsToBuild": 7,
     "gold": 2
-  },
-  {
-    "name": "Ley Extractor",
-    "terrainsCanBeBuiltOn": [],
-    "uniques": [
-      "Can only be built to improve a resource",
-      "Does not need removal of [Forest]"
-    ],
-    "techRequired": "Ritual Traditions",
-    "turnsToBuild": 8,
-    "science": 1
-  },
-  {
-    "name": "Spring Garden",
-    "terrainsCanBeBuiltOn": [],
-    "uniques": [
-      "Can only be built to improve a resource",
-      "Does not need removal of [Forest]"
-    ],
-    "techRequired": "Magic Records",
-    "turnsToBuild": 8,
-    "food": 1,
-    "faith": 1
   },
   {
     "name": "Kiln",
@@ -382,22 +346,6 @@
     "techRequired": "Irrigation",
     "turnsToBuild": 8,
     "food": 1
-  },
-  {
-    "name": "Practice Circle",
-    "terrainsCanBeBuiltOn": [
-      "Land"
-    ],
-    "uniques": [
-      "Cannot be built on [resource] tiles",
-      "Must be next to [Mana Crystals]",
-      "Does not need removal of [Forest] <hidden from users>",
-      "Does not need removal of [Jungle] <hidden from users>",
-      "[+1 Science] <after discovering [Education]>"
-    ],
-    "techRequired": "Ritual Traditions",
-    "turnsToBuild": 7,
-    "faith": 1
   },
   {
     "name": "Waterwheel Yard",

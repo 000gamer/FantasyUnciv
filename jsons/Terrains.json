@@ -538,11 +538,7 @@
     ],
     "turnsInto": "Mountain",
     "weight": 10,
-    "uniques": [
-      "Grants [Crystal Ward Covenant] ([Crystalsleep Mountains]) to adjacent [术士] units for the rest of the game",
-      "Grants [Crystal Ward Covenant] ([Crystalsleep Mountains]) to adjacent [死灵] units for the rest of the game",
-      "Grants [Crystal Ward Covenant] ([Crystalsleep Mountains]) to adjacent [英雄施法] units for the rest of the game"
-    ],
+    "uniques": [],
     "science": 4,
     "faith": 2,
     "impassable": true
@@ -556,9 +552,7 @@
     ],
     "turnsInto": "Plains",
     "weight": 10,
-    "uniques": [
-      "Grants [Witness of the Ancestors] ([Dragonbone Plateau]) to adjacent [{Land} {Military}] units for the rest of the game"
-    ],
+    "uniques": [],
     "production": 3,
     "culture": 3
   },
@@ -586,10 +580,7 @@
     ],
     "turnsInto": "Grassland",
     "weight": 10,
-    "uniques": [
-      "Grants [Springwood Covenant] ([Evergreen Sacred Grove]) to adjacent [医护] units for the rest of the game",
-      "Grants [Springwood Covenant] ([Evergreen Sacred Grove]) to adjacent [英雄近战] units for the rest of the game"
-    ],
+    "uniques": [],
     "food": 3,
     "faith": 2,
     "culture": 1
@@ -602,9 +593,7 @@
     ],
     "turnsInto": "Coast",
     "weight": 10,
-    "uniques": [
-      "Grants [Tidal Navigation] ([Singing Tide Pillars]) to adjacent [{Water} {Military}] units for the rest of the game"
-    ],
+    "uniques": [],
     "gold": 2,
     "faith": 3,
     "production": 2

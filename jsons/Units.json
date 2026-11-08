@@ -569,7 +569,7 @@
       "[+25]% Strength <vs [Feral Tree Guards] units>",
       "[-15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [Mana Crystals]",
+      "Consumes [1] [Magic Crystals]",
       "[+25]% maintenance costs",
       "[This Unit] gains the [Crystal Ward] status for [2] turn(s) <for all movement> <for units without [Crystal Ward]>"
     ],
@@ -595,7 +595,7 @@
       "[+25]% Strength <vs [Feral Tree Guards] units>",
       "[-15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [Mana Crystals]",
+      "Consumes [1] [Magic Crystals]",
       "[+25]% maintenance costs",
       "[This Unit] gains the [Crystal Ward] status for [2] turn(s) <for all movement> <for units without [Crystal Ward]>"
     ],
@@ -663,7 +663,7 @@
       "[+10]% Strength <when defending>",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]",
-      "Consumes [1] [Mana Crystals]",
+      "Consumes [1] [Magic Crystals]",
       "[+50]% maintenance costs"
     ],
     "requiredTech": "Magic Engineering",
@@ -682,7 +682,7 @@
       "[+10]% Strength <when defending>",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Mithril]",
-      "Consumes [1] [Mana Crystals]",
+      "Consumes [1] [Magic Crystals]",
       "[+50]% maintenance costs"
     ],
     "requiredTech": "Arcane Defense Systems"
@@ -817,7 +817,6 @@
       "[+1] Sight",
       "Cannot attack",
       "Can see invisible [幽魂] units",
-      "Can see invisible [英雄幽魂] units",
       "Never appears as a Barbarian unit",
       "[+25]% maintenance costs",
       "Reveal up to [All] [All] within a [5] tile radius <for all movement> <[2] times>"
@@ -904,7 +903,7 @@
       "Heals [10] damage if it kills a unit",
       "[-15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [Mana Crystals]",
+      "Consumes [1] [Magic Crystals]",
       "[+25]% maintenance costs"
     ],
     "requiredTech": "Magic Instruments",
@@ -924,7 +923,7 @@
       "Heals [10] damage if it kills a unit",
       "[-15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [Mana Crystals]",
+      "Consumes [1] [Magic Crystals]",
       "[+25]% maintenance costs"
     ],
     "requiredTech": "Memory Preservation"
@@ -1177,7 +1176,7 @@
       "[+5] HP when healing",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Mithril]",
-      "Consumes [1] [Mana Crystals]",
+      "Consumes [1] [Magic Crystals]",
       "[+50]% maintenance costs"
     ],
     "requiredTech": "Arcane Defense Systems",
@@ -1337,7 +1336,7 @@
       "[+15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]",
-      "Consumes [1] [Mana Crystals]",
+      "Consumes [1] [Magic Crystals]",
       "[+50]% maintenance costs"
     ],
     "requiredTech": "Magic Engineering",
@@ -1436,7 +1435,7 @@
       "[+1] Sight",
       "[-15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [Mana Crystals]",
+      "Consumes [1] [Magic Crystals]",
       "[+25]% maintenance costs"
     ],
     "requiredTech": "Memory Preservation",
@@ -1528,7 +1527,7 @@
       "[-35]% Strength <when attacking> <vs cities>",
       "[+5] HP when healing",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [Mana Crystals]",
+      "Consumes [1] [Magic Crystals]",
       "[+50]% maintenance costs"
     ],
     "requiredTech": "Memory Preservation",
@@ -1546,9 +1545,7 @@
       "Uncapturable",
       "Cannot be purchased",
       "Never appears as a Barbarian unit",
-      "Limited to [1] per Civilization",
-      "Only available <in cities with a [Mirror Tower]> <without [Research Ritual Active]>",
-      "Triggers a [Starlight Research] event <by consuming this unit> <in [your] tiles> <in [Land] tiles> <without [Research Ritual Active]> <after discovering [Experimental Science]>"
+      "Limited to [1] per Civilization"
     ],
     "rangedStrength": 0,
     "range": 0
@@ -1565,9 +1562,7 @@
       "Uncapturable",
       "Cannot be purchased",
       "Never appears as a Barbarian unit",
-      "Limited to [1] per Civilization",
-      "Only available <in cities with a [Academy of Magic]> <without [National Ward Active]>",
-      "Triggers a [National Ward] event <by consuming this unit> <in [your] tiles> <in [Land] tiles> <without [National Ward Active]> <after discovering [Runic Crafts]>"
+      "Limited to [1] per Civilization"
     ],
     "rangedStrength": 0,
     "range": 0
@@ -1593,7 +1588,6 @@
     "unitType": "Civilian",
     "movement": 2,
     "uniques": [
-      "Can build [non-[{non-[Farm]} {non-[Pasture]} {non-[Camp]} {non-[Mine]} {non-[Quarry]} {non-[Road]} {non-[Plantation]} {non-[Lumber mill]} {non-[Fort]} {non-[Remove Forest]} {non-[Remove Jungle]} {non-[Remove Marsh]} {non-[Railroad]} {non-[Spiritroot Reserve]} {non-[Trade Post]} {non-[Ley Extractor]} {non-[Spring Garden]} {non-[Kiln]} {non-[Apiary]} {non-[Terrace Farm]} {non-[Practice Circle]} {non-[Waterwheel Yard]}]] improvements on tiles <hidden from users>",
       "Can build [Repair] improvements on tiles <hidden from users>",
       "Comment [Build tile improvements]",
       "Never appears as a Barbarian unit"
@@ -1756,386 +1750,6 @@
     "movement": 2,
     "rangedStrength": 0,
     "range": 0
-  },
-  {
-    "name": "Oathsworn Commander",
-    "unitType": "Hero - Oathsworn Commander",
-    "strength": 27,
-    "rangedStrength": 0,
-    "range": 0,
-    "movement": 2,
-    "cost": 0,
-    "uniques": [
-      "Unbuildable",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit",
-      "[+50]% maintenance costs",
-      "[+25]% Strength <starting from the [V]>",
-      "[+25]% Strength <starting from the [VI]>",
-      "[+1] Sight",
-      "[+10]% Strength bonus for [{Land} {Military}] units within [2] tiles",
-      "英雄近战 <hidden from users>",
-      "Hero <hidden from users>"
-    ],
-    "promotions": [],
-    "civilopediaText": [
-      {
-        "text": "FC Heroes",
-        "link": "Tutorial/FC Heroes"
-      }
-    ]
-  },
-  {
-    "name": "Star-Mirror Sage",
-    "unitType": "Hero - Star-Mirror Sage",
-    "strength": 21,
-    "rangedStrength": 39,
-    "range": 2,
-    "movement": 2,
-    "cost": 0,
-    "uniques": [
-      "Unbuildable",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit",
-      "[+50]% maintenance costs",
-      "No defensive terrain bonus",
-      "[+25]% Strength <starting from the [V]>",
-      "[+25]% Strength <starting from the [VI]>",
-      "[+1] Sight",
-      "[+15]% Strength <vs [重步兵] units>",
-      "[+15]% Strength <vs [重骑] units>",
-      "[+15]% Strength <vs [构装] units>",
-      "Earn [50]% of killed [Military] unit's [Strength] as [Science]",
-      "[-25]% Strength <when attacking> <vs cities>",
-      "英雄施法 <hidden from users>",
-      "Hero <hidden from users>"
-    ],
-    "promotions": [],
-    "civilopediaText": [
-      {
-        "text": "FC Heroes",
-        "link": "Tutorial/FC Heroes"
-      }
-    ]
-  },
-  {
-    "name": "Guardian of the Wilds",
-    "unitType": "Hero - Guardian of the Wilds",
-    "strength": 29,
-    "rangedStrength": 0,
-    "range": 0,
-    "movement": 3,
-    "cost": 0,
-    "uniques": [
-      "Unbuildable",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit",
-      "[+50]% maintenance costs",
-      "[+25]% Strength <starting from the [V]>",
-      "[+25]% Strength <starting from the [VI]>",
-      "Double movement in [Forest]",
-      "[+20]% Strength <when fighting in [Forest] tiles>",
-      "[+5] HP when healing",
-      "All adjacent units heal [5] HP when healing",
-      "[This Unit] gains the [Guardian Command] promotion <upon turn start> <for units with [Command]> <for units without [Guardian Command]> <hidden from users>",
-      "[This Unit] loses the [Command] promotion <upon turn start> <for units with [Command]> <for units with [Guardian Command]> <hidden from users>",
-      "[This Unit] gains the [Guardian Oath of the Bridge] promotion <upon turn start> <for units with [Oath of the Bridge]> <for units without [Guardian Oath of the Bridge]> <hidden from users>",
-      "[This Unit] loses the [Oath of the Bridge] promotion <upon turn start> <for units with [Oath of the Bridge]> <for units with [Guardian Oath of the Bridge]> <hidden from users>",
-      "英雄近战 <hidden from users>",
-      "Hero <hidden from users>"
-    ],
-    "promotions": [],
-    "civilopediaText": [
-      {
-        "text": "FC Heroes",
-        "link": "Tutorial/FC Heroes"
-      }
-    ]
-  },
-  {
-    "name": "Ancient Oath Dragon",
-    "unitType": "Hero - Ancient Oath Dragon",
-    "strength": 163,
-    "rangedStrength": 0,
-    "range": 0,
-    "movement": 4,
-    "cost": 0,
-    "uniques": [
-      "Unbuildable",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit",
-      "[+100]% maintenance costs",
-      "[+1] Sight",
-      "Ignores terrain cost",
-      "May travel on Water tiles without embarking",
-      "No defensive terrain bonus",
-      "[-25]% Strength <when attacking> <vs cities>",
-      "英雄生物 <hidden from users>",
-      "Hero <hidden from users>"
-    ],
-    "promotions": [],
-    "civilopediaText": [
-      {
-        "text": "FC Heroes",
-        "link": "Tutorial/FC Heroes"
-      }
-    ]
-  },
-  {
-    "name": "Springroad Physician",
-    "unitType": "Hero - Springroad Physician",
-    "strength": 14,
-    "rangedStrength": 23,
-    "range": 1,
-    "movement": 3,
-    "cost": 0,
-    "uniques": [
-      "Unbuildable",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit",
-      "[+50]% maintenance costs",
-      "No defensive terrain bonus",
-      "[+25]% Strength <starting from the [V]>",
-      "[+25]% Strength <starting from the [VI]>",
-      "All adjacent units heal [10] HP when healing",
-      "[-50]% Strength <when attacking> <vs cities>",
-      "英雄施法 <hidden from users>",
-      "Hero <hidden from users>",
-      "Visitor Covenant Seal <hidden from users>"
-    ],
-    "promotions": [],
-    "civilopediaText": [
-      {
-        "text": "FC Heroes",
-        "link": "Tutorial/FC Heroes"
-      }
-    ]
-  },
-  {
-    "name": "Monument Oathwalker",
-    "unitType": "Hero - Monument Oathwalker",
-    "strength": 29,
-    "rangedStrength": 0,
-    "range": 0,
-    "movement": 3,
-    "cost": 0,
-    "uniques": [
-      "Unbuildable",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit",
-      "[+75]% maintenance costs",
-      "[+25]% Strength <starting from the [V]>",
-      "[+25]% Strength <starting from the [VI]>",
-      "Invisible to non-adjacent units",
-      "No defensive terrain bonus",
-      "Earn [25]% of killed [Military] unit's [Strength] as [Culture]",
-      "[-25]% Strength <when attacking> <vs cities>",
-      "英雄幽魂 <hidden from users>",
-      "Hero <hidden from users>",
-      "Visitor Covenant Seal <hidden from users>"
-    ],
-    "promotions": [],
-    "civilopediaText": [
-      {
-        "text": "FC Heroes",
-        "link": "Tutorial/FC Heroes"
-      }
-    ]
-  },
-  {
-    "name": "Molten Seal Envoy",
-    "unitType": "Hero - Molten Seal Envoy",
-    "strength": 24,
-    "rangedStrength": 51,
-    "range": 2,
-    "movement": 2,
-    "cost": 0,
-    "uniques": [
-      "Unbuildable",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit",
-      "[+75]% maintenance costs",
-      "No defensive terrain bonus",
-      "[+25]% Strength <starting from the [V]>",
-      "[+25]% Strength <starting from the [VI]>",
-      "Must set up to ranged attack",
-      "[+25]% Strength <vs [构装] units>",
-      "[+25]% Strength <vs [元素] units>",
-      "[-50]% Strength <when attacking> <vs cities>",
-      "英雄施法 <hidden from users>",
-      "Hero <hidden from users>",
-      "Visitor Covenant Seal <hidden from users>",
-      "Consumes [1] [Mana Crystals]"
-    ],
-    "promotions": [],
-    "civilopediaText": [
-      {
-        "text": "FC Heroes",
-        "link": "Tutorial/FC Heroes"
-      }
-    ]
-  },
-  {
-    "name": "Silent Mirror Keeper",
-    "unitType": "Hero - Silent Mirror Keeper",
-    "strength": 17,
-    "rangedStrength": 29,
-    "range": 2,
-    "movement": 2,
-    "cost": 0,
-    "uniques": [
-      "Unbuildable",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit",
-      "[+50]% maintenance costs",
-      "No defensive terrain bonus",
-      "[+25]% Strength <starting from the [V]>",
-      "[+25]% Strength <starting from the [VI]>",
-      "[+1] Sight",
-      "Can see invisible [幽魂] units",
-      "Can see invisible [英雄幽魂] units",
-      "Ignores Zone of Control",
-      "[+15]% Strength <when adjacent to a [长柄] unit>",
-      "[-50]% Strength <when attacking> <vs cities>",
-      "英雄施法 <hidden from users>",
-      "Hero <hidden from users>",
-      "Visitor Covenant Seal <hidden from users>"
-    ],
-    "promotions": [],
-    "civilopediaText": [
-      {
-        "text": "FC Heroes",
-        "link": "Tutorial/FC Heroes"
-      }
-    ]
-  },
-  {
-    "name": "Sea Road Navigator",
-    "unitType": "Hero - Sea Road Navigator",
-    "strength": 27,
-    "rangedStrength": 0,
-    "range": 0,
-    "movement": 5,
-    "cost": 0,
-    "uniques": [
-      "Unbuildable",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit",
-      "[+50]% maintenance costs",
-      "[+25]% Strength <starting from the [V]>",
-      "[+25]% Strength <starting from the [VI]>",
-      "[+1] Sight",
-      "May heal outside of friendly territory",
-      "[+5] HP when healing",
-      "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
-      "英雄海军 <hidden from users>",
-      "Hero <hidden from users>",
-      "Visitor Covenant Seal <hidden from users>"
-    ],
-    "promotions": [],
-    "civilopediaText": [
-      {
-        "text": "FC Heroes",
-        "link": "Tutorial/FC Heroes"
-      }
-    ]
-  },
-  {
-    "name": "Lantern Oathguard",
-    "unitType": "Hero - Lantern Oathguard",
-    "strength": 29,
-    "rangedStrength": 0,
-    "range": 0,
-    "movement": 2,
-    "cost": 0,
-    "uniques": [
-      "Unbuildable",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit",
-      "[+50]% maintenance costs",
-      "[+25]% Strength <starting from the [V]>",
-      "[+25]% Strength <starting from the [VI]>",
-      "[+25]% Strength <vs [死灵] units>",
-      "[+25]% Strength <vs [幽魂] units>",
-      "[+25]% Strength <vs [英雄幽魂] units>",
-      "Earn [35]% of killed [Military] unit's [Strength] as [Faith]",
-      "[-25]% Strength <when attacking> <vs cities>",
-      "英雄近战 <hidden from users>",
-      "Hero <hidden from users>",
-      "Visitor Covenant Seal <hidden from users>"
-    ],
-    "promotions": [],
-    "civilopediaText": [
-      {
-        "text": "FC Heroes",
-        "link": "Tutorial/FC Heroes"
-      }
-    ]
-  },
-  {
-    "name": "Hundredforge Artificer",
-    "unitType": "Hero - Hundredforge Artificer",
-    "strength": 55,
-    "rangedStrength": 0,
-    "range": 0,
-    "movement": 2,
-    "cost": 0,
-    "uniques": [
-      "Unbuildable",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit",
-      "[+75]% maintenance costs",
-      "[+25]% Strength <starting from the [V]>",
-      "[+25]% Strength <starting from the [VI]>",
-      "Can build [Fort] improvements on tiles",
-      "Can build [Repair] improvements on tiles",
-      "[+10] HP when healing",
-      "No defensive terrain bonus",
-      "[-25]% Strength <when attacking> <vs cities>",
-      "英雄近战 <hidden from users>",
-      "Hero <hidden from users>",
-      "Visitor Covenant Seal <hidden from users>",
-      "Consumes [1] [Iron]",
-      "Consumes [1] [Mana Crystals]"
-    ],
-    "promotions": [],
-    "civilopediaText": [
-      {
-        "text": "FC Heroes",
-        "link": "Tutorial/FC Heroes"
-      }
-    ]
-  },
-  {
-    "name": "Caravan Arbiter",
-    "unitType": "Hero - Caravan Arbiter",
-    "strength": 43,
-    "rangedStrength": 0,
-    "range": 0,
-    "movement": 3,
-    "cost": 0,
-    "uniques": [
-      "Unbuildable",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit",
-      "[+50]% maintenance costs",
-      "[+25]% Strength <starting from the [V]>",
-      "[+25]% Strength <starting from the [VI]>",
-      "[+15]% Strength <when defending> <in [Friendly Land] tiles>",
-      "Earn [50]% of killed [Military] unit's [Strength] as [Gold]",
-      "[-50]% Strength <when attacking> <vs cities>",
-      "英雄近战 <hidden from users>",
-      "Hero <hidden from users>",
-      "Visitor Covenant Seal <hidden from users>"
-    ],
-    "promotions": [],
-    "civilopediaText": [
-      {
-        "text": "FC Heroes",
-        "link": "Tutorial/FC Heroes"
-      }
-    ]
   },
   {
     "name": "Reef Settler",

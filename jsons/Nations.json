@@ -157,8 +157,7 @@
     "uniqueName": "Forest Elves Ability",
     "uniques": [
       "[+1 Faith] from [{Forest} {Camp}] tiles [in all cities]",
-      "[+1 Faith] from [{Forest} {Lumber mill}] tiles [in all cities]",
-      "[+1 Faith] from [{Forest} {Spiritroot Reserve}] tiles [in all cities]"
+      "[+1 Faith] from [{Forest} {Lumber mill}] tiles [in all cities]"
     ],
     "spyNames": [
       "Forest Elves Agent 1",
