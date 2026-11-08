@@ -1483,28 +1483,28 @@ PolicyBranchIcons/Industry
   index: -1
 PolicyBranchIcons/Patronage
   rotate: false
-  xy: 3562, 2981
+  xy: 3553, 3097
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Piety
   rotate: false
-  xy: 3611, 3097
+  xy: 3562, 2981
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Scholarship
   rotate: false
-  xy: 3910, 2985
+  xy: 3901, 3043
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Scholarship Complete
   rotate: false
-  xy: 3910, 2985
+  xy: 3901, 3043
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -1581,7 +1581,7 @@ PolicyIcons/Administrative Reform
   index: -1
 PolicyIcons/Border Guard
   rotate: false
-  xy: 3437, 3088
+  xy: 210, 589
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -1777,105 +1777,105 @@ UnitPromotionIcons/Protect the Engines
   index: -1
 PolicyIcons/Contract Procurement
   rotate: false
-  xy: 442, 385
+  xy: 789, 565
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Court Construction
   rotate: false
-  xy: 789, 565
+  xy: 789, 507
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Craft Standards
   rotate: false
-  xy: 789, 507
+  xy: 789, 449
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Standardized Production
   rotate: false
-  xy: 789, 507
+  xy: 789, 449
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Cultural Flourishing
   rotate: false
-  xy: 1511, 2173
+  xy: 863, 1525
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Diplomacy of Nations
   rotate: false
-  xy: 863, 1525
+  xy: 899, 1358
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Diplomacy of Nations
   rotate: false
-  xy: 863, 1525
+  xy: 899, 1358
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Diplomacy of Nations Complete
   rotate: false
-  xy: 899, 1358
+  xy: 899, 1300
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Diplomacy of Nations Complete
   rotate: false
-  xy: 899, 1358
+  xy: 899, 1300
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Diplomatic Courtesy
   rotate: false
-  xy: 899, 1300
+  xy: 899, 1242
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Diplomatic Mediation
   rotate: false
-  xy: 899, 1242
+  xy: 894, 1184
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Distant Trade
   rotate: false
-  xy: 894, 1184
+  xy: 894, 1126
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Guilds and Sea Routes
   rotate: false
-  xy: 894, 1184
+  xy: 894, 1126
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Guilds and Sea Routes
   rotate: false
-  xy: 894, 1184
+  xy: 894, 1126
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Drills
   rotate: false
-  xy: 616, 455
+  xy: 558, 437
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -2148,224 +2148,224 @@ PolicyIcons/Mass Production
   index: -1
 PolicyIcons/Military Discipline
   rotate: false
-  xy: 3095, 2251
+  xy: 3037, 2251
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Military Logistics
   rotate: false
-  xy: 3153, 2251
+  xy: 3095, 2251
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Military Training
   rotate: false
-  xy: 3176, 2309
+  xy: 3176, 2367
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Regular Training
   rotate: false
-  xy: 3176, 2309
+  xy: 3176, 2367
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Missionary Learning
   rotate: false
-  xy: 384, 377
+  xy: 3211, 2251
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Public Teachings
   rotate: false
-  xy: 384, 377
+  xy: 3211, 2251
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Morning Prayer
   rotate: false
-  xy: 794, 715
+  xy: 500, 313
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Municipal Coordination
   rotate: false
-  xy: 817, 1068
+  xy: 794, 715
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Oral Heritage
   rotate: false
-  xy: 3530, 3155
+  xy: 3477, 3216
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Organized Labor
   rotate: false
-  xy: 3553, 3097
+  xy: 3535, 3213
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Patronage Complete
   rotate: false
-  xy: 3588, 3155
+  xy: 3553, 3039
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Piety Complete
   rotate: false
-  xy: 3611, 3039
+  xy: 3588, 3155
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Temples and Oaths
   rotate: false
-  xy: 3611, 3039
+  xy: 3588, 3155
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Temples and Oaths Complete
   rotate: false
-  xy: 3611, 3039
+  xy: 3588, 3155
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Temples and Oaths
   rotate: false
-  xy: 3611, 3039
+  xy: 3588, 3155
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Temples and Oaths Complete
   rotate: false
-  xy: 3611, 3039
+  xy: 3588, 3155
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Population Growth
   rotate: false
-  xy: 3620, 2981
+  xy: 3611, 3097
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Public Granaries
   rotate: false
-  xy: 3620, 2981
+  xy: 3611, 3097
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Public Rites
   rotate: false
-  xy: 3646, 3159
+  xy: 3611, 3039
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Public Works
   rotate: false
-  xy: 3669, 3101
+  xy: 3620, 2981
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Reciprocal Gifts
   rotate: false
-  xy: 3669, 3043
+  xy: 3646, 3159
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Reclamation
   rotate: false
-  xy: 3678, 2985
+  xy: 3669, 3101
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Religion and Society
   rotate: false
-  xy: 3704, 3159
+  xy: 3669, 3043
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Religious Reform
   rotate: false
-  xy: 3727, 3101
+  xy: 3678, 2985
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Religious Tolerance
   rotate: false
-  xy: 3727, 3043
+  xy: 3704, 3159
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Research Community
   rotate: false
-  xy: 3736, 2985
+  xy: 3727, 3101
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Research Funding
   rotate: false
-  xy: 3762, 3159
+  xy: 3727, 3043
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Resident Envoys
   rotate: false
-  xy: 3785, 3101
+  xy: 3736, 2985
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Road Maintenance
   rotate: false
-  xy: 3820, 3159
+  xy: 3794, 2985
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Rural Exchange
   rotate: false
-  xy: 3901, 3043
+  xy: 3901, 3101
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Siege Preparation
   rotate: false
-  xy: 3994, 3159
+  xy: 3936, 3159
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Social Order
   rotate: false
-  xy: 4017, 3043
+  xy: 3968, 2985
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -7480,28 +7480,28 @@ UnitPromotionIcons/Amphibious Transport
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Armored Protection
+UnitPromotionIcons/Armor Piercing
   rotate: false
   xy: 3379, 3088
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Breaching I
+UnitPromotionIcons/Armored Protection
   rotate: false
-  xy: 210, 589
+  xy: 3437, 3088
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Breaching II
+UnitPromotionIcons/Breaching I
   rotate: false
   xy: 210, 531
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Breath of Life
+UnitPromotionIcons/Breaching II
   rotate: false
   xy: 210, 473
   size: 50, 50
@@ -7557,86 +7557,86 @@ PolicyIcons/Valor Complete
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Crew Drills I
+UnitPromotionIcons/Construct Breaker
   rotate: false
-  xy: 789, 449
+  xy: 442, 385
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Crew Drills II
+UnitPromotionIcons/Crew Drills I
   rotate: false
   xy: 812, 991
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Crystal Ward
+UnitPromotionIcons/Crew Drills II
   rotate: false
   xy: 1079, 1741
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Crystal Ward Covenant
+UnitPromotionIcons/Crystal Ward
   rotate: false
   xy: 1295, 1957
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Dragon Breath
+UnitPromotionIcons/Crystal Ward Covenant
   rotate: false
-  xy: 894, 1126
+  xy: 1511, 2173
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Dragon Far Sight
+UnitPromotionIcons/Dragon Breath
   rotate: false
   xy: 3472, 3152
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Dragonspine Oathstone - Monster Hunter
+UnitPromotionIcons/Dragon Far Sight
   rotate: false
   xy: 3495, 3094
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Dragonspine Oathstone - Sky Patrol
+UnitPromotionIcons/Dragonspine Oathstone - Monster Hunter
   rotate: false
   xy: 3495, 3036
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Dragonspine Stone - Echoing
+UnitPromotionIcons/Dragonspine Oathstone - Sky Patrol
   rotate: false
   xy: 952, 1184
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Dragonspine Stone - Far Oath
+UnitPromotionIcons/Dragonspine Stone - Echoing
   rotate: false
   xy: 952, 1126
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Dragonspine Stone - Nestguard
+UnitPromotionIcons/Dragonspine Stone - Far Oath
   rotate: false
   xy: 3621, 3217
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Elemental Penetration
+UnitPromotionIcons/Dragonspine Stone - Nestguard
   rotate: false
-  xy: 558, 437
+  xy: 616, 455
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -7753,273 +7753,273 @@ UnitPromotionIcons/Memories of the Soul
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Mental Ward
-  rotate: false
-  xy: 3037, 2251
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/Unbroken Thought
-  rotate: false
-  xy: 3037, 2251
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
 UnitPromotionIcons/Military Oath Seal - Alliance
   rotate: false
-  xy: 3176, 2483
+  xy: 3153, 2251
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Visitor Covenant Seal
   rotate: false
-  xy: 3176, 2483
+  xy: 3153, 2251
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Military Oath Seal - Discipline
   rotate: false
-  xy: 3176, 2425
+  xy: 3176, 2483
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Military Oath Seal - Reforged
   rotate: false
-  xy: 3176, 2367
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/Mind Mirror
-  rotate: false
-  xy: 3211, 2251
+  xy: 3176, 2425
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Mirror-Eye Training
   rotate: false
-  xy: 326, 377
+  xy: 3176, 2309
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Molten Rule - Breaker
   rotate: false
-  xy: 442, 327
+  xy: 326, 377
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Molten Rule - Restored
   rotate: false
-  xy: 500, 313
+  xy: 384, 377
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Molten Rule - Solid Phase
   rotate: false
-  xy: 794, 773
+  xy: 442, 327
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Mounted Raid
   rotate: false
-  xy: 794, 657
+  xy: 794, 773
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Name Tag - Archive
   rotate: false
-  xy: 875, 1068
+  xy: 794, 657
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Name Tag - Restored
   rotate: false
-  xy: 933, 1068
+  xy: 817, 1068
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Name Tag - Unbound
   rotate: false
-  xy: 870, 1010
+  xy: 875, 1068
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Oath of the Bridge
   rotate: false
-  xy: 991, 1068
+  xy: 933, 1068
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Ocean Sail Handling
   rotate: false
-  xy: 871, 952
+  xy: 870, 1010
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Ocean Supply
   rotate: false
-  xy: 871, 894
+  xy: 991, 1068
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Open-Field Tactics I
   rotate: false
-  xy: 3477, 3216
+  xy: 871, 952
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Open-Field Tactics II
   rotate: false
-  xy: 3535, 3213
+  xy: 871, 894
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Pathfinder
   rotate: false
-  xy: 3553, 3039
+  xy: 3530, 3155
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Resolute Ward
+  rotate: false
+  xy: 3762, 3159
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Unbroken Thought
+  rotate: false
+  xy: 3762, 3159
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Returning Soul Covenant
   rotate: false
-  xy: 3785, 3043
+  xy: 3785, 3101
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Returning Tide
   rotate: false
-  xy: 3794, 2985
+  xy: 3785, 3043
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Rootbranch Charm - Farwatch
   rotate: false
-  xy: 3843, 3101
+  xy: 3820, 3159
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Rootbranch Charm - Grovekeeper
   rotate: false
-  xy: 3843, 3043
+  xy: 3843, 3101
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Rootbranch Charm - Renewed
   rotate: false
-  xy: 3852, 2985
+  xy: 3843, 3043
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Rough-Terrain Tactics I
   rotate: false
-  xy: 3878, 3159
+  xy: 3852, 2985
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Rough-Terrain Tactics II
   rotate: false
-  xy: 3901, 3101
+  xy: 3878, 3159
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Seal Detection
   rotate: false
-  xy: 3936, 3159
+  xy: 3910, 2985
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Sighting I
   rotate: false
-  xy: 3959, 3101
+  xy: 3994, 3159
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Sighting II
   rotate: false
-  xy: 3959, 3043
+  xy: 3959, 3101
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Skirmisher Protection
   rotate: false
-  xy: 3968, 2985
+  xy: 3959, 3043
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Spirit Binding
+UnitPromotionIcons/Spell Shield
   rotate: false
-  xy: 3678, 2927
+  xy: 4017, 3043
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Spring Ring - Many Springs
   rotate: false
-  xy: 3736, 2927
+  xy: 3678, 2927
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Spring Ring - Restored
   rotate: false
-  xy: 3794, 2927
+  xy: 3736, 2927
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Spring Ring - Urgent Care
   rotate: false
-  xy: 3852, 2927
+  xy: 3794, 2927
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Springwood Covenant
   rotate: false
-  xy: 3910, 2927
+  xy: 3852, 2927
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Starlight Extension
   rotate: false
-  xy: 3968, 2927
+  xy: 3910, 2927
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Starlight Watch
+  rotate: false
+  xy: 3968, 2927
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Steady Recovery
   rotate: false
   xy: 4026, 2927
   size: 50, 50
