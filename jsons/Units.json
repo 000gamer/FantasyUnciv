@@ -2257,9 +2257,7 @@
       "[+25]% Strength <starting from the [VII]>",
       "[+1] Sight",
       "[+10]% Strength bonus for [{Land} {Military}] units within [2] tiles",
-      "Hero <hidden from users>",
-      "Hero <hidden from users>",
-      "Hero Warrior <hidden from users>"
+      "Hero <hidden from users>"
     ],
     "promotions": []
   },
@@ -2285,9 +2283,7 @@
       "[+15]% Strength <vs [构装] units>",
       "Earn [50]% of killed [Military] unit's [Strength] as [Science]",
       "[-25]% Strength <when attacking> <vs cities>",
-      "Hero <hidden from users>",
-      "Hero <hidden from users>",
-      "Hero Mage <hidden from users>"
+      "Hero <hidden from users>"
     ],
     "promotions": []
   },
@@ -2314,9 +2310,7 @@
       "[This Unit] loses the [Command] promotion <upon turn start> <for units with [Command]> <for units with [Guardian Command]> <hidden from users>",
       "[This Unit] gains the [Guardian Oath of the Bridge] promotion <upon turn start> <for units with [Oath of the Bridge]> <for units without [Guardian Oath of the Bridge]> <hidden from users>",
       "[This Unit] loses the [Oath of the Bridge] promotion <upon turn start> <for units with [Oath of the Bridge]> <for units with [Guardian Oath of the Bridge]> <hidden from users>",
-      "Hero <hidden from users>",
-      "Hero <hidden from users>",
-      "Hero Ranger <hidden from users>"
+      "Hero <hidden from users>"
     ],
     "promotions": []
   },
@@ -2338,9 +2332,7 @@
       "May travel on Water tiles without embarking",
       "No defensive terrain bonus",
       "[-25]% Strength <when attacking> <vs cities>",
-      "Hero <hidden from users>",
-      "Hero <hidden from users>",
-      "Hero Legend <hidden from users>"
+      "Hero <hidden from users>"
     ],
     "promotions": []
   },
@@ -2362,9 +2354,7 @@
       "[+25]% Strength <starting from the [VII]>",
       "All adjacent units heal [10] HP when healing",
       "[-50]% Strength <when attacking> <vs cities>",
-      "Hero <hidden from users>",
-      "Hero <hidden from users>",
-      "Hero Healer <hidden from users>"
+      "Hero <hidden from users>"
     ],
     "promotions": []
   },
@@ -2387,9 +2377,7 @@
       "No defensive terrain bonus",
       "Earn [25]% of killed [Military] unit's [Strength] as [Culture]",
       "[-25]% Strength <when attacking> <vs cities>",
-      "Hero <hidden from users>",
-      "Hero <hidden from users>",
-      "Hero Defender <hidden from users>"
+      "Hero <hidden from users>"
     ],
     "promotions": []
   },
@@ -2414,9 +2402,7 @@
       "[+25]% Strength <vs [元素] units>",
       "[-50]% Strength <when attacking> <vs cities>",
       "Hero <hidden from users>",
-      "Consumes [1] [Magic Crystals]",
-      "Hero <hidden from users>",
-      "Hero Mage <hidden from users>"
+      "Consumes [1] [Magic Crystals]"
     ],
     "promotions": []
   },
@@ -2440,9 +2426,7 @@
       "Ignores Zone of Control",
       "[+15]% Strength <when adjacent to a [长柄] unit>",
       "[-50]% Strength <when attacking> <vs cities>",
-      "Hero <hidden from users>",
-      "Hero <hidden from users>",
-      "Hero Mage <hidden from users>"
+      "Hero <hidden from users>"
     ],
     "promotions": []
   },
@@ -2466,9 +2450,7 @@
       "[+5] HP when healing",
       "No defensive terrain bonus",
       "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
-      "Hero <hidden from users>",
-      "Hero <hidden from users>",
-      "Hero Ranger <hidden from users>"
+      "Hero <hidden from users>"
     ],
     "promotions": []
   },
@@ -2490,9 +2472,7 @@
       "[+25]% Strength <vs [死灵] units>",
       "Earn [35]% of killed [Military] unit's [Strength] as [Faith]",
       "[-25]% Strength <when attacking> <vs cities>",
-      "Hero <hidden from users>",
-      "Hero <hidden from users>",
-      "Hero Healer <hidden from users>"
+      "Hero <hidden from users>"
     ],
     "promotions": []
   },
@@ -2518,9 +2498,7 @@
       "[-25]% Strength <when attacking> <vs cities>",
       "Hero <hidden from users>",
       "Consumes [1] [Iron]",
-      "Consumes [1] [Magic Crystals]",
-      "Hero <hidden from users>",
-      "Hero Warrior <hidden from users>"
+      "Consumes [1] [Magic Crystals]"
     ],
     "promotions": []
   },
@@ -2542,9 +2520,7 @@
       "[+15]% Strength <when defending> <in [Friendly Land] tiles>",
       "Earn [50]% of killed [Military] unit's [Strength] as [Gold]",
       "[-50]% Strength <when attacking> <vs cities>",
-      "Hero <hidden from users>",
-      "Hero <hidden from users>",
-      "Hero Defender <hidden from users>"
+      "Hero <hidden from users>"
     ],
     "promotions": []
   }
