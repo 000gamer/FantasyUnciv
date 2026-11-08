@@ -118,7 +118,7 @@
     "name": "School",
     "cost": 130,
     "maintenance": 2,
-    "requiredTech": "Education",
+    "requiredTech": "Literature and Education",
     "uniques": [
       "Only available <in cities with a [Library]>"
     ],
@@ -131,7 +131,7 @@
     "name": "Theater",
     "cost": 125,
     "maintenance": 1,
-    "requiredTech": "Literature",
+    "requiredTech": "Literature and Education",
     "uniques": [
       "[+1 Culture] from [Dyes] tiles [in this city]",
       "Only available <in cities with a [Monument]>"
@@ -145,7 +145,7 @@
     "name": "Academy of Magic",
     "cost": 135,
     "maintenance": 2,
-    "requiredTech": "Education",
+    "requiredTech": "Literature and Education",
     "uniques": [
       "New [术士] units start with [+15] XP [in this city]",
       "New [医护] units start with [+15] XP [in this city]",
@@ -160,7 +160,7 @@
     "name": "Temple",
     "cost": 110,
     "maintenance": 1,
-    "requiredTech": "Literature",
+    "requiredTech": "Codes of Law",
     "uniques": [
       "Only available <in cities with a [Altar]>"
     ],
@@ -363,7 +363,7 @@
     "name": "Council Hall",
     "cost": 65,
     "maintenance": 1,
-    "requiredTech": "Oral Tradition",
+    "requiredTech": "Oral Transmission",
     "uniques": [],
     "culture": 1,
     "happiness": 1,
@@ -754,7 +754,7 @@
     "name": "Treespeech School",
     "cost": 125,
     "maintenance": 2,
-    "requiredTech": "Education",
+    "requiredTech": "Literature and Education",
     "uniques": [
       "Only available <in cities with a [Library]>"
     ],
@@ -1039,7 +1039,7 @@
   },
   {
     "name": "Circle of the Ancestors",
-    "requiredTech": "Oral Tradition",
+    "requiredTech": "Oral Transmission",
     "cost": 180,
     "maintenance": 0,
     "uniques": [
@@ -1345,7 +1345,7 @@
   },
   {
     "name": "Capital Archive",
-    "requiredTech": "Education",
+    "requiredTech": "Literature and Education",
     "cost": 240,
     "maintenance": 0,
     "uniques": [
@@ -1528,7 +1528,7 @@
     "specialistSlots": {}
   },
   {
-    "name": "Great Chronicle of Civilizations",
+    "name": "Utopia Project",
     "requiredTech": "Cultural Exchange",
     "cost": 1800,
     "maintenance": 0,
@@ -1537,15 +1537,13 @@
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
       "Destroyed when the city is captured",
-      "Only available <in cities with a [Museum of Civilizations]>",
-      "Only available <in [Capital] cities>",
       "Only available <when [Cultural] Victory is enabled>",
       "Only available <when number of [Completed Policy branches] is more than [4]>",
       "Triggers a global alert upon build start",
       "Triggers a global alert upon completion"
     ],
-    "isNationalWonder": true,
-    "specialistSlots": {}
+    "specialistSlots": {},
+    "isWonder": true
   },
   {
     "name": "Sea Road Oathhall",

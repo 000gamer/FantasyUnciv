@@ -12,7 +12,8 @@
       "Domination": 3,
       "Scientific": 6,
       "Neutral": 6,
-      "Time": 6
+      "Time": 6,
+      "Religious": 3
     },
     "policies": [
       {
@@ -99,7 +100,8 @@
       "Domination": 3,
       "Scientific": 6,
       "Neutral": 8,
-      "Time": 6
+      "Time": 6,
+      "Religious": 3
     },
     "policies": [
       {
@@ -169,7 +171,7 @@
         ],
         "uniques": [
           "[+10]% growth [in capital]",
-          "[+1 Happiness] [in all cities]"
+          "[+1 Food] [in all cities]"
         ]
       }
     ]
@@ -186,7 +188,8 @@
       "Domination": 8,
       "Scientific": 4,
       "Neutral": 6,
-      "Time": 6
+      "Time": 6,
+      "Religious": 2
     },
     "policies": [
       {
@@ -262,7 +265,7 @@
   },
   {
     "name": "Commerce",
-    "era": "II",
+    "era": "III",
     "uniques": [
       "[+2 Gold] [in capital]",
       "[+1 Gold] from every [Trade Post]"
@@ -273,7 +276,8 @@
       "Domination": 3,
       "Scientific": 5,
       "Neutral": 7,
-      "Time": 7
+      "Time": 7,
+      "Religious": 3
     },
     "policies": [
       {
@@ -360,7 +364,8 @@
       "Domination": 4,
       "Scientific": 7,
       "Neutral": 6,
-      "Time": 6
+      "Time": 6,
+      "Religious": 3
     },
     "policies": [
       {
@@ -435,7 +440,7 @@
   },
   {
     "name": "Scholarship",
-    "era": "III",
+    "era": "V",
     "uniques": [
       "[+2 Science] [in capital]"
     ],
@@ -445,7 +450,8 @@
       "Domination": 2,
       "Scientific": 8,
       "Neutral": 6,
-      "Time": 6
+      "Time": 6,
+      "Religious": 3
     },
     "policies": [
       {
@@ -531,7 +537,8 @@
       "Domination": 5,
       "Scientific": 6,
       "Neutral": 8,
-      "Time": 7
+      "Time": 7,
+      "Religious": 3
     },
     "policies": [
       {
@@ -616,7 +623,8 @@
       "Domination": 5,
       "Scientific": 7,
       "Neutral": 6,
-      "Time": 6
+      "Time": 6,
+      "Religious": 3
     },
     "policies": [
       {
@@ -685,6 +693,180 @@
         ],
         "uniques": [
           "[+3 Science, +3 Production] [in capital]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Piety",
+    "era": "II",
+    "uniques": [
+      "[+2 Faith] [in capital]",
+      "[+1 Culture] from every [Altar]"
+    ],
+    "priorities": {
+      "Cultural": 5,
+      "Diplomatic": 4,
+      "Domination": 2,
+      "Scientific": 3,
+      "Neutral": 5,
+      "Time": 5,
+      "Religious": 9
+    },
+    "policies": [
+      {
+        "name": "Religious Organization",
+        "requires": [
+          "Piety"
+        ],
+        "row": 1,
+        "column": 1,
+        "uniques": [
+          "[+1 Faith] from every [Temple]"
+        ]
+      },
+      {
+        "name": "Inheritance of Faith",
+        "requires": [
+          "Piety"
+        ],
+        "row": 1,
+        "column": 3,
+        "uniques": [
+          "[+10]% [Faith] [in all cities]"
+        ]
+      },
+      {
+        "name": "Religion and Society",
+        "requires": [
+          "Piety"
+        ],
+        "row": 1,
+        "column": 5,
+        "uniques": [
+          "[+1 Culture] from every [Temple]"
+        ]
+      },
+      {
+        "name": "Religious Reform",
+        "requires": [
+          "Religion and Society"
+        ],
+        "row": 2,
+        "column": 4,
+        "uniques": [
+          "[Faith] cost of purchasing items in cities [-20]%"
+        ]
+      },
+      {
+        "name": "Religious Tolerance",
+        "requires": [
+          "Religious Organization"
+        ],
+        "row": 2,
+        "column": 2,
+        "uniques": [
+          "[+1 Happiness] [in all cities]"
+        ]
+      },
+      {
+        "name": "Piety Complete",
+        "requires": [
+          "Religious Organization",
+          "Inheritance of Faith",
+          "Religion and Society",
+          "Religious Reform",
+          "Religious Tolerance"
+        ],
+        "uniques": [
+          "[+3 Faith] [in capital]",
+          "[+1 Faith] [in all cities]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Patronage",
+    "era": "III",
+    "uniques": [
+      "Resting point for Influence with City-States is increased by [20]"
+    ],
+    "priorities": {
+      "Cultural": 4,
+      "Diplomatic": 9,
+      "Domination": 2,
+      "Scientific": 4,
+      "Neutral": 6,
+      "Time": 5,
+      "Religious": 3
+    },
+    "policies": [
+      {
+        "name": "Diplomatic Courtesy",
+        "requires": [
+          "Patronage"
+        ],
+        "row": 1,
+        "column": 1,
+        "uniques": [
+          "Gifts of Gold to City-States generate [25]% more Influence"
+        ]
+      },
+      {
+        "name": "City-State Aid",
+        "requires": [
+          "Patronage"
+        ],
+        "row": 1,
+        "column": 3,
+        "uniques": [
+          "Allied City-States provide [Science] equal to [25]% of what they produce for themselves"
+        ]
+      },
+      {
+        "name": "International Cooperation",
+        "requires": [
+          "Patronage"
+        ],
+        "row": 1,
+        "column": 5,
+        "uniques": [
+          "[-25]% City-State Influence degradation"
+        ]
+      },
+      {
+        "name": "Diplomatic Mediation",
+        "requires": [
+          "International Cooperation"
+        ],
+        "row": 2,
+        "column": 4,
+        "uniques": [
+          "Influence of all other civilizations with all city-states degrades [33]% faster"
+        ]
+      },
+      {
+        "name": "International Prestige",
+        "requires": [
+          "Diplomatic Courtesy"
+        ],
+        "row": 2,
+        "column": 2,
+        "uniques": [
+          "[+50]% Happiness from luxury resources gifted by City-States"
+        ]
+      },
+      {
+        "name": "Patronage Complete",
+        "requires": [
+          "Diplomatic Courtesy",
+          "City-State Aid",
+          "International Cooperation",
+          "Diplomatic Mediation",
+          "International Prestige"
+        ],
+        "uniques": [
+          "Allied City-States will occasionally gift Great People"
         ]
       }
     ]

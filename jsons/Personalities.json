@@ -24,7 +24,9 @@
       "Exploration": 4,
       "Scholarship": 4,
       "Industry": 6,
-      "Magitech": 3
+      "Magitech": 3,
+      "Piety": 7,
+      "Patronage": 7
     }
   },
   {
@@ -52,7 +54,9 @@
       "Exploration": 7,
       "Scholarship": 4,
       "Industry": 3,
-      "Magitech": 3
+      "Magitech": 3,
+      "Piety": 4,
+      "Patronage": 7
     }
   },
   {
@@ -80,7 +84,9 @@
       "Exploration": 7,
       "Scholarship": 6,
       "Industry": 3,
-      "Magitech": 3
+      "Magitech": 3,
+      "Piety": 7,
+      "Patronage": 4
     }
   },
   {
@@ -108,7 +114,9 @@
       "Exploration": 8,
       "Scholarship": 4,
       "Industry": 3,
-      "Magitech": 3
+      "Magitech": 3,
+      "Piety": 4,
+      "Patronage": 7
     }
   },
   {
@@ -136,7 +144,9 @@
       "Exploration": 4,
       "Scholarship": 4,
       "Industry": 7,
-      "Magitech": 3
+      "Magitech": 3,
+      "Piety": 7,
+      "Patronage": 4
     }
   },
   {
@@ -164,7 +174,9 @@
       "Exploration": 4,
       "Scholarship": 8,
       "Industry": 7,
-      "Magitech": 6
+      "Magitech": 6,
+      "Piety": 4,
+      "Patronage": 4
     }
   },
   {
@@ -192,7 +204,9 @@
       "Exploration": 7,
       "Scholarship": 4,
       "Industry": 3,
-      "Magitech": 3
+      "Magitech": 3,
+      "Piety": 4,
+      "Patronage": 4
     }
   },
   {
@@ -220,7 +234,9 @@
       "Exploration": 4,
       "Scholarship": 4,
       "Industry": 6,
-      "Magitech": 3
+      "Magitech": 3,
+      "Piety": 4,
+      "Patronage": 4
     }
   },
   {
@@ -248,7 +264,9 @@
       "Exploration": 4,
       "Scholarship": 7,
       "Industry": 8,
-      "Magitech": 6
+      "Magitech": 6,
+      "Piety": 4,
+      "Patronage": 4
     }
   },
   {
@@ -276,7 +294,9 @@
       "Exploration": 8,
       "Scholarship": 6,
       "Industry": 3,
-      "Magitech": 3
+      "Magitech": 3,
+      "Piety": 4,
+      "Patronage": 7
     }
   },
   {
@@ -304,7 +324,9 @@
       "Exploration": 4,
       "Scholarship": 8,
       "Industry": 3,
-      "Magitech": 6
+      "Magitech": 6,
+      "Piety": 7,
+      "Patronage": 4
     }
   },
   {
@@ -332,7 +354,9 @@
       "Exploration": 4,
       "Scholarship": 4,
       "Industry": 6,
-      "Magitech": 3
+      "Magitech": 3,
+      "Piety": 7,
+      "Patronage": 4
     }
   }
 ]

@@ -26,7 +26,7 @@
       "Human Empire City 7",
       "Human Empire City 8"
     ],
-    "favoredReligion": "Church of Order",
+    "favoredReligion": "Universal Concord",
     "uniqueName": "Human Empire Ability",
     "uniques": [
       "[+15]% Production towards any buildings that already exist in the Capital <in [non-[Capital]] cities>"
@@ -89,7 +89,7 @@
       "Mercantile Republic City 7",
       "Mercantile Republic City 8"
     ],
-    "favoredReligion": "Church of Order",
+    "favoredReligion": "Universal Concord",
     "uniqueName": "Mercantile Republic Ability",
     "uniques": [
       "[+15]% [Gold] from Trade Routes",
@@ -153,7 +153,7 @@
       "Forest Elves City 7",
       "Forest Elves City 8"
     ],
-    "favoredReligion": "Forest Faith",
+    "favoredReligion": "Way of the Greenwood",
     "uniqueName": "Forest Elves Ability",
     "uniques": [
       "[+1 Faith] from [{Forest} {Camp}] tiles [in all cities]",
@@ -217,7 +217,7 @@
       "Sea Elves City 7",
       "Sea Elves City 8"
     ],
-    "favoredReligion": "Ocean Faith",
+    "favoredReligion": "Tidebound Tradition",
     "uniqueName": "Sea Elves Ability",
     "uniques": [
       "[+1 Gold] from [Fishing Boats] tiles [in all cities]",
@@ -283,7 +283,7 @@
       "Mountain Dwarves City 7",
       "Mountain Dwarves City 8"
     ],
-    "favoredReligion": "Church of the Forge",
+    "favoredReligion": "Ancestral Hearth",
     "uniqueName": "Mountain Dwarves Ability",
     "uniques": [
       "[+1 Gold] from [Mine] tiles [in all cities]",
@@ -347,7 +347,7 @@
       "Artificer Dwarves City 7",
       "Artificer Dwarves City 8"
     ],
-    "favoredReligion": "Church of the Forge",
+    "favoredReligion": "Ancestral Hearth",
     "uniqueName": "Artificer Dwarves Ability",
     "uniques": [
       "[+1 Science] from all [Workshop] buildings",
@@ -411,7 +411,7 @@
       "Nomadic Orcs City 7",
       "Nomadic Orcs City 8"
     ],
-    "favoredReligion": "Forest Faith",
+    "favoredReligion": "Way of the Greenwood",
     "uniqueName": "Nomadic Orcs Ability",
     "uniques": [
       "[+1 Gold] from [Pasture] tiles [in all cities]",
@@ -476,7 +476,7 @@
       "Orc Empire City 7",
       "Orc Empire City 8"
     ],
-    "favoredReligion": "Church of War",
+    "favoredReligion": "Oath of Banners",
     "uniqueName": "Orc Empire Ability",
     "uniques": [
       "[+15]% Production when constructing [步兵] units [in all cities]",
@@ -542,7 +542,7 @@
       "Industrial Goblins City 7",
       "Industrial Goblins City 8"
     ],
-    "favoredReligion": "Church of Knowledge",
+    "favoredReligion": "Way of Inquiry",
     "uniqueName": "Industrial Goblins Ability",
     "uniques": [
       "[+1 Production] from all [Workshop] buildings",
@@ -607,7 +607,7 @@
       "Explorers Guild City 7",
       "Explorers Guild City 8"
     ],
-    "favoredReligion": "Church of Knowledge",
+    "favoredReligion": "Way of Inquiry",
     "uniqueName": "Explorers Guild Ability",
     "uniques": [
       "[+1] Sight <for [侦察] units>",
@@ -672,7 +672,7 @@
       "Lich Dynasty City 7",
       "Lich Dynasty City 8"
     ],
-    "favoredReligion": "Faith of the Dead",
+    "favoredReligion": "Remembrance of the Departed",
     "uniqueName": "Lich Dynasty Ability",
     "uniques": [
       "[+1 Science] per [3] population [in all cities] <in cities with a [Library]>",
@@ -737,7 +737,7 @@
       "Bone Empire City 7",
       "Bone Empire City 8"
     ],
-    "favoredReligion": "Church of Order",
+    "favoredReligion": "Universal Concord",
     "uniqueName": "Bone Empire Ability",
     "uniques": [
       "[-15]% maintenance costs <for [步兵] units>",

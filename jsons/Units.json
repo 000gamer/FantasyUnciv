@@ -1626,7 +1626,7 @@
     ],
     "movement": 4,
     "religiousStrength": 1000,
-    "requiredTech": "Literature",
+    "requiredTech": "Religious Philosophy",
     "rangedStrength": 0,
     "range": 0
   },
@@ -1644,7 +1644,7 @@
       "Never appears as a Barbarian unit"
     ],
     "movement": 3,
-    "requiredTech": "Literature",
+    "requiredTech": "Religious Philosophy",
     "rangedStrength": 0,
     "range": 0
   },
