@@ -1151,7 +1151,8 @@
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "Only available <in cities with a [Barracks]>"
+      "Only available <in cities with a [Barracks]>",
+      "Free [Oathsworn Commander] appears <when number of [[Oathsworn Commander] Units] is equal to [0]>"
     ],
     "isWonder": true,
     "culture": 2,
@@ -1166,7 +1167,8 @@
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "Only available <in cities with a [Academy of Magic]>"
+      "Only available <in cities with a [Academy of Magic]>",
+      "Free [Star-Gazer Sage] appears <when number of [[Star-Gazer Sage] Units] is equal to [0]>"
     ],
     "isWonder": true,
     "science": 4,
@@ -1559,7 +1561,8 @@
       "Cannot be hurried <hidden from users>",
       "Destroyed when the city is captured",
       "Only available <in cities with a [Supply Harbor]>",
-      "Must be next to [Coast]"
+      "Must be next to [Coast]",
+      "Free [Sea Road Navigator] appears <when number of [[Sea Road Navigator] Units] is equal to [0]>"
     ],
     "isNationalWonder": true,
     "culture": 1,
@@ -1578,7 +1581,8 @@
       "Destroyed when the city is captured",
       "Only available <in cities with a [Precision Workshop]>",
       "Only available <with [Iron]>",
-      "Only available <with [Magic Crystals]>"
+      "Only available <with [Magic Crystals]>",
+      "Free [Hundredforge Artificer] appears <when number of [[Hundredforge Artificer] Units] is equal to [0]>"
     ],
     "isNationalWonder": true,
     "production": 2,

@@ -10,7 +10,8 @@
     "uniques": [
       "Never appears as a Barbarian unit"
     ],
-    "upgradesTo": "Shield Infantry"
+    "upgradesTo": "Shield Infantry",
+    "obsoleteTech": "Smelting"
   },
   {
     "name": "Shield Infantry",
@@ -42,7 +43,7 @@
     ],
     "requiredTech": "Steel Forging",
     "upgradesTo": "Formation Infantry",
-    "obsoleteTech": "Military Organization"
+    "obsoleteTech": "Overseas Settlement"
   },
   {
     "name": "Formation Infantry",
@@ -56,7 +57,7 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]"
     ],
-    "requiredTech": "Military Organization",
+    "requiredTech": "Overseas Settlement",
     "upgradesTo": "Heavy Infantry",
     "obsoleteTech": "Advanced Metallurgy"
   },
@@ -105,7 +106,7 @@
       "[+35]% Strength <vs [野兽] units>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Basic Crafts",
+    "requiredTech": "Smelting",
     "upgradesTo": "Pikemen",
     "obsoleteTech": "Steel Forging"
   },
@@ -126,7 +127,7 @@
     ],
     "requiredTech": "Steel Forging",
     "upgradesTo": "Halberdiers",
-    "obsoleteTech": "Military Organization"
+    "obsoleteTech": "Runic Crafts"
   },
   {
     "name": "Halberdiers",
@@ -143,9 +144,9 @@
       "[+35]% Strength <vs [野兽] units>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Military Organization",
+    "requiredTech": "Runic Crafts",
     "upgradesTo": "Phalanx Guards",
-    "obsoleteTech": "Advanced Metallurgy"
+    "obsoleteTech": "Precision Manufacturing"
   },
   {
     "name": "Phalanx Guards",
@@ -162,9 +163,9 @@
       "[+35]% Strength <vs [野兽] units>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Advanced Metallurgy",
+    "requiredTech": "Precision Manufacturing",
     "upgradesTo": "Massed Pike Guards",
-    "obsoleteTech": "Mechanized Warfare"
+    "obsoleteTech": "Mass Manufacturing"
   },
   {
     "name": "Massed Pike Guards",
@@ -181,7 +182,7 @@
       "[+35]% Strength <vs [野兽] units>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Mechanized Warfare"
+    "requiredTech": "Mass Manufacturing"
   },
   {
     "name": "Archers",
@@ -228,11 +229,11 @@
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Precision Manufacturing",
-    "upgradesTo": "Sharpshooters",
-    "obsoleteTech": "Mechanized Warfare"
+    "upgradesTo": "Arquebusiers",
+    "obsoleteTech": "Industrial Chemistry"
   },
   {
-    "name": "Sharpshooters",
+    "name": "Riflemen",
     "unitType": "射手",
     "strength": 51,
     "rangedStrength": 97,
@@ -243,7 +244,9 @@
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Mechanized Warfare"
+    "requiredTech": "Mechanized Warfare",
+    "upgradesTo": "Rune Riflemen",
+    "obsoleteTech": "Magic Engineering"
   },
   {
     "name": "Light Cavalry",
@@ -352,24 +355,6 @@
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Mechanical Engineering",
-    "upgradesTo": "Heavy Catapults",
-    "obsoleteTech": "Military Organization"
-  },
-  {
-    "name": "Heavy Catapults",
-    "unitType": "攻城",
-    "strength": 14,
-    "rangedStrength": 30,
-    "range": 2,
-    "movement": 2,
-    "cost": 150,
-    "uniques": [
-      "No defensive terrain bonus",
-      "Must set up to ranged attack",
-      "[+100]% Strength <when attacking> <vs cities>",
-      "Never appears as a Barbarian unit"
-    ],
-    "requiredTech": "Military Organization",
     "upgradesTo": "Heavy Ballistae",
     "obsoleteTech": "Precision Manufacturing"
   },
@@ -388,17 +373,17 @@
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Precision Manufacturing",
-    "upgradesTo": "Great Siege Arbalest",
-    "obsoleteTech": "Advanced Material Synthesis"
+    "upgradesTo": "Field Cannons",
+    "obsoleteTech": "Industrial Chemistry"
   },
   {
-    "name": "Great Siege Arbalest",
+    "name": "Grand Magitech Cannons",
     "unitType": "攻城",
-    "strength": 44,
-    "rangedStrength": 97,
+    "strength": 80,
+    "rangedStrength": 170,
     "range": 2,
     "movement": 2,
-    "cost": 295,
+    "cost": 420,
     "uniques": [
       "No defensive terrain bonus",
       "Must set up to ranged attack",
@@ -420,7 +405,7 @@
       "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Coastal Navigation",
+    "requiredTech": "Shipbuilding",
     "upgradesTo": "Ocean Escorts",
     "obsoleteTech": "Offshore Navigation"
   },
@@ -438,7 +423,8 @@
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Offshore Navigation",
-    "upgradesTo": "Deep-Sea Warships"
+    "upgradesTo": "Deep-Sea Warships",
+    "obsoleteTech": "Deep-Sea Shipbuilding"
   },
   {
     "name": "Deep-Sea Warships",
@@ -456,8 +442,8 @@
       "[+25]% maintenance costs"
     ],
     "requiredTech": "Deep-Sea Shipbuilding",
-    "upgradesTo": "Armored Warships",
-    "obsoleteTech": "Naval Armaments"
+    "upgradesTo": "Ironclads",
+    "obsoleteTech": "Steam Power"
   },
   {
     "name": "Armored Warships",
@@ -474,7 +460,9 @@
       "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Naval Armaments"
+    "requiredTech": "Mechanized Warfare",
+    "upgradesTo": "Magitech Warships",
+    "obsoleteTech": "Magitech Power Systems"
   },
   {
     "name": "Naval Ballistae",
@@ -490,7 +478,8 @@
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Naval Armaments",
-    "upgradesTo": "Heavy Ballista Ships"
+    "upgradesTo": "Heavy Ballista Ships",
+    "obsoleteTech": "Nautical Engineering"
   },
   {
     "name": "Heavy Ballista Ships",
@@ -507,9 +496,9 @@
       "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Deep-Sea Shipbuilding",
+    "requiredTech": "Nautical Engineering",
     "upgradesTo": "Armored Ballista Ships",
-    "obsoleteTech": "Naval Armaments"
+    "obsoleteTech": "Mechanized Warfare"
   },
   {
     "name": "Armored Ballista Ships",
@@ -526,7 +515,7 @@
       "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Naval Armaments"
+    "requiredTech": "Mechanized Warfare"
   },
   {
     "name": "Evokers",
@@ -548,8 +537,9 @@
       "Never appears as a Barbarian unit",
       "[This Unit] gains the [Crystal Ward] status for [2] turn(s) <for all movement> <for units without [Crystal Ward]>"
     ],
-    "requiredTech": "Magic Records",
-    "upgradesTo": "Shaping Mages"
+    "requiredTech": "Arcane Research",
+    "upgradesTo": "Instrument Mages",
+    "obsoleteTech": "Magic Instruments"
   },
   {
     "name": "Shaping Mages",
@@ -614,12 +604,12 @@
       "FC medic near active patient <when adjacent to a [Medical resolution marker] unit> <hidden from users>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Magic Records",
-    "upgradesTo": "Life Physicians",
+    "requiredTech": "Natural Philosophy",
+    "upgradesTo": "Army Surgeons",
     "obsoleteTech": "Medicine and Anatomy"
   },
   {
-    "name": "Life Physicians",
+    "name": "Army Surgeons",
     "unitType": "医护",
     "strength": 26,
     "rangedStrength": 0,
@@ -632,11 +622,11 @@
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Medicine and Anatomy",
-    "upgradesTo": "Harmony Physicians",
+    "upgradesTo": "Magical Healers",
     "obsoleteTech": "Magical Medicine"
   },
   {
-    "name": "Harmony Physicians",
+    "name": "Magical Healers",
     "unitType": "医护",
     "strength": 53,
     "rangedStrength": 0,
@@ -666,8 +656,9 @@
       "Consumes [1] [Magic Crystals]",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "Magic Engineering",
-    "upgradesTo": "Heavy Construct Guards"
+    "requiredTech": "Construct Engineering",
+    "upgradesTo": "Heavy Construct Guards",
+    "obsoleteTech": "Intelligent Constructs"
   },
   {
     "name": "Heavy Construct Guards",
@@ -685,7 +676,7 @@
       "Consumes [1] [Magic Crystals]",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "Arcane Defense Systems"
+    "requiredTech": "Intelligent Constructs"
   },
   {
     "name": "Scouts",
@@ -718,7 +709,7 @@
     ],
     "requiredTech": "Cartography",
     "upgradesTo": "Expedition Scouts",
-    "obsoleteTech": "Advanced Metallurgy"
+    "obsoleteTech": "Ocean Surveying"
   },
   {
     "name": "Expedition Scouts",
@@ -733,7 +724,7 @@
       "[+1] Sight",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Advanced Metallurgy"
+    "requiredTech": "Ocean Surveying"
   },
   {
     "name": "Horse Archers",
@@ -802,26 +793,7 @@
       "Never appears as a Barbarian unit",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Offshore Navigation"
-  },
-  {
-    "name": "Mirror Detection Team",
-    "unitType": "侦察",
-    "strength": 24,
-    "rangedStrength": 0,
-    "range": 0,
-    "movement": 3,
-    "cost": 145,
-    "uniques": [
-      "Ignores terrain cost",
-      "[+1] Sight",
-      "Cannot attack",
-      "Can see invisible [幽魂] units",
-      "Never appears as a Barbarian unit",
-      "[+25]% maintenance costs",
-      "Reveal up to [All] [All] within a [5] tile radius <for all movement> <[2] times>"
-    ],
-    "requiredTech": "Arcane Research"
+    "requiredTech": "Maritime Provisioning"
   },
   {
     "name": "Composite Bowmen",
@@ -887,11 +859,12 @@
       "[-15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Magic Records",
-    "upgradesTo": "Soulbinders"
+    "requiredTech": "Arcane Research",
+    "upgradesTo": "Memory Binders",
+    "obsoleteTech": "Magic Instruments"
   },
   {
-    "name": "Soulbinders",
+    "name": "Memory Binders",
     "unitType": "死灵",
     "strength": 29,
     "rangedStrength": 49,
@@ -907,11 +880,11 @@
       "[+25]% maintenance costs"
     ],
     "requiredTech": "Magic Instruments",
-    "upgradesTo": "Final Cantors",
-    "obsoleteTech": "Memory Preservation"
+    "upgradesTo": "Vigil Chanters",
+    "obsoleteTech": "Magical Medicine"
   },
   {
-    "name": "Final Cantors",
+    "name": "Vigil Chanters",
     "unitType": "死灵",
     "strength": 82,
     "rangedStrength": 132,
@@ -926,26 +899,7 @@
       "Consumes [1] [Magic Crystals]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Memory Preservation"
-  },
-  {
-    "name": "Spirit Survey Team",
-    "unitType": "侦察",
-    "strength": 8,
-    "movement": 2,
-    "cost": 75,
-    "requiredTech": "Magic Records",
-    "upgradesTo": "Mirror Detection Team",
-    "obsoleteTech": "Arcane Research",
-    "uniques": [
-      "Ignores terrain cost",
-      "[+1] Sight",
-      "Cannot attack",
-      "Never appears as a Barbarian unit",
-      "Reveal up to [All] [All] within a [5] tile radius <for all movement> <[2] times>"
-    ],
-    "rangedStrength": 0,
-    "range": 0
+    "requiredTech": "Magical Medicine"
   },
   {
     "name": "Imperial Legion",
@@ -962,7 +916,7 @@
     ],
     "requiredTech": "Steel Forging",
     "upgradesTo": "Formation Infantry",
-    "obsoleteTech": "Military Organization",
+    "obsoleteTech": "Overseas Settlement",
     "uniqueTo": "Human Empire",
     "replaces": "Regular Infantry"
   },
@@ -1001,7 +955,7 @@
     ],
     "requiredTech": "Steel Forging",
     "upgradesTo": "Halberdiers",
-    "obsoleteTech": "Military Organization",
+    "obsoleteTech": "Runic Crafts",
     "uniqueTo": "Mercantile Republic",
     "replaces": "Pikemen"
   },
@@ -1022,7 +976,8 @@
     "requiredTech": "Offshore Navigation",
     "upgradesTo": "Deep-Sea Warships",
     "uniqueTo": "Mercantile Republic",
-    "replaces": "Ocean Escorts"
+    "replaces": "Ocean Escorts",
+    "obsoleteTech": "Deep-Sea Shipbuilding"
   },
   {
     "name": "Woodland Bowmen",
@@ -1077,7 +1032,9 @@
     ],
     "requiredTech": "Mechanized Warfare",
     "uniqueTo": "Forest Elves",
-    "replaces": "Sharpshooters"
+    "replaces": "Riflemen",
+    "upgradesTo": "Rune Riflemen",
+    "obsoleteTech": "Magic Engineering"
   },
   {
     "name": "Tidepattern Galley",
@@ -1093,7 +1050,7 @@
       "[+1] Sight",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Coastal Navigation",
+    "requiredTech": "Shipbuilding",
     "upgradesTo": "Ocean Escorts",
     "obsoleteTech": "Offshore Navigation",
     "uniqueTo": "Sea Elves",
@@ -1115,9 +1072,9 @@
       "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Deep-Sea Shipbuilding",
+    "requiredTech": "Nautical Engineering",
     "upgradesTo": "Armored Ballista Ships",
-    "obsoleteTech": "Naval Armaments",
+    "obsoleteTech": "Mechanized Warfare",
     "uniqueTo": "Sea Elves",
     "replaces": "Heavy Ballista Ships"
   },
@@ -1139,7 +1096,7 @@
     ],
     "requiredTech": "Steel Forging",
     "upgradesTo": "Halberdiers",
-    "obsoleteTech": "Military Organization",
+    "obsoleteTech": "Runic Crafts",
     "uniqueTo": "Mountain Dwarves",
     "replaces": "Pikemen"
   },
@@ -1179,7 +1136,7 @@
       "Consumes [1] [Magic Crystals]",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "Arcane Defense Systems",
+    "requiredTech": "Intelligent Constructs",
     "uniqueTo": "Artificer Dwarves",
     "replaces": "Heavy Construct Guards"
   },
@@ -1199,7 +1156,8 @@
     "requiredTech": "Riding",
     "upgradesTo": "Rangers",
     "uniqueTo": "Nomadic Orcs",
-    "replaces": "Light Cavalry"
+    "replaces": "Light Cavalry",
+    "obsoleteTech": "Steel Forging"
   },
   {
     "name": "Steppe Horse Archers",
@@ -1254,7 +1212,7 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]"
     ],
-    "requiredTech": "Military Organization",
+    "requiredTech": "Overseas Settlement",
     "upgradesTo": "Heavy Infantry",
     "obsoleteTech": "Advanced Metallurgy",
     "uniqueTo": "Orc Empire",
@@ -1274,11 +1232,11 @@
       "[+100]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Military Organization",
+    "requiredTech": "Mechanical Engineering",
     "upgradesTo": "Heavy Ballistae",
     "obsoleteTech": "Precision Manufacturing",
     "uniqueTo": "Orc Empire",
-    "replaces": "Heavy Catapults"
+    "replaces": "Catapults"
   },
   {
     "name": "Ironback Warbeasts",
@@ -1317,8 +1275,8 @@
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Precision Manufacturing",
-    "upgradesTo": "Great Siege Arbalest",
-    "obsoleteTech": "Advanced Material Synthesis",
+    "upgradesTo": "Field Cannons",
+    "obsoleteTech": "Industrial Chemistry",
     "uniqueTo": "Industrial Goblins",
     "replaces": "Heavy Ballistae"
   },
@@ -1339,10 +1297,11 @@
       "Consumes [1] [Magic Crystals]",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "Magic Engineering",
+    "requiredTech": "Construct Engineering",
     "upgradesTo": "Heavy Construct Guards",
     "uniqueTo": "Industrial Goblins",
-    "replaces": "Construct Guards"
+    "replaces": "Construct Guards",
+    "obsoleteTech": "Intelligent Constructs"
   },
   {
     "name": "Ruin Surveyors",
@@ -1395,10 +1354,11 @@
       "[-15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Magic Records",
-    "upgradesTo": "Soulbinders",
+    "requiredTech": "Arcane Research",
+    "upgradesTo": "Memory Binders",
     "uniqueTo": "Lich Dynasty",
-    "replaces": "Necromancers"
+    "replaces": "Necromancers",
+    "obsoleteTech": "Magic Instruments"
   },
   {
     "name": "Spectral Knights",
@@ -1440,7 +1400,7 @@
     ],
     "requiredTech": "Memory Preservation",
     "uniqueTo": "Lich Dynasty",
-    "replaces": "Final Cantors"
+    "replaces": "Vigil Chanters"
   },
   {
     "name": "Bone Legion",
@@ -1455,7 +1415,8 @@
     ],
     "upgradesTo": "Shield Infantry",
     "uniqueTo": "Bone Empire",
-    "replaces": "Militia"
+    "replaces": "Militia",
+    "obsoleteTech": "Smelting"
   },
   {
     "name": "Bone Halberdiers",
@@ -1473,9 +1434,9 @@
       "[+15]% Strength <when defending> <in [Friendly Land] tiles>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Military Organization",
+    "requiredTech": "Runic Crafts",
     "upgradesTo": "Phalanx Guards",
-    "obsoleteTech": "Advanced Metallurgy",
+    "obsoleteTech": "Precision Manufacturing",
     "uniqueTo": "Bone Empire",
     "replaces": "Halberdiers"
   },
@@ -1532,40 +1493,6 @@
     ],
     "requiredTech": "Memory Preservation",
     "uniqueTo": "Lich Dynasty"
-  },
-  {
-    "name": "Starlight Research Ritualists",
-    "unitType": "Civilian",
-    "strength": 0,
-    "movement": 2,
-    "cost": 400,
-    "requiredTech": "Experimental Science",
-    "uniques": [
-      "Cannot attack",
-      "Uncapturable",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit",
-      "Limited to [1] per Civilization"
-    ],
-    "rangedStrength": 0,
-    "range": 0
-  },
-  {
-    "name": "National Ward Ritualists",
-    "unitType": "Civilian",
-    "strength": 0,
-    "movement": 2,
-    "cost": 300,
-    "requiredTech": "Runic Crafts",
-    "uniques": [
-      "Cannot attack",
-      "Uncapturable",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit",
-      "Limited to [1] per Civilization"
-    ],
-    "rangedStrength": 0,
-    "range": 0
   },
   {
     "name": "Settler",
@@ -2098,5 +2025,527 @@
     ],
     "rangedStrength": 0,
     "range": 0
+  },
+  {
+    "name": "Arquebusiers",
+    "unitType": "射手",
+    "strength": 36,
+    "rangedStrength": 72,
+    "range": 2,
+    "movement": 2,
+    "cost": 235,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "Industrial Chemistry",
+    "upgradesTo": "Riflemen",
+    "obsoleteTech": "Mechanized Warfare"
+  },
+  {
+    "name": "Machine Gun Crews",
+    "unitType": "射手",
+    "strength": 48,
+    "rangedStrength": 88,
+    "range": 2,
+    "movement": 2,
+    "cost": 300,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Must set up to ranged attack",
+      "[+30]% Strength <vs [步兵] units>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "Mass Manufacturing"
+  },
+  {
+    "name": "Rune Riflemen",
+    "unitType": "射手",
+    "strength": 70,
+    "rangedStrength": 130,
+    "range": 2,
+    "movement": 2,
+    "cost": 360,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [Magic Crystals]",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "Magic Engineering",
+    "upgradesTo": "Magitech Marksmen",
+    "obsoleteTech": "Advanced Material Synthesis"
+  },
+  {
+    "name": "Magitech Marksmen",
+    "unitType": "射手",
+    "strength": 100,
+    "rangedStrength": 190,
+    "range": 2,
+    "movement": 2,
+    "cost": 440,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [Magic Crystals]",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "Advanced Material Synthesis"
+  },
+  {
+    "name": "Field Cannons",
+    "unitType": "攻城",
+    "strength": 35,
+    "rangedStrength": 80,
+    "range": 2,
+    "movement": 2,
+    "cost": 260,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Must set up to ranged attack",
+      "[+100]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "Industrial Chemistry",
+    "upgradesTo": "Magitech Cannons",
+    "obsoleteTech": "Magic Engineering"
+  },
+  {
+    "name": "Magitech Cannons",
+    "unitType": "攻城",
+    "strength": 55,
+    "rangedStrength": 120,
+    "range": 2,
+    "movement": 2,
+    "cost": 340,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Must set up to ranged attack",
+      "[+100]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [Magic Crystals]"
+    ],
+    "requiredTech": "Magic Engineering",
+    "upgradesTo": "Grand Magitech Cannons",
+    "obsoleteTech": "Advanced Material Synthesis"
+  },
+  {
+    "name": "Ironclads",
+    "unitType": "海近战",
+    "strength": 85,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 5,
+    "cost": 270,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [Iron]",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "Steam Power",
+    "upgradesTo": "Armored Warships",
+    "obsoleteTech": "Mechanized Warfare"
+  },
+  {
+    "name": "Magitech Warships",
+    "unitType": "海近战",
+    "strength": 140,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 6,
+    "cost": 400,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [Iron]",
+      "Consumes [1] [Magic Crystals]",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "Magitech Power Systems"
+  },
+  {
+    "name": "Instrument Mages",
+    "unitType": "术士",
+    "strength": 14,
+    "rangedStrength": 32,
+    "range": 2,
+    "movement": 2,
+    "cost": 130,
+    "uniques": [
+      "No defensive terrain bonus",
+      "[+20]% Strength <vs [重步兵] units>",
+      "[+20]% Strength <vs [重骑] units>",
+      "[+20]% Strength <vs [构装] units>",
+      "[+25]% Strength <vs [Ancient Grove Guardians] units>",
+      "[+25]% Strength <vs [Elder Tree Guards] units>",
+      "[+25]% Strength <vs [Feral Tree Guards] units>",
+      "[-15]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit",
+      "[This Unit] gains the [Crystal Ward] status for [2] turn(s) <for all movement> <for units without [Crystal Ward]>"
+    ],
+    "requiredTech": "Magic Instruments",
+    "upgradesTo": "Shaping Mages",
+    "obsoleteTech": "Magic Engineering"
+  },
+  {
+    "name": "Construct Sappers",
+    "unitType": "Civilian",
+    "strength": 0,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 100,
+    "uniques": [
+      "Can build [Land] improvements on tiles",
+      "Automation is a primary action",
+      "Never appears as a Barbarian unit",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "Construct Engineering"
+  },
+  {
+    "name": "Guardian Constructs",
+    "unitType": "构装",
+    "strength": 110,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 330,
+    "uniques": [
+      "No defensive terrain bonus",
+      "[+10]% Strength <when defending>",
+      "[+10]% Strength bonus for [{Land} {Military}] units within [2] tiles",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [Iron]",
+      "Consumes [1] [Magic Crystals]",
+      "[+50]% maintenance costs"
+    ],
+    "requiredTech": "Arcane Defense Systems"
+  },
+  {
+    "name": "Magitech Airship",
+    "unitType": "飞艇",
+    "strength": 70,
+    "rangedStrength": 120,
+    "range": 8,
+    "movement": 1,
+    "cost": 380,
+    "uniques": [
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [Magic Crystals]",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "Magitech Transport"
+  },
+  {
+    "name": "Oathsworn Commander",
+    "unitType": "Hero - Oathsworn Commander",
+    "strength": 27,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VII]>",
+      "[+1] Sight",
+      "[+10]% Strength bonus for [{Land} {Military}] units within [2] tiles",
+      "Hero <hidden from users>",
+      "Hero <hidden from users>",
+      "Hero Warrior <hidden from users>"
+    ],
+    "promotions": []
+  },
+  {
+    "name": "Star-Gazer Sage",
+    "unitType": "Hero - Star-Gazer Sage",
+    "strength": 21,
+    "rangedStrength": 39,
+    "range": 2,
+    "movement": 2,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs",
+      "No defensive terrain bonus",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VII]>",
+      "[+1] Sight",
+      "[+15]% Strength <vs [重步兵] units>",
+      "[+15]% Strength <vs [重骑] units>",
+      "[+15]% Strength <vs [构装] units>",
+      "Earn [50]% of killed [Military] unit's [Strength] as [Science]",
+      "[-25]% Strength <when attacking> <vs cities>",
+      "Hero <hidden from users>",
+      "Hero <hidden from users>",
+      "Hero Mage <hidden from users>"
+    ],
+    "promotions": []
+  },
+  {
+    "name": "Guardian of the Wilds",
+    "unitType": "Hero - Guardian of the Wilds",
+    "strength": 29,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VII]>",
+      "Double movement in [Forest]",
+      "[+20]% Strength <when fighting in [Forest] tiles>",
+      "[+5] HP when healing",
+      "All adjacent units heal [5] HP when healing",
+      "[This Unit] gains the [Guardian Command] promotion <upon turn start> <for units with [Command]> <for units without [Guardian Command]> <hidden from users>",
+      "[This Unit] loses the [Command] promotion <upon turn start> <for units with [Command]> <for units with [Guardian Command]> <hidden from users>",
+      "[This Unit] gains the [Guardian Oath of the Bridge] promotion <upon turn start> <for units with [Oath of the Bridge]> <for units without [Guardian Oath of the Bridge]> <hidden from users>",
+      "[This Unit] loses the [Oath of the Bridge] promotion <upon turn start> <for units with [Oath of the Bridge]> <for units with [Guardian Oath of the Bridge]> <hidden from users>",
+      "Hero <hidden from users>",
+      "Hero <hidden from users>",
+      "Hero Ranger <hidden from users>"
+    ],
+    "promotions": []
+  },
+  {
+    "name": "Ancient Oath Dragon",
+    "unitType": "Hero - Ancient Oath Dragon",
+    "strength": 163,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 4,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+100]% maintenance costs",
+      "[+1] Sight",
+      "Ignores terrain cost",
+      "May travel on Water tiles without embarking",
+      "No defensive terrain bonus",
+      "[-25]% Strength <when attacking> <vs cities>",
+      "Hero <hidden from users>",
+      "Hero <hidden from users>",
+      "Hero Legend <hidden from users>"
+    ],
+    "promotions": []
+  },
+  {
+    "name": "Springroad Physician",
+    "unitType": "Hero - Springroad Physician",
+    "strength": 14,
+    "rangedStrength": 23,
+    "range": 1,
+    "movement": 3,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs",
+      "No defensive terrain bonus",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VII]>",
+      "All adjacent units heal [10] HP when healing",
+      "[-50]% Strength <when attacking> <vs cities>",
+      "Hero <hidden from users>",
+      "Hero <hidden from users>",
+      "Hero Healer <hidden from users>"
+    ],
+    "promotions": []
+  },
+  {
+    "name": "Monument Oathwalker",
+    "unitType": "Hero - Monument Oathwalker",
+    "strength": 29,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+75]% maintenance costs",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VII]>",
+      "Invisible to non-adjacent units",
+      "No defensive terrain bonus",
+      "Earn [25]% of killed [Military] unit's [Strength] as [Culture]",
+      "[-25]% Strength <when attacking> <vs cities>",
+      "Hero <hidden from users>",
+      "Hero <hidden from users>",
+      "Hero Defender <hidden from users>"
+    ],
+    "promotions": []
+  },
+  {
+    "name": "Molten Seal Envoy",
+    "unitType": "Hero - Molten Seal Envoy",
+    "strength": 24,
+    "rangedStrength": 51,
+    "range": 2,
+    "movement": 2,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+75]% maintenance costs",
+      "No defensive terrain bonus",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VII]>",
+      "Must set up to ranged attack",
+      "[+25]% Strength <vs [构装] units>",
+      "[+25]% Strength <vs [元素] units>",
+      "[-50]% Strength <when attacking> <vs cities>",
+      "Hero <hidden from users>",
+      "Consumes [1] [Magic Crystals]",
+      "Hero <hidden from users>",
+      "Hero Mage <hidden from users>"
+    ],
+    "promotions": []
+  },
+  {
+    "name": "Silent Mirror Keeper",
+    "unitType": "Hero - Silent Mirror Keeper",
+    "strength": 17,
+    "rangedStrength": 29,
+    "range": 2,
+    "movement": 2,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs",
+      "No defensive terrain bonus",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VII]>",
+      "[+1] Sight",
+      "Ignores Zone of Control",
+      "[+15]% Strength <when adjacent to a [长柄] unit>",
+      "[-50]% Strength <when attacking> <vs cities>",
+      "Hero <hidden from users>",
+      "Hero <hidden from users>",
+      "Hero Mage <hidden from users>"
+    ],
+    "promotions": []
+  },
+  {
+    "name": "Sea Road Navigator",
+    "unitType": "Hero - Sea Road Navigator",
+    "strength": 27,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 5,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VII]>",
+      "[+1] Sight",
+      "May heal outside of friendly territory",
+      "[+5] HP when healing",
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Hero <hidden from users>",
+      "Hero <hidden from users>",
+      "Hero Ranger <hidden from users>"
+    ],
+    "promotions": []
+  },
+  {
+    "name": "Lantern Oathguard",
+    "unitType": "Hero - Lantern Oathguard",
+    "strength": 29,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VII]>",
+      "[+25]% Strength <vs [死灵] units>",
+      "Earn [35]% of killed [Military] unit's [Strength] as [Faith]",
+      "[-25]% Strength <when attacking> <vs cities>",
+      "Hero <hidden from users>",
+      "Hero <hidden from users>",
+      "Hero Healer <hidden from users>"
+    ],
+    "promotions": []
+  },
+  {
+    "name": "Hundredforge Artificer",
+    "unitType": "Hero - Hundredforge Artificer",
+    "strength": 55,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+75]% maintenance costs",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VII]>",
+      "Can build [Fort] improvements on tiles",
+      "Can build [Repair] improvements on tiles",
+      "[+10] HP when healing",
+      "No defensive terrain bonus",
+      "[-25]% Strength <when attacking> <vs cities>",
+      "Hero <hidden from users>",
+      "Consumes [1] [Iron]",
+      "Consumes [1] [Magic Crystals]",
+      "Hero <hidden from users>",
+      "Hero Warrior <hidden from users>"
+    ],
+    "promotions": []
+  },
+  {
+    "name": "Caravan Arbiter",
+    "unitType": "Hero - Caravan Arbiter",
+    "strength": 43,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 3,
+    "cost": 0,
+    "uniques": [
+      "Unbuildable",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit",
+      "[+50]% maintenance costs",
+      "[+25]% Strength <starting from the [V]>",
+      "[+25]% Strength <starting from the [VII]>",
+      "[+15]% Strength <when defending> <in [Friendly Land] tiles>",
+      "Earn [50]% of killed [Military] unit's [Strength] as [Gold]",
+      "[-50]% Strength <when attacking> <vs cities>",
+      "Hero <hidden from users>",
+      "Hero <hidden from users>",
+      "Hero Defender <hidden from users>"
+    ],
+    "promotions": []
   }
 ]

@@ -82,5 +82,60 @@
   {
     "name": "FC Reef near city",
     "movementType": "Land"
+  },
+  {
+    "name": "飞艇",
+    "movementType": "Air",
+    "uniques": [
+      "Aircraft"
+    ]
+  },
+  {
+    "name": "Hero - Oathsworn Commander",
+    "movementType": "Land"
+  },
+  {
+    "name": "Hero - Star-Gazer Sage",
+    "movementType": "Land"
+  },
+  {
+    "name": "Hero - Guardian of the Wilds",
+    "movementType": "Land"
+  },
+  {
+    "name": "Hero - Ancient Oath Dragon",
+    "movementType": "Land"
+  },
+  {
+    "name": "Hero - Springroad Physician",
+    "movementType": "Land"
+  },
+  {
+    "name": "Hero - Monument Oathwalker",
+    "movementType": "Land"
+  },
+  {
+    "name": "Hero - Molten Seal Envoy",
+    "movementType": "Land"
+  },
+  {
+    "name": "Hero - Silent Mirror Keeper",
+    "movementType": "Land"
+  },
+  {
+    "name": "Hero - Sea Road Navigator",
+    "movementType": "Water"
+  },
+  {
+    "name": "Hero - Lantern Oathguard",
+    "movementType": "Land"
+  },
+  {
+    "name": "Hero - Hundredforge Artificer",
+    "movementType": "Land"
+  },
+  {
+    "name": "Hero - Caravan Arbiter",
+    "movementType": "Land"
   }
 ]
