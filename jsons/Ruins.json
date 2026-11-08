@@ -155,5 +155,14 @@
       "Only available <for [Military] units>",
       "[This Unit] gains [15] XP"
     ]
+  },
+  {
+    "name": "Ruin - Sealed Relic Casket",
+    "weight": 1,
+    "notification": "Discovery: The Sealed Relic Casket. Read the encounter and choose a response; the outcome depends on your decision.",
+    "uniques": [
+      "Only available <for [Military] units>",
+      "Triggers a [The Sealed Relic Casket] event"
+    ]
   }
 ]

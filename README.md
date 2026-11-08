@@ -2,33 +2,33 @@
 
 ### Build your civilization in a world of magic and steel!
 
-[简体中文](README.zh-CN.md) · **Version 1.3**
+[简体中文](README.zh-CN.md) · **Version 2.0**
 
 **FantasyUnciv** is a complete fantasy ruleset mod for Unciv. Build cities, research technologies, explore ruins, ally with city-states and recruit heroes as you compete to shape the world.
 
 ## Build a realm of your own
 
-**6 eras, 6 races and 12 civilizations, each with its own character.** Lead humans, elves, dwarves, orcs, goblins or the undead into a world of magic, and build a realm of your own!
+**8 eras, 6 races and 12 civilizations, each with its own character.** Lead humans, elves, dwarves, orcs, goblins or the undead into a world of magic, and build a realm of your own!
 
 **Sea Elves can even build cities at sea!** Raise islands from suitable shallow water, establish new cities and extend your realm beyond the shoreline.
 
-## Make magic a power of the state
+## From spellcraft to magitech
 
-**4 schools of magic: Life, Soul, Elements and Mind.** Bring magic into your armies and cities. Reveal unexplored terrain, strengthen your troops’ defenses and perform nationwide rituals.
+**80 technologies and 10 policy branches, with magic and industry advancing together.** From magic records to great magic engineering, magic becomes the infrastructure of the state. Armies advance from spears and crossbows to firearms, magitech cannons and constructs; the magic victory is to complete the Gate Beyond and carry your civilization to a new world.
 
 Agriculture, industry, navigation, culture, religion and magic all contribute to your civilization’s development. Choose your research around the land, resources and rivals you encounter, and turn each discovery into an opportunity.
 
 ## Lead heroes into battle
 
-**12 heroes, each with personal promotion paths.** Meet the army-leading Oathsworn Commander, the forest-defending Guardian of the Wilds, the arcane Star-Mirror Sage and the mighty Ancient Oath Dragon.
+**12 heroes, each with personal promotion paths.** Meet the army-leading Oathsworn Commander, the forest-defending Guardian of the Wilds, the arcane Star-Gazer Sage and the mighty Ancient Oath Dragon.
 
 Gain heroes through wonders, encounters in ancient ruins and national projects. Earn experience in battle and choose their personal promotions. Give them a place at the head of your armies, beside your explorers or on the borders of your homeland.
 
 ## Find more than treasure
 
-**27 ruin outcomes and 12 choice-driven encounters await your expeditions.** Venture into the wilderness to recover ancient knowledge, coins, maps and magical covenants.
+**15 ruin outcomes, 4 choice-driven encounters and natural wonders beneath the sea await your expeditions.** Venture into the wilderness to recover ancient knowledge, coins, maps and relics.
 
-Pay a price for power, preserve records for knowledge or invite a wandering hero to join your cause. Decide how to respond to each encounter.
+Pay a price for power or preserve records for knowledge. Decide how to respond to each encounter.
 
 ## Ally with distinctive city-states
 

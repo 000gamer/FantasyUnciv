@@ -225,7 +225,7 @@
     ]
   },
   {
-    "name": "Breath of Life",
+    "name": "Steady Recovery",
     "unitTypes": [
       "医护",
       "幽魂"
@@ -237,7 +237,7 @@
     ]
   },
   {
-    "name": "Mental Ward",
+    "name": "Resolute Ward",
     "unitTypes": [
       "医护",
       "术士",
@@ -251,7 +251,7 @@
     ]
   },
   {
-    "name": "Elemental Penetration",
+    "name": "Armor Piercing",
     "unitTypes": [
       "术士"
     ],
@@ -305,14 +305,14 @@
     ]
   },
   {
-    "name": "Mind Mirror",
+    "name": "Spell Shield",
     "unitTypes": [
       "术士",
       "死灵"
     ],
     "prerequisites": [
       "Skirmisher Protection",
-      "Mental Ward"
+      "Resolute Ward"
     ],
     "uniques": [
       "[+15]% Strength <when defending> <vs [Ranged] units>",
@@ -334,7 +334,7 @@
     ]
   },
   {
-    "name": "Spirit Binding",
+    "name": "Construct Breaker",
     "unitTypes": [
       "死灵",
       "幽魂"
@@ -370,8 +370,8 @@
       "死灵"
     ],
     "prerequisites": [
-      "Breath of Life",
-      "Mental Ward"
+      "Steady Recovery",
+      "Resolute Ward"
     ],
     "uniques": [
       "[+1] Sight"
@@ -411,8 +411,8 @@
       "幽魂"
     ],
     "prerequisites": [
-      "Mental Ward",
-      "Spirit Binding"
+      "Resolute Ward",
+      "Construct Breaker"
     ],
     "uniques": [
       "Earn [25]% of killed [Military] unit's [Strength] as [Culture]",
@@ -427,7 +427,7 @@
       "死灵"
     ],
     "prerequisites": [
-      "Mind Mirror"
+      "Spell Shield"
     ],
     "uniques": [
       "No damage penalty for wounded units",
@@ -455,7 +455,7 @@
     ],
     "prerequisites": [
       "Rough-Terrain Tactics II",
-      "Mental Ward"
+      "Resolute Ward"
     ],
     "uniques": [
       "Can move after attacking",
