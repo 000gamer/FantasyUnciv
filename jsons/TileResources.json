@@ -82,7 +82,7 @@
       "Minor deposits generated with weight [10] <in [{Featureless} {Grassland}] tiles>"
     ],
     "science": 1,
-    "revealedBy": "Rituals",
+    "revealedBy": "Ritual Traditions",
     "improvedBy": [
       "Ley Extractor",
       "Mine"
@@ -109,7 +109,7 @@
       "Minor deposits generated with weight [5] <in [Hill] tiles>"
     ],
     "production": 1,
-    "revealedBy": "Mithril Metallurgy",
+    "revealedBy": "Advanced Metallurgy",
     "improvedBy": [
       "Mine"
     ],
@@ -355,7 +355,7 @@
       "Generated near City States with weight [1]"
     ],
     "gold": 2,
-    "revealedBy": "Mirror Arts",
+    "revealedBy": "Arcane Research",
     "improvedBy": [
       "Mine"
     ],

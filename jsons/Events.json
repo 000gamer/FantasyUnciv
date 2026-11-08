@@ -605,7 +605,7 @@
         "name": "Starlight Research - Quick",
         "text": "Perform the ritual",
         "uniques": [
-          "Only available <on [Quick] game speed> <without [Research Ritual Active]> <after discovering [Collaborative Research]>",
+          "Only available <on [Quick] game speed> <without [Research Ritual Active]> <after discovering [Experimental Science]>",
           "Provides [1] [Research Ritual Active] <for [7] turns>",
           "[+15]% [Science] [in all cities] <for [7] turns>"
         ]
@@ -614,7 +614,7 @@
         "name": "Starlight Research - Standard",
         "text": "Perform the ritual",
         "uniques": [
-          "Only available <on [Standard] game speed> <without [Research Ritual Active]> <after discovering [Collaborative Research]>",
+          "Only available <on [Standard] game speed> <without [Research Ritual Active]> <after discovering [Experimental Science]>",
           "Provides [1] [Research Ritual Active] <for [10] turns>",
           "[+15]% [Science] [in all cities] <for [10] turns>"
         ]
@@ -623,7 +623,7 @@
         "name": "Starlight Research - Epic",
         "text": "Perform the ritual",
         "uniques": [
-          "Only available <on [Epic] game speed> <without [Research Ritual Active]> <after discovering [Collaborative Research]>",
+          "Only available <on [Epic] game speed> <without [Research Ritual Active]> <after discovering [Experimental Science]>",
           "Provides [1] [Research Ritual Active] <for [15] turns>",
           "[+15]% [Science] [in all cities] <for [15] turns>"
         ]
@@ -632,7 +632,7 @@
         "name": "Starlight Research - Marathon",
         "text": "Perform the ritual",
         "uniques": [
-          "Only available <on [Marathon] game speed> <without [Research Ritual Active]> <after discovering [Collaborative Research]>",
+          "Only available <on [Marathon] game speed> <without [Research Ritual Active]> <after discovering [Experimental Science]>",
           "Provides [1] [Research Ritual Active] <for [30] turns>",
           "[+15]% [Science] [in all cities] <for [30] turns>"
         ]

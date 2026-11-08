@@ -42,7 +42,7 @@
     ],
     "requiredTech": "Steel Forging",
     "upgradesTo": "Formation Infantry",
-    "obsoleteTech": "Military Formations"
+    "obsoleteTech": "Military Organization"
   },
   {
     "name": "Formation Infantry",
@@ -56,9 +56,9 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]"
     ],
-    "requiredTech": "Military Formations",
+    "requiredTech": "Military Organization",
     "upgradesTo": "Heavy Infantry",
-    "obsoleteTech": "Mithril Metallurgy"
+    "obsoleteTech": "Advanced Metallurgy"
   },
   {
     "name": "Heavy Infantry",
@@ -72,9 +72,9 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]"
     ],
-    "requiredTech": "Mithril Metallurgy",
+    "requiredTech": "Advanced Metallurgy",
     "upgradesTo": "Legion Guards",
-    "obsoleteTech": "World Strategy"
+    "obsoleteTech": "Mechanized Warfare"
   },
   {
     "name": "Legion Guards",
@@ -88,7 +88,7 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]"
     ],
-    "requiredTech": "World Strategy"
+    "requiredTech": "Mechanized Warfare"
   },
   {
     "name": "Spearmen",
@@ -126,7 +126,7 @@
     ],
     "requiredTech": "Steel Forging",
     "upgradesTo": "Halberdiers",
-    "obsoleteTech": "Military Formations"
+    "obsoleteTech": "Military Organization"
   },
   {
     "name": "Halberdiers",
@@ -143,9 +143,9 @@
       "[+35]% Strength <vs [野兽] units>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Military Formations",
+    "requiredTech": "Military Organization",
     "upgradesTo": "Phalanx Guards",
-    "obsoleteTech": "War Coordination"
+    "obsoleteTech": "Advanced Metallurgy"
   },
   {
     "name": "Phalanx Guards",
@@ -162,9 +162,9 @@
       "[+35]% Strength <vs [野兽] units>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "War Coordination",
+    "requiredTech": "Advanced Metallurgy",
     "upgradesTo": "Massed Pike Guards",
-    "obsoleteTech": "World Strategy"
+    "obsoleteTech": "Mechanized Warfare"
   },
   {
     "name": "Massed Pike Guards",
@@ -181,7 +181,7 @@
       "[+35]% Strength <vs [野兽] units>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "World Strategy"
+    "requiredTech": "Mechanized Warfare"
   },
   {
     "name": "Archers",
@@ -197,7 +197,7 @@
     ],
     "requiredTech": "Hunting and Husbandry",
     "upgradesTo": "Composite Bowmen",
-    "obsoleteTech": "Composite Bows"
+    "obsoleteTech": "Military Organization"
   },
   {
     "name": "Crossbowmen",
@@ -229,7 +229,7 @@
     ],
     "requiredTech": "Precision Manufacturing",
     "upgradesTo": "Sharpshooters",
-    "obsoleteTech": "World Strategy"
+    "obsoleteTech": "Mechanized Warfare"
   },
   {
     "name": "Sharpshooters",
@@ -243,7 +243,7 @@
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "World Strategy"
+    "requiredTech": "Mechanized Warfare"
   },
   {
     "name": "Light Cavalry",
@@ -261,7 +261,7 @@
     ],
     "requiredTech": "Riding",
     "upgradesTo": "Rangers",
-    "obsoleteTech": "Mobile Warfare"
+    "obsoleteTech": "Steel Forging"
   },
   {
     "name": "Rangers",
@@ -278,9 +278,9 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Horses]"
     ],
-    "requiredTech": "Mobile Warfare",
+    "requiredTech": "Steel Forging",
     "upgradesTo": "Windriders",
-    "obsoleteTech": "World Strategy"
+    "obsoleteTech": "Mechanized Warfare"
   },
   {
     "name": "Windriders",
@@ -297,7 +297,7 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Horses]"
     ],
-    "requiredTech": "World Strategy"
+    "requiredTech": "Mechanized Warfare"
   },
   {
     "name": "Heavy Cavalry",
@@ -315,9 +315,9 @@
       "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Mobile Warfare",
+    "requiredTech": "Steel Forging",
     "upgradesTo": "Royal Cavalry",
-    "obsoleteTech": "World Strategy"
+    "obsoleteTech": "Mechanized Warfare"
   },
   {
     "name": "Royal Cavalry",
@@ -335,7 +335,7 @@
       "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "World Strategy"
+    "requiredTech": "Mechanized Warfare"
   },
   {
     "name": "Catapults",
@@ -353,7 +353,7 @@
     ],
     "requiredTech": "Mechanical Engineering",
     "upgradesTo": "Heavy Catapults",
-    "obsoleteTech": "Military Formations"
+    "obsoleteTech": "Military Organization"
   },
   {
     "name": "Heavy Catapults",
@@ -369,7 +369,7 @@
       "[+100]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Military Formations",
+    "requiredTech": "Military Organization",
     "upgradesTo": "Heavy Ballistae",
     "obsoleteTech": "Precision Manufacturing"
   },
@@ -389,7 +389,7 @@
     ],
     "requiredTech": "Precision Manufacturing",
     "upgradesTo": "Great Siege Arbalest",
-    "obsoleteTech": "Grand Crafts"
+    "obsoleteTech": "Advanced Material Synthesis"
   },
   {
     "name": "Great Siege Arbalest",
@@ -405,7 +405,7 @@
       "[+100]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Grand Crafts"
+    "requiredTech": "Advanced Material Synthesis"
   },
   {
     "name": "Oared Galleys",
@@ -417,12 +417,12 @@
     "cost": 65,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Coastal Navigation",
     "upgradesTo": "Ocean Escorts",
-    "obsoleteTech": "Ocean Navigation"
+    "obsoleteTech": "Offshore Navigation"
   },
   {
     "name": "Ocean Escorts",
@@ -434,10 +434,10 @@
     "cost": 130,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Ocean Navigation",
+    "requiredTech": "Offshore Navigation",
     "upgradesTo": "Deep-Sea Warships"
   },
   {
@@ -450,14 +450,14 @@
     "cost": 225,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
     "requiredTech": "Deep-Sea Shipbuilding",
     "upgradesTo": "Armored Warships",
-    "obsoleteTech": "Ocean Supremacy"
+    "obsoleteTech": "Naval Armaments"
   },
   {
     "name": "Armored Warships",
@@ -469,12 +469,12 @@
     "cost": 320,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Ocean Supremacy"
+    "requiredTech": "Naval Armaments"
   },
   {
     "name": "Naval Ballistae",
@@ -486,7 +486,7 @@
     "cost": 145,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Naval Armaments",
@@ -502,14 +502,14 @@
     "cost": 235,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
     "requiredTech": "Deep-Sea Shipbuilding",
     "upgradesTo": "Armored Ballista Ships",
-    "obsoleteTech": "Ocean Supremacy"
+    "obsoleteTech": "Naval Armaments"
   },
   {
     "name": "Armored Ballista Ships",
@@ -521,12 +521,12 @@
     "cost": 330,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Ocean Supremacy"
+    "requiredTech": "Naval Armaments"
   },
   {
     "name": "Evokers",
@@ -548,7 +548,7 @@
       "Never appears as a Barbarian unit",
       "[This Unit] gains the [Crystal Ward] status for [2] turn(s) <for all movement> <for units without [Crystal Ward]>"
     ],
-    "requiredTech": "Elemental Guidance",
+    "requiredTech": "Magic Records",
     "upgradesTo": "Shaping Mages"
   },
   {
@@ -573,9 +573,9 @@
       "[+25]% maintenance costs",
       "[This Unit] gains the [Crystal Ward] status for [2] turn(s) <for all movement> <for units without [Crystal Ward]>"
     ],
-    "requiredTech": "Elemental Shaping",
+    "requiredTech": "Magic Engineering",
     "upgradesTo": "Boundary Mages",
-    "obsoleteTech": "Elemental Boundaries"
+    "obsoleteTech": "Arcane Defense Systems"
   },
   {
     "name": "Boundary Mages",
@@ -599,7 +599,7 @@
       "[+25]% maintenance costs",
       "[This Unit] gains the [Crystal Ward] status for [2] turn(s) <for all movement> <for units without [Crystal Ward]>"
     ],
-    "requiredTech": "Elemental Boundaries"
+    "requiredTech": "Arcane Defense Systems"
   },
   {
     "name": "Field Physicians",
@@ -614,9 +614,9 @@
       "FC medic near active patient <when adjacent to a [Medical resolution marker] unit> <hidden from users>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Attunement of Life",
+    "requiredTech": "Magic Records",
     "upgradesTo": "Life Physicians",
-    "obsoleteTech": "Covenants of Life"
+    "obsoleteTech": "Medicine and Anatomy"
   },
   {
     "name": "Life Physicians",
@@ -631,9 +631,9 @@
       "FC medic near active patient <when adjacent to a [Medical resolution marker] unit> <hidden from users>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Covenants of Life",
+    "requiredTech": "Medicine and Anatomy",
     "upgradesTo": "Harmony Physicians",
-    "obsoleteTech": "Harmony of Life"
+    "obsoleteTech": "Magical Medicine"
   },
   {
     "name": "Harmony Physicians",
@@ -648,7 +648,7 @@
       "FC medic near active patient <when adjacent to a [Medical resolution marker] unit> <hidden from users>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Harmony of Life"
+    "requiredTech": "Magical Medicine"
   },
   {
     "name": "Construct Guards",
@@ -666,7 +666,7 @@
       "Consumes [1] [Mana Crystals]",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "Elemental Shaping",
+    "requiredTech": "Magic Engineering",
     "upgradesTo": "Heavy Construct Guards"
   },
   {
@@ -685,7 +685,7 @@
       "Consumes [1] [Mana Crystals]",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "Elemental Boundaries"
+    "requiredTech": "Arcane Defense Systems"
   },
   {
     "name": "Scouts",
@@ -718,7 +718,7 @@
     ],
     "requiredTech": "Cartography",
     "upgradesTo": "Expedition Scouts",
-    "obsoleteTech": "War Coordination"
+    "obsoleteTech": "Advanced Metallurgy"
   },
   {
     "name": "Expedition Scouts",
@@ -733,7 +733,7 @@
       "[+1] Sight",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "War Coordination"
+    "requiredTech": "Advanced Metallurgy"
   },
   {
     "name": "Horse Archers",
@@ -749,9 +749,9 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Horses]"
     ],
-    "requiredTech": "Saddlery",
+    "requiredTech": "Riding",
     "upgradesTo": "Windstring Horse Archers",
-    "obsoleteTech": "Mobile Warfare"
+    "obsoleteTech": "Steel Forging"
   },
   {
     "name": "Windstring Horse Archers",
@@ -767,9 +767,9 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Horses]"
     ],
-    "requiredTech": "Mobile Warfare",
+    "requiredTech": "Steel Forging",
     "upgradesTo": "Skyline Horse Archers",
-    "obsoleteTech": "World Strategy"
+    "obsoleteTech": "Mechanized Warfare"
   },
   {
     "name": "Skyline Horse Archers",
@@ -785,7 +785,7 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Horses]"
     ],
-    "requiredTech": "World Strategy"
+    "requiredTech": "Mechanized Warfare"
   },
   {
     "name": "Ocean Supply Ship",
@@ -797,12 +797,12 @@
     "cost": 150,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "All adjacent units heal [5] HP when healing",
       "Never appears as a Barbarian unit",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Ocean Navigation"
+    "requiredTech": "Offshore Navigation"
   },
   {
     "name": "Mirror Detection Team",
@@ -822,7 +822,7 @@
       "[+25]% maintenance costs",
       "Reveal up to [All] [All] within a [5] tile radius <for all movement> <[2] times>"
     ],
-    "requiredTech": "Mental Coordination"
+    "requiredTech": "Arcane Research"
   },
   {
     "name": "Composite Bowmen",
@@ -836,7 +836,7 @@
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Composite Bows",
+    "requiredTech": "Military Organization",
     "upgradesTo": "Crossbowmen",
     "obsoleteTech": "Mechanical Engineering"
   },
@@ -854,9 +854,9 @@
       "Never appears as a Barbarian unit",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "Mobile Warfare",
+    "requiredTech": "Steel Forging",
     "upgradesTo": "Armored Warbeasts",
-    "obsoleteTech": "World Strategy"
+    "obsoleteTech": "Mechanized Warfare"
   },
   {
     "name": "Armored Warbeasts",
@@ -872,7 +872,7 @@
       "Never appears as a Barbarian unit",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "World Strategy"
+    "requiredTech": "Mechanized Warfare"
   },
   {
     "name": "Necromancers",
@@ -888,7 +888,7 @@
       "[-15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Repose and Memory",
+    "requiredTech": "Magic Records",
     "upgradesTo": "Soulbinders"
   },
   {
@@ -907,9 +907,9 @@
       "Consumes [1] [Mana Crystals]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Soul Covenants",
+    "requiredTech": "Magic Instruments",
     "upgradesTo": "Final Cantors",
-    "obsoleteTech": "Enduring Memory"
+    "obsoleteTech": "Memory Preservation"
   },
   {
     "name": "Final Cantors",
@@ -927,7 +927,7 @@
       "Consumes [1] [Mana Crystals]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Enduring Memory"
+    "requiredTech": "Memory Preservation"
   },
   {
     "name": "Spirit Survey Team",
@@ -935,9 +935,9 @@
     "strength": 8,
     "movement": 2,
     "cost": 75,
-    "requiredTech": "Symbolic Arts",
+    "requiredTech": "Magic Records",
     "upgradesTo": "Mirror Detection Team",
-    "obsoleteTech": "Mental Coordination",
+    "obsoleteTech": "Arcane Research",
     "uniques": [
       "Ignores terrain cost",
       "[+1] Sight",
@@ -963,7 +963,7 @@
     ],
     "requiredTech": "Steel Forging",
     "upgradesTo": "Formation Infantry",
-    "obsoleteTech": "Military Formations",
+    "obsoleteTech": "Military Organization",
     "uniqueTo": "Human Empire",
     "replaces": "Regular Infantry"
   },
@@ -980,7 +980,7 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]"
     ],
-    "requiredTech": "World Strategy",
+    "requiredTech": "Mechanized Warfare",
     "uniqueTo": "Human Empire",
     "replaces": "Legion Guards"
   },
@@ -1002,7 +1002,7 @@
     ],
     "requiredTech": "Steel Forging",
     "upgradesTo": "Halberdiers",
-    "obsoleteTech": "Military Formations",
+    "obsoleteTech": "Military Organization",
     "uniqueTo": "Mercantile Republic",
     "replaces": "Pikemen"
   },
@@ -1016,11 +1016,11 @@
     "cost": 145,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "[+1] Sight",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Ocean Navigation",
+    "requiredTech": "Offshore Navigation",
     "upgradesTo": "Deep-Sea Warships",
     "uniqueTo": "Mercantile Republic",
     "replaces": "Ocean Escorts"
@@ -1039,7 +1039,7 @@
       "[+20]% Strength <when fighting in [Forest] tiles>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Composite Bows",
+    "requiredTech": "Military Organization",
     "upgradesTo": "Crossbowmen",
     "obsoleteTech": "Mechanical Engineering",
     "uniqueTo": "Forest Elves",
@@ -1058,9 +1058,9 @@
       "Never appears as a Barbarian unit",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Covenants of Life",
+    "requiredTech": "Medicine and Anatomy",
     "upgradesTo": "Elder Tree Guards",
-    "obsoleteTech": "Ecological Accords",
+    "obsoleteTech": "Ecological Engineering",
     "uniqueTo": "Forest Elves"
   },
   {
@@ -1076,7 +1076,7 @@
       "[+20]% Strength <when fighting in [Forest] tiles>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "World Strategy",
+    "requiredTech": "Mechanized Warfare",
     "uniqueTo": "Forest Elves",
     "replaces": "Sharpshooters"
   },
@@ -1090,13 +1090,13 @@
     "cost": 70,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "[+1] Sight",
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Coastal Navigation",
     "upgradesTo": "Ocean Escorts",
-    "obsoleteTech": "Ocean Navigation",
+    "obsoleteTech": "Offshore Navigation",
     "uniqueTo": "Sea Elves",
     "replaces": "Oared Galleys"
   },
@@ -1110,7 +1110,7 @@
     "cost": 250,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "[+1] Sight",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]",
@@ -1118,7 +1118,7 @@
     ],
     "requiredTech": "Deep-Sea Shipbuilding",
     "upgradesTo": "Armored Ballista Ships",
-    "obsoleteTech": "Ocean Supremacy",
+    "obsoleteTech": "Naval Armaments",
     "uniqueTo": "Sea Elves",
     "replaces": "Heavy Ballista Ships"
   },
@@ -1140,7 +1140,7 @@
     ],
     "requiredTech": "Steel Forging",
     "upgradesTo": "Halberdiers",
-    "obsoleteTech": "Military Formations",
+    "obsoleteTech": "Military Organization",
     "uniqueTo": "Mountain Dwarves",
     "replaces": "Pikemen"
   },
@@ -1157,9 +1157,9 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]"
     ],
-    "requiredTech": "Mithril Metallurgy",
+    "requiredTech": "Advanced Metallurgy",
     "upgradesTo": "Legion Guards",
-    "obsoleteTech": "World Strategy",
+    "obsoleteTech": "Mechanized Warfare",
     "uniqueTo": "Mountain Dwarves",
     "replaces": "Heavy Infantry"
   },
@@ -1180,7 +1180,7 @@
       "Consumes [1] [Mana Crystals]",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "Elemental Boundaries",
+    "requiredTech": "Arcane Defense Systems",
     "uniqueTo": "Artificer Dwarves",
     "replaces": "Heavy Construct Guards"
   },
@@ -1217,9 +1217,9 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Horses]"
     ],
-    "requiredTech": "Mobile Warfare",
+    "requiredTech": "Steel Forging",
     "upgradesTo": "Skyline Horse Archers",
-    "obsoleteTech": "World Strategy",
+    "obsoleteTech": "Mechanized Warfare",
     "uniqueTo": "Nomadic Orcs",
     "replaces": "Windstring Horse Archers"
   },
@@ -1238,7 +1238,7 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Horses]"
     ],
-    "requiredTech": "World Strategy",
+    "requiredTech": "Mechanized Warfare",
     "uniqueTo": "Nomadic Orcs",
     "replaces": "Windriders"
   },
@@ -1255,9 +1255,9 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]"
     ],
-    "requiredTech": "Military Formations",
+    "requiredTech": "Military Organization",
     "upgradesTo": "Heavy Infantry",
-    "obsoleteTech": "Mithril Metallurgy",
+    "obsoleteTech": "Advanced Metallurgy",
     "uniqueTo": "Orc Empire",
     "replaces": "Formation Infantry"
   },
@@ -1275,7 +1275,7 @@
       "[+100]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Military Formations",
+    "requiredTech": "Military Organization",
     "upgradesTo": "Heavy Ballistae",
     "obsoleteTech": "Precision Manufacturing",
     "uniqueTo": "Orc Empire",
@@ -1296,9 +1296,9 @@
       "Never appears as a Barbarian unit",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "Mobile Warfare",
+    "requiredTech": "Steel Forging",
     "upgradesTo": "Armored Warbeasts",
-    "obsoleteTech": "World Strategy",
+    "obsoleteTech": "Mechanized Warfare",
     "uniqueTo": "Orc Empire",
     "replaces": "Trained Warbeasts"
   },
@@ -1319,7 +1319,7 @@
     ],
     "requiredTech": "Precision Manufacturing",
     "upgradesTo": "Great Siege Arbalest",
-    "obsoleteTech": "Grand Crafts",
+    "obsoleteTech": "Advanced Material Synthesis",
     "uniqueTo": "Industrial Goblins",
     "replaces": "Heavy Ballistae"
   },
@@ -1340,7 +1340,7 @@
       "Consumes [1] [Mana Crystals]",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "Elemental Shaping",
+    "requiredTech": "Magic Engineering",
     "upgradesTo": "Heavy Construct Guards",
     "uniqueTo": "Industrial Goblins",
     "replaces": "Construct Guards"
@@ -1396,7 +1396,7 @@
       "[-15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Repose and Memory",
+    "requiredTech": "Magic Records",
     "upgradesTo": "Soulbinders",
     "uniqueTo": "Lich Dynasty",
     "replaces": "Necromancers"
@@ -1418,7 +1418,7 @@
       "Never appears as a Barbarian unit",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "Soul Recognition",
+    "requiredTech": "Arcane Research",
     "upgradesTo": "Nether Oath Rangers",
     "uniqueTo": "Lich Dynasty"
   },
@@ -1439,7 +1439,7 @@
       "Consumes [1] [Mana Crystals]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Enduring Memory",
+    "requiredTech": "Memory Preservation",
     "uniqueTo": "Lich Dynasty",
     "replaces": "Final Cantors"
   },
@@ -1474,9 +1474,9 @@
       "[+15]% Strength <when defending> <in [Friendly Land] tiles>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Military Formations",
+    "requiredTech": "Military Organization",
     "upgradesTo": "Phalanx Guards",
-    "obsoleteTech": "War Coordination",
+    "obsoleteTech": "Advanced Metallurgy",
     "uniqueTo": "Bone Empire",
     "replaces": "Halberdiers"
   },
@@ -1493,7 +1493,7 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]"
     ],
-    "requiredTech": "World Strategy",
+    "requiredTech": "Mechanized Warfare",
     "uniqueTo": "Bone Empire",
     "replaces": "Legion Guards"
   },
@@ -1510,7 +1510,7 @@
       "Never appears as a Barbarian unit",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Ecological Accords",
+    "requiredTech": "Ecological Engineering",
     "uniqueTo": "Forest Elves"
   },
   {
@@ -1531,7 +1531,7 @@
       "Consumes [1] [Mana Crystals]",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "Enduring Memory",
+    "requiredTech": "Memory Preservation",
     "uniqueTo": "Lich Dynasty"
   },
   {
@@ -1540,7 +1540,7 @@
     "strength": 0,
     "movement": 2,
     "cost": 400,
-    "requiredTech": "Collaborative Research",
+    "requiredTech": "Experimental Science",
     "uniques": [
       "Cannot attack",
       "Uncapturable",
@@ -1548,7 +1548,7 @@
       "Never appears as a Barbarian unit",
       "Limited to [1] per Civilization",
       "Only available <in cities with a [Mirror Tower]> <without [Research Ritual Active]>",
-      "Triggers a [Starlight Research] event <by consuming this unit> <in [your] tiles> <in [Land] tiles> <without [Research Ritual Active]> <after discovering [Collaborative Research]>"
+      "Triggers a [Starlight Research] event <by consuming this unit> <in [your] tiles> <in [Land] tiles> <without [Research Ritual Active]> <after discovering [Experimental Science]>"
     ],
     "rangedStrength": 0,
     "range": 0
@@ -1610,7 +1610,7 @@
     "uniques": [
       "May create improvements on water resources",
       "Uncapturable",
-      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Coastal Navigation",
@@ -1632,7 +1632,7 @@
     ],
     "movement": 4,
     "religiousStrength": 1000,
-    "requiredTech": "Theology",
+    "requiredTech": "Literature",
     "rangedStrength": 0,
     "range": 0
   },
@@ -1650,7 +1650,7 @@
       "Never appears as a Barbarian unit"
     ],
     "movement": 3,
-    "requiredTech": "Theology",
+    "requiredTech": "Literature",
     "rangedStrength": 0,
     "range": 0
   },
@@ -2028,7 +2028,7 @@
       "May heal outside of friendly territory",
       "[+5] HP when healing",
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "英雄海军 <hidden from users>",
       "Hero <hidden from users>",
       "Visitor Covenant Seal <hidden from users>"
@@ -2157,13 +2157,13 @@
     ],
     "hurryCostModifier": 20,
     "uniqueTo": "Sea Elves",
-    "requiredTech": "Ocean Navigation",
+    "requiredTech": "Offshore Navigation",
     "civilopediaText": [
       {
         "text": "FC Reef workflow"
       },
       {
-        "text": "Ocean Navigation",
+        "text": "Offshore Navigation",
         "link": "Technology/Ocean Navigation"
       },
       {
@@ -2180,7 +2180,7 @@
     "strength": 0,
     "movement": 2,
     "cost": 900,
-    "requiredTech": "Resonance of Heaven and Earth",
+    "requiredTech": "Great Magic Engineering",
     "uniques": [
       "Spaceship part",
       "Limited to [3] per Civilization",
@@ -2198,7 +2198,7 @@
     "strength": 0,
     "movement": 2,
     "cost": 1100,
-    "requiredTech": "Celestial Surveying",
+    "requiredTech": "Celestial Navigation",
     "uniques": [
       "Spaceship part",
       "Limited to [1] per Civilization",
@@ -2216,7 +2216,7 @@
     "strength": 0,
     "movement": 2,
     "cost": 1100,
-    "requiredTech": "Elemental Boundaries",
+    "requiredTech": "Arcane Defense Systems",
     "uniques": [
       "Spaceship part",
       "Limited to [1] per Civilization",
@@ -2234,7 +2234,7 @@
     "strength": 0,
     "movement": 2,
     "cost": 1100,
-    "requiredTech": "Mithril Composites",
+    "requiredTech": "Advanced Material Synthesis",
     "uniques": [
       "Spaceship part",
       "Limited to [1] per Civilization",
@@ -2286,8 +2286,8 @@
       "No defensive terrain bonus",
       "Only available <for [Barbarians] Civilizations>"
     ],
-    "requiredTech": "Composite Bows",
-    "obsoleteTech": "Military Formations"
+    "requiredTech": "Military Organization",
+    "obsoleteTech": "Military Organization"
   },
   {
     "name": "Stone-Eating Giant",
@@ -2317,8 +2317,8 @@
       "[+20]% Strength <when fighting in [Forest] tiles>",
       "Only available <for [Barbarians] Civilizations>"
     ],
-    "requiredTech": "Administration and Finance",
-    "obsoleteTech": "Grand Crafts"
+    "requiredTech": "Banking and Credit",
+    "obsoleteTech": "Advanced Material Synthesis"
   },
   {
     "name": "Rogue Construct",
@@ -2360,7 +2360,7 @@
     "cost": 65,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "Only available <for [Barbarians] Civilizations>"
     ],
     "requiredTech": "Coastal Navigation",
@@ -2376,7 +2376,7 @@
     "cost": 220,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "Only available <for [Barbarians] Civilizations>"
     ],
     "requiredTech": "Deep-Sea Shipbuilding"
@@ -2397,8 +2397,8 @@
       "[+5] HP when healing",
       "Only available <for [Barbarians] Civilizations>"
     ],
-    "requiredTech": "Administration and Finance",
-    "obsoleteTech": "Grand Crafts"
+    "requiredTech": "Banking and Credit",
+    "obsoleteTech": "Advanced Material Synthesis"
   },
   {
     "name": "Echo Wraithlord",
@@ -2416,7 +2416,7 @@
       "[+5] HP when healing",
       "Only available <for [Barbarians] Civilizations>"
     ],
-    "requiredTech": "Grand Crafts"
+    "requiredTech": "Advanced Material Synthesis"
   },
   {
     "name": "Wandering Spiritfire",
@@ -2430,7 +2430,7 @@
       "No defensive terrain bonus",
       "Only available <for [Barbarians] Civilizations>"
     ],
-    "requiredTech": "Military Formations"
+    "requiredTech": "Military Organization"
   },
   {
     "name": "Tidal Jellyfish Swarm",
@@ -2442,7 +2442,7 @@
     "cost": 190,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "Only available <for [Barbarians] Civilizations>"
     ],
     "requiredTech": "Deep-Sea Shipbuilding"

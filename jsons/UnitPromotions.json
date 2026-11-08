@@ -233,7 +233,7 @@
     "prerequisites": [],
     "uniques": [
       "[+5] HP when healing",
-      "Only available <after discovering [Attunement of Life]>"
+      "Only available <after discovering [Magic Records]>"
     ]
   },
   {
@@ -247,7 +247,7 @@
     "prerequisites": [],
     "uniques": [
       "[+10]% Strength <when defending>",
-      "Only available <after discovering [Symbolic Arts]>"
+      "Only available <after discovering [Magic Records]>"
     ]
   },
   {
@@ -265,7 +265,7 @@
       "[+15]% Strength <vs [Ancient Grove Guardians] units>",
       "[+15]% Strength <vs [Elder Tree Guards] units>",
       "[+15]% Strength <vs [Feral Tree Guards] units>",
-      "Only available <after discovering [Elemental Guidance]>"
+      "Only available <after discovering [Magic Records]>"
     ]
   },
   {
@@ -332,7 +332,7 @@
     ],
     "uniques": [
       "[+15]% Strength <when defending> <vs [Ranged] units>",
-      "Only available <after discovering [Mirror Arts]>"
+      "Only available <after discovering [Arcane Research]>"
     ]
   },
   {
@@ -496,7 +496,7 @@
       "[+1] Sight",
       "Can see invisible [幽魂] units",
       "Can see invisible [英雄幽魂] units",
-      "Only available <after discovering [Mirror Arts]>"
+      "Only available <after discovering [Arcane Research]>"
     ]
   },
   {
@@ -556,7 +556,7 @@
     ],
     "uniques": [
       "Earn [25]% of killed [Military] unit's [Strength] as [Culture]",
-      "Only available <after discovering [Repose and Memory]>",
+      "Only available <after discovering [Magic Records]>",
       "Only available <for units without [Returning Soul Covenant]>"
     ]
   },
@@ -580,7 +580,7 @@
     ],
     "uniques": [
       "All adjacent units heal [5] HP when healing",
-      "Only available <after discovering [Mutual Defense]>",
+      "Only available <after discovering [Diplomatic Envoys]>",
       "Only available <for units without [Military Oath Seal - Discipline]>"
     ]
   },
@@ -604,7 +604,7 @@
     ],
     "uniques": [
       "Can move after attacking",
-      "Only available <after discovering [Mental Resonance]>",
+      "Only available <after discovering [Memory Preservation]>",
       "Only available <for units without [Calendar Mirror - Steadfast]>"
     ]
   },
@@ -628,7 +628,7 @@
     ],
     "uniques": [
       "[+1] Movement",
-      "Only available <after discovering [Ecological Accords]>",
+      "Only available <after discovering [Ecological Engineering]>",
       "Only available <for units without [Rootbranch Charm - Grovekeeper]>"
     ]
   },
@@ -652,7 +652,7 @@
     ],
     "uniques": [
       "Ignores Zone of Control",
-      "Only available <after discovering [Resonance of Heaven and Earth]>",
+      "Only available <after discovering [Great Magic Engineering]>",
       "Only available <for units without [Dragonspine Stone - Nestguard]>"
     ]
   },
@@ -668,7 +668,7 @@
     "uniques": [
       "No damage penalty for wounded units",
       "[+25]% maintenance costs",
-      "Only available <after discovering [Mental Coordination]>"
+      "Only available <after discovering [Arcane Research]>"
     ]
   },
   {
@@ -696,7 +696,7 @@
     "uniques": [
       "No damage penalty for wounded units",
       "[+25]% maintenance costs",
-      "Only available <after discovering [Mental Resonance]>",
+      "Only available <after discovering [Memory Preservation]>",
       "Only available <for units without [Calendar Mirror - Afterimage]>"
     ]
   },
@@ -710,7 +710,7 @@
     ],
     "uniques": [
       "[+15]% Strength bonus for [{Land} {Military}] units within [2] tiles",
-      "Only available <after discovering [Mutual Defense]>",
+      "Only available <after discovering [Diplomatic Envoys]>",
       "Only available <for units without [Military Oath Seal - Alliance]>"
     ]
   },
@@ -724,7 +724,7 @@
     ],
     "uniques": [
       "[+15]% Strength <when fighting in [Forest] tiles>",
-      "Only available <after discovering [Ecological Accords]>",
+      "Only available <after discovering [Ecological Engineering]>",
       "Only available <for units without [Rootbranch Charm - Farwatch]>"
     ]
   },
@@ -739,7 +739,7 @@
     "uniques": [
       "Unit will heal every turn, even if it performs an action",
       "[+25]% maintenance costs",
-      "Only available <after discovering [Resonance of Heaven and Earth]>",
+      "Only available <after discovering [Great Magic Engineering]>",
       "Only available <for units without [Dragonspine Stone - Far Oath]>"
     ]
   },
@@ -770,7 +770,7 @@
       "Can move after attacking",
       "Ignores Zone of Control",
       "[+25]% maintenance costs",
-      "Only available <after discovering [Soul Covenants]>",
+      "Only available <after discovering [Magic Instruments]>",
       "Only available <for units without [Memories of the Soul]>"
     ]
   },
@@ -816,7 +816,7 @@
     "uniques": [
       "All adjacent units heal [5] HP when healing",
       "[+25]% maintenance costs",
-      "Only available <after discovering [Harmony of Life]>",
+      "Only available <after discovering [Magical Medicine]>",
       "Only available <for units without [Spring Ring - Urgent Care]>"
     ]
   },
@@ -832,7 +832,7 @@
       "[+1] Movement",
       "Unit will heal every turn, even if it performs an action",
       "[+25]% maintenance costs",
-      "Only available <after discovering [Harmony of Life]>",
+      "Only available <after discovering [Magical Medicine]>",
       "Only available <for units without [Spring Ring - Many Springs]>"
     ]
   },
@@ -856,7 +856,7 @@
     ],
     "uniques": [
       "Earn [25]% of killed [Military] unit's [Strength] as [Culture]",
-      "Only available <after discovering [Soul Covenants]>",
+      "Only available <after discovering [Magic Instruments]>",
       "Only available <for units without [Name Tag - Unbound]>"
     ]
   },
@@ -872,7 +872,7 @@
       "Can move after attacking",
       "Ignores Zone of Control",
       "[+25]% maintenance costs",
-      "Only available <after discovering [Soul Covenants]>",
+      "Only available <after discovering [Magic Instruments]>",
       "Only available <for units without [Name Tag - Archive]>"
     ]
   },
@@ -896,7 +896,7 @@
     ],
     "uniques": [
       "[+20]% Strength <vs [构装] units>",
-      "Only available <after discovering [Elemental Boundaries]>",
+      "Only available <after discovering [Arcane Defense Systems]>",
       "Only available <for units without [Molten Rule - Solid Phase]>"
     ]
   },
@@ -910,7 +910,7 @@
     ],
     "uniques": [
       "[+20]% Strength <when defending> <vs [Ranged] units>",
-      "Only available <after discovering [Elemental Boundaries]>",
+      "Only available <after discovering [Arcane Defense Systems]>",
       "Only available <for units without [Molten Rule - Breaker]>"
     ]
   },
@@ -935,7 +935,7 @@
     "uniques": [
       "[+1] Movement",
       "Ignores terrain cost",
-      "Only available <after discovering [Collaborative Research]>",
+      "Only available <after discovering [Experimental Science]>",
       "Only available <for units without [Still Mirror Needle - Resolve]>"
     ]
   },
@@ -949,7 +949,7 @@
     ],
     "uniques": [
       "[+25]% Strength <when defending> <vs [Ranged] units>",
-      "Only available <after discovering [Collaborative Research]>",
+      "Only available <after discovering [Experimental Science]>",
       "Only available <for units without [Still Mirror Needle - Displacement]>"
     ]
   },
@@ -1014,7 +1014,7 @@
       "[+1] Sight",
       "Can see invisible [幽魂] units",
       "Can see invisible [英雄幽魂] units",
-      "Only available <after discovering [Soul Covenants]>",
+      "Only available <after discovering [Magic Instruments]>",
       "Only available <for units without [Lantern Seal - Aid All]>"
     ]
   },
@@ -1028,7 +1028,7 @@
     ],
     "uniques": [
       "All adjacent units heal [5] HP when healing",
-      "Only available <after discovering [Harmony of Life]>",
+      "Only available <after discovering [Magical Medicine]>",
       "Only available <for units without [Lantern Seal - Reveal Specters]>"
     ]
   },
@@ -1052,7 +1052,7 @@
     ],
     "uniques": [
       "All adjacent units heal [5] HP when healing",
-      "Only available <after discovering [Grand Crafts]>",
+      "Only available <after discovering [Advanced Material Synthesis]>",
       "Only available <for units without [Hundredforge Ruler - Resonance]>"
     ]
   },
@@ -1066,7 +1066,7 @@
     ],
     "uniques": [
       "[+15]% Strength <when adjacent to a [构装] unit>",
-      "Only available <after discovering [Grand Crafts]>",
+      "Only available <after discovering [Advanced Material Synthesis]>",
       "Only available <for units without [Hundredforge Ruler - Field Repair]>"
     ]
   },
@@ -1090,7 +1090,7 @@
     ],
     "uniques": [
       "Earn [50]% of killed [Military] unit's [Strength] as [Gold]",
-      "Only available <after discovering [Charter of Shared Rule]>",
+      "Only available <after discovering [Commercial Corporations]>",
       "Only available <for units without [Twin Scales Badge - Roadguard]>"
     ]
   },
@@ -1106,7 +1106,7 @@
       "[+1] Movement",
       "Unit will heal every turn, even if it performs an action",
       "[+25]% maintenance costs",
-      "Only available <after discovering [Charter of Shared Rule]>",
+      "Only available <after discovering [Commercial Corporations]>",
       "Only available <for units without [Twin Scales Badge - Reimbursement]>"
     ]
   },

@@ -55,9 +55,9 @@
     "startingCulture": 0,
     "baseUnitBuyCost": 300,
     "embarkDefense": 8,
-    "startPercent": 28,
+    "startPercent": 25,
     "iconRGB": [
-      157,
+      156,
       39,
       176
     ],
@@ -79,9 +79,9 @@
     "startingCulture": 0,
     "baseUnitBuyCost": 400,
     "embarkDefense": 12,
-    "startPercent": 45,
+    "startPercent": 37,
     "iconRGB": [
-      104,
+      103,
       58,
       183
     ],
@@ -103,11 +103,11 @@
     "startingCulture": 0,
     "baseUnitBuyCost": 500,
     "embarkDefense": 18,
-    "startPercent": 65,
+    "startPercent": 50,
     "iconRGB": [
       63,
       81,
-      182
+      181
     ],
     "uniques": [
       "Every major Civilization gains a spy once a civilization enters this era"
@@ -127,11 +127,59 @@
     "startingCulture": 0,
     "baseUnitBuyCost": 600,
     "embarkDefense": 24,
-    "startPercent": 82,
+    "startPercent": 62,
     "iconRGB": [
       33,
       150,
       243
+    ],
+    "uniques": [
+      "Every major Civilization gains a spy once a civilization enters this era"
+    ],
+    "startingSettlerUnit": "Settler",
+    "startingWorkerUnit": "Worker"
+  },
+  {
+    "name": "VII",
+    "researchAgreementCost": 450,
+    "startingSettlerCount": 1,
+    "startingWorkerCount": 1,
+    "startingMilitaryUnitCount": 1,
+    "startingMilitaryUnit": "Heavy Infantry",
+    "settlerPopulation": 5,
+    "startingGold": 900,
+    "startingCulture": 0,
+    "baseUnitBuyCost": 800,
+    "embarkDefense": 32,
+    "startPercent": 75,
+    "iconRGB": [
+      0,
+      188,
+      212
+    ],
+    "uniques": [
+      "Every major Civilization gains a spy once a civilization enters this era"
+    ],
+    "startingSettlerUnit": "Settler",
+    "startingWorkerUnit": "Worker"
+  },
+  {
+    "name": "VIII",
+    "researchAgreementCost": 550,
+    "startingSettlerCount": 1,
+    "startingWorkerCount": 1,
+    "startingMilitaryUnitCount": 1,
+    "startingMilitaryUnit": "Heavy Infantry",
+    "settlerPopulation": 6,
+    "startingGold": 1200,
+    "startingCulture": 0,
+    "baseUnitBuyCost": 1000,
+    "embarkDefense": 40,
+    "startPercent": 87,
+    "iconRGB": [
+      0,
+      150,
+      136
     ],
     "uniques": [
       "Every major Civilization gains a spy once a civilization enters this era"

@@ -440,7 +440,7 @@
         "uniques": [
           "[+20]% [Gold] from Trade Routes",
           "[+50]% Gold from Great Merchant trade missions",
-          "May buy [Great Trade Envoy] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [Trade Charters]>"
+          "May buy [Great Trade Envoy] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [Overseas Trade Network]>"
         ]
       }
     ]
@@ -622,7 +622,7 @@
           "[+5]% [Science] [in all cities]",
           "Free Technology <starting from the [IV]>",
           "Free Technology <upon entering the [IV]>",
-          "May buy [Great Scholar] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [Celestial Surveying]>"
+          "May buy [Great Scholar] units for [1000] [Faith] [in all cities] at an increasing price ([500]) <after discovering [Celestial Navigation]>"
         ]
       }
     ]

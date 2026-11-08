@@ -40,7 +40,7 @@
     "name": "Altar",
     "cost": 50,
     "maintenance": 1,
-    "requiredTech": "Rituals",
+    "requiredTech": "Ritual Traditions",
     "uniques": [],
     "faith": 2,
     "specialistSlots": {}
@@ -63,7 +63,7 @@
     "name": "Barracks",
     "cost": 80,
     "maintenance": 1,
-    "requiredTech": "Laws of War",
+    "requiredTech": "Military Organization",
     "uniques": [
       "New [{Land} {Military} {non-[术士]} {non-[医护]} {non-[死灵]} {non-[幽魂]}] units start with [+15] XP [in this city]"
     ],
@@ -160,7 +160,7 @@
     "name": "Temple",
     "cost": 110,
     "maintenance": 1,
-    "requiredTech": "Theology",
+    "requiredTech": "Literature",
     "uniques": [
       "Only available <in cities with a [Altar]>"
     ],
@@ -198,7 +198,7 @@
     "name": "Armory",
     "cost": 180,
     "maintenance": 2,
-    "requiredTech": "Garrison Systems",
+    "requiredTech": "Military Organization",
     "uniques": [
       "New [{Land} {Military}] units start with [+15] XP [in this city]",
       "Only available <in cities with a [Barracks]>"
@@ -209,7 +209,7 @@
     "name": "Administration Hall",
     "cost": 180,
     "maintenance": 2,
-    "requiredTech": "Administration and Finance",
+    "requiredTech": "Banking and Credit",
     "uniques": [],
     "gold": 2,
     "culture": 2,
@@ -234,7 +234,7 @@
     "name": "University",
     "cost": 200,
     "maintenance": 3,
-    "requiredTech": "Higher Learning",
+    "requiredTech": "Experimental Science",
     "uniques": [
       "[+25]% [Science] [in this city]",
       "Only available <in cities with a [School]>"
@@ -260,7 +260,7 @@
     "name": "Advanced Forge",
     "cost": 260,
     "maintenance": 3,
-    "requiredTech": "Mithril Metallurgy",
+    "requiredTech": "Advanced Metallurgy",
     "uniques": [
       "[+1 Production] from [Iron] tiles [in this city]",
       "[+1 Production] from [Mithril] tiles [in this city]",
@@ -287,7 +287,7 @@
     "name": "Sourceflow Institute",
     "cost": 300,
     "maintenance": 4,
-    "requiredTech": "Elemental Shaping",
+    "requiredTech": "Magic Engineering",
     "uniques": [
       "[+15]% [Science] [in this city]",
       "Only available <in cities with a [Academy of Magic]>",
@@ -302,7 +302,7 @@
     "name": "Infirmary",
     "cost": 270,
     "maintenance": 2,
-    "requiredTech": "Medicine",
+    "requiredTech": "Medicine and Anatomy",
     "uniques": [
       "[All] Units adjacent to this city heal [5] HP per turn when healing",
       "Only available <in cities with a [Granary]>"
@@ -327,7 +327,7 @@
     "name": "Military Academy",
     "cost": 280,
     "maintenance": 3,
-    "requiredTech": "War Coordination",
+    "requiredTech": "Advanced Metallurgy",
     "uniques": [
       "New [{Land} {Military}] units start with [+15] XP [in this city]",
       "Only available <in cities with a [Armory]>"
@@ -338,7 +338,7 @@
     "name": "Grand Library",
     "cost": 380,
     "maintenance": 4,
-    "requiredTech": "History and Classical Studies",
+    "requiredTech": "Cultural Exchange",
     "uniques": [
       "[+15]% [Science] [in this city]",
       "Only available <in cities with a [University]>"
@@ -366,7 +366,7 @@
     "name": "Urban Granary",
     "cost": 360,
     "maintenance": 3,
-    "requiredTech": "Integrated City Governance",
+    "requiredTech": "Commercial Corporations",
     "uniques": [
       "Only available <in cities with a [Granary]>",
       "Requires at least [9] population"
@@ -378,7 +378,7 @@
     "name": "Great Factory",
     "cost": 400,
     "maintenance": 4,
-    "requiredTech": "Grand Crafts",
+    "requiredTech": "Advanced Material Synthesis",
     "uniques": [
       "Only available <in cities with a [Precision Workshop]>"
     ],
@@ -391,7 +391,7 @@
     "name": "Source Observatory",
     "cost": 420,
     "maintenance": 4,
-    "requiredTech": "Source Synergy",
+    "requiredTech": "Great Magic Engineering",
     "uniques": [
       "[+10]% [Science] [in this city]",
       "Only available <in cities with a [Sourceflow Institute]>"
@@ -471,7 +471,7 @@
     "name": "Mirror Tower",
     "cost": 160,
     "maintenance": 2,
-    "requiredTech": "Symbolic Arts",
+    "requiredTech": "Magic Records",
     "uniques": [
       "All newly-trained [侦察] units [in this city] receive the [Seal Detection] promotion <Civilopedia link [Promotion/Seal Detection]>",
       "Only available <in cities with a [Library]>"
@@ -483,7 +483,7 @@
     "name": "Civic Hall",
     "cost": 200,
     "maintenance": 2,
-    "requiredTech": "Citizenship",
+    "requiredTech": "Diplomatic Envoys",
     "uniques": [
       "Only available <in cities with a [Council Hall]>"
     ],
@@ -495,7 +495,7 @@
     "name": "Star Observatory",
     "cost": 210,
     "maintenance": 2,
-    "requiredTech": "Star Charts",
+    "requiredTech": "Celestial Navigation",
     "uniques": [
       "[+25]% [Science] [in this city]",
       "Only available <in cities with a [Library]>",
@@ -508,7 +508,7 @@
     "name": "Supply Harbor",
     "cost": 190,
     "maintenance": 2,
-    "requiredTech": "Ocean Navigation",
+    "requiredTech": "Offshore Navigation",
     "uniques": [
       "All newly-trained [{Water} {Military}] units [in this city] receive the [Ocean Supply] promotion <Civilopedia link [Promotion/Ocean Supply]>",
       "Only available <in cities with a [Harbor]>",
@@ -547,7 +547,7 @@
     "name": "Soul Archive",
     "cost": 290,
     "maintenance": 3,
-    "requiredTech": "Soul Covenants",
+    "requiredTech": "Magic Instruments",
     "uniques": [
       "Only available <in cities with a [Theater]>"
     ],
@@ -559,7 +559,7 @@
     "name": "Ecological Garden",
     "cost": 300,
     "maintenance": 3,
-    "requiredTech": "Ecological Accords",
+    "requiredTech": "Ecological Engineering",
     "uniques": [
       "[+1 Science] from [Forest] tiles [in this city]",
       "Only available <in cities with a [Infirmary]>",
@@ -573,7 +573,7 @@
     "name": "Exchange",
     "cost": 310,
     "maintenance": 3,
-    "requiredTech": "Trade Charters",
+    "requiredTech": "Overseas Trade Network",
     "uniques": [
       "[+15]% [Gold] [in this city]",
       "Only available <in cities with a [Bank]>"
@@ -587,7 +587,7 @@
     "name": "Expedition Camp",
     "cost": 290,
     "maintenance": 2,
-    "requiredTech": "War Coordination",
+    "requiredTech": "Advanced Metallurgy",
     "uniques": [
       "All newly-trained [{Land} {Military}] units [in this city] receive the [Amphibious Transport] promotion <Civilopedia link [Promotion/Amphibious Transport]>",
       "Only available <in cities with a [Barracks]>",
@@ -599,7 +599,7 @@
     "name": "Defense Depot",
     "cost": 280,
     "maintenance": 2,
-    "requiredTech": "Mutual Defense",
+    "requiredTech": "Diplomatic Envoys",
     "uniques": [
       "[2] Unit Supply",
       "Only available <in cities with a [Barracks]>"
@@ -611,7 +611,7 @@
     "name": "Museum of Civilizations",
     "cost": 450,
     "maintenance": 4,
-    "requiredTech": "History and Classical Studies",
+    "requiredTech": "Cultural Exchange",
     "uniques": [
       "[+10]% [Culture] [in this city]",
       "Only available <in cities with a [Museum]>"
@@ -624,7 +624,7 @@
     "name": "Siege Assembly Plant",
     "cost": 320,
     "maintenance": 3,
-    "requiredTech": "Mithril Composites",
+    "requiredTech": "Advanced Material Synthesis",
     "uniques": [
       "[+25]% Production when constructing [攻城] units [in this city]",
       "[+25]% Production when constructing [构装] units [in this city]",
@@ -637,7 +637,7 @@
     "name": "Public Square",
     "cost": 330,
     "maintenance": 3,
-    "requiredTech": "Integrated City Governance",
+    "requiredTech": "Commercial Corporations",
     "uniques": [
       "Only available <in cities with a [Civic Hall]>",
       "Requires at least [9] population"
@@ -650,7 +650,7 @@
     "name": "Sanctuary of Memory",
     "cost": 460,
     "maintenance": 4,
-    "requiredTech": "Enduring Memory",
+    "requiredTech": "Memory Preservation",
     "uniques": [
       "Only available <in cities with a [Soul Archive]>"
     ],
@@ -663,7 +663,7 @@
     "name": "Runeweaving Institute",
     "cost": 220,
     "maintenance": 3,
-    "requiredTech": "Rune Weaving",
+    "requiredTech": "Runic Crafts",
     "uniques": [
       "All newly-trained [术士] units [in this city] receive the [Mirror-Eye Training] promotion <Civilopedia link [Promotion/Mirror-Eye Training]>",
       "All newly-trained [死灵] units [in this city] receive the [Mirror-Eye Training] promotion <Civilopedia link [Promotion/Mirror-Eye Training]>",
@@ -681,7 +681,7 @@
     "name": "Oathguard Hospice",
     "cost": 220,
     "maintenance": 2,
-    "requiredTech": "Spiritual Symbiosis",
+    "requiredTech": "Natural Philosophy",
     "uniques": [
       "All newly-trained [医护] units [in this city] receive the [Marching Prayer] promotion <Civilopedia link [Promotion/Marching Prayer]>",
       "Unsellable",
@@ -699,7 +699,7 @@
     "name": "Root Council",
     "cost": 230,
     "maintenance": 2,
-    "requiredTech": "Covenants of Life",
+    "requiredTech": "Medicine and Anatomy",
     "uniques": [
       "[+1 Culture] from [Forest] tiles [in this city]",
       "Only available <in cities with a [Life Research Hall]>",
@@ -712,7 +712,7 @@
     "name": "Sealing Node",
     "cost": 400,
     "maintenance": 3,
-    "requiredTech": "Elemental Boundaries",
+    "requiredTech": "Arcane Defense Systems",
     "uniques": [
       "All newly-trained [构装] units [in this city] receive the [Seal Detection] promotion <Civilopedia link [Promotion/Seal Detection]>",
       "Only available <in cities with a [Academy of Magic]>",
@@ -726,7 +726,7 @@
     "name": "Soul Covenant Archive",
     "cost": 220,
     "maintenance": 2,
-    "requiredTech": "Spirit Communion",
+    "requiredTech": "Arcane Research",
     "uniques": [
       "[+1 Gold] from every [Artist]",
       "New [死灵] units start with [+10] XP [in this city]",
@@ -745,7 +745,7 @@
     "name": "Mental Colloquium",
     "cost": 220,
     "maintenance": 3,
-    "requiredTech": "Mirror Arts",
+    "requiredTech": "Arcane Research",
     "uniques": [
       "[+1 Science] from every specialist [in this city]",
       "Unsellable",
@@ -762,7 +762,7 @@
     "name": "Arcane Lodge",
     "cost": 55,
     "maintenance": 1,
-    "requiredTech": "Symbolic Arts",
+    "requiredTech": "Magic Records",
     "uniques": [
       "New [术士] units start with [+5] XP [in this city]",
       "New [医护] units start with [+5] XP [in this city]",
@@ -786,7 +786,7 @@
     "name": "Provincial Office",
     "cost": 170,
     "maintenance": 2,
-    "requiredTech": "Administration and Finance",
+    "requiredTech": "Banking and Credit",
     "uniques": [
       "[+2 Production] [in this city] <in cities connected to the capital>"
     ],
@@ -801,7 +801,7 @@
     "name": "Legion Camp",
     "cost": 170,
     "maintenance": 2,
-    "requiredTech": "Garrison Systems",
+    "requiredTech": "Military Organization",
     "uniques": [
       "New [{Land} {Military}] units start with [+15] XP [in this city]",
       "[+15]% Production when constructing [步兵] units [in this city]",
@@ -958,7 +958,7 @@
     "name": "Artificer University",
     "cost": 210,
     "maintenance": 3,
-    "requiredTech": "Higher Learning",
+    "requiredTech": "Experimental Science",
     "uniques": [
       "[+25]% [Science] [in this city]",
       "Only available <in cities with a [School]>"
@@ -988,7 +988,7 @@
     "name": "Clan Assembly",
     "cost": 190,
     "maintenance": 1,
-    "requiredTech": "Citizenship",
+    "requiredTech": "Diplomatic Envoys",
     "uniques": [
       "New [轻骑] units start with [+10] XP [in this city]",
       "New [骑射] units start with [+10] XP [in this city]",
@@ -1004,7 +1004,7 @@
     "name": "Service Hall",
     "cost": 80,
     "maintenance": 1,
-    "requiredTech": "Laws of War",
+    "requiredTech": "Military Organization",
     "uniques": [
       "New [{Land} {Military} {non-[术士]} {non-[医护]} {non-[死灵]} {non-[幽魂]}] units start with [+15] XP [in this city]"
     ],
@@ -1044,7 +1044,7 @@
     "name": "Final Assembly Plant",
     "cost": 410,
     "maintenance": 4,
-    "requiredTech": "Grand Crafts",
+    "requiredTech": "Advanced Material Synthesis",
     "uniques": [
       "[+15]% Production when constructing [构装] units [in this city]",
       "Only available <in cities with a [Precision Workshop]>"
@@ -1078,7 +1078,7 @@
     "name": "Expedition Archive",
     "cost": 380,
     "maintenance": 3,
-    "requiredTech": "History and Classical Studies",
+    "requiredTech": "Cultural Exchange",
     "uniques": [
       "[+1 Culture] from every [Scientist]",
       "Only available <in cities with a [University]>"
@@ -1106,7 +1106,7 @@
     "name": "Meditation Institute",
     "cost": 310,
     "maintenance": 3,
-    "requiredTech": "Soul Covenants",
+    "requiredTech": "Magic Instruments",
     "uniques": [
       "[+15]% [Science] [in this city]",
       "Only available <in cities with a [Academy of Magic]>",
@@ -1137,7 +1137,7 @@
     "name": "Permanent Supply Depot",
     "cost": 230,
     "maintenance": 1,
-    "requiredTech": "Mutual Defense",
+    "requiredTech": "Diplomatic Envoys",
     "uniques": [
       "[2] Unit Supply",
       "Only available <in cities with a [Barracks]>"
@@ -1253,7 +1253,7 @@
   },
   {
     "name": "Mirror Lake Academy",
-    "requiredTech": "Symbolic Arts",
+    "requiredTech": "Magic Records",
     "cost": 330,
     "maintenance": 0,
     "uniques": [
@@ -1293,7 +1293,7 @@
   },
   {
     "name": "Ancient Grove Covenant",
-    "requiredTech": "Covenants of Life",
+    "requiredTech": "Medicine and Anatomy",
     "cost": 480,
     "maintenance": 0,
     "uniques": [
@@ -1310,7 +1310,7 @@
   },
   {
     "name": "Throne of Military Oaths",
-    "requiredTech": "Garrison Systems",
+    "requiredTech": "Military Organization",
     "cost": 520,
     "maintenance": 0,
     "uniques": [
@@ -1326,7 +1326,7 @@
   },
   {
     "name": "Gallery of Star Charts",
-    "requiredTech": "Star Charts",
+    "requiredTech": "Celestial Navigation",
     "cost": 750,
     "maintenance": 0,
     "uniques": [
@@ -1343,7 +1343,7 @@
   },
   {
     "name": "Dome of Deliberation",
-    "requiredTech": "Citizenship",
+    "requiredTech": "Diplomatic Envoys",
     "cost": 720,
     "maintenance": 0,
     "uniques": [
@@ -1360,7 +1360,7 @@
   },
   {
     "name": "Great Rune Forge",
-    "requiredTech": "Elemental Shaping",
+    "requiredTech": "Magic Engineering",
     "cost": 760,
     "maintenance": 0,
     "uniques": [
@@ -1399,7 +1399,7 @@
   },
   {
     "name": "Vault of All Roads",
-    "requiredTech": "Trade Charters",
+    "requiredTech": "Overseas Trade Network",
     "cost": 1000,
     "maintenance": 0,
     "uniques": [
@@ -1415,7 +1415,7 @@
   },
   {
     "name": "Great Garden of Life",
-    "requiredTech": "Ecological Accords",
+    "requiredTech": "Ecological Engineering",
     "cost": 1050,
     "maintenance": 0,
     "uniques": [
@@ -1432,7 +1432,7 @@
   },
   {
     "name": "Hall of the Heavens",
-    "requiredTech": "Celestial Surveying",
+    "requiredTech": "Celestial Navigation",
     "cost": 1400,
     "maintenance": 0,
     "uniques": [
@@ -1449,7 +1449,7 @@
   },
   {
     "name": "Covenant of Dragons",
-    "requiredTech": "Enduring Memory",
+    "requiredTech": "Memory Preservation",
     "cost": 1350,
     "maintenance": 0,
     "uniques": [
@@ -1467,7 +1467,7 @@
   },
   {
     "name": "Assembly of Nations",
-    "requiredTech": "Charter of Shared Rule",
+    "requiredTech": "Commercial Corporations",
     "cost": 1400,
     "maintenance": 0,
     "uniques": [
@@ -1485,7 +1485,7 @@
   },
   {
     "name": "Council of the Gods",
-    "requiredTech": "Enduring Memory",
+    "requiredTech": "Memory Preservation",
     "cost": 1300,
     "maintenance": 0,
     "uniques": [
@@ -1506,7 +1506,7 @@
   },
   {
     "name": "Atlas of the World",
-    "requiredTech": "History and Classical Studies",
+    "requiredTech": "Cultural Exchange",
     "cost": 1250,
     "maintenance": 0,
     "uniques": [
@@ -1526,7 +1526,7 @@
   },
   {
     "name": "Resonance Calibration Array",
-    "requiredTech": "Resonance of Heaven and Earth",
+    "requiredTech": "Great Magic Engineering",
     "cost": 1200,
     "maintenance": 0,
     "uniques": [
@@ -1567,7 +1567,7 @@
   },
   {
     "name": "Legion Banner",
-    "requiredTech": "Military Formations",
+    "requiredTech": "Military Organization",
     "cost": 320,
     "maintenance": 0,
     "uniques": [
@@ -1603,7 +1603,7 @@
   },
   {
     "name": "College of Arts",
-    "requiredTech": "Higher Learning",
+    "requiredTech": "Experimental Science",
     "cost": 450,
     "maintenance": 0,
     "uniques": [
@@ -1622,7 +1622,7 @@
   },
   {
     "name": "Source Study Society",
-    "requiredTech": "Elemental Shaping",
+    "requiredTech": "Magic Engineering",
     "cost": 600,
     "maintenance": 0,
     "uniques": [
@@ -1641,7 +1641,7 @@
   },
   {
     "name": "Maritime and Land Governorate",
-    "requiredTech": "War Coordination",
+    "requiredTech": "Advanced Metallurgy",
     "cost": 600,
     "maintenance": 0,
     "uniques": [
@@ -1661,7 +1661,7 @@
   },
   {
     "name": "Grand Civic Assembly",
-    "requiredTech": "Governance of Nations",
+    "requiredTech": "Commercial Corporations",
     "cost": 650,
     "maintenance": 0,
     "uniques": [
@@ -1680,7 +1680,7 @@
   },
   {
     "name": "Comprehensive Geography",
-    "requiredTech": "History and Classical Studies",
+    "requiredTech": "Cultural Exchange",
     "cost": 650,
     "maintenance": 0,
     "uniques": [
@@ -1698,7 +1698,7 @@
   },
   {
     "name": "Heritage Council",
-    "requiredTech": "Charter of Shared Rule",
+    "requiredTech": "Commercial Corporations",
     "cost": 650,
     "maintenance": 0,
     "uniques": [
@@ -1716,7 +1716,7 @@
   },
   {
     "name": "Rootwatch",
-    "requiredTech": "Ecological Accords",
+    "requiredTech": "Ecological Engineering",
     "cost": 700,
     "maintenance": 0,
     "uniques": [
@@ -1735,7 +1735,7 @@
   },
   {
     "name": "Origin Observation Project",
-    "requiredTech": "Resonance of Heaven and Earth",
+    "requiredTech": "Great Magic Engineering",
     "cost": 1200,
     "maintenance": 0,
     "uniques": [
@@ -1754,7 +1754,7 @@
   },
   {
     "name": "Great Chronicle of Civilizations",
-    "requiredTech": "Heritage of Nations",
+    "requiredTech": "Cultural Exchange",
     "cost": 1800,
     "maintenance": 0,
     "uniques": [
@@ -1774,7 +1774,7 @@
   },
   {
     "name": "Sea Road Oathhall",
-    "requiredTech": "Ocean Navigation",
+    "requiredTech": "Offshore Navigation",
     "cost": 500,
     "maintenance": 0,
     "uniques": [
@@ -1795,7 +1795,7 @@
   },
   {
     "name": "Artificers Council",
-    "requiredTech": "Elemental Shaping",
+    "requiredTech": "Magic Engineering",
     "cost": 600,
     "maintenance": 0,
     "uniques": [
