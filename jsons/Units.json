@@ -1239,28 +1239,7 @@
     "replaces": "Catapults"
   },
   {
-    "name": "Ironback Warbeasts",
-    "unitType": "野兽",
-    "strength": 37,
-    "rangedStrength": 0,
-    "range": 0,
-    "movement": 3,
-    "cost": 200,
-    "uniques": [
-      "No defensive terrain bonus",
-      "[-35]% Strength <when attacking> <vs cities>",
-      "[+15]% Strength <when defending> <vs [Ranged] units>",
-      "Never appears as a Barbarian unit",
-      "[+50]% maintenance costs"
-    ],
-    "requiredTech": "Steel Forging",
-    "upgradesTo": "Armored Warbeasts",
-    "obsoleteTech": "Mechanized Warfare",
-    "uniqueTo": "Orc Empire",
-    "replaces": "Trained Warbeasts"
-  },
-  {
-    "name": "Gear Ballista",
+    "name": "Gear Cannon",
     "unitType": "攻城",
     "strength": 24,
     "rangedStrength": 54,
@@ -1274,11 +1253,11 @@
       "[+25]% Strength <vs [构装] units>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Precision Manufacturing",
-    "upgradesTo": "Field Cannons",
-    "obsoleteTech": "Industrial Chemistry",
+    "requiredTech": "Industrial Chemistry",
+    "upgradesTo": "Magitech Cannons",
+    "obsoleteTech": "Magic Engineering",
     "uniqueTo": "Industrial Goblins",
-    "replaces": "Heavy Ballistae"
+    "replaces": "Field Cannons"
   },
   {
     "name": "War Golems",
@@ -1417,28 +1396,6 @@
     "uniqueTo": "Bone Empire",
     "replaces": "Militia",
     "obsoleteTech": "Smelting"
-  },
-  {
-    "name": "Bone Halberdiers",
-    "unitType": "长柄",
-    "strength": 29,
-    "rangedStrength": 0,
-    "range": 0,
-    "movement": 2,
-    "cost": 125,
-    "uniques": [
-      "[+35]% Strength <vs [轻骑] units>",
-      "[+35]% Strength <vs [重骑] units>",
-      "[+35]% Strength <vs [骑射] units>",
-      "[+35]% Strength <vs [野兽] units>",
-      "[+15]% Strength <when defending> <in [Friendly Land] tiles>",
-      "Never appears as a Barbarian unit"
-    ],
-    "requiredTech": "Runic Crafts",
-    "upgradesTo": "Phalanx Guards",
-    "obsoleteTech": "Precision Manufacturing",
-    "uniqueTo": "Bone Empire",
-    "replaces": "Halberdiers"
   },
   {
     "name": "Undead Guards",
@@ -2523,5 +2480,24 @@
       "Hero <hidden from users>"
     ],
     "promotions": []
+  },
+  {
+    "name": "Artificer Arquebusiers",
+    "unitType": "射手",
+    "strength": 38,
+    "rangedStrength": 78,
+    "range": 2,
+    "movement": 2,
+    "cost": 235,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "Industrial Chemistry",
+    "upgradesTo": "Riflemen",
+    "obsoleteTech": "Mechanized Warfare",
+    "uniqueTo": "Artificer Dwarves",
+    "replaces": "Arquebusiers",
+    "civilopediaText": []
   }
 ]
