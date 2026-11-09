@@ -108,7 +108,7 @@
     "maintenance": 0,
     "requiredTech": "Currency and Exchange",
     "uniques": [
-      "[+15]% [Gold] [in this city]"
+      "[+25]% [Gold] [in this city]"
     ],
     "gold": 2,
     "specialistSlots": {}
@@ -138,7 +138,8 @@
     "culture": 3,
     "specialistSlots": {
       "Artist": 1
-    }
+    },
+    "happiness": 2
   },
   {
     "name": "Academy of Magic",
@@ -212,16 +213,16 @@
     "uniques": [],
     "gold": 2,
     "culture": 2,
-    "happiness": 1,
+    "happiness": 2,
     "specialistSlots": {}
   },
   {
     "name": "Bank",
     "cost": 185,
-    "maintenance": 2,
+    "maintenance": 0,
     "requiredTech": "Banking and Credit",
     "uniques": [
-      "[+20]% [Gold] [in this city]",
+      "[+25]% [Gold] [in this city]",
       "Only available <in cities with a [Market]>"
     ],
     "gold": 3,
@@ -232,10 +233,10 @@
   {
     "name": "University",
     "cost": 200,
-    "maintenance": 3,
+    "maintenance": 2,
     "requiredTech": "Experimental Science",
     "uniques": [
-      "[+25]% [Science] [in this city]",
+      "[+33]% [Science] [in this city]",
       "Only available <in cities with a [School]>"
     ],
     "specialistSlots": {
@@ -245,7 +246,7 @@
   {
     "name": "Advanced Forge",
     "cost": 260,
-    "maintenance": 3,
+    "maintenance": 2,
     "requiredTech": "Steel Forging",
     "uniques": [
       "[+1 Production] from [Iron] tiles [in this city]",
@@ -259,7 +260,7 @@
   {
     "name": "Precision Workshop",
     "cost": 280,
-    "maintenance": 3,
+    "maintenance": 2,
     "requiredTech": "Precision Manufacturing",
     "uniques": [
       "[+15]% [Production] [in this city]",
@@ -284,7 +285,7 @@
   {
     "name": "Ocean Drydock",
     "cost": 280,
-    "maintenance": 3,
+    "maintenance": 2,
     "requiredTech": "Deep-Sea Shipbuilding",
     "uniques": [
       "[+15]% Production when constructing [{Water} {Military}] units [in this city]",
@@ -297,7 +298,7 @@
   {
     "name": "Military Academy",
     "cost": 280,
-    "maintenance": 3,
+    "maintenance": 2,
     "requiredTech": "Advanced Metallurgy",
     "uniques": [
       "New [{Land} {Military}] units start with [+15] XP [in this city]",
@@ -325,7 +326,7 @@
   {
     "name": "Museum",
     "cost": 320,
-    "maintenance": 3,
+    "maintenance": 2,
     "requiredTech": "Cultural Exchange",
     "uniques": [
       "[+15]% [Culture] [in this city]",
@@ -339,7 +340,7 @@
   {
     "name": "Great Factory",
     "cost": 400,
-    "maintenance": 4,
+    "maintenance": 3,
     "requiredTech": "Mass Manufacturing",
     "uniques": [
       "Only available <in cities with a [Factory]>"
@@ -356,7 +357,7 @@
     "requiredTech": "Oral Transmission",
     "uniques": [],
     "culture": 1,
-    "happiness": 1,
+    "happiness": 2,
     "specialistSlots": {}
   },
   {
@@ -425,7 +426,7 @@
       "Only available <in cities with a [Council Hall]>"
     ],
     "culture": 2,
-    "happiness": 2,
+    "happiness": 3,
     "specialistSlots": {}
   },
   {
@@ -434,7 +435,7 @@
     "maintenance": 2,
     "requiredTech": "Celestial Navigation",
     "uniques": [
-      "[+25]% [Science] [in this city]",
+      "[+50]% [Science] [in this city]",
       "Only available <in cities with a [Library]>",
       "Must be next to [Mountain]"
     ],
@@ -470,7 +471,7 @@
   {
     "name": "Ecological Garden",
     "cost": 300,
-    "maintenance": 3,
+    "maintenance": 2,
     "requiredTech": "Ecological Engineering",
     "uniques": [
       "[+1 Science] from [Forest] tiles [in this city]",
@@ -484,7 +485,7 @@
   {
     "name": "Memory Archive",
     "cost": 460,
-    "maintenance": 4,
+    "maintenance": 3,
     "requiredTech": "Memory Preservation",
     "uniques": [],
     "culture": 4,
@@ -494,7 +495,7 @@
   {
     "name": "Arcane Barrier Station",
     "cost": 400,
-    "maintenance": 3,
+    "maintenance": 2,
     "requiredTech": "Arcane Defense Systems",
     "uniques": [
       "Only available <in cities with a [Academy of Magic]>",
@@ -508,7 +509,7 @@
   {
     "name": "Arcane Institute",
     "cost": 220,
-    "maintenance": 3,
+    "maintenance": 2,
     "requiredTech": "Arcane Research",
     "uniques": [
       "Only available <in cities with a [Academy of Magic]>"
@@ -1491,7 +1492,7 @@
   {
     "name": "Customs House",
     "cost": 300,
-    "maintenance": 3,
+    "maintenance": 2,
     "requiredTech": "Overseas Trade Network",
     "uniques": [
       "Only available <in cities with a [Market]>",
@@ -1515,10 +1516,11 @@
   {
     "name": "Laboratory",
     "cost": 300,
-    "maintenance": 3,
+    "maintenance": 2,
     "requiredTech": "Experimental Science",
     "uniques": [
-      "Only available <in cities with a [Library]>"
+      "Only available <in cities with a [Library]>",
+      "[+50]% [Science] [in this city]"
     ],
     "science": 4,
     "specialistSlots": {}
@@ -1526,7 +1528,7 @@
   {
     "name": "Factory",
     "cost": 380,
-    "maintenance": 3,
+    "maintenance": 2,
     "requiredTech": "Factory Production",
     "uniques": [
       "Only available <in cities with a [Workshop]>"
@@ -1539,19 +1541,19 @@
   {
     "name": "Hospital",
     "cost": 420,
-    "maintenance": 4,
+    "maintenance": 3,
     "requiredTech": "Modern Medicine",
     "uniques": [
       "Only available <in cities with a [Infirmary]>"
     ],
     "food": 3,
-    "happiness": 2,
+    "happiness": 3,
     "specialistSlots": {}
   },
   {
     "name": "Telecom Station",
     "cost": 400,
-    "maintenance": 3,
+    "maintenance": 2,
     "requiredTech": "Telecommunications",
     "uniques": [],
     "science": 3,
@@ -1561,7 +1563,7 @@
   {
     "name": "Magic Engineering Lab",
     "cost": 420,
-    "maintenance": 4,
+    "maintenance": 3,
     "requiredTech": "Magic Engineering Experiments",
     "uniques": [
       "Only available <in cities with a [Laboratory]>",
@@ -1573,7 +1575,7 @@
   {
     "name": "Magitech Institute",
     "cost": 460,
-    "maintenance": 4,
+    "maintenance": 3,
     "requiredTech": "Magic Engineering",
     "uniques": [
       "Only available <in cities with a [Magic Engineering Lab]>"
@@ -1584,7 +1586,7 @@
   {
     "name": "Magitech Power Station",
     "cost": 500,
-    "maintenance": 4,
+    "maintenance": 3,
     "requiredTech": "Magitech Power Systems",
     "uniques": [],
     "production": 4,
@@ -1593,7 +1595,7 @@
   {
     "name": "Magitech Factory",
     "cost": 540,
-    "maintenance": 5,
+    "maintenance": 3,
     "requiredTech": "Magitech Power Systems",
     "uniques": [
       "Only available <in cities with a [Factory]>"
@@ -1604,7 +1606,7 @@
   {
     "name": "Magic Comm Tower",
     "cost": 480,
-    "maintenance": 4,
+    "maintenance": 3,
     "requiredTech": "Magical Communication",
     "uniques": [],
     "culture": 4,
@@ -1614,7 +1616,7 @@
   {
     "name": "Magic Hospital",
     "cost": 500,
-    "maintenance": 4,
+    "maintenance": 3,
     "requiredTech": "Magical Medicine",
     "uniques": [
       "Only available <in cities with a [Hospital]>"
@@ -1626,7 +1628,7 @@
   {
     "name": "Construct Workshop",
     "cost": 480,
-    "maintenance": 4,
+    "maintenance": 3,
     "requiredTech": "Construct Engineering",
     "uniques": [
       "[+25]% Production when constructing [构装] units [in this city]",
@@ -1638,7 +1640,7 @@
   {
     "name": "Advanced Materials Center",
     "cost": 560,
-    "maintenance": 5,
+    "maintenance": 3,
     "requiredTech": "Advanced Material Synthesis",
     "uniques": [],
     "science": 5,
@@ -1648,7 +1650,7 @@
   {
     "name": "Artificial Life Institute",
     "cost": 520,
-    "maintenance": 5,
+    "maintenance": 3,
     "requiredTech": "Artificial Life Research",
     "uniques": [],
     "science": 4,
@@ -1660,7 +1662,7 @@
   {
     "name": "Space Institute",
     "cost": 560,
-    "maintenance": 5,
+    "maintenance": 3,
     "requiredTech": "Spatial Engineering",
     "uniques": [],
     "science": 6,
@@ -1849,8 +1851,8 @@
   },
   {
     "name": "Grand Synod",
-    "requiredTech": "Printing and Publishing",
-    "cost": 900,
+    "requiredTech": "Telecommunications",
+    "cost": 1500,
     "maintenance": 0,
     "uniques": [
       "Cannot be purchased <hidden from users>",
