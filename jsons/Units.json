@@ -2686,5 +2686,85 @@
       "[+25]% maintenance costs"
     ],
     "requiredTech": "Spatial Engineering"
+  },
+  {
+    "name": "Elder Dragon",
+    "unitType": "野兽",
+    "strength": 70,
+    "rangedStrength": 80,
+    "range": 2,
+    "movement": 2,
+    "cost": 1000,
+    "uniqueTo": "Dragon Lair",
+    "uniques": [
+      "Cannot move",
+      "Unbuildable",
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Wyrmling",
+    "unitType": "野兽",
+    "strength": 55,
+    "movement": 3,
+    "cost": 150,
+    "uniqueTo": "Dragon Lair",
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Dragonscale Halberd",
+    "unitType": "长柄",
+    "strength": 95,
+    "movement": 2,
+    "cost": 300,
+    "uniques": [
+      "Costs [3] [Dragon Scale]",
+      "Only available <in cities with a [Dragonscale Workshop]>",
+      "[+30]% Strength <vs [轻骑] units>",
+      "[+30]% Strength <vs [重骑] units>",
+      "[+30]% Strength <vs [骑射] units>",
+      "[+30]% Strength <vs [野兽] units>",
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Giant Chief",
+    "unitType": "重步兵",
+    "strength": 78,
+    "movement": 2,
+    "cost": 1000,
+    "uniqueTo": "Giant Fortress",
+    "uniques": [
+      "Cannot move",
+      "Unbuildable",
+      "[+50]% Strength <when defending>",
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Hill Giant",
+    "unitType": "重步兵",
+    "strength": 60,
+    "movement": 2,
+    "cost": 150,
+    "uniqueTo": "Giant Fortress",
+    "uniques": [
+      "Never appears as a Barbarian unit"
+    ]
+  },
+  {
+    "name": "Giant Hammer",
+    "unitType": "重步兵",
+    "strength": 95,
+    "movement": 2,
+    "cost": 300,
+    "uniques": [
+      "Costs [3] [Giant Heart]",
+      "Only available <in cities with a [Giant Workshop]>",
+      "[+25]% Strength <vs cities>",
+      "Never appears as a Barbarian unit"
+    ]
   }
 ]

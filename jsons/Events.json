@@ -421,5 +421,83 @@
         ]
       }
     ]
+  },
+  {
+    "name": "The Dragon Whispers",
+    "text": "The Dragon Whispers",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "The Dragon Whispers Paragraph 1"
+      },
+      {
+        "text": "The Dragon Whispers Paragraph 2"
+      }
+    ],
+    "choices": [
+      {
+        "name": "The Dragon Whispers - A",
+        "text": "The Dragon Whispers-A",
+        "civilopediaText": [],
+        "uniques": [
+          "[+20]% Strength <for [All] units> <for [20] turns>"
+        ]
+      },
+      {
+        "name": "The Dragon Whispers - B",
+        "text": "The Dragon Whispers-B",
+        "civilopediaText": [],
+        "uniques": [
+          "Gain [300] [Gold]"
+        ]
+      },
+      {
+        "name": "The Dragon Whispers - C",
+        "text": "The Dragon Whispers-C",
+        "civilopediaText": [],
+        "uniques": [
+          "Gain [150] [Science]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Drums Behind the Wall",
+    "text": "Drums Behind the Wall",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "Drums Behind the Wall Paragraph 1"
+      },
+      {
+        "text": "Drums Behind the Wall Paragraph 2"
+      }
+    ],
+    "choices": [
+      {
+        "name": "Drums Behind the Wall - A",
+        "text": "Drums Behind the Wall-A",
+        "civilopediaText": [],
+        "uniques": [
+          "[+25]% Strength <for [All] units> <vs cities> <for [20] turns>"
+        ]
+      },
+      {
+        "name": "Drums Behind the Wall - B",
+        "text": "Drums Behind the Wall-B",
+        "civilopediaText": [],
+        "uniques": [
+          "Gain [300] [Gold]"
+        ]
+      },
+      {
+        "name": "Drums Behind the Wall - C",
+        "text": "Drums Behind the Wall-C",
+        "civilopediaText": [],
+        "uniques": [
+          "Gain [150] [Science]"
+        ]
+      }
+    ]
   }
 ]

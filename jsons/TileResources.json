@@ -569,5 +569,27 @@
       "default": 2,
       "abundant": 3
     }
+  },
+  {
+    "name": "Dragon Scale",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Doesn't generate naturally",
+      "Not shown on world screen <without [Dragon Scale]>",
+      "Cannot be traded",
+      "Excluded from map editor"
+    ]
+  },
+  {
+    "name": "Giant Heart",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Stockpiled",
+      "Doesn't generate naturally",
+      "Not shown on world screen <without [Giant Heart]>",
+      "Cannot be traded",
+      "Excluded from map editor"
+    ]
   }
 ]

@@ -344,5 +344,29 @@
     ],
     "uniques": [],
     "civilopediaText": []
+  },
+  {
+    "name": "Boss City-State - Dragon Lair",
+    "color": [
+      225,
+      95,
+      55
+    ],
+    "friendBonusUniques": [],
+    "allyBonusUniques": [],
+    "uniques": [],
+    "civilopediaText": []
+  },
+  {
+    "name": "Boss City-State - Giant Fortress",
+    "color": [
+      200,
+      190,
+      165
+    ],
+    "friendBonusUniques": [],
+    "allyBonusUniques": [],
+    "uniques": [],
+    "civilopediaText": []
   }
 ]

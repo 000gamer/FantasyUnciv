@@ -14,7 +14,9 @@
     "Triggers a [The Fleet That Did Not Return] event <upon discovering a [Drowned Fleet Graveyard] tile>",
     "Triggers a [The City Below the Dark] event <upon discovering a [Abyssal Ancient City] tile>",
     "Triggers a [The Whale That Fell] event <upon discovering a [Whalefall Trench] tile>",
-    "Triggers a [The Turning of the Deep] event <upon discovering a [Abyssal Vortex] tile>"
+    "Triggers a [The Turning of the Deep] event <upon discovering a [Abyssal Vortex] tile>",
+    "Triggers a [The Dragon Whispers] event <upon declaring war on [Dragon Lair] Civilizations>",
+    "Triggers a [Drums Behind the Wall] event <upon declaring war on [Giant Fortress] Civilizations>"
   ],
   "civilopediaText": [
     {
@@ -22,6 +24,10 @@
     }
   ],
   "unitUniques": [
-    "Triggers a [Medical resolution] event <upon ending a turn in a [Land] tile> <when below [100] HP> <when adjacent to a [{医护} {non-[Embarked]}] unit> <hidden from users>"
+    "Triggers a [Medical resolution] event <upon ending a turn in a [Land] tile> <when below [100] HP> <when adjacent to a [{医护} {non-[Embarked]}] unit> <hidden from users>",
+    "Instantly gain [3] [Dragon Scale] <upon defeating a [Elder Dragon] unit>",
+    "Gain a free [Dragonscale Workshop] [in capital] <upon defeating a [Elder Dragon] unit>",
+    "Instantly gain [3] [Giant Heart] <upon defeating a [Giant Chief] unit>",
+    "Gain a free [Giant Workshop] [in capital] <upon defeating a [Giant Chief] unit>"
   ]
 }

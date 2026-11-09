@@ -1866,5 +1866,78 @@
     "faith": 4,
     "culture": 3,
     "specialistSlots": {}
+  },
+  {
+    "name": "Dragon Roost",
+    "cost": 10,
+    "maintenance": 0,
+    "uniqueTo": "Dragon Lair",
+    "uniques": [
+      "Automatically built in all cities where it is buildable",
+      "Only available <in cities with a [Palace]>",
+      "Free [Elder Dragon] appears",
+      "Free [Wyrmling] appears",
+      "Free [Wyrmling] appears"
+    ]
+  },
+  {
+    "name": "Giant Camp",
+    "cost": 10,
+    "maintenance": 0,
+    "uniqueTo": "Giant Fortress",
+    "uniques": [
+      "Automatically built in all cities where it is buildable",
+      "Only available <in cities with a [Palace]>",
+      "Free [Giant Chief] appears",
+      "Free [Hill Giant] appears",
+      "Free [Hill Giant] appears"
+    ]
+  },
+  {
+    "name": "Dragonscale Workshop",
+    "cost": 9999,
+    "maintenance": 0,
+    "gold": 5,
+    "culture": 3,
+    "uniques": [
+      "Unbuildable"
+    ],
+    "specialistSlots": {}
+  },
+  {
+    "name": "Giant Workshop",
+    "cost": 9999,
+    "maintenance": 0,
+    "production": 6,
+    "uniques": [
+      "Unbuildable"
+    ],
+    "specialistSlots": {}
+  },
+  {
+    "name": "Dragon Hoard",
+    "cost": 10,
+    "maintenance": 0,
+    "gold": 8,
+    "uniqueTo": "Dragon Lair",
+    "uniques": [
+      "Automatically built in all cities where it is buildable",
+      "Only available <in cities with a [Palace]>",
+      "Instantly gain [1] [Dragon Scale] <upon turn start> <every [10] turns>"
+    ],
+    "specialistSlots": {}
+  },
+  {
+    "name": "Giant Hoard",
+    "cost": 10,
+    "maintenance": 0,
+    "production": 8,
+    "uniqueTo": "Giant Fortress",
+    "uniques": [
+      "Automatically built in all cities where it is buildable",
+      "Only available <in cities with a [Palace]>",
+      "Instantly gain [1] [Giant Heart] <upon turn start> <every [10] turns>"
+    ],
+    "specialistSlots": {}
   }
 ]

@@ -1128,5 +1128,56 @@
       255,
       255
     ]
+  },
+  {
+    "name": "Dragon Lair",
+    "cityStateType": "Boss City-State - Dragon Lair",
+    "personality": "Neutral",
+    "cities": [
+      "Dragon Lair Capital"
+    ],
+    "outerColor": [
+      225,
+      95,
+      55
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [
+      "Hill"
+    ],
+    "uniques": [
+      "[+500]% Strength for cities"
+    ],
+    "civilopediaText": []
+  },
+  {
+    "name": "Giant Fortress",
+    "cityStateType": "Boss City-State - Giant Fortress",
+    "personality": "Neutral",
+    "cities": [
+      "Giant Fortress Capital"
+    ],
+    "outerColor": [
+      200,
+      190,
+      165
+    ],
+    "innerColor": [
+      35,
+      35,
+      40
+    ],
+    "startBias": [
+      "Plains",
+      "Hill"
+    ],
+    "uniques": [
+      "[+700]% Strength for cities"
+    ],
+    "civilopediaText": []
   }
 ]
