@@ -212,7 +212,7 @@
     "requiredTech": "Banking and Credit",
     "uniques": [],
     "gold": 2,
-    "culture": 2,
+    "culture": 1,
     "happiness": 2,
     "specialistSlots": {}
   },
@@ -425,7 +425,7 @@
     "uniques": [
       "Only available <in cities with a [Council Hall]>"
     ],
-    "culture": 2,
+    "culture": 1,
     "happiness": 3,
     "specialistSlots": {}
   },
@@ -526,7 +526,7 @@
       "[+2 Production] [in this city] <in cities connected to the capital>"
     ],
     "gold": 2,
-    "culture": 3,
+    "culture": 2,
     "happiness": 1,
     "specialistSlots": {},
     "uniqueTo": "Human Empire",
