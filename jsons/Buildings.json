@@ -1073,7 +1073,7 @@
   },
   {
     "name": "Assembly of Nations",
-    "requiredTech": "Memory Preservation",
+    "requiredTech": "Magical Communication",
     "cost": 1400,
     "maintenance": 0,
     "uniques": [
@@ -1338,7 +1338,6 @@
   },
   {
     "name": "Utopia Project",
-    "requiredTech": "Ecological Engineering",
     "cost": 1800,
     "maintenance": 0,
     "uniques": [
@@ -1831,7 +1830,7 @@
   },
   {
     "name": "Grand Synod",
-    "requiredTech": "Telecommunications",
+    "requiredTech": "Magical Medicine",
     "cost": 1500,
     "maintenance": 0,
     "uniques": [
