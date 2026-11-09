@@ -34,6 +34,7 @@
     "maintenance": 1,
     "uniques": [],
     "culture": 2,
+    "happiness": 1,
     "specialistSlots": {}
   },
   {
@@ -863,7 +864,7 @@
       "Cannot be purchased",
       "Indicates the capital city",
       "Moves to new capital when capital changes",
-      "[+3 Happiness]",
+      "[+6 Happiness]",
       "Unsellable"
     ]
   },
