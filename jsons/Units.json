@@ -43,7 +43,7 @@
     ],
     "requiredTech": "Steel Forging",
     "upgradesTo": "Formation Infantry",
-    "obsoleteTech": "Overseas Settlement"
+    "obsoleteTech": "Standing Army"
   },
   {
     "name": "Formation Infantry",
@@ -57,7 +57,7 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]"
     ],
-    "requiredTech": "Overseas Settlement",
+    "requiredTech": "Standing Army",
     "upgradesTo": "Heavy Infantry",
     "obsoleteTech": "Advanced Metallurgy"
   },
@@ -75,7 +75,7 @@
     ],
     "requiredTech": "Advanced Metallurgy",
     "upgradesTo": "Legion Guards",
-    "obsoleteTech": "Mechanized Warfare"
+    "obsoleteTech": "Industrial Armaments"
   },
   {
     "name": "Legion Guards",
@@ -89,7 +89,7 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]"
     ],
-    "requiredTech": "Mechanized Warfare"
+    "requiredTech": "Industrial Armaments"
   },
   {
     "name": "Spearmen",
@@ -246,7 +246,7 @@
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Mechanized Warfare",
+    "requiredTech": "Industrial Armaments",
     "upgradesTo": "Rune Riflemen",
     "obsoleteTech": "Magic Engineering"
   },
@@ -322,7 +322,7 @@
       "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Steel Forging",
+    "requiredTech": "Standing Army",
     "upgradesTo": "Royal Cavalry",
     "obsoleteTech": "Railway Transport"
   },
@@ -408,7 +408,7 @@
     "cost": 65,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Shipbuilding",
@@ -425,7 +425,7 @@
     "cost": 130,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Offshore Navigation",
@@ -442,7 +442,7 @@
     "cost": 195,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
@@ -461,14 +461,15 @@
     "cost": 265,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Never appears as a Barbarian unit",
       "[+25]% maintenance costs",
-      "Consumes [1] [Coal]"
+      "Consumes [1] [Coal]",
+      "Only available <after discovering [Deep-Sea Shipbuilding]>",
+      "Only available <after discovering [Steam Power]>"
     ],
-    "requiredTech": "Mechanized Warfare",
-    "upgradesTo": "Magitech Warships",
-    "obsoleteTech": "Magitech Power Systems"
+    "requiredTech": "Industrial Armaments",
+    "upgradesTo": "Magitech Warships"
   },
   {
     "name": "Naval Ballistae",
@@ -480,12 +481,12 @@
     "cost": 145,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Naval Armaments",
+    "requiredTech": "Offshore Navigation",
     "upgradesTo": "Heavy Ballista Ships",
-    "obsoleteTech": "Nautical Engineering"
+    "obsoleteTech": "Deep-Sea Shipbuilding"
   },
   {
     "name": "Heavy Ballista Ships",
@@ -497,14 +498,13 @@
     "cost": 235,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Nautical Engineering",
-    "upgradesTo": "Armored Ballista Ships",
-    "obsoleteTech": "Mechanized Warfare"
+    "requiredTech": "Deep-Sea Shipbuilding",
+    "upgradesTo": "Armored Ballista Ships"
   },
   {
     "name": "Armored Ballista Ships",
@@ -516,12 +516,14 @@
     "cost": 295,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Never appears as a Barbarian unit",
       "[+25]% maintenance costs",
-      "Consumes [1] [Coal]"
+      "Consumes [1] [Coal]",
+      "Only available <after discovering [Deep-Sea Shipbuilding]>",
+      "Only available <after discovering [Steam Power]>"
     ],
-    "requiredTech": "Mechanized Warfare"
+    "requiredTech": "Industrial Armaments"
   },
   {
     "name": "Evokers",
@@ -545,7 +547,7 @@
     ],
     "requiredTech": "Arcane Research",
     "upgradesTo": "Instrument Mages",
-    "obsoleteTech": "Magic Instruments"
+    "obsoleteTech": "Magic Metrology"
   },
   {
     "name": "Shaping Mages",
@@ -715,7 +717,7 @@
     ],
     "requiredTech": "Cartography",
     "upgradesTo": "Expedition Scouts",
-    "obsoleteTech": "Ocean Surveying"
+    "obsoleteTech": "Natural History"
   },
   {
     "name": "Expedition Scouts",
@@ -730,7 +732,7 @@
       "[+1] Sight",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Ocean Surveying"
+    "requiredTech": "Natural History"
   },
   {
     "name": "Horse Archers",
@@ -794,7 +796,7 @@
     "cost": 150,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "All adjacent units heal [5] HP when healing",
       "Never appears as a Barbarian unit",
       "[+25]% maintenance costs"
@@ -867,7 +869,7 @@
     ],
     "requiredTech": "Arcane Research",
     "upgradesTo": "Memory Binders",
-    "obsoleteTech": "Magic Instruments"
+    "obsoleteTech": "Magic Metrology"
   },
   {
     "name": "Memory Binders",
@@ -885,7 +887,7 @@
       "Consumes [1] [Magic Crystals]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Magic Instruments",
+    "requiredTech": "Magic Metrology",
     "upgradesTo": "Vigil Chanters",
     "obsoleteTech": "Magical Medicine"
   },
@@ -922,7 +924,7 @@
     ],
     "requiredTech": "Steel Forging",
     "upgradesTo": "Formation Infantry",
-    "obsoleteTech": "Overseas Settlement",
+    "obsoleteTech": "Standing Army",
     "uniqueTo": "Human Empire",
     "replaces": "Regular Infantry"
   },
@@ -939,7 +941,7 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]"
     ],
-    "requiredTech": "Mechanized Warfare",
+    "requiredTech": "Industrial Armaments",
     "uniqueTo": "Human Empire",
     "replaces": "Legion Guards"
   },
@@ -975,7 +977,7 @@
     "cost": 145,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "[+1] Sight",
       "Never appears as a Barbarian unit"
     ],
@@ -1052,7 +1054,7 @@
     "cost": 70,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "[+1] Sight",
       "Never appears as a Barbarian unit"
     ],
@@ -1072,15 +1074,14 @@
     "cost": 250,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "[+1] Sight",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Nautical Engineering",
+    "requiredTech": "Deep-Sea Shipbuilding",
     "upgradesTo": "Armored Ballista Ships",
-    "obsoleteTech": "Mechanized Warfare",
     "uniqueTo": "Sea Elves",
     "replaces": "Heavy Ballista Ships"
   },
@@ -1121,7 +1122,7 @@
     ],
     "requiredTech": "Advanced Metallurgy",
     "upgradesTo": "Legion Guards",
-    "obsoleteTech": "Mechanized Warfare",
+    "obsoleteTech": "Industrial Armaments",
     "uniqueTo": "Mountain Dwarves",
     "replaces": "Heavy Infantry"
   },
@@ -1218,7 +1219,7 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]"
     ],
-    "requiredTech": "Overseas Settlement",
+    "requiredTech": "Standing Army",
     "upgradesTo": "Heavy Infantry",
     "obsoleteTech": "Advanced Metallurgy",
     "uniqueTo": "Orc Empire",
@@ -1343,7 +1344,7 @@
     "upgradesTo": "Memory Binders",
     "uniqueTo": "Lich Dynasty",
     "replaces": "Necromancers",
-    "obsoleteTech": "Magic Instruments"
+    "obsoleteTech": "Magic Metrology"
   },
   {
     "name": "Spectral Knights",
@@ -1416,7 +1417,7 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]"
     ],
-    "requiredTech": "Mechanized Warfare",
+    "requiredTech": "Industrial Armaments",
     "uniqueTo": "Bone Empire",
     "replaces": "Legion Guards"
   },
@@ -1496,7 +1497,7 @@
     "uniques": [
       "May create improvements on water resources",
       "Uncapturable",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Coastal Navigation",
@@ -1793,7 +1794,7 @@
     "cost": 65,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>"
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>"
     ],
     "obsoleteTech": "Deep-Sea Shipbuilding",
     "requiredTech": "Coastal Navigation",
@@ -1809,7 +1810,7 @@
     "cost": 220,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>"
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>"
     ],
     "requiredTech": "Deep-Sea Shipbuilding",
     "uniqueTo": "Barbarians"
@@ -1875,7 +1876,7 @@
     "cost": 190,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>"
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>"
     ],
     "requiredTech": "Deep-Sea Shipbuilding",
     "uniqueTo": "Barbarians"
@@ -1905,7 +1906,7 @@
     "strength": 0,
     "movement": 2,
     "cost": 1000,
-    "requiredTech": "Spatial Engineering",
+    "requiredTech": "Spatial Theory",
     "uniques": [
       "Spaceship part",
       "Limited to [1] per Civilization",
@@ -1959,7 +1960,7 @@
     "strength": 0,
     "movement": 2,
     "cost": 1000,
-    "requiredTech": "Great Magic Engineering",
+    "requiredTech": "Spatial Engineering",
     "uniques": [
       "Spaceship part",
       "Limited to [1] per Civilization",
@@ -2003,7 +2004,7 @@
     ],
     "requiredTech": "Industrial Chemistry",
     "upgradesTo": "Riflemen",
-    "obsoleteTech": "Mechanized Warfare"
+    "obsoleteTech": "Industrial Armaments"
   },
   {
     "name": "Machine Gun Crews",
@@ -2056,7 +2057,7 @@
     ],
     "requiredTech": "Advanced Material Synthesis",
     "upgradesTo": "Magitech Sniper",
-    "obsoleteTech": "Advanced Automation"
+    "obsoleteTech": "Intelligent Constructs"
   },
   {
     "name": "Field Cannons",
@@ -2105,14 +2106,13 @@
     "cost": 230,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Never appears as a Barbarian unit",
       "[+25]% maintenance costs",
       "Consumes [1] [Coal]"
     ],
     "requiredTech": "Steam Power",
-    "upgradesTo": "Armored Warships",
-    "obsoleteTech": "Mechanized Warfare"
+    "upgradesTo": "Armored Warships"
   },
   {
     "name": "Magitech Warships",
@@ -2124,11 +2124,12 @@
     "cost": 335,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]",
       "Consumes [1] [Magic Crystals]",
-      "[+25]% maintenance costs"
+      "[+25]% maintenance costs",
+      "Only available <after discovering [Deep-Sea Shipbuilding]>"
     ],
     "requiredTech": "Magitech Power Systems"
   },
@@ -2152,7 +2153,7 @@
       "Never appears as a Barbarian unit",
       "[This Unit] gains the [Crystal Ward] status for [2] turn(s) <for all movement> <for units without [Crystal Ward]>"
     ],
-    "requiredTech": "Magic Instruments",
+    "requiredTech": "Magic Metrology",
     "upgradesTo": "Shaping Mages",
     "obsoleteTech": "Environmental Magitech"
   },
@@ -2187,11 +2188,11 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Iron]",
       "Consumes [1] [Magic Crystals]",
-      "[+50]% maintenance costs"
+      "[+50]% maintenance costs",
+      "Only available <after discovering [Construct Engineering]>"
     ],
     "requiredTech": "Arcane Defense Systems",
-    "upgradesTo": "Space Guard",
-    "obsoleteTech": "Spatial Engineering"
+    "upgradesTo": "Space Guard"
   },
   {
     "name": "Magitech Airship",
@@ -2441,7 +2442,7 @@
       "May heal outside of friendly territory",
       "[+5] HP when healing",
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Hero <hidden from users>",
       "[+62]% Strength <starting from the [IV]>",
       "[+71]% Strength <starting from the [V]>",
@@ -2540,7 +2541,7 @@
     ],
     "requiredTech": "Industrial Chemistry",
     "upgradesTo": "Riflemen",
-    "obsoleteTech": "Mechanized Warfare",
+    "obsoleteTech": "Industrial Armaments",
     "uniqueTo": "Artificer Dwarves",
     "replaces": "Arquebusiers",
     "civilopediaText": []
@@ -2594,7 +2595,8 @@
       "Can perform Air Sweep",
       "Consumes [1] [Magic Crystals]",
       "Never appears as a Barbarian unit",
-      "[+25]% maintenance costs"
+      "[+25]% maintenance costs",
+      "Only available <after discovering [Magitech Transport]>"
     ],
     "requiredTech": "Advanced Energy Engineering",
     "interceptRange": 6
@@ -2611,7 +2613,8 @@
       "[+50]% Strength <vs cities>",
       "Consumes [1] [Magic Crystals]",
       "Never appears as a Barbarian unit",
-      "[+25]% maintenance costs"
+      "[+25]% maintenance costs",
+      "Only available <after discovering [Magitech Transport]>"
     ],
     "requiredTech": "Advanced Automation"
   },
@@ -2627,10 +2630,12 @@
       "Cannot attack",
       "Can carry [3] [Aircraft] units",
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Cannot enter ocean tiles <before discovering [Ocean Navigation]>",
       "Consumes [1] [Magic Crystals]",
       "Never appears as a Barbarian unit",
-      "[+25]% maintenance costs"
+      "[+25]% maintenance costs",
+      "Only available <after discovering [Magitech Transport]>",
+      "Only available <after discovering [Deep-Sea Shipbuilding]>"
     ],
     "requiredTech": "Spatial Engineering"
   },
@@ -2647,7 +2652,8 @@
       "Can only attack [Water] tiles",
       "Consumes [1] [Coal]",
       "Never appears as a Barbarian unit",
-      "[+25]% maintenance costs"
+      "[+25]% maintenance costs",
+      "Only available <after discovering [Deep-Sea Shipbuilding]>"
     ],
     "requiredTech": "Advanced Automation"
   },
@@ -2701,7 +2707,7 @@
       "Never appears as a Barbarian unit",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Advanced Automation"
+    "requiredTech": "Intelligent Constructs"
   },
   {
     "name": "Space Guard",
@@ -2718,7 +2724,8 @@
       "Consumes [1] [Magic Crystals]",
       "Consumes [1] [Mithril]",
       "Never appears as a Barbarian unit",
-      "[+25]% maintenance costs"
+      "[+25]% maintenance costs",
+      "Only available <after discovering [Arcane Defense Systems]>"
     ],
     "requiredTech": "Spatial Engineering"
   },

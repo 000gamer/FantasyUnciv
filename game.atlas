@@ -510,77 +510,77 @@ BuildingIcons/Great Garden of Life
   index: -1
 BuildingIcons/Great Printing House
   rotate: false
-  xy: 760, 2795
+  xy: 652, 2687
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Utopia Project
   rotate: false
-  xy: 760, 2795
+  xy: 652, 2687
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Great Rune Forge
   rotate: false
-  xy: 976, 3011
+  xy: 868, 2903
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Greenring Shrine
   rotate: false
-  xy: 1300, 3335
+  xy: 1192, 3227
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Guildhall
   rotate: false
-  xy: 1624, 3659
+  xy: 1516, 3551
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Hall of Quiet Memory
   rotate: false
-  xy: 1840, 3875
+  xy: 1732, 3767
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Harbor
   rotate: false
-  xy: 1948, 3983
+  xy: 1840, 3875
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Supply Harbor
   rotate: false
-  xy: 1948, 3983
+  xy: 1840, 3875
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Hearth Sanctuary
   rotate: false
-  xy: 112, 2037
+  xy: 4, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Hospital
   rotate: false
-  xy: 1732, 3659
+  xy: 1624, 3551
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Infirmary
   rotate: false
-  xy: 1732, 3659
+  xy: 1624, 3551
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -594,224 +594,224 @@ BuildingIcons/Inscription Workshop
   index: -1
 BuildingIcons/Laboratory
   rotate: false
-  xy: 1192, 3011
+  xy: 1300, 3119
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/League of a Hundred Ports
   rotate: false
-  xy: 1516, 3335
+  xy: 1624, 3443
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Ledger of All Markets
   rotate: false
-  xy: 1624, 3443
+  xy: 1732, 3551
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Legion Banner
   rotate: false
-  xy: 1840, 3659
+  xy: 1948, 3767
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Library
   rotate: false
-  xy: 2164, 3983
+  xy: 4, 1712
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Life Research Hall
   rotate: false
-  xy: 220, 1931
+  xy: 328, 2039
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Lighthouse
   rotate: false
-  xy: 436, 2147
+  xy: 544, 2255
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Lights of the Encircling Sea
   rotate: false
-  xy: 544, 2255
+  xy: 652, 2363
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Magic Comm Tower
   rotate: false
-  xy: 976, 2687
+  xy: 1084, 2795
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Magic Engineering Lab
   rotate: false
-  xy: 1408, 3119
+  xy: 1516, 3227
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Magic Hospital
   rotate: false
-  xy: 1516, 3227
+  xy: 1624, 3335
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Magitech Factory
   rotate: false
-  xy: 112, 1713
+  xy: 328, 1931
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Magitech Institute
   rotate: false
-  xy: 220, 1823
+  xy: 436, 2039
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Magitech Power Station
   rotate: false
-  xy: 436, 2039
+  xy: 652, 2255
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Resonance Calibration Array
   rotate: false
-  xy: 436, 2039
+  xy: 652, 2255
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Maritime Bank
   rotate: false
-  xy: 868, 2471
+  xy: 1192, 2795
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Maritime and Land Governorate
   rotate: false
-  xy: 1084, 2687
+  xy: 1408, 3011
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Market
   rotate: false
-  xy: 1192, 2795
+  xy: 1516, 3119
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mechanical Clock Tower
   rotate: false
-  xy: 1732, 3335
+  xy: 2056, 3659
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Meditation Institute
   rotate: false
-  xy: 2272, 3875
+  xy: 4, 1496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mega Factory
   rotate: false
-  xy: 2380, 3983
+  xy: 112, 1605
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Memory Archive
   rotate: false
-  xy: 4, 1496
+  xy: 220, 1715
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Military Academy
   rotate: false
-  xy: 760, 2255
+  xy: 976, 2471
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mirror Lake Academy
   rotate: false
-  xy: 1408, 2903
+  xy: 1624, 3119
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mirror Tower
   rotate: false
-  xy: 1516, 3011
+  xy: 1732, 3227
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Monument
   rotate: false
-  xy: 2380, 3875
+  xy: 4, 1388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mountain Foundry
   rotate: false
-  xy: 220, 1607
+  xy: 436, 1823
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Museum
   rotate: false
-  xy: 436, 1823
+  xy: 652, 2039
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Muster Monument Walls
   rotate: false
-  xy: 544, 1931
+  xy: 760, 2147
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Naval Arsenal
   rotate: false
-  xy: 1192, 2579
+  xy: 1300, 2687
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Startide Drydock
   rotate: false
-  xy: 1192, 2579
+  xy: 1300, 2687
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Ocean Drydock
   rotate: false
-  xy: 2272, 3659
+  xy: 2380, 3767
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -825,42 +825,49 @@ BuildingIcons/Origin Observation Project
   index: -1
 BuildingIcons/Palace
   rotate: false
-  xy: 868, 2147
+  xy: 652, 1931
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Permanent Supply Depot
   rotate: false
-  xy: 1192, 2471
+  xy: 976, 2255
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Precision Workshop
   rotate: false
-  xy: 1624, 2903
+  xy: 1408, 2687
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Printing House
   rotate: false
-  xy: 1732, 3011
+  xy: 1516, 2795
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Rock Bastion
   rotate: false
-  xy: 544, 1715
+  xy: 436, 1607
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Royal Academy of Sciences
   rotate: false
-  xy: 868, 2039
+  xy: 760, 1931
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Rune Implement Workshop
+  rotate: false
+  xy: 1084, 2255
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -951,133 +958,133 @@ BuildingIcons/Space Research Center
   index: -1
 BuildingIcons/Star Observatory
   rotate: false
-  xy: 2488, 3551
+  xy: 2704, 3767
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Survey Hall
   rotate: false
-  xy: 760, 1715
+  xy: 976, 1931
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Surveyors Guild
   rotate: false
-  xy: 868, 1823
+  xy: 1084, 2039
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Telecom Station
   rotate: false
-  xy: 1084, 2039
+  xy: 1300, 2255
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Temple
   rotate: false
-  xy: 1300, 2255
+  xy: 1516, 2471
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Terraces of Plenty
   rotate: false
-  xy: 1516, 2471
+  xy: 1732, 2687
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Theater
   rotate: false
-  xy: 1624, 2579
+  xy: 1840, 2795
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Theological College
   rotate: false
-  xy: 1732, 2687
+  xy: 1948, 2903
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Throne of Military Oaths
   rotate: false
-  xy: 1840, 2795
+  xy: 2056, 3011
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tidal Harbor
   rotate: false
-  xy: 1948, 2903
+  xy: 2164, 3119
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Trading Hall
   rotate: false
-  xy: 2380, 3335
+  xy: 2704, 3659
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Treespeech School
   rotate: false
-  xy: 2596, 3551
+  xy: 2920, 3875
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/University
   rotate: false
-  xy: 2920, 3875
+  xy: 112, 957
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Vault of All Roads
   rotate: false
-  xy: 3028, 3983
+  xy: 220, 1067
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Walls
   rotate: false
-  xy: 112, 957
+  xy: 436, 1283
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Waterside Pasture
   rotate: false
-  xy: 544, 1391
+  xy: 868, 1715
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Workshop
   rotate: false
-  xy: 2056, 2903
+  xy: 2380, 3227
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/World Ecological Reserve
   rotate: false
-  xy: 2164, 3011
+  xy: 2488, 3335
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/World Magic Communication Center
   rotate: false
-  xy: 2272, 3119
+  xy: 2596, 3443
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1091,63 +1098,63 @@ ImprovementIcons/Apiary
   index: -1
 ImprovementIcons/Herb Garden
   rotate: false
-  xy: 652, 2579
+  xy: 544, 2471
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Kiln
   rotate: false
-  xy: 1084, 2903
+  xy: 1192, 3011
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Ley Extractor
   rotate: false
-  xy: 2056, 3875
+  xy: 2164, 3983
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Practice Circle
   rotate: false
-  xy: 1300, 2579
+  xy: 1084, 2363
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Spiritroot Reserve
   rotate: false
-  xy: 1840, 2903
+  xy: 1948, 3011
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Spring Garden
   rotate: false
-  xy: 2056, 3119
+  xy: 2164, 3227
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Terrace Farm
   rotate: false
-  xy: 1408, 2363
+  xy: 1624, 2579
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Trade Post
   rotate: false
-  xy: 2272, 3227
+  xy: 2596, 3551
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Waterwheel Yard
   rotate: false
-  xy: 652, 1499
+  xy: 976, 1823
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1182,7 +1189,7 @@ NationIcons/Forest Elves
   index: -1
 NationIcons/Human Empire
   rotate: false
-  xy: 1840, 3767
+  xy: 1732, 3659
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1196,28 +1203,28 @@ NationIcons/Industrial Goblins
   index: -1
 NationIcons/Lich Dynasty
   rotate: false
-  xy: 112, 1821
+  xy: 220, 1931
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Mercantile Republic
   rotate: false
-  xy: 544, 2039
+  xy: 760, 2255
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Mountain Dwarves
   rotate: false
-  xy: 112, 1497
+  xy: 328, 1715
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Nomadic Orcs
   rotate: false
-  xy: 1840, 3227
+  xy: 1948, 3335
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1238,987 +1245,987 @@ NationIcons/Sea Elves
   index: -1
 PolicyBranchIcons/Civic
   rotate: false
-  xy: 2686, 2284
+  xy: 2894, 2535
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Civic Complete
   rotate: false
-  xy: 2686, 2284
+  xy: 2894, 2535
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Commerce
   rotate: false
-  xy: 2744, 2226
+  xy: 3023, 2361
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Exploration
   rotate: false
-  xy: 3016, 3296
+  xy: 3224, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Uncharted Route
   rotate: false
-  xy: 3016, 3296
+  xy: 3224, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Industry
   rotate: false
-  xy: 2141, 1702
+  xy: 3196, 3099
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Patronage
   rotate: false
-  xy: 745, 946
+  xy: 2359, 2084
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Piety
   rotate: false
-  xy: 803, 946
+  xy: 2291, 2030
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Scholarship
   rotate: false
-  xy: 1796, 995
+  xy: 3776, 3564
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Scholarship Complete
   rotate: false
-  xy: 1796, 995
+  xy: 3776, 3564
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Academic Accords
   rotate: false
-  xy: 2807, 3542
+  xy: 3851, 3866
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Academic Alliance
   rotate: false
-  xy: 2807, 3484
+  xy: 3851, 3808
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Academic Exchange
   rotate: false
-  xy: 2865, 3542
+  xy: 3909, 3866
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Academic Freedom
   rotate: false
-  xy: 2865, 3484
+  xy: 3909, 3808
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Academic Succession
   rotate: false
-  xy: 2861, 3426
+  xy: 3967, 3866
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Academies and Runes
   rotate: false
-  xy: 2861, 3368
+  xy: 3967, 3808
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Academies and Runes
   rotate: false
-  xy: 2861, 3368
+  xy: 3967, 3808
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Academies and Runes Complete
   rotate: false
-  xy: 2923, 3586
+  xy: 4025, 3866
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Academies and Runes Complete
   rotate: false
-  xy: 2923, 3586
+  xy: 4025, 3866
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Administrative Reform
   rotate: false
-  xy: 2923, 3528
+  xy: 4025, 3808
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Border Guard
   rotate: false
-  xy: 2678, 2400
+  xy: 2886, 2767
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Field Works
   rotate: false
-  xy: 2678, 2400
+  xy: 2886, 2767
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Citizens and Crafts
   rotate: false
-  xy: 2678, 2342
+  xy: 3118, 2784
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Citizens and Crafts
   rotate: false
-  xy: 2678, 2342
+  xy: 3118, 2784
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Citizens and Crafts Complete
   rotate: false
-  xy: 2570, 2269
+  xy: 2863, 2681
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Citizens and Crafts Complete
   rotate: false
-  xy: 2570, 2269
+  xy: 2863, 2681
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Engineered Position
   rotate: false
-  xy: 2570, 2269
+  xy: 2863, 2681
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/City Charters
   rotate: false
-  xy: 2570, 2211
+  xy: 2872, 2623
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/City Guard
   rotate: false
-  xy: 2628, 2269
+  xy: 2921, 2709
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Homeland Defense
   rotate: false
-  xy: 2628, 2269
+  xy: 2921, 2709
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/City Planning
   rotate: false
-  xy: 2628, 2211
+  xy: 2930, 2651
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/City-State Aid
   rotate: false
-  xy: 2619, 2153
+  xy: 2930, 2593
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Civic Participation
   rotate: false
-  xy: 2686, 2226
+  xy: 2952, 2535
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Specialist Support
   rotate: false
-  xy: 2686, 2226
+  xy: 2952, 2535
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Civic Tradition
   rotate: false
-  xy: 2686, 2168
+  xy: 2943, 2477
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Civic Tradition
   rotate: false
-  xy: 2686, 2168
+  xy: 2943, 2477
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Civic Tradition Complete
   rotate: false
-  xy: 2686, 2168
+  xy: 2943, 2477
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Tradition
   rotate: false
-  xy: 2686, 2168
+  xy: 2943, 2477
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Civic Tradition Complete
   rotate: false
-  xy: 2686, 2168
+  xy: 2943, 2477
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Tradition Complete
   rotate: false
-  xy: 2686, 2168
+  xy: 2943, 2477
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Civil Rights
   rotate: false
-  xy: 2736, 2342
+  xy: 3001, 2477
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Commerce Complete
   rotate: false
-  xy: 2744, 2168
+  xy: 3023, 2303
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Road Arbitration
   rotate: false
-  xy: 2744, 2168
+  xy: 3023, 2303
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Commercial Investment
   rotate: false
-  xy: 2794, 2360
+  xy: 3053, 2419
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Commercial Organization
   rotate: false
-  xy: 2802, 2302
+  xy: 3081, 2361
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Commercial Studies
   rotate: false
-  xy: 2802, 2244
+  xy: 3081, 2303
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Common Measures
   rotate: false
-  xy: 2802, 2186
+  xy: 3023, 2245
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Congregations
   rotate: false
-  xy: 2735, 2110
+  xy: 2981, 2166
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Religious Organization
   rotate: false
-  xy: 2735, 2110
+  xy: 2981, 2166
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Construct Application
   rotate: false
-  xy: 2699, 2052
+  xy: 3039, 2187
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Construct Synergy
   rotate: false
-  xy: 2699, 2052
+  xy: 3039, 2187
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Contract Procurement
   rotate: false
-  xy: 2641, 1900
+  xy: 3097, 2129
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Court Construction
   rotate: false
-  xy: 2851, 2070
+  xy: 3014, 2013
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Craft Standards
   rotate: false
-  xy: 2715, 1878
+  xy: 3072, 2013
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Standardized Production
   rotate: false
-  xy: 2715, 1878
+  xy: 3072, 2013
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Cultural Flourishing
   rotate: false
-  xy: 2690, 1646
+  xy: 777, 1279
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Diplomacy of Nations
   rotate: false
-  xy: 3023, 3817
+  xy: 777, 1221
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Diplomacy of Nations
   rotate: false
-  xy: 3023, 3817
+  xy: 777, 1221
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Diplomacy of Nations Complete
   rotate: false
-  xy: 2779, 3181
+  xy: 3103, 3505
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Diplomacy of Nations Complete
   rotate: false
-  xy: 2779, 3181
+  xy: 3103, 3505
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Diplomatic Courtesy
   rotate: false
-  xy: 2779, 3123
+  xy: 3103, 3447
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Diplomatic Mediation
   rotate: false
-  xy: 2779, 3065
+  xy: 3103, 3389
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Distant Trade
   rotate: false
-  xy: 2774, 2949
+  xy: 3098, 3273
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Guilds and Sea Routes
   rotate: false
-  xy: 2774, 2949
+  xy: 3098, 3273
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Guilds and Sea Routes
   rotate: false
-  xy: 2774, 2949
+  xy: 3098, 3273
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Drills
   rotate: false
-  xy: 2823, 2494
+  xy: 3133, 2958
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Engineering Education
   rotate: false
-  xy: 2860, 2204
+  xy: 835, 1221
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Engineering Innovation
   rotate: false
-  xy: 2860, 2146
+  xy: 893, 1282
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Exchange of Goods
   rotate: false
-  xy: 2977, 3412
+  xy: 3108, 3660
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Expedition Organization
   rotate: false
-  xy: 3035, 3412
+  xy: 3108, 3602
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Exploration Complete
   rotate: false
-  xy: 2832, 3007
+  xy: 3243, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Spirit of Discovery
   rotate: false
-  xy: 2832, 3007
+  xy: 3243, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Star Sea Navigation
   rotate: false
-  xy: 2832, 3007
+  xy: 3243, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Financial System
   rotate: false
-  xy: 2833, 2833
+  xy: 3340, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Free Trade
   rotate: false
-  xy: 1680, 1177
+  xy: 3572, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Frontier Connections
   rotate: false
-  xy: 1680, 1119
+  xy: 3591, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Frontier and Autonomy
   rotate: false
-  xy: 1738, 1197
+  xy: 3630, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Frontier and Autonomy
   rotate: false
-  xy: 1738, 1197
+  xy: 3630, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Frontier and Autonomy Complete
   rotate: false
-  xy: 1738, 1139
+  xy: 3649, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Frontier and Autonomy Complete
   rotate: false
-  xy: 1738, 1139
+  xy: 3649, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Geographic Surveying
   rotate: false
-  xy: 1680, 1061
+  xy: 3707, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Guilds and Sea Routes Complete
   rotate: false
-  xy: 395, 360
+  xy: 3997, 3692
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Guilds and Sea Routes Complete
   rotate: false
-  xy: 395, 360
+  xy: 3997, 3692
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Ocean Commander
   rotate: false
-  xy: 395, 360
+  xy: 3997, 3692
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Historical Memory
   rotate: false
-  xy: 2093, 1760
+  xy: 3156, 3273
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Industrial Investment
   rotate: false
-  xy: 2083, 1702
+  xy: 3201, 3157
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Industry Complete
   rotate: false
-  xy: 2199, 1693
+  xy: 3196, 3041
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Infrastructure
   rotate: false
-  xy: 2257, 1693
+  xy: 3196, 2983
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Inheritance of Faith
   rotate: false
-  xy: 2315, 1693
+  xy: 3191, 2925
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/International Cooperation
   rotate: false
-  xy: 2012, 1644
+  xy: 3191, 2867
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/International Prestige
   rotate: false
-  xy: 2012, 1586
+  xy: 777, 1163
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Joint Instructors
   rotate: false
-  xy: 2070, 1586
+  xy: 893, 1108
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Knowledge Sharing
   rotate: false
-  xy: 2128, 1644
+  xy: 951, 1096
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Public Learning
   rotate: false
-  xy: 2128, 1644
+  xy: 951, 1096
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Legions and Expeditions Complete
   rotate: false
-  xy: 2244, 1635
+  xy: 3254, 3041
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Legions and Expeditions Complete
   rotate: false
-  xy: 2244, 1635
+  xy: 3254, 3041
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Valor Complete
   rotate: false
-  xy: 2244, 1635
+  xy: 3254, 3041
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Magical Industry
   rotate: false
-  xy: 2757, 1994
+  xy: 3234, 2751
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Magitech
   rotate: false
-  xy: 2757, 1994
+  xy: 3234, 2751
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Magical Popularization
   rotate: false
-  xy: 2757, 1936
+  xy: 2225, 2080
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Magical Public Facilities
   rotate: false
-  xy: 2773, 1878
+  xy: 1067, 1212
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Magitech Complete
   rotate: false
-  xy: 2773, 1820
+  xy: 1067, 1154
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Maritime Tradition
   rotate: false
-  xy: 2873, 1954
+  xy: 3234, 2693
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Market Prosperity
   rotate: false
-  xy: 2831, 1896
+  xy: 1164, 1676
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Mass Production
   rotate: false
-  xy: 2831, 1838
+  xy: 1172, 1618
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Military Discipline
   rotate: false
-  xy: 2806, 1704
+  xy: 1172, 1502
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Military Logistics
   rotate: false
-  xy: 2806, 1646
+  xy: 1172, 1444
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Military Training
   rotate: false
-  xy: 2864, 1780
+  xy: 2004, 1501
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Regular Training
   rotate: false
-  xy: 2864, 1780
+  xy: 2004, 1501
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Missionary Learning
   rotate: false
-  xy: 2889, 1838
+  xy: 2062, 1463
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Public Teachings
   rotate: false
-  xy: 2889, 1838
+  xy: 2062, 1463
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Morning Prayer
   rotate: false
-  xy: 2922, 1664
+  xy: 2062, 1347
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Municipal Coordination
   rotate: false
-  xy: 2922, 1606
+  xy: 395, 592
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Oral Heritage
   rotate: false
-  xy: 906, 1211
+  xy: 395, 128
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Organized Labor
   rotate: false
-  xy: 906, 1153
+  xy: 395, 70
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Patronage Complete
   rotate: false
-  xy: 803, 1062
+  xy: 2417, 2084
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Piety Complete
   rotate: false
-  xy: 861, 1062
+  xy: 2349, 2026
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Temples and Oaths
   rotate: false
-  xy: 861, 1062
+  xy: 2349, 2026
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Temples and Oaths Complete
   rotate: false
-  xy: 861, 1062
+  xy: 2349, 2026
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Temples and Oaths
   rotate: false
-  xy: 861, 1062
+  xy: 2349, 2026
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Temples and Oaths Complete
   rotate: false
-  xy: 861, 1062
+  xy: 2349, 2026
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Population Growth
   rotate: false
-  xy: 861, 946
+  xy: 2465, 2026
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Public Granaries
   rotate: false
-  xy: 861, 946
+  xy: 2465, 2026
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Public Rites
   rotate: false
-  xy: 1739, 1401
+  xy: 2639, 2017
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Public Works
   rotate: false
-  xy: 1797, 1459
+  xy: 2336, 1968
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Reciprocal Gifts
   rotate: false
-  xy: 1855, 1477
+  xy: 2452, 1968
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Reclamation
   rotate: false
-  xy: 1855, 1419
+  xy: 2452, 1910
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Religion and Society
   rotate: false
-  xy: 1971, 1431
+  xy: 2568, 1959
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Religious Reform
   rotate: false
-  xy: 1913, 1373
+  xy: 2626, 1959
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Religious Tolerance
   rotate: false
-  xy: 1971, 1373
+  xy: 2684, 1959
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Research Community
   rotate: false
-  xy: 2029, 1412
+  xy: 2389, 1852
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Research Funding
   rotate: false
-  xy: 2087, 1412
+  xy: 2389, 1794
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Resident Envoys
   rotate: false
-  xy: 2123, 1470
+  xy: 3196, 3564
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Road Maintenance
   rotate: false
-  xy: 2203, 1412
+  xy: 3370, 3564
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Rural Exchange
   rotate: false
-  xy: 1796, 1053
+  xy: 3718, 3564
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Siege Preparation
   rotate: false
-  xy: 1854, 995
+  xy: 3277, 3506
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Social Order
   rotate: false
-  xy: 1912, 1053
+  xy: 3393, 3506
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Trade Workshops
   rotate: false
-  xy: 801, 888
+  xy: 3567, 3390
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Traditional Learning
   rotate: false
-  xy: 859, 888
+  xy: 3741, 3506
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Universal Education
   rotate: false
-  xy: 2592, 1633
+  xy: 3683, 3390
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Woodland Knowledge
   rotate: false
-  xy: 2910, 2448
+  xy: 3272, 3332
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -2232,42 +2239,42 @@ ReligionIcons/Ancestral Hearth
   index: -1
 ReligionIcons/Oath of Banners
   rotate: false
-  xy: 1948, 3335
+  xy: 2056, 3443
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Remembrance of the Departed
   rotate: false
-  xy: 2596, 3875
+  xy: 2488, 3767
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Spirit Communion
   rotate: false
-  xy: 2596, 3875
+  xy: 2488, 3767
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Tidebound Tradition
   rotate: false
-  xy: 2164, 3119
+  xy: 2380, 3335
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Universal Concord
   rotate: false
-  xy: 2812, 3767
+  xy: 4, 848
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Way of the Greenwood
   rotate: false
-  xy: 760, 1607
+  xy: 1084, 1931
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -2358,77 +2365,77 @@ ResourceIcons/Grapes
   index: -1
 ResourceIcons/Herbs
   rotate: false
-  xy: 868, 2795
+  xy: 760, 2687
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Honey
   rotate: false
-  xy: 1408, 3335
+  xy: 1300, 3227
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Horses
   rotate: false
-  xy: 1624, 3551
+  xy: 1516, 3443
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Incense
   rotate: false
-  xy: 4, 1820
+  xy: 2056, 3983
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Iron
   rotate: false
-  xy: 760, 2579
+  xy: 868, 2687
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Livestock
   rotate: false
-  xy: 760, 2471
+  xy: 868, 2579
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Magic Crystals
   rotate: false
-  xy: 1084, 2795
+  xy: 1192, 2903
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Mithril
   rotate: false
-  xy: 1732, 3227
+  xy: 1948, 3443
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Night Jade
   rotate: false
-  xy: 1624, 3011
+  xy: 1732, 3119
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Pearls
   rotate: false
-  xy: 1084, 2363
+  xy: 868, 2147
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Rock Salt
   rotate: false
-  xy: 652, 1823
+  xy: 544, 1715
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -2456,35 +2463,35 @@ ResourceIcons/Silver
   index: -1
 ResourceIcons/Spices
   rotate: false
-  xy: 1516, 2579
+  xy: 1624, 2687
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Spirit Spring
   rotate: false
-  xy: 1624, 2687
+  xy: 1732, 2795
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Stone
   rotate: false
-  xy: 328, 1283
+  xy: 544, 1499
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Whales
   rotate: false
-  xy: 868, 1715
+  xy: 1192, 2039
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Wheat
   rotate: false
-  xy: 976, 1823
+  xy: 1300, 2147
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -2590,13 +2597,6 @@ TechIcons/Basic Crafts
 TechIcons/Cartography
   rotate: false
   xy: 652, 3551
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TechIcons/Celestial Navigation
-  rotate: false
-  xy: 868, 3767
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -2818,65 +2818,65 @@ TechIcons/Grand Crafts
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Great Magic Engineering
-  rotate: false
-  xy: 652, 2687
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 TechIcons/Guilds
   rotate: false
-  xy: 1732, 3767
+  xy: 1624, 3659
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Harmony of Life
   rotate: false
-  xy: 4, 1928
+  xy: 1948, 3983
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Herbalism
   rotate: false
-  xy: 760, 2687
+  xy: 652, 2579
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Heritage of Nations
   rotate: false
-  xy: 976, 2903
+  xy: 868, 2795
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Higher Learning
   rotate: false
-  xy: 1084, 3011
+  xy: 976, 2903
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Way of Inquiry
   rotate: false
-  xy: 1084, 3011
+  xy: 976, 2903
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/History and Classical Studies
   rotate: false
-  xy: 1300, 3227
+  xy: 1192, 3119
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Hunting and Husbandry
   rotate: false
-  xy: 2056, 3983
+  xy: 1948, 3875
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Industrial Armaments
+  rotate: false
+  xy: 4, 1820
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -2902,273 +2902,266 @@ TechIcons/Intelligent Constructs
   orig: 100, 100
   offset: 0, 0
   index: -1
+TechIcons/Interregional Trade
+  rotate: false
+  xy: 760, 2579
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TechIcons/Irrigation
   rotate: false
-  xy: 976, 2795
+  xy: 1084, 2903
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Laws of War
   rotate: false
-  xy: 1408, 3227
+  xy: 1516, 3335
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Literature and Education
   rotate: false
-  xy: 652, 2363
+  xy: 760, 2471
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Magic Engineering
   rotate: false
-  xy: 1192, 2903
+  xy: 1300, 3011
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Magic Engineering Experiments
   rotate: false
-  xy: 1300, 3011
+  xy: 1408, 3119
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Magic Instruments
-  rotate: false
-  xy: 1624, 3335
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TechIcons/Magitech Power Systems
-  rotate: false
-  xy: 1624, 3335
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TechIcons/Magic Records
+TechIcons/Magic Implements
   rotate: false
   xy: 1732, 3443
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Magical Communication
+TechIcons/Magic Metrology
   rotate: false
   xy: 1840, 3551
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Magical Materials Processing
+TechIcons/Magic Records
+  rotate: false
+  xy: 1948, 3659
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Magical Communication
   rotate: false
   xy: 2056, 3767
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+TechIcons/Magical Materials Processing
+  rotate: false
+  xy: 2272, 3983
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TechIcons/Magical Medicine
   rotate: false
-  xy: 2164, 3875
+  xy: 4, 1604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Magitech Power Systems
+  rotate: false
+  xy: 760, 2363
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Magitech Transport
   rotate: false
-  xy: 652, 2255
+  xy: 976, 2579
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Maritime Provisioning
   rotate: false
-  xy: 976, 2579
+  xy: 1300, 2903
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Mass Manufacturing
   rotate: false
-  xy: 1300, 2903
+  xy: 1624, 3227
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Mathematics and Measurement
   rotate: false
-  xy: 1624, 3227
+  xy: 1948, 3551
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Mechanical Engineering
   rotate: false
-  xy: 1840, 3443
+  xy: 2164, 3767
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Mechanical Power
   rotate: false
-  xy: 1948, 3551
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TechIcons/Mechanized Warfare
-  rotate: false
-  xy: 2056, 3659
+  xy: 2272, 3875
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Medicine
   rotate: false
-  xy: 2164, 3767
+  xy: 2380, 3983
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Medicine and Anatomy
   rotate: false
-  xy: 2164, 3767
+  xy: 2380, 3983
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Memory Preservation
   rotate: false
-  xy: 220, 1715
+  xy: 436, 1931
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Mental Coordination
   rotate: false
-  xy: 328, 1823
+  xy: 544, 2039
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Mental Resonance
   rotate: false
-  xy: 436, 1931
+  xy: 652, 2147
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Military Formations
   rotate: false
-  xy: 868, 2363
+  xy: 1084, 2579
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Military Organization
   rotate: false
-  xy: 868, 2363
+  xy: 1084, 2579
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Mining
   rotate: false
-  xy: 1084, 2579
+  xy: 1300, 2795
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Mirror Arts
   rotate: false
-  xy: 1192, 2687
+  xy: 1408, 2903
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Mithril Composites
   rotate: false
-  xy: 1840, 3335
+  xy: 2056, 3551
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Mithril Metallurgy
   rotate: false
-  xy: 1948, 3443
+  xy: 2164, 3659
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Mobile Warfare
   rotate: false
-  xy: 2056, 3551
+  xy: 2272, 3767
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Modern Medicine
   rotate: false
-  xy: 2164, 3659
+  xy: 2380, 3875
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Mutual Defense
   rotate: false
-  xy: 652, 2039
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TechIcons/Natural Philosophy
-  rotate: false
   xy: 868, 2255
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Nautical Engineering
-  rotate: false
-  xy: 976, 2363
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TechIcons/Naval Armaments
+TechIcons/Natural History
   rotate: false
   xy: 1084, 2471
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+TechIcons/Natural Philosophy
+  rotate: false
+  xy: 1192, 2579
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TechIcons/Ocean Navigation
   rotate: false
-  xy: 2488, 3875
+  xy: 2596, 3983
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Offshore Navigation
   rotate: false
-  xy: 2488, 3875
+  xy: 2596, 3983
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Ocean Supremacy
-  rotate: false
-  xy: 4, 1280
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TechIcons/Ocean Surveying
   rotate: false
   xy: 112, 1389
   size: 100, 100
@@ -3182,86 +3175,72 @@ TechIcons/Oral Transmission
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Overseas Settlement
-  rotate: false
-  xy: 652, 1931
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TechIcons/Overseas Trade Network
-  rotate: false
-  xy: 760, 2039
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TechIcons/Trade Charters
-  rotate: false
-  xy: 760, 2039
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 TechIcons/Precision Manufacturing
   rotate: false
-  xy: 1516, 2795
+  xy: 1300, 2579
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Printing and Publishing
   rotate: false
-  xy: 1840, 3119
+  xy: 1624, 2903
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Public Engineering
+  rotate: false
+  xy: 1732, 3011
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Railway Transport
   rotate: false
-  xy: 2056, 3335
+  xy: 1948, 3227
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Religious Philosophy
   rotate: false
-  xy: 2488, 3767
+  xy: 2380, 3659
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Repose and Memory
   rotate: false
-  xy: 2704, 3983
+  xy: 2596, 3875
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Resonance of Heaven and Earth
   rotate: false
-  xy: 112, 1281
+  xy: 4, 1172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Riding
   rotate: false
-  xy: 220, 1391
+  xy: 112, 1281
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Ritual Traditions
   rotate: false
-  xy: 436, 1607
+  xy: 328, 1499
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Rituals
   rotate: false
-  xy: 436, 1607
+  xy: 328, 1499
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -3322,667 +3301,688 @@ TechIcons/Spatial Engineering
   orig: 100, 100
   offset: 0, 0
   index: -1
+TechIcons/Spatial Theory
+  rotate: false
+  xy: 1300, 2363
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TechIcons/Spiritual Symbiosis
   rotate: false
-  xy: 1948, 3011
+  xy: 2056, 3119
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Standing Army
+  rotate: false
+  xy: 2488, 3551
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Star Charts
   rotate: false
-  xy: 2380, 3443
+  xy: 2596, 3659
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Steam Power
   rotate: false
-  xy: 2920, 3983
+  xy: 112, 1065
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Steel Forging
   rotate: false
-  xy: 4, 956
+  xy: 220, 1175
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Stonework
   rotate: false
-  xy: 544, 1499
+  xy: 760, 1715
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Structural Engineering
   rotate: false
-  xy: 652, 1607
+  xy: 868, 1823
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Symbolic Arts
   rotate: false
-  xy: 976, 1931
+  xy: 1192, 2147
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Telecommunications
   rotate: false
-  xy: 1192, 2147
+  xy: 1408, 2363
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Trade Charters
+  rotate: false
+  xy: 2488, 3443
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/War Coordination
   rotate: false
-  xy: 328, 1175
+  xy: 652, 1499
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/World Strategy
   rotate: false
-  xy: 2380, 3227
+  xy: 2704, 3551
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Writing
   rotate: false
-  xy: 2488, 3335
+  xy: 2812, 3659
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Aether Flak
   rotate: false
-  xy: 2546, 1755
+  xy: 2870, 2079
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Aether Flak-1
   rotate: false
-  xy: 2618, 1755
+  xy: 2942, 2079
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Aether Flak-2
   rotate: false
-  xy: 2689, 2860
+  xy: 3013, 3184
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ancestral Banner Riders
   rotate: false
-  xy: 1820, 1814
+  xy: 2144, 2138
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ancestral Banner Riders-1
   rotate: false
-  xy: 1599, 1519
+  xy: 1923, 1843
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Caravan Arbiter-1
   rotate: false
-  xy: 1599, 1519
+  xy: 1923, 1843
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Construct Guards-1
   rotate: false
-  xy: 1599, 1519
+  xy: 1923, 1843
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Guardian Constructs-1
   rotate: false
-  xy: 1599, 1519
+  xy: 1923, 1843
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Heavy Construct Guards-1
   rotate: false
-  xy: 1599, 1519
+  xy: 1923, 1843
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Monument Oathwalker-1
   rotate: false
-  xy: 1599, 1519
+  xy: 1923, 1843
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Precision Construct Guards-1
   rotate: false
-  xy: 1599, 1519
+  xy: 1923, 1843
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sea Road Navigator-1
   rotate: false
-  xy: 1599, 1519
+  xy: 1923, 1843
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spectral Knights-1
   rotate: false
-  xy: 1599, 1519
+  xy: 1923, 1843
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/War Golems-1
   rotate: false
-  xy: 1599, 1519
+  xy: 1923, 1843
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Wolf Riders-1
   rotate: false
-  xy: 1599, 1519
+  xy: 1923, 1843
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ancestral Banner Riders-2
   rotate: false
-  xy: 1712, 1700
+  xy: 2036, 2024
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ancient Grove Guardians
   rotate: false
-  xy: 868, 1626
+  xy: 1192, 1950
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ancient Grove Guardians-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Army Surgeons-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Bone Legion-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Boundary Mages-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Court Liches-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Elder Tree Guards-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Evokers-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Expedition Scouts-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Field Physicians-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Guardian of the Wilds-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hundredforge Artificer-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Instrument Mages-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Lantern Oathguard-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Legion Assault Infantry-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Legion Guards-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Lich Apprentices-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Magical Healers-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Memory Binders-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mercenary Crossbowmen-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mirror Detection Team-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Molten Seal Envoy-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Moonbranch Archers-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mountain Gate Guards-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/National Ward Ritualists-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Necromancers-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nether Oath Rangers-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Oathsworn Commander-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Pass Pikemen-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Reef Settler-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ruin Surveyors-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Shaping Mages-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Silent Mirror Keeper-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spirit Survey Team-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Springroad Physician-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Star-Gazer Sage-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Starlight Research Ritualists-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Undead Guards-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Vigil Chanters-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Woodland Bowmen-1
   rotate: false
-  xy: 976, 1734
+  xy: 1300, 2058
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ancient Grove Guardians-2
   rotate: false
-  xy: 1084, 1842
+  xy: 1408, 2166
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ancient Oath Dragon
   rotate: false
-  xy: 1707, 1622
+  xy: 2031, 1946
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Archers
   rotate: false
-  xy: 1192, 1950
+  xy: 1516, 2274
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Archers-1
   rotate: false
-  xy: 1300, 2058
+  xy: 1624, 2382
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Archers-2
   rotate: false
-  xy: 1408, 2166
+  xy: 1732, 2490
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Armored Ballista Ships
   rotate: false
-  xy: 2183, 1985
+  xy: 2507, 2309
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Armored Ballista Ships-1
   rotate: false
-  xy: 2255, 1985
+  xy: 2579, 2309
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Armored Ballista Ships-2
   rotate: false
-  xy: 2327, 1985
+  xy: 2651, 2309
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Armored Warbeasts
   rotate: false
-  xy: 1820, 1892
+  xy: 2144, 2216
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Armored Warbeasts-1
   rotate: false
-  xy: 1797, 1658
+  xy: 2121, 1982
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Trained Warbeasts-1
   rotate: false
-  xy: 1797, 1658
+  xy: 2121, 1982
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Armored Warbeasts-2
   rotate: false
-  xy: 1792, 1575
+  xy: 2116, 1899
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Armored Warships
   rotate: false
-  xy: 2474, 1691
+  xy: 2798, 2015
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Armored Warships-1
   rotate: false
-  xy: 2546, 1691
+  xy: 2870, 2015
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Armored Warships-2
   rotate: false
-  xy: 2618, 1691
+  xy: 2942, 2015
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Army Surgeons
   rotate: false
-  xy: 1516, 2274
+  xy: 1840, 2598
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Army Surgeons-2
   rotate: false
-  xy: 1624, 2382
+  xy: 1948, 2706
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Arquebusiers
   rotate: false
-  xy: 1732, 2490
+  xy: 2056, 2814
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Arquebusiers-1
   rotate: false
-  xy: 1840, 2598
+  xy: 2164, 2922
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Arquebusiers-2
   rotate: false
-  xy: 1948, 2706
+  xy: 2272, 3030
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Artificer Arquebusiers
   rotate: false
-  xy: 2056, 2814
+  xy: 2380, 3138
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Artificer Arquebusiers-1
   rotate: false
-  xy: 2164, 2922
+  xy: 2488, 3246
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Artificer Arquebusiers-2
   rotate: false
-  xy: 2272, 3030
+  xy: 2596, 3354
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Bay Serpent
   rotate: false
-  xy: 1690, 1558
+  xy: 2014, 1882
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Bone Hunters
   rotate: false
-  xy: 2380, 3138
+  xy: 2704, 3462
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Bone Legion
   rotate: false
-  xy: 2488, 3246
+  xy: 2812, 3570
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Bone Legion-2
   rotate: false
-  xy: 2596, 3360
+  xy: 2920, 3684
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Boundary Mages
   rotate: false
-  xy: 2704, 3467
+  xy: 3028, 3791
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
@@ -3996,14 +3996,14 @@ TileSets/AbsoluteUnits/Units/Boundary Mages-2
   index: -1
 TileSets/AbsoluteUnits/Units/Caravan Arbiter
   rotate: false
-  xy: 1933, 2094
+  xy: 2257, 2418
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Caravan Arbiter-2
   rotate: false
-  xy: 2018, 2056
+  xy: 2342, 2380
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
@@ -4031,42 +4031,42 @@ TileSets/AbsoluteUnits/Units/Catapults-2
   index: -1
 TileSets/AbsoluteUnits/Units/Channel Stabilizer
   rotate: false
-  xy: 1815, 1741
+  xy: 2139, 2065
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Plane Locator
   rotate: false
-  xy: 1815, 1741
+  xy: 2139, 2065
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Channel Stabilizer-1
   rotate: false
-  xy: 2041, 2207
+  xy: 2365, 2531
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Plane Locator-1
   rotate: false
-  xy: 2041, 2207
+  xy: 2365, 2531
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Channel Stabilizer-2
   rotate: false
-  xy: 2036, 2134
+  xy: 2360, 2458
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Plane Locator-2
   rotate: false
-  xy: 2036, 2134
+  xy: 2360, 2458
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
@@ -4080,49 +4080,49 @@ TileSets/AbsoluteUnits/Units/Composite Bowmen
   index: -1
 TileSets/AbsoluteUnits/Units/Composite Bowmen-1
   rotate: false
-  xy: 629, 1302
+  xy: 953, 1626
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Composite Bowmen-2
   rotate: false
-  xy: 737, 1410
+  xy: 1061, 1734
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Construct Cavalry
   rotate: false
-  xy: 2013, 1983
+  xy: 2337, 2307
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Construct Cavalry-1
   rotate: false
-  xy: 2098, 1983
+  xy: 2422, 2307
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Construct Cavalry-2
   rotate: false
-  xy: 2122, 2134
+  xy: 2446, 2458
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Construct Guards
   rotate: false
-  xy: 2103, 2056
+  xy: 2427, 2380
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Construct Guards-2
   rotate: false
-  xy: 1977, 1822
+  xy: 2301, 2146
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
@@ -4150,28 +4150,28 @@ TileSets/AbsoluteUnits/Units/Construct Sappers-2
   index: -1
 TileSets/AbsoluteUnits/Units/Contract Guards
   rotate: false
-  xy: 2704, 3556
+  xy: 3028, 3880
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Convoy Escort
   rotate: false
-  xy: 1631, 1299
+  xy: 1955, 1623
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Convoy Escort-1
   rotate: false
-  xy: 1608, 1235
+  xy: 1932, 1559
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Convoy Escort-2
   rotate: false
-  xy: 1608, 1171
+  xy: 1932, 1495
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -4213,7 +4213,7 @@ TileSets/AbsoluteUnits/Units/Crossbowmen-2
   index: -1
 TileSets/AbsoluteUnits/Units/Deep-Sea Warships
   rotate: false
-  xy: 1608, 1107
+  xy: 1932, 1431
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -4367,49 +4367,49 @@ TileSets/AbsoluteUnits/Units/Elder Tree Guards-2
   index: -1
 TileSets/AbsoluteUnits/Units/Evokers
   rotate: false
-  xy: 539, 1194
+  xy: 863, 1518
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Instrument Mages
   rotate: false
-  xy: 539, 1194
+  xy: 863, 1518
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Evokers-2
   rotate: false
-  xy: 642, 1213
+  xy: 966, 1537
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Instrument Mages-2
   rotate: false
-  xy: 642, 1213
+  xy: 966, 1537
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Expedition Scouts
   rotate: false
-  xy: 2596, 3271
+  xy: 2920, 3595
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Expedition Scouts-2
   rotate: false
-  xy: 2591, 3182
+  xy: 2915, 3506
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Feral Tree Guards
   rotate: false
-  xy: 2488, 3157
+  xy: 2812, 3481
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
@@ -4437,14 +4437,14 @@ TileSets/AbsoluteUnits/Units/Field Cannons-2
   index: -1
 TileSets/AbsoluteUnits/Units/Field Physicians
   rotate: false
-  xy: 2591, 3093
+  xy: 2915, 3417
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Field Physicians-2
   rotate: false
-  xy: 868, 1537
+  xy: 1192, 1861
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
@@ -4472,385 +4472,385 @@ TileSets/AbsoluteUnits/Units/Floating Carrier-2
   index: -1
 TileSets/AbsoluteUnits/Units/Flow Guide
   rotate: false
-  xy: 2149, 2315
+  xy: 2473, 2639
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Flow Guide-1
   rotate: false
-  xy: 2144, 2242
+  xy: 2468, 2566
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Flow Guide-2
   rotate: false
-  xy: 2257, 2423
+  xy: 2581, 2747
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Formation Infantry
   rotate: false
-  xy: 976, 1645
+  xy: 1300, 1969
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Formation Infantry-1
   rotate: false
-  xy: 971, 1556
+  xy: 1295, 1880
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Formation Infantry-2
   rotate: false
-  xy: 1084, 1753
+  xy: 1408, 2077
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Forsworn Specter
   rotate: false
-  xy: 1079, 1664
+  xy: 1403, 1988
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gate Control Hub
   rotate: false
-  xy: 2252, 2350
+  xy: 2576, 2674
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spatial Anchor
   rotate: false
-  xy: 2252, 2350
+  xy: 2576, 2674
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gate Control Hub-1
   rotate: false
-  xy: 2365, 2531
+  xy: 2689, 2855
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spatial Anchor-1
   rotate: false
-  xy: 2365, 2531
+  xy: 2689, 2855
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gate Control Hub-2
   rotate: false
-  xy: 2360, 2458
+  xy: 2684, 2782
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spatial Anchor-2
   rotate: false
-  xy: 2360, 2458
+  xy: 2684, 2782
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gatebreaker Catapult
   rotate: false
-  xy: 2062, 1818
+  xy: 2386, 2142
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gatebreaker Catapult-1
   rotate: false
-  xy: 2147, 1818
+  xy: 2471, 2142
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gear Cannon-1
   rotate: false
-  xy: 2147, 1818
+  xy: 2471, 2142
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gatebreaker Catapult-2
   rotate: false
-  xy: 2704, 3394
+  xy: 3028, 3718
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gear Cannon
   rotate: false
-  xy: 2699, 3239
+  xy: 3023, 3563
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gear Cannon-2
   rotate: false
-  xy: 2694, 3084
+  xy: 3018, 3408
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Giant Chief
   rotate: false
-  xy: 1905, 1883
+  xy: 2229, 2207
   size: 64, 84
   orig: 64, 84
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Space Guard
   rotate: false
-  xy: 1905, 1883
+  xy: 2229, 2207
   size: 64, 84
   orig: 64, 84
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Giant Chief-1
   rotate: false
-  xy: 2062, 1891
+  xy: 2386, 2215
   size: 64, 84
   orig: 64, 84
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Space Guard-1
   rotate: false
-  xy: 2062, 1891
+  xy: 2386, 2215
   size: 64, 84
   orig: 64, 84
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Giant Chief-2
   rotate: false
-  xy: 2134, 1891
+  xy: 2458, 2215
   size: 64, 84
   orig: 64, 84
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Space Guard-2
   rotate: false
-  xy: 2134, 1891
+  xy: 2458, 2215
   size: 64, 84
   orig: 64, 84
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Giant Hammer
   rotate: false
-  xy: 2812, 3664
+  xy: 3136, 3988
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Heavy Infantry
   rotate: false
-  xy: 2812, 3664
+  xy: 3136, 3988
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Giant Hammer-1
   rotate: false
-  xy: 2920, 3772
+  xy: 4, 745
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Heavy Infantry-1
   rotate: false
-  xy: 2920, 3772
+  xy: 4, 745
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Giant Hammer-2
   rotate: false
-  xy: 3028, 3880
+  xy: 112, 854
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Heavy Infantry-2
   rotate: false
-  xy: 3028, 3880
+  xy: 112, 854
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Grand Magitech Cannons
   rotate: false
-  xy: 2235, 2277
+  xy: 2559, 2601
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Grand Magitech Cannons-1
   rotate: false
-  xy: 2230, 2204
+  xy: 2554, 2528
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Grand Magitech Cannons-2
   rotate: false
-  xy: 2207, 2131
+  xy: 2531, 2455
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Artificer
   rotate: false
-  xy: 1192, 1861
+  xy: 1516, 2185
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Artificer-1
   rotate: false
-  xy: 1187, 1772
+  xy: 1511, 2096
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Artificer-2
   rotate: false
-  xy: 1300, 1969
+  xy: 1624, 2293
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Commander
   rotate: false
-  xy: 544, 1283
+  xy: 868, 1607
   size: 77, 100
   orig: 77, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Commander-1
   rotate: false
-  xy: 652, 1391
+  xy: 976, 1715
   size: 77, 100
   orig: 77, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Commander-2
   rotate: false
-  xy: 760, 1499
+  xy: 1084, 1823
   size: 77, 100
   orig: 77, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Scholar
   rotate: false
-  xy: 1295, 1880
+  xy: 1619, 2204
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Scholar-1
   rotate: false
-  xy: 1408, 2077
+  xy: 1732, 2401
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Scholar-2
   rotate: false
-  xy: 1403, 1988
+  xy: 1727, 2312
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Trade Envoy
   rotate: false
-  xy: 2689, 2924
+  xy: 3013, 3248
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Trade Envoy-1
   rotate: false
-  xy: 2188, 2053
+  xy: 2512, 2377
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Trade Envoy-2
   rotate: false
-  xy: 2206, 1907
+  xy: 2530, 2231
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Guardian Constructs
   rotate: false
-  xy: 2273, 2053
+  xy: 2597, 2377
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Heavy Construct Guards
   rotate: false
-  xy: 2273, 2053
+  xy: 2597, 2377
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Guardian Constructs-2
   rotate: false
-  xy: 2232, 1829
+  xy: 2556, 2153
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Heavy Construct Guards-2
   rotate: false
-  xy: 2232, 1829
+  xy: 2556, 2153
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Guardian of the Wilds
   rotate: false
-  xy: 1516, 2185
+  xy: 1840, 2509
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Guardian of the Wilds-2
   rotate: false
-  xy: 1511, 2096
+  xy: 1835, 2420
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Halberdiers
   rotate: false
-  xy: 3136, 3988
+  xy: 220, 964
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Halberdiers-1
   rotate: false
-  xy: 4, 745
+  xy: 328, 1072
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Halberdiers-2
   rotate: false
-  xy: 112, 854
+  xy: 436, 1180
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
@@ -4878,21 +4878,21 @@ TileSets/AbsoluteUnits/Units/Heavy Ballista Ships-2
   index: -1
 TileSets/AbsoluteUnits/Units/Heavy Ballistae
   rotate: false
-  xy: 2292, 2131
+  xy: 2616, 2455
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Heavy Ballistae-1
   rotate: false
-  xy: 2315, 2204
+  xy: 2639, 2528
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Heavy Ballistae-2
   rotate: false
-  xy: 2320, 2277
+  xy: 2644, 2601
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
@@ -4920,126 +4920,126 @@ TileSets/AbsoluteUnits/Units/Heavy Catapults-2
   index: -1
 TileSets/AbsoluteUnits/Units/Heavy Cavalry
   rotate: false
-  xy: 2291, 1907
+  xy: 2615, 2231
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Heavy Cavalry-1
   rotate: false
-  xy: 2358, 2053
+  xy: 2682, 2377
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Heavy Cavalry-2
   rotate: false
-  xy: 2317, 1829
+  xy: 2641, 2153
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hill Giant
   rotate: false
-  xy: 1624, 2293
+  xy: 1948, 2617
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Magitech Marksmen
   rotate: false
-  xy: 1624, 2293
+  xy: 1948, 2617
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hill Giant-1
   rotate: false
-  xy: 1619, 2204
+  xy: 1943, 2528
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Magitech Marksmen-1
   rotate: false
-  xy: 1619, 2204
+  xy: 1943, 2528
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hill Giant-2
   rotate: false
-  xy: 1732, 2401
+  xy: 2056, 2725
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Magitech Marksmen-2
   rotate: false
-  xy: 1732, 2401
+  xy: 2056, 2725
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Horse Archers
   rotate: false
-  xy: 2376, 1907
+  xy: 2700, 2231
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Skyline Horse Archers
   rotate: false
-  xy: 2376, 1907
+  xy: 2700, 2231
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Horse Archers-1
   rotate: false
-  xy: 2402, 1829
+  xy: 2726, 2153
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Skyline Horse Archers-2
   rotate: false
-  xy: 2402, 1829
+  xy: 2726, 2153
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Horse Archers-2
   rotate: false
-  xy: 2443, 2053
+  xy: 2767, 2377
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Skyline Horse Archers-1
   rotate: false
-  xy: 2443, 2053
+  xy: 2767, 2377
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hundredforge Artificer
   rotate: false
-  xy: 1727, 2312
+  xy: 2051, 2636
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hundredforge Artificer-2
   rotate: false
-  xy: 1840, 2509
+  xy: 2164, 2833
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Imperial Legion
   rotate: false
-  xy: 1835, 2420
+  xy: 2159, 2744
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
@@ -5067,77 +5067,77 @@ TileSets/AbsoluteUnits/Units/Ironclads-2
   index: -1
 TileSets/AbsoluteUnits/Units/Lantern Oathguard
   rotate: false
-  xy: 1948, 2617
+  xy: 2272, 2941
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Lantern Oathguard-2
   rotate: false
-  xy: 1943, 2528
+  xy: 2267, 2852
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Legion Assault Infantry
   rotate: false
-  xy: 2056, 2725
+  xy: 2380, 3049
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Legion Assault Infantry-2
   rotate: false
-  xy: 2051, 2636
+  xy: 2375, 2960
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Legion Guards
   rotate: false
-  xy: 2164, 2833
+  xy: 2488, 3157
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Legion Guards-2
   rotate: false
-  xy: 2159, 2744
+  xy: 2483, 3068
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Lich Apprentices
   rotate: false
-  xy: 2272, 2941
+  xy: 2596, 3265
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Lich Apprentices-2
   rotate: false
-  xy: 2267, 2852
+  xy: 2591, 3176
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Light Cavalry
   rotate: false
-  xy: 2471, 1975
+  xy: 2795, 2299
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Light Cavalry-1
   rotate: false
-  xy: 2528, 2053
+  xy: 2852, 2377
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Light Cavalry-2
   rotate: false
-  xy: 2556, 1975
+  xy: 2880, 2299
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
@@ -5165,35 +5165,35 @@ TileSets/AbsoluteUnits/Units/Machine Gun Crews-2
   index: -1
 TileSets/AbsoluteUnits/Units/Magical Healers
   rotate: false
-  xy: 737, 1321
+  xy: 1061, 1645
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Magical Healers-2
   rotate: false
-  xy: 745, 1232
+  xy: 1069, 1556
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Magitech Assault Riders
   rotate: false
-  xy: 2338, 2350
+  xy: 2662, 2674
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Magitech Assault Riders-1
   rotate: false
-  xy: 2377, 2131
+  xy: 2701, 2455
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Magitech Assault Riders-2
   rotate: false
-  xy: 2400, 2204
+  xy: 2724, 2528
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
@@ -5221,42 +5221,42 @@ TileSets/AbsoluteUnits/Units/Magitech Cannons-2
   index: -1
 TileSets/AbsoluteUnits/Units/Magitech Interceptor
   rotate: false
-  xy: 1280, 1273
+  xy: 1604, 1597
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Magitech Interceptor-1
   rotate: false
-  xy: 1388, 1381
+  xy: 1712, 1705
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Magitech Interceptor-2
   rotate: false
-  xy: 1383, 1308
+  xy: 1707, 1632
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Magitech Sniper
   rotate: false
-  xy: 642, 1124
+  xy: 966, 1448
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Magitech Sniper-1
   rotate: false
-  xy: 745, 1143
+  xy: 1069, 1467
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Magitech Sniper-2
   rotate: false
-  xy: 539, 1105
+  xy: 863, 1429
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
@@ -5284,231 +5284,231 @@ TileSets/AbsoluteUnits/Units/Magitech Warships-2
   index: -1
 TileSets/AbsoluteUnits/Units/Massed Pike Guards
   rotate: false
-  xy: 436, 1091
+  xy: 760, 1415
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Massed Pike Guards-1
   rotate: false
-  xy: 2380, 3049
+  xy: 2704, 3373
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Massed Pike Guards-2
   rotate: false
-  xy: 2483, 3068
+  xy: 2807, 3392
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Material Calibrator
   rotate: false
-  xy: 2375, 2960
+  xy: 2699, 3284
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Memory Binders
   rotate: false
-  xy: 2586, 3004
+  xy: 2910, 3328
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Memory Binders-2
   rotate: false
-  xy: 2483, 2979
+  xy: 2807, 3303
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mercenary Crossbowmen
   rotate: false
-  xy: 2586, 2915
+  xy: 2910, 3239
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mercenary Crossbowmen-2
   rotate: false
-  xy: 971, 1467
+  xy: 1295, 1791
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Militia
   rotate: false
-  xy: 1079, 1575
+  xy: 1403, 1899
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Militia-1
   rotate: false
-  xy: 1074, 1486
+  xy: 1398, 1810
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Militia-2
   rotate: false
-  xy: 1187, 1683
+  xy: 1511, 2007
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mirror Detection Team
   rotate: false
-  xy: 1182, 1594
+  xy: 1506, 1918
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mirror Detection Team-2
   rotate: false
-  xy: 1295, 1791
+  xy: 1619, 2115
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Molten Seal Envoy
   rotate: false
-  xy: 1290, 1702
+  xy: 1614, 2026
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Molten Seal Envoy-2
   rotate: false
-  xy: 1403, 1899
+  xy: 1727, 2223
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Monument Oathwalker
   rotate: false
-  xy: 2533, 1897
+  xy: 2857, 2221
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Monument Oathwalker-2
   rotate: false
-  xy: 2487, 1819
+  xy: 2811, 2143
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Moonbranch Archers
   rotate: false
-  xy: 1398, 1810
+  xy: 1722, 2134
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Moonbranch Archers-2
   rotate: false
-  xy: 1511, 2007
+  xy: 1835, 2331
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mountain Gate Guards
   rotate: false
-  xy: 1506, 1918
+  xy: 1830, 2242
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mountain Gate Guards-2
   rotate: false
-  xy: 1619, 2115
+  xy: 1943, 2439
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/National Ward Ritualists
   rotate: false
-  xy: 1614, 2026
+  xy: 1938, 2350
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/National Ward Ritualists-2
   rotate: false
-  xy: 1727, 2223
+  xy: 2051, 2547
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Naval Ballistae
   rotate: false
-  xy: 2547, 2132
+  xy: 2871, 2456
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Naval Ballistae-1
   rotate: false
-  xy: 2789, 3395
+  xy: 3113, 3719
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Naval Ballistae-2
   rotate: false
-  xy: 1536, 1188
+  xy: 1860, 1512
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Necromancers
   rotate: false
-  xy: 1722, 2134
+  xy: 2046, 2458
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Necromancers-2
   rotate: false
-  xy: 1835, 2331
+  xy: 2159, 2655
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nether Oath Rangers
   rotate: false
-  xy: 1830, 2242
+  xy: 2154, 2566
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nether Oath Rangers-2
   rotate: false
-  xy: 1943, 2439
+  xy: 2267, 2763
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Night Watch Guards
   rotate: false
-  xy: 2405, 2277
+  xy: 2729, 2601
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Night Watch Guards-1
   rotate: false
-  xy: 2462, 2131
+  xy: 2786, 2455
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Night Watch Guards-2
   rotate: false
-  xy: 2485, 2204
+  xy: 2809, 2528
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
@@ -5529,259 +5529,259 @@ TileSets/AbsoluteUnits/Units/Oared Galleys-1
   index: -1
 TileSets/AbsoluteUnits/Units/Oared Galleys-2
   rotate: false
-  xy: 1667, 1383
+  xy: 1991, 1707
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Oathshield Guards
   rotate: false
-  xy: 1938, 2350
+  xy: 2262, 2674
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Oathshield Guards-1
   rotate: false
-  xy: 2051, 2547
+  xy: 2375, 2871
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Oathshield Guards-2
   rotate: false
-  xy: 2046, 2458
+  xy: 2370, 2782
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Oathsworn Commander
   rotate: false
-  xy: 2159, 2655
+  xy: 2483, 2979
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Oathsworn Commander-2
   rotate: false
-  xy: 2154, 2566
+  xy: 2478, 2890
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ocean Escorts
   rotate: false
-  xy: 1703, 1319
+  xy: 2027, 1643
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ocean Escorts-1
   rotate: false
-  xy: 1703, 1255
+  xy: 2027, 1579
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ocean Escorts-2
   rotate: false
-  xy: 2920, 3708
+  xy: 436, 1116
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ocean Supply Ship
   rotate: false
-  xy: 2915, 3644
+  xy: 431, 1052
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Outlaw Raiders
   rotate: false
-  xy: 2267, 2763
+  xy: 2591, 3087
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Pass Pikemen
   rotate: false
-  xy: 2262, 2674
+  xy: 2586, 2998
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Pass Pikemen-2
   rotate: false
-  xy: 642, 1035
+  xy: 966, 1359
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Phalanx Guards
   rotate: false
-  xy: 539, 1016
+  xy: 863, 1340
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Phalanx Guards-1
   rotate: false
-  xy: 2375, 2871
+  xy: 2699, 3195
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Phalanx Guards-2
   rotate: false
-  xy: 2478, 2890
+  xy: 2802, 3214
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Plane Core
   rotate: false
-  xy: 1496, 1489
+  xy: 1820, 1813
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Plane Core-1
   rotate: false
-  xy: 1491, 1416
+  xy: 1815, 1740
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Plane Core-2
   rotate: false
-  xy: 1604, 1597
+  xy: 1928, 1921
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Precision Construct Guards
   rotate: false
-  xy: 2572, 1819
+  xy: 2896, 2143
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Precision Construct Guards-2
   rotate: false
-  xy: 1366, 1230
+  xy: 1690, 1554
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Raging Elemental
   rotate: false
-  xy: 2370, 2782
+  xy: 2694, 3106
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rangers
   rotate: false
-  xy: 2699, 3312
+  xy: 3023, 3636
   size: 77, 74
   orig: 77, 74
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rangers-1
   rotate: false
-  xy: 2694, 3157
+  xy: 3018, 3481
   size: 77, 74
   orig: 77, 74
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rangers-2
   rotate: false
-  xy: 2689, 3002
+  xy: 3013, 3326
   size: 77, 74
   orig: 77, 74
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Reef Settler
   rotate: false
-  xy: 2581, 2826
+  xy: 2905, 3150
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Reef Settler-2
   rotate: false
-  xy: 2478, 2801
+  xy: 2802, 3125
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Regular Infantry
   rotate: false
-  xy: 2581, 2737
+  xy: 2905, 3061
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Regular Infantry-1
   rotate: false
-  xy: 1074, 1397
+  xy: 1398, 1721
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Regular Infantry-2
   rotate: false
-  xy: 1182, 1505
+  xy: 1506, 1829
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Resonance Anchor
   rotate: false
-  xy: 1177, 1416
+  xy: 1501, 1740
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Riflemen
   rotate: false
-  xy: 220, 964
+  xy: 544, 1288
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Riflemen-1
   rotate: false
-  xy: 328, 1072
+  xy: 652, 1396
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Riflemen-2
   rotate: false
-  xy: 436, 1180
+  xy: 760, 1504
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rogue Construct
   rotate: false
-  xy: 1474, 1338
+  xy: 1798, 1662
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Royal Cavalry
   rotate: false
-  xy: 1469, 1260
+  xy: 1793, 1584
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Royal Cavalry-1
   rotate: false
-  xy: 845, 1459
+  xy: 1169, 1783
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
@@ -5795,98 +5795,98 @@ TileSets/AbsoluteUnits/Units/Royal Cavalry-2
   index: -1
 TileSets/AbsoluteUnits/Units/Ruin Surveyors
   rotate: false
-  xy: 1290, 1613
+  xy: 1614, 1937
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ruin Surveyors-2
   rotate: false
-  xy: 1285, 1524
+  xy: 1609, 1848
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rune Riflemen
   rotate: false
-  xy: 1398, 1721
+  xy: 1722, 2045
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rune Riflemen-1
   rotate: false
-  xy: 1393, 1632
+  xy: 1717, 1956
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rune Riflemen-2
   rotate: false
-  xy: 1506, 1829
+  xy: 1830, 2153
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sail Ballista Ship
   rotate: false
-  xy: 3131, 3860
+  xy: 647, 1268
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sail Ballista Ship-1
   rotate: false
-  xy: 3203, 3860
+  xy: 2206, 1923
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sail Ballista Ship-2
   rotate: false
-  xy: 3275, 3860
+  xy: 2201, 1859
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Scouts
   rotate: false
-  xy: 1501, 1740
+  xy: 1825, 2064
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Wyrmling
   rotate: false
-  xy: 1501, 1740
+  xy: 1825, 2064
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Scouts-1
   rotate: false
-  xy: 1614, 1937
+  xy: 1938, 2261
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Wyrmling-1
   rotate: false
-  xy: 1614, 1937
+  xy: 1938, 2261
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Scouts-2
   rotate: false
-  xy: 1609, 1848
+  xy: 1933, 2172
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Wyrmling-2
   rotate: false
-  xy: 1609, 1848
+  xy: 1933, 2172
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
@@ -5907,70 +5907,70 @@ TileSets/AbsoluteUnits/Units/Sea Road Navigator-2
   index: -1
 TileSets/AbsoluteUnits/Units/Shaping Mages
   rotate: false
-  xy: 1722, 2045
+  xy: 2046, 2369
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Shaping Mages-2
   rotate: false
-  xy: 1717, 1956
+  xy: 2041, 2280
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Shield Infantry
   rotate: false
-  xy: 1830, 2153
+  xy: 2154, 2477
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Shield Infantry-1
   rotate: false
-  xy: 1825, 2064
+  xy: 2149, 2388
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Shield Infantry-2
   rotate: false
-  xy: 1938, 2261
+  xy: 2262, 2585
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Silent Mirror Keeper
   rotate: false
-  xy: 1933, 2172
+  xy: 2257, 2496
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Silent Mirror Keeper-2
   rotate: false
-  xy: 2046, 2369
+  xy: 2370, 2693
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spearmen
   rotate: false
-  xy: 2041, 2280
+  xy: 2365, 2604
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spearmen-1
   rotate: false
-  xy: 2154, 2477
+  xy: 2478, 2801
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spearmen-2
   rotate: false
-  xy: 2149, 2388
+  xy: 2473, 2712
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
@@ -5991,91 +5991,91 @@ TileSets/AbsoluteUnits/Units/Spectral Knights-2
   index: -1
 TileSets/AbsoluteUnits/Units/Spirit Survey Team
   rotate: false
-  xy: 2262, 2585
+  xy: 2586, 2909
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spirit Survey Team-2
   rotate: false
-  xy: 2257, 2496
+  xy: 2581, 2820
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Springroad Physician
   rotate: false
-  xy: 642, 946
+  xy: 966, 1270
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Springroad Physician-2
   rotate: false
-  xy: 2370, 2693
+  xy: 2694, 3017
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Stabilization Core
   rotate: false
-  xy: 2473, 2712
+  xy: 2797, 3036
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Star-Gazer Sage
   rotate: false
-  xy: 2365, 2604
+  xy: 2689, 2928
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Star-Gazer Sage-2
   rotate: false
-  xy: 2576, 2648
+  xy: 2900, 2972
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Starlight Research Ritualists
   rotate: false
-  xy: 2473, 2623
+  xy: 2797, 2947
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Starlight Research Ritualists-2
   rotate: false
-  xy: 2576, 2559
+  xy: 2900, 2883
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Stealth Ship
   rotate: false
-  xy: 3851, 3860
+  xy: 3347, 3860
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Stealth Ship-1
   rotate: false
-  xy: 3923, 3860
+  xy: 3347, 3796
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Stealth Ship-2
   rotate: false
-  xy: 3995, 3860
+  xy: 3419, 3860
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Stellar Matrix
   rotate: false
-  xy: 1177, 1327
+  xy: 1501, 1651
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
@@ -6096,77 +6096,77 @@ TileSets/AbsoluteUnits/Units/Stone-Eating Giant
   index: -1
 TileSets/AbsoluteUnits/Units/Tidal Jellyfish Swarm
   rotate: false
-  xy: 2756, 2796
+  xy: 3563, 3860
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tidepattern Galley
   rotate: false
-  xy: 1667, 1447
+  xy: 1991, 1771
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tidepattern Galley-1
   rotate: false
-  xy: 2684, 2788
+  xy: 3008, 3112
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tidepattern Galley-2
   rotate: false
-  xy: 2679, 2652
+  xy: 3003, 2976
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Trained Warbeasts
   rotate: false
-  xy: 1928, 2011
+  xy: 2252, 2335
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Trained Warbeasts-2
   rotate: false
-  xy: 1977, 1900
+  xy: 2301, 2224
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Undead Guards
   rotate: false
-  xy: 1285, 1435
+  xy: 1609, 1759
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Undead Guards-2
   rotate: false
-  xy: 1280, 1346
+  xy: 1604, 1670
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Vigil Chanters
   rotate: false
-  xy: 1393, 1543
+  xy: 1717, 1867
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Vigil Chanters-2
   rotate: false
-  xy: 1388, 1454
+  xy: 1712, 1778
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Wandering Spiritfire
   rotate: false
-  xy: 1501, 1651
+  xy: 1825, 1975
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
@@ -6194,161 +6194,161 @@ TileSets/AbsoluteUnits/Units/Wild Wolf Pack
   index: -1
 TileSets/AbsoluteUnits/Units/Windlass Crossbowmen
   rotate: false
-  xy: 1496, 1562
+  xy: 1820, 1886
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Windlass Crossbowmen-1
   rotate: false
-  xy: 1609, 1759
+  xy: 1933, 2083
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Windlass Crossbowmen-2
   rotate: false
-  xy: 1604, 1670
+  xy: 1928, 1994
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Windriders
   rotate: false
-  xy: 431, 1013
+  xy: 755, 1337
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Windriders-1
   rotate: false
-  xy: 2468, 2545
+  xy: 2792, 2869
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Windriders-2
   rotate: false
-  xy: 1582, 1441
+  xy: 1906, 1765
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Windstring Horse Archers
   rotate: false
-  xy: 1577, 1363
+  xy: 1901, 1687
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Windstring Horse Archers-1
   rotate: false
-  xy: 1882, 1663
+  xy: 2206, 1987
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Windstring Horse Archers-2
   rotate: false
-  xy: 1451, 1182
+  xy: 1775, 1506
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Wolf Riders
   rotate: false
-  xy: 2232, 1751
+  xy: 2556, 2075
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Wolf Riders-2
   rotate: false
-  xy: 2317, 1751
+  xy: 2641, 2075
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Woodland Bowmen
   rotate: false
-  xy: 1717, 1867
+  xy: 2041, 2191
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Woodland Bowmen-2
   rotate: false
-  xy: 1712, 1778
+  xy: 2036, 2102
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Woodland Scouts
   rotate: false
-  xy: 1825, 1975
+  xy: 2149, 2299
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Work Boat
   rotate: false
-  xy: 2751, 2476
+  xy: 3707, 3796
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Work Boat-1
   rotate: false
-  xy: 328, 1008
+  xy: 3779, 3860
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Work Boat-2
   rotate: false
-  xy: 2812, 3600
+  xy: 3779, 3796
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Abyssal Ancient City
   rotate: false
-  xy: 2461, 1911
+  xy: 2785, 2235
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Abyssal Vortex
   rotate: false
-  xy: 2474, 1755
+  xy: 2798, 2079
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Amber
   rotate: false
-  xy: 2684, 2724
+  xy: 3008, 3048
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Amber Sunken Forest
   rotate: false
-  xy: 2679, 2516
+  xy: 3003, 2840
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Apiary
   rotate: false
-  xy: 2402, 1693
+  xy: 2726, 2017
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Herb Garden
   rotate: false
-  xy: 2402, 1693
+  xy: 2726, 2017
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -6362,14 +6362,14 @@ TileSets/HexaRealm/Tiles/Berries
   index: -1
 TileSets/HexaRealm/Tiles/Clay
   rotate: false
-  xy: 1559, 1299
+  xy: 1883, 1623
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Crystalsleep Mountains
   rotate: false
-  xy: 1536, 1124
+  xy: 1860, 1448
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -6425,7 +6425,7 @@ TileSets/HexaRealm/Tiles/Grapes+Plantation
   index: -1
 TileSets/HexaRealm/Tiles/Grapes+Plantation-Pillaged
   rotate: false
-  xy: 2399, 1985
+  xy: 2723, 2309
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
@@ -6488,7 +6488,7 @@ TileSets/HexaRealm/Tiles/Livestock+Pasture-Industrial era
   index: -1
 TileSets/HexaRealm/Tiles/Livestock+Pasture-Pillaged
   rotate: false
-  xy: 2402, 1757
+  xy: 2726, 2081
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
@@ -6530,126 +6530,126 @@ TileSets/HexaRealm/Tiles/Night Jade
   index: -1
 TileSets/HexaRealm/Tiles/Practice Circle
   rotate: false
-  xy: 2992, 3708
+  xy: 508, 1116
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Reef Island
   rotate: false
-  xy: 2987, 3644
+  xy: 503, 1052
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Rock Salt
   rotate: false
-  xy: 3136, 3924
+  xy: 652, 1332
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Silent Sand Sea
   rotate: false
-  xy: 3347, 3860
+  xy: 3136, 3924
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Singing Tide Pillars
   rotate: false
-  xy: 3419, 3860
+  xy: 3131, 3860
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Skycleft Gorge
   rotate: false
-  xy: 3491, 3860
+  xy: 3131, 3796
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Spirit Spring
   rotate: false
-  xy: 3563, 3860
+  xy: 3203, 3860
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Spiritroot Reserve
   rotate: false
-  xy: 3635, 3860
+  xy: 3203, 3796
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Spring Garden
   rotate: false
-  xy: 3707, 3860
+  xy: 3275, 3860
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Star-Mirror Lake
   rotate: false
-  xy: 3779, 3860
+  xy: 3275, 3796
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Sunken Bell Reef
   rotate: false
-  xy: 1882, 1599
+  xy: 3419, 3796
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Terrace Farm
   rotate: false
-  xy: 1877, 1535
+  xy: 3491, 3860
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Thunderstone Plains
   rotate: false
-  xy: 2761, 2860
+  xy: 3491, 3796
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Trade Post
   rotate: false
-  xy: 2756, 2732
+  xy: 3563, 3796
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Trade Post-Industrial era
   rotate: false
-  xy: 2756, 2668
+  xy: 3635, 3860
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Trade Post-Pillaged
   rotate: false
-  xy: 2679, 2580
+  xy: 3003, 2904
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Waterwheel Yard
   rotate: false
-  xy: 2751, 2604
+  xy: 3635, 3796
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Whalefall Trench
   rotate: false
-  xy: 2751, 2540
+  xy: 3707, 3860
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -7069,112 +7069,112 @@ UnitIcons/Great Artist
   index: -1
 UnitIcons/Great Commander
   rotate: false
-  xy: 2596, 3449
+  xy: 2920, 3773
   size: 100, 94
   orig: 100, 94
   offset: 0, 0
   index: -1
 UnitIcons/Great Prophet
   rotate: false
-  xy: 868, 2903
+  xy: 760, 2795
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Great Scholar
   rotate: false
-  xy: 1084, 3119
+  xy: 976, 3011
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Great Trade Envoy
   rotate: false
-  xy: 1192, 3227
+  xy: 1084, 3119
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Guardian Constructs
   rotate: false
-  xy: 1408, 3443
+  xy: 1300, 3335
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Heavy Construct Guards
   rotate: false
-  xy: 1408, 3443
+  xy: 1300, 3335
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Guardian of the Wilds
   rotate: false
-  xy: 1516, 3551
+  xy: 1408, 3443
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Heavy Ballista Ships
   rotate: false
-  xy: 220, 2147
+  xy: 112, 2037
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Heavy Ballistae
   rotate: false
-  xy: 328, 2255
+  xy: 220, 2147
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Heavy Catapults
   rotate: false
-  xy: 436, 2363
+  xy: 328, 2255
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Heavy Cavalry
   rotate: false
-  xy: 544, 2471
+  xy: 436, 2363
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Hill Giant
   rotate: false
-  xy: 1192, 3119
+  xy: 1084, 3011
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Magitech Marksmen
   rotate: false
-  xy: 1192, 3119
+  xy: 1084, 3011
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Horse Archers
   rotate: false
-  xy: 1516, 3443
+  xy: 1408, 3335
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Skyline Horse Archers
   rotate: false
-  xy: 1516, 3443
+  xy: 1408, 3335
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Hundredforge Artificer
   rotate: false
-  xy: 1948, 3875
+  xy: 1840, 3767
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -7188,210 +7188,210 @@ UnitIcons/Inquisitor
   index: -1
 UnitIcons/Ironclads
   rotate: false
-  xy: 868, 2687
+  xy: 976, 2795
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Lantern Oathguard
   rotate: false
-  xy: 1300, 3119
+  xy: 1408, 3227
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Legion Assault Infantry
   rotate: false
-  xy: 1732, 3551
+  xy: 1840, 3659
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Legion Guards
   rotate: false
-  xy: 1948, 3767
+  xy: 2056, 3875
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Lich Apprentices
   rotate: false
-  xy: 4, 1712
+  xy: 112, 1821
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Light Cavalry
   rotate: false
-  xy: 328, 2039
+  xy: 436, 2147
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Machine Gun Crews
   rotate: false
-  xy: 868, 2579
+  xy: 976, 2687
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Magical Healers
   rotate: false
-  xy: 1948, 3659
+  xy: 2164, 3875
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Magitech Assault Riders
   rotate: false
-  xy: 2272, 3983
+  xy: 112, 1713
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Magitech Cannons
   rotate: false
-  xy: 4, 1604
+  xy: 220, 1823
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Magitech Interceptor
   rotate: false
-  xy: 328, 1931
+  xy: 544, 2147
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Plane Core
   rotate: false
-  xy: 328, 1931
+  xy: 544, 2147
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Magitech Sniper
   rotate: false
-  xy: 544, 2147
+  xy: 868, 2471
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Magitech Warships
   rotate: false
-  xy: 760, 2363
+  xy: 1084, 2687
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Massed Pike Guards
   rotate: false
-  xy: 1408, 3011
+  xy: 1732, 3335
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Material Calibrator
   rotate: false
-  xy: 1516, 3119
+  xy: 1840, 3443
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Memory Binders
   rotate: false
-  xy: 112, 1605
+  xy: 328, 1823
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Mercenary Crossbowmen
   rotate: false
-  xy: 652, 2147
+  xy: 868, 2363
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Militia
   rotate: false
-  xy: 976, 2471
+  xy: 1192, 2687
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Mirror Detection Team
   rotate: false
-  xy: 1300, 2795
+  xy: 1516, 3011
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Missionary
   rotate: false
-  xy: 1624, 3119
+  xy: 1840, 3335
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Molten Seal Envoy
   rotate: false
-  xy: 2272, 3767
+  xy: 2488, 3983
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Monument Oathwalker
   rotate: false
-  xy: 2488, 3983
+  xy: 112, 1497
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Moonbranch Archers
   rotate: false
-  xy: 4, 1388
+  xy: 220, 1607
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Mountain Gate Guards
   rotate: false
-  xy: 328, 1715
+  xy: 544, 1931
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/National Ward Ritualists
   rotate: false
-  xy: 760, 2147
+  xy: 976, 2363
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Naval Ballistae
   rotate: false
-  xy: 1300, 2687
+  xy: 1408, 2795
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Necromancers
   rotate: false
-  xy: 1408, 2795
+  xy: 1516, 2903
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Nether Oath Rangers
   rotate: false
-  xy: 1516, 2903
+  xy: 1624, 3011
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Night Watch Guards
   rotate: false
-  xy: 1732, 3119
+  xy: 1840, 3227
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -7405,35 +7405,35 @@ UnitIcons/Oared Galleys
   index: -1
 UnitIcons/Oathshield Guards
   rotate: false
-  xy: 2056, 3443
+  xy: 2164, 3551
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Phalanx Guards
   rotate: false
-  xy: 2056, 3443
+  xy: 2164, 3551
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Oathsworn Commander
   rotate: false
-  xy: 2164, 3551
+  xy: 2272, 3659
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ocean Escorts
   rotate: false
-  xy: 2380, 3767
+  xy: 2488, 3875
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ocean Supply Ship
   rotate: false
-  xy: 2596, 3983
+  xy: 4, 1280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -7447,84 +7447,84 @@ UnitIcons/Outlaw Raiders
   index: -1
 UnitIcons/Pass Pikemen
   rotate: false
-  xy: 976, 2255
+  xy: 760, 2039
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Precision Construct Guards
   rotate: false
-  xy: 1408, 2687
+  xy: 1192, 2471
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Raging Elemental
   rotate: false
-  xy: 1948, 3227
+  xy: 1840, 3119
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rangers
   rotate: false
-  xy: 2164, 3443
+  xy: 2056, 3335
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Reef Settler
   rotate: false
-  xy: 2272, 3551
+  xy: 2164, 3443
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Regular Infantry
   rotate: false
-  xy: 2380, 3659
+  xy: 2272, 3551
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Shield Infantry
   rotate: false
-  xy: 2380, 3659
+  xy: 2272, 3551
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Resonance Anchor
   rotate: false
-  xy: 4, 1172
+  xy: 2704, 3983
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Riflemen
   rotate: false
-  xy: 328, 1499
+  xy: 220, 1391
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rogue Construct
   rotate: false
-  xy: 760, 1931
+  xy: 652, 1823
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Royal Cavalry
   rotate: false
-  xy: 976, 2147
+  xy: 868, 2039
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ruin Surveyors
   rotate: false
-  xy: 1084, 2255
+  xy: 976, 2147
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -7587,84 +7587,84 @@ UnitIcons/Silent Mirror Keeper
   index: -1
 UnitIcons/Spearmen
   rotate: false
-  xy: 1300, 2363
+  xy: 1408, 2471
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Spectral Knights
   rotate: false
-  xy: 1408, 2471
+  xy: 1516, 2579
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Spirit Survey Team
   rotate: false
-  xy: 1732, 2795
+  xy: 1840, 2903
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Springroad Physician
   rotate: false
-  xy: 2164, 3227
+  xy: 2272, 3335
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Stabilization Core
   rotate: false
-  xy: 2272, 3335
+  xy: 2380, 3443
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Star-Gazer Sage
   rotate: false
-  xy: 2596, 3659
+  xy: 2812, 3875
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Starlight Research Ritualists
   rotate: false
-  xy: 2704, 3767
+  xy: 2920, 3983
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Stealth Ship
   rotate: false
-  xy: 2812, 3875
+  xy: 4, 956
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Stellar Matrix
   rotate: false
-  xy: 112, 1065
+  xy: 328, 1283
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Steppe Horse Archers
   rotate: false
-  xy: 220, 1175
+  xy: 436, 1391
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Stone-Eating Giant
   rotate: false
-  xy: 436, 1391
+  xy: 652, 1607
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Tidal Jellyfish Swarm
   rotate: false
-  xy: 2056, 3011
+  xy: 2272, 3227
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -7678,1673 +7678,1673 @@ UnitIcons/Tidepattern Galley
   index: -1
 UnitIcons/Trained Warbeasts
   rotate: false
-  xy: 2488, 3443
+  xy: 2812, 3767
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Undead Guards
   rotate: false
-  xy: 2704, 3659
+  xy: 3028, 3983
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Vigil Chanters
   rotate: false
-  xy: 4, 848
+  xy: 328, 1175
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Wandering Spiritfire
   rotate: false
-  xy: 220, 1067
+  xy: 544, 1391
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/War Golems
   rotate: false
-  xy: 436, 1283
+  xy: 760, 1607
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Wild Wolf Pack
   rotate: false
-  xy: 1084, 1931
+  xy: 1408, 2255
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Windlass Crossbowmen
   rotate: false
-  xy: 1192, 2039
+  xy: 1516, 2363
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Windriders
   rotate: false
-  xy: 1300, 2147
+  xy: 1624, 2471
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Windstring Horse Archers
   rotate: false
-  xy: 1408, 2255
+  xy: 1732, 2579
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Wolf Riders
   rotate: false
-  xy: 1516, 2363
+  xy: 1840, 2687
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Woodland Bowmen
   rotate: false
-  xy: 1624, 2471
+  xy: 1948, 2795
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Woodland Scouts
   rotate: false
-  xy: 1732, 2579
+  xy: 2056, 2903
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Work Boat
   rotate: false
-  xy: 1840, 2687
+  xy: 2164, 3011
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Worker
   rotate: false
-  xy: 1948, 2795
+  xy: 2272, 3119
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Aiming
   rotate: false
-  xy: 2981, 3586
+  xy: 3185, 3738
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Deck Guns
   rotate: false
-  xy: 2981, 3586
+  xy: 3185, 3738
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Airborne Resupply
   rotate: false
-  xy: 2981, 3528
+  xy: 3185, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Ambush
   rotate: false
-  xy: 2923, 3470
+  xy: 3085, 3190
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Amphibious Transport
   rotate: false
-  xy: 2981, 3470
+  xy: 2278, 1929
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Ancient Grove Guard
   rotate: false
-  xy: 3039, 3586
+  xy: 3851, 3750
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Anomaly Tracking
   rotate: false
-  xy: 3039, 3528
+  xy: 3909, 3750
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Anti-Ship Battery
   rotate: false
-  xy: 3039, 3470
+  xy: 3967, 3750
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Ramming Strike
   rotate: false
-  xy: 3039, 3470
+  xy: 3967, 3750
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Arcane Focus
   rotate: false
-  xy: 1954, 1605
+  xy: 4025, 3750
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Armor Piercing
   rotate: false
-  xy: 1954, 1547
+  xy: 3085, 3132
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Armor Plating
   rotate: false
-  xy: 1949, 1489
+  xy: 3080, 3074
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Horse Armor
   rotate: false
-  xy: 1949, 1489
+  xy: 3080, 3074
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Iron Plate
   rotate: false
-  xy: 1949, 1489
+  xy: 3080, 3074
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Pike Hedge
   rotate: false
-  xy: 1949, 1489
+  xy: 3080, 3074
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Shield Block
   rotate: false
-  xy: 1949, 1489
+  xy: 3080, 3074
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Armor Rend
   rotate: false
-  xy: 2613, 2074
+  xy: 3080, 3016
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Demolition Shell
   rotate: false
-  xy: 2613, 2074
+  xy: 3080, 3016
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Armor-Piercing Hex
   rotate: false
-  xy: 2641, 2016
+  xy: 3075, 2958
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Armored Deck
   rotate: false
-  xy: 2641, 1958
+  xy: 3075, 2900
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Precision Drop
   rotate: false
-  xy: 2641, 1958
+  xy: 3075, 2900
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Armored Hull
   rotate: false
-  xy: 2446, 2473
+  xy: 3075, 2842
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Sea Escort
   rotate: false
-  xy: 2446, 2473
+  xy: 3075, 2842
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Armored Protection
   rotate: false
-  xy: 2504, 2487
+  xy: 2278, 1871
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Hold the Front
   rotate: false
-  xy: 2504, 2487
+  xy: 2278, 1871
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Arrow Rain
   rotate: false
-  xy: 2562, 2501
+  xy: 2273, 1813
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Press Forward
   rotate: false
-  xy: 2562, 2501
+  xy: 2273, 1813
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Resupply at Sea
   rotate: false
-  xy: 2562, 2501
+  xy: 2273, 1813
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Windrider
   rotate: false
-  xy: 2562, 2501
+  xy: 2273, 1813
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Assault Orders
   rotate: false
-  xy: 2620, 2501
+  xy: 2937, 2398
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Legions and Expeditions
   rotate: false
-  xy: 2620, 2501
+  xy: 2937, 2398
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Valor
   rotate: false
-  xy: 2620, 2501
+  xy: 2937, 2398
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Legions and Expeditions
   rotate: false
-  xy: 2620, 2501
+  xy: 2937, 2398
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Bastion
   rotate: false
-  xy: 2446, 2415
+  xy: 2965, 2340
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Immovable
   rotate: false
-  xy: 2446, 2415
+  xy: 2965, 2340
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Unbroken
   rotate: false
-  xy: 2446, 2415
+  xy: 2965, 2340
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Unshakable
   rotate: false
-  xy: 2446, 2415
+  xy: 2965, 2340
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Battlefield Deduction
   rotate: false
-  xy: 2504, 2429
+  xy: 2965, 2282
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Experimental Methods
   rotate: false
-  xy: 2504, 2429
+  xy: 2965, 2282
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Beast Instinct
   rotate: false
-  xy: 2562, 2443
+  xy: 2770, 2797
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Behemoth Hunter
   rotate: false
-  xy: 2620, 2443
+  xy: 2828, 2811
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Blade Drill
   rotate: false
-  xy: 2678, 2458
+  xy: 2886, 2825
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Bloodlust
   rotate: false
-  xy: 2423, 2357
+  xy: 2944, 2825
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Boarding Party
   rotate: false
-  xy: 2481, 2357
+  xy: 2770, 2739
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Bone Plating
   rotate: false
-  xy: 2490, 2299
+  xy: 2828, 2753
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Boundless Patrol
   rotate: false
-  xy: 2736, 2418
+  xy: 2944, 2767
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Break the Line
   rotate: false
-  xy: 2794, 2418
+  xy: 3002, 2782
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Breath Enhancement
   rotate: false
-  xy: 2562, 2385
+  xy: 2747, 2681
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Heal Instantly
   rotate: false
-  xy: 2562, 2385
+  xy: 2747, 2681
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Calibration
   rotate: false
-  xy: 2620, 2385
+  xy: 2805, 2681
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Nimble Rider
   rotate: false
-  xy: 2620, 2385
+  xy: 2805, 2681
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Spear Thrust
   rotate: false
-  xy: 2620, 2385
+  xy: 2805, 2681
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Celestial Parsing
   rotate: false
-  xy: 2548, 2327
+  xy: 2814, 2623
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Charge
   rotate: false
-  xy: 2606, 2327
+  xy: 3060, 2782
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Combat Protocol
   rotate: false
-  xy: 2744, 2284
+  xy: 2995, 2419
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Comprehensive Care
   rotate: false
-  xy: 2802, 2128
+  xy: 3081, 2245
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Concentrated Bombing
   rotate: false
-  xy: 2677, 2110
+  xy: 2965, 2224
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Home Port
   rotate: false
-  xy: 2677, 2110
+  xy: 2965, 2224
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Construct Bane
   rotate: false
-  xy: 2699, 1994
+  xy: 3097, 2187
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Deep Dive
   rotate: false
-  xy: 2699, 1994
+  xy: 3097, 2187
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Echo
   rotate: false
-  xy: 2699, 1994
+  xy: 3097, 2187
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Contract Network
   rotate: false
-  xy: 2699, 1936
+  xy: 3039, 2129
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Core Overload
   rotate: false
-  xy: 2657, 1842
+  xy: 3014, 2071
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Counter-Cavalry
   rotate: false
-  xy: 2793, 2070
+  xy: 3072, 2071
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Hold Ground
   rotate: false
-  xy: 2793, 2070
+  xy: 3072, 2071
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Phalanx
   rotate: false
-  xy: 2793, 2070
+  xy: 3072, 2071
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Tortoise Block
   rotate: false
-  xy: 2793, 2070
+  xy: 3072, 2071
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Crew Defence
   rotate: false
-  xy: 2715, 1820
+  xy: 3130, 2071
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Take Cover
   rotate: false
-  xy: 2715, 1820
+  xy: 3130, 2071
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Crew Drills II
   rotate: false
-  xy: 2690, 1762
+  xy: 3130, 2013
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Crushing Assault
   rotate: false
-  xy: 2690, 1704
+  xy: 323, 1009
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Master Gunner
   rotate: false
-  xy: 2690, 1704
+  xy: 323, 1009
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Crystal Ward
   rotate: false
-  xy: 2748, 1762
+  xy: 539, 1225
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Resonant Ward
   rotate: false
-  xy: 2748, 1762
+  xy: 539, 1225
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Solid-Phase Barrier
   rotate: false
-  xy: 2748, 1762
+  xy: 539, 1225
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Crystal Ward Covenant
   rotate: false
-  xy: 2748, 1704
+  xy: 719, 1274
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Deep Voyage
   rotate: false
-  xy: 2748, 1646
+  xy: 719, 1216
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Distant Star Watch
   rotate: false
-  xy: 2774, 3007
+  xy: 3098, 3331
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Dive Resupply
   rotate: false
-  xy: 2007, 1489
+  xy: 2331, 1813
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Soul Rend
   rotate: false
-  xy: 2007, 1489
+  xy: 2331, 1813
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Soulfire
   rotate: false
-  xy: 2007, 1489
+  xy: 2331, 1813
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Dragon Far Sight
   rotate: false
-  xy: 2823, 2610
+  xy: 3138, 3074
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Dragonspine Echo
   rotate: false
-  xy: 2823, 2552
+  xy: 3138, 3016
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Elemental Deconstruction
   rotate: false
-  xy: 2852, 2436
+  xy: 3133, 2900
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Emergency Aid
   rotate: false
-  xy: 2852, 2378
+  xy: 3133, 2842
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Field Surgery
   rotate: false
-  xy: 2852, 2378
+  xy: 3133, 2842
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Encircle
   rotate: false
-  xy: 2860, 2320
+  xy: 3176, 2784
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Raid Volley
   rotate: false
-  xy: 2860, 2320
+  xy: 3176, 2784
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Enemy Analysis
   rotate: false
-  xy: 2860, 2262
+  xy: 835, 1279
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Tactical Research
   rotate: false
-  xy: 2860, 2262
+  xy: 835, 1279
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Escort March
   rotate: false
-  xy: 2784, 3336
+  xy: 893, 1224
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Escort Screen
   rotate: false
-  xy: 2784, 3278
+  xy: 951, 1212
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Heavy Racks
   rotate: false
-  xy: 2784, 3278
+  xy: 951, 1212
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Eternal Memorial
   rotate: false
-  xy: 2842, 3310
+  xy: 1009, 1212
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Ethereal Body
   rotate: false
-  xy: 2900, 3310
+  xy: 893, 1166
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Light Kit
   rotate: false
-  xy: 2900, 3310
+  xy: 893, 1166
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Lookout
   rotate: false
-  xy: 2900, 3310
+  xy: 893, 1166
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Evasive Manoeuvres
   rotate: false
-  xy: 2919, 3368
+  xy: 951, 1154
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Everlight Oath
   rotate: false
-  xy: 2958, 3310
+  xy: 1009, 1154
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Expert Crew
   rotate: false
-  xy: 3016, 3354
+  xy: 3166, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Far Forest Walker
   rotate: false
-  xy: 2832, 2949
+  xy: 3282, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Far Gaze
   rotate: false
-  xy: 2833, 2891
+  xy: 3301, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Mail Barding
   rotate: false
-  xy: 2833, 2891
+  xy: 3301, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Shade Step
   rotate: false
-  xy: 2833, 2891
+  xy: 3301, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Fine Treatment
   rotate: false
-  xy: 1901, 1756
+  xy: 3359, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/First Aid
   rotate: false
-  xy: 1901, 1756
+  xy: 3359, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Fleet Coordination
   rotate: false
-  xy: 3093, 3412
+  xy: 3398, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Ocean Supply
   rotate: false
-  xy: 3093, 3412
+  xy: 3398, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Fleetfoot
   rotate: false
-  xy: 840, 1352
+  xy: 3417, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Phase Walk
   rotate: false
-  xy: 840, 1352
+  xy: 3417, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Flexible Deployment
   rotate: false
-  xy: 848, 1294
+  xy: 3456, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Forest Passage
   rotate: false
-  xy: 848, 1236
+  xy: 3475, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Formless Body
   rotate: false
-  xy: 848, 1178
+  xy: 3514, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Forward Observer
   rotate: false
-  xy: 848, 1120
+  xy: 3533, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Marksman
   rotate: false
-  xy: 848, 1120
+  xy: 3533, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Full Advance
   rotate: false
-  xy: 1738, 1081
+  xy: 3688, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/War Mobilization
   rotate: false
-  xy: 1738, 1081
+  xy: 3688, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Grape Shot
   rotate: false
-  xy: 1738, 1023
+  xy: 3746, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Grave Warden
   rotate: false
-  xy: 395, 650
+  xy: 3765, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Grove Shelter
   rotate: false
-  xy: 395, 592
+  xy: 3804, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Life Echo
   rotate: false
-  xy: 395, 592
+  xy: 3804, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Guardian Lantern
   rotate: false
-  xy: 395, 534
+  xy: 3823, 3680
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Guardian Protocol
   rotate: false
-  xy: 395, 476
+  xy: 3881, 3692
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Hundredforge Resonance
   rotate: false
-  xy: 395, 476
+  xy: 3881, 3692
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Guerrilla
   rotate: false
-  xy: 395, 418
+  xy: 3939, 3692
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Gun Shield
   rotate: false
-  xy: 395, 302
+  xy: 3862, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Suppressing Fire
   rotate: false
-  xy: 395, 302
+  xy: 3862, 3622
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Halberd Sweep
   rotate: false
-  xy: 395, 244
+  xy: 3920, 3634
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Outflank
   rotate: false
-  xy: 395, 244
+  xy: 3920, 3634
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Stable Mount
   rotate: false
-  xy: 395, 244
+  xy: 3920, 3634
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Hardy
   rotate: false
-  xy: 395, 186
+  xy: 3978, 3634
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Healing Relay
   rotate: false
-  xy: 395, 128
+  xy: 4036, 3634
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Medical Corps
   rotate: false
-  xy: 395, 128
+  xy: 4036, 3634
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Heavy Blow
   rotate: false
-  xy: 395, 70
+  xy: 3920, 3576
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Siegecraft
   rotate: false
-  xy: 395, 70
+  xy: 3920, 3576
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Herbalism
   rotate: false
-  xy: 395, 12
+  xy: 3978, 3576
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/High Cruise
   rotate: false
-  xy: 1977, 1764
+  xy: 4036, 3576
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Hillrunner
   rotate: false
-  xy: 2035, 1760
+  xy: 3156, 3331
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/History Witness
   rotate: false
-  xy: 2151, 1760
+  xy: 3143, 3215
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Hot Pursuit
   rotate: false
-  xy: 1967, 1706
+  xy: 3143, 3157
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Hunter's Mark
   rotate: false
-  xy: 2025, 1702
+  xy: 3201, 3215
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Runner Down
   rotate: false
-  xy: 2025, 1702
+  xy: 3201, 3215
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Iron Phalanx
   rotate: false
-  xy: 2070, 1644
+  xy: 835, 1163
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Lantern Barrier
   rotate: false
-  xy: 2128, 1586
+  xy: 1009, 1096
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Lantern Judgment
   rotate: false
-  xy: 2186, 1635
+  xy: 3254, 3099
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Line Breaker
   rotate: false
-  xy: 2302, 1635
+  xy: 3254, 2983
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Linked Action
   rotate: false
-  xy: 2360, 1635
+  xy: 3249, 2925
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Mage Shield
   rotate: false
-  xy: 2065, 1528
+  xy: 3249, 2867
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Magic Breakdown
   rotate: false
-  xy: 2065, 1470
+  xy: 3234, 2809
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Spellcraft Curriculum
   rotate: false
-  xy: 2065, 1470
+  xy: 3234, 2809
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Marching Doctor
   rotate: false
-  xy: 2815, 2012
+  xy: 1067, 1096
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Rapid Rescue
   rotate: false
-  xy: 2815, 2012
+  xy: 1067, 1096
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Marching Medic
   rotate: false
-  xy: 2815, 1954
+  xy: 3118, 2726
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Marching Prayer
   rotate: false
-  xy: 2873, 2012
+  xy: 3176, 2726
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Medical resolution marker
   rotate: false
-  xy: 2806, 1762
+  xy: 1172, 1560
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Mirror Step
   rotate: false
-  xy: 2864, 1722
+  xy: 2004, 1443
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Mirror-Eye Training
   rotate: false
-  xy: 2864, 1664
+  xy: 2062, 1521
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Mobile Aid Station
   rotate: false
-  xy: 2922, 1780
+  xy: 2062, 1405
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Molten Seal Breaker
   rotate: false
-  xy: 2922, 1722
+  xy: 2004, 1385
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Mounted Raid
   rotate: false
-  xy: 2864, 1606
+  xy: 395, 650
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Nowhere to Hide
   rotate: false
-  xy: 2828, 2738
+  xy: 395, 534
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Spyglass
   rotate: false
-  xy: 2828, 2738
+  xy: 395, 534
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Star Insight
   rotate: false
-  xy: 2828, 2738
+  xy: 395, 534
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Oath Reforged
   rotate: false
-  xy: 2828, 2680
+  xy: 395, 476
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Oath Remembered
   rotate: false
-  xy: 2910, 3252
+  xy: 395, 418
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Ocean Sail Handling
   rotate: false
-  xy: 3074, 3296
+  xy: 395, 360
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/On-Site Repair
   rotate: false
-  xy: 3093, 3354
+  xy: 395, 302
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Self-Repair
   rotate: false
-  xy: 3093, 3354
+  xy: 395, 302
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Open-Field Tactics II
   rotate: false
-  xy: 3132, 3296
+  xy: 395, 244
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Opening Strike
   rotate: false
-  xy: 906, 1269
+  xy: 395, 186
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Pack Hunt
   rotate: false
-  xy: 745, 1062
+  xy: 395, 12
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Pathfinder
   rotate: false
-  xy: 745, 1004
+  xy: 2301, 2088
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Phantom Passage
   rotate: false
-  xy: 803, 1004
+  xy: 2475, 2084
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Pillager
   rotate: false
-  xy: 861, 1004
+  xy: 2407, 2026
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Skirmish Fire
   rotate: false
-  xy: 861, 1004
+  xy: 2407, 2026
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Preparatory Fire
   rotate: false
-  xy: 1796, 1517
+  xy: 2523, 2017
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Pressure Hull
   rotate: false
-  xy: 1739, 1459
+  xy: 2581, 2017
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Spirit Memory
   rotate: false
-  xy: 1739, 1459
+  xy: 2581, 2017
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Rangefinder
   rotate: false
-  xy: 1797, 1401
+  xy: 2336, 1910
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Ranger
   rotate: false
-  xy: 1775, 1343
+  xy: 2394, 1968
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Rapid Fortification
   rotate: false
-  xy: 1775, 1285
+  xy: 2394, 1910
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Reflective Seal
   rotate: false
-  xy: 1913, 1431
+  xy: 2510, 1959
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Returning Tide
   rotate: false
-  xy: 2145, 1412
+  xy: 3254, 3564
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Swift Tide
   rotate: false
-  xy: 2145, 1412
+  xy: 3254, 3564
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Revive
   rotate: false
-  xy: 2181, 1470
+  xy: 3312, 3564
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Road Watch
   rotate: false
-  xy: 2239, 1470
+  xy: 3428, 3564
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Rootbranch Might
   rotate: false
-  xy: 2261, 1412
+  xy: 3486, 3564
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Rough-Terrain Tactics II
   rotate: false
-  xy: 1796, 1227
+  xy: 3544, 3564
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Rout
   rotate: false
-  xy: 1796, 1169
+  xy: 3602, 3564
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Ruin Circle
   rotate: false
-  xy: 1796, 1111
+  xy: 3660, 3564
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Sea Dog
   rotate: false
-  xy: 1833, 1285
+  xy: 3834, 3564
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Strike Group
   rotate: false
-  xy: 1833, 1285
+  xy: 3834, 3564
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Seal Detection
   rotate: false
-  xy: 1854, 1227
+  xy: 3161, 3506
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Shade Recognition
   rotate: false
-  xy: 1854, 1169
+  xy: 3161, 3448
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Shadow Walker
   rotate: false
-  xy: 1854, 1111
+  xy: 3219, 3506
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Shore Bombardment
   rotate: false
-  xy: 1854, 1053
+  xy: 3161, 3390
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Sighting II
   rotate: false
-  xy: 1891, 1285
+  xy: 3219, 3448
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Silent Running
   rotate: false
-  xy: 1912, 1227
+  xy: 3335, 3506
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Skirmisher Protection
   rotate: false
-  xy: 1912, 1169
+  xy: 3277, 3448
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Sky Eye
   rotate: false
-  xy: 1912, 1111
+  xy: 3219, 3390
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Spatial Shift
   rotate: false
-  xy: 1912, 995
+  xy: 3335, 3448
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Specter Lighting
   rotate: false
-  xy: 1949, 1315
+  xy: 3277, 3390
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Spell Shield
   rotate: false
-  xy: 2007, 1315
+  xy: 3451, 3506
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Spirit Sight
   rotate: false
-  xy: 1970, 1257
+  xy: 3393, 3448
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Springwood Covenant
   rotate: false
-  xy: 1970, 1199
+  xy: 3335, 3390
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Stable Rune
   rotate: false
-  xy: 1970, 1141
+  xy: 3509, 3506
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Starlight Watch
   rotate: false
-  xy: 1970, 1083
+  xy: 3451, 3448
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Steadfast Escort
   rotate: false
-  xy: 1970, 1025
+  xy: 3393, 3390
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Structure-Breaking Rune
   rotate: false
-  xy: 1970, 967
+  xy: 3567, 3506
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Support Fleet
   rotate: false
-  xy: 453, 955
+  xy: 3509, 3448
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Swift Heavens
   rotate: false
-  xy: 511, 955
+  xy: 3451, 3390
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Tactical Synergy
   rotate: false
-  xy: 569, 958
+  xy: 3625, 3506
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Thick Hide
   rotate: false
-  xy: 569, 900
+  xy: 3567, 3448
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Tidal Navigation
   rotate: false
-  xy: 627, 888
+  xy: 3509, 3390
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Torpedo Salvo
   rotate: false
-  xy: 685, 888
+  xy: 3683, 3506
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Trade Appraisal
   rotate: false
-  xy: 743, 888
+  xy: 3625, 3448
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Unbinding
   rotate: false
-  xy: 917, 888
+  xy: 3683, 3448
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Unbroken Thought
   rotate: false
-  xy: 2418, 1633
+  xy: 3625, 3390
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Undead Verdict
   rotate: false
-  xy: 2476, 1633
+  xy: 3799, 3506
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Undying
   rotate: false
-  xy: 2534, 1633
+  xy: 3741, 3448
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Visitor Covenant Seal
   rotate: false
-  xy: 2980, 1722
+  xy: 3799, 3448
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Volley
   rotate: false
-  xy: 2886, 2680
+  xy: 3741, 3390
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Whisper
   rotate: false
-  xy: 2881, 2622
+  xy: 3799, 3390
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Wild Charge
   rotate: false
-  xy: 2881, 2564
+  xy: 3214, 3332
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Witness of the Ancestors
   rotate: false
-  xy: 2881, 2506
+  xy: 3214, 3274
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

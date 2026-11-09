@@ -73,7 +73,7 @@
     "name": "Walls",
     "cost": 75,
     "maintenance": 0,
-    "requiredTech": "City-State Organization",
+    "requiredTech": "Stonework",
     "uniques": [],
     "specialistSlots": {},
     "cityStrength": 5,
@@ -145,7 +145,7 @@
     "name": "Academy of Magic",
     "cost": 135,
     "maintenance": 2,
-    "requiredTech": "Arcane Research",
+    "requiredTech": "Magic Records",
     "uniques": [
       "New [术士] units start with [+15] XP [in this city]",
       "New [医护] units start with [+15] XP [in this city]",
@@ -171,7 +171,7 @@
     "name": "Naval Arsenal",
     "cost": 135,
     "maintenance": 2,
-    "requiredTech": "Naval Armaments",
+    "requiredTech": "Deep-Sea Shipbuilding",
     "uniques": [
       "[+15]% Production when constructing [{Water} {Military}] units [in this city]",
       "Only available <in cities with a [Harbor]>",
@@ -198,7 +198,7 @@
     "name": "Armory",
     "cost": 180,
     "maintenance": 2,
-    "requiredTech": "Military Organization",
+    "requiredTech": "Standing Army",
     "uniques": [
       "New [{Land} {Military}] units start with [+15] XP [in this city]",
       "Only available <in cities with a [Barracks]>"
@@ -410,7 +410,7 @@
     "name": "Aqueduct",
     "cost": 150,
     "maintenance": 1,
-    "requiredTech": "Irrigation",
+    "requiredTech": "Public Engineering",
     "uniques": [
       "Only available <in cities with a [Granary]>"
     ],
@@ -433,7 +433,7 @@
     "name": "Star Observatory",
     "cost": 210,
     "maintenance": 2,
-    "requiredTech": "Celestial Navigation",
+    "requiredTech": "Ocean Navigation",
     "uniques": [
       "[+50]% [Science] [in this city]",
       "Only available <in cities with a [Library]>",
@@ -536,7 +536,7 @@
     "name": "Legion Camp",
     "cost": 170,
     "maintenance": 2,
-    "requiredTech": "Military Organization",
+    "requiredTech": "Standing Army",
     "uniques": [
       "New [{Land} {Military}] units start with [+15] XP [in this city]",
       "[+15]% Production when constructing [步兵] units [in this city]",
@@ -826,7 +826,7 @@
     "name": "Muster Monument Walls",
     "cost": 70,
     "maintenance": 0,
-    "requiredTech": "City-State Organization",
+    "requiredTech": "Stonework",
     "uniques": [],
     "culture": 1,
     "specialistSlots": {},
@@ -986,7 +986,7 @@
   },
   {
     "name": "Gallery of Star Charts",
-    "requiredTech": "Celestial Navigation",
+    "requiredTech": "Ocean Navigation",
     "cost": 750,
     "maintenance": 0,
     "uniques": [
@@ -1026,7 +1026,7 @@
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "Only available <in cities with a [Precision Workshop]>",
+      "Only available <in cities with a [Advanced Forge]>",
       "Free [Molten Seal Envoy] appears <when number of [[Molten Seal Envoy] Units] is equal to [0]>",
       "Comment [Hero Wonder]"
     ],
@@ -1057,7 +1057,7 @@
   },
   {
     "name": "Vault of All Roads",
-    "requiredTech": "Overseas Trade Network",
+    "requiredTech": "Banking and Credit",
     "cost": 1000,
     "maintenance": 0,
     "uniques": [
@@ -1073,7 +1073,7 @@
   },
   {
     "name": "Assembly of Nations",
-    "requiredTech": "Commercial Corporations",
+    "requiredTech": "Magical Communication",
     "cost": 1400,
     "maintenance": 0,
     "uniques": [
@@ -1130,14 +1130,14 @@
   },
   {
     "name": "Resonance Calibration Array",
-    "requiredTech": "Great Magic Engineering",
+    "requiredTech": "Spatial Engineering",
     "cost": 1200,
     "maintenance": 0,
     "uniques": [
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "Only available <in cities with a [Arcane Barrier Station]>",
+      "Only available <in cities with a [Space Institute]>",
       "Only available <when [Scientific] Victory is enabled>",
       "Triggers a global alert upon build start",
       "Triggers a global alert upon completion",
@@ -1173,7 +1173,7 @@
   },
   {
     "name": "Legion Banner",
-    "requiredTech": "Military Organization",
+    "requiredTech": "Standing Army",
     "cost": 320,
     "maintenance": 0,
     "uniques": [
@@ -1191,7 +1191,7 @@
   },
   {
     "name": "Ledger of All Markets",
-    "requiredTech": "Guilds",
+    "requiredTech": "Banking and Credit",
     "cost": 320,
     "maintenance": 0,
     "uniques": [
@@ -1228,7 +1228,7 @@
   },
   {
     "name": "Maritime and Land Governorate",
-    "requiredTech": "Overseas Settlement",
+    "requiredTech": "Maritime Provisioning",
     "cost": 600,
     "maintenance": 0,
     "uniques": [
@@ -1266,7 +1266,7 @@
   },
   {
     "name": "Comprehensive Geography",
-    "requiredTech": "Spatial Engineering",
+    "requiredTech": "Cultural Exchange",
     "cost": 700,
     "maintenance": 0,
     "uniques": [
@@ -1320,7 +1320,7 @@
   },
   {
     "name": "Gate Beyond Project",
-    "requiredTech": "Great Magic Engineering",
+    "requiredTech": "Spatial Engineering",
     "cost": 1200,
     "maintenance": 0,
     "uniques": [
@@ -1331,8 +1331,7 @@
       "Destroyed when the city is captured",
       "Only available <in [Capital] cities>",
       "Only available <when [Scientific] Victory is enabled>",
-      "Triggers a global alert upon completion",
-      "Only available <after discovering [Spatial Engineering]>"
+      "Triggers a global alert upon completion"
     ],
     "isNationalWonder": true,
     "specialistSlots": {}
@@ -1353,11 +1352,11 @@
       "Triggers a global alert upon completion"
     ],
     "specialistSlots": {},
-    "isWonder": true
+    "isNationalWonder": true
   },
   {
     "name": "Sea Road Oathhall",
-    "requiredTech": "Offshore Navigation",
+    "requiredTech": "Maritime Provisioning",
     "cost": 500,
     "maintenance": 0,
     "uniques": [
@@ -1476,7 +1475,7 @@
     "name": "Customs House",
     "cost": 300,
     "maintenance": 2,
-    "requiredTech": "Overseas Trade Network",
+    "requiredTech": "Interregional Trade",
     "uniques": [
       "Only available <in cities with a [Market]>",
       "Must be next to [Coast]"
@@ -1502,8 +1501,8 @@
     "maintenance": 2,
     "requiredTech": "Chemical Arts",
     "uniques": [
-      "Only available <in cities with a [Library]>",
-      "[+50]% [Science] [in this city]"
+      "Only available <in cities with a [University]>",
+      "[+25]% [Science] [in this city]"
     ],
     "science": 4,
     "specialistSlots": {}
@@ -1549,8 +1548,7 @@
     "maintenance": 3,
     "requiredTech": "Magic Engineering Experiments",
     "uniques": [
-      "Only available <in cities with a [Laboratory]>",
-      "Provides [1] [Magic Crystals]"
+      "Only available <in cities with a [Laboratory]>"
     ],
     "science": 4,
     "specialistSlots": {}
@@ -1646,7 +1644,7 @@
     "name": "Space Institute",
     "cost": 560,
     "maintenance": 3,
-    "requiredTech": "Spatial Engineering",
+    "requiredTech": "Spatial Theory",
     "uniques": [],
     "science": 6,
     "specialistSlots": {}
@@ -1960,6 +1958,21 @@
     "food": 3,
     "happiness": 3,
     "science": 3,
+    "specialistSlots": {}
+  },
+  {
+    "name": "Rune Implement Workshop",
+    "cost": 220,
+    "maintenance": 2,
+    "production": 2,
+    "requiredTech": "Magic Implements",
+    "uniques": [
+      "Only available <in cities with a [Workshop]>",
+      "New [术士] units start with [+10] XP [in this city]",
+      "New [医护] units start with [+10] XP [in this city]",
+      "New [死灵] units start with [+10] XP [in this city]",
+      "New [幽魂] units start with [+10] XP [in this city]"
+    ],
     "specialistSlots": {}
   }
 ]

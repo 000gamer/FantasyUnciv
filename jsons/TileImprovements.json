@@ -31,7 +31,8 @@
     "turnsToBuild": 6,
     "uniques": [
       "Can only be built to improve a resource",
-      "Does not need removal of [Forest]"
+      "Does not need removal of [Forest]",
+      "[+1 Food] <after discovering [Natural History]>"
     ],
     "shortcutKey": "C",
     "techRequired": "Hunting and Husbandry",
@@ -55,7 +56,8 @@
     "name": "Quarry",
     "turnsToBuild": 7,
     "uniques": [
-      "Can only be built to improve a resource"
+      "Can only be built to improve a resource",
+      "[+1 Production] <after discovering [Stonework]>"
     ],
     "shortcutKey": "Q",
     "techRequired": "Mining",
@@ -114,7 +116,9 @@
     "turnsToBuild": 6,
     "uniques": [
       "Can only be built to improve a resource",
-      "Does not need removal of [Forest]"
+      "Does not need removal of [Forest]",
+      "[+1 Science] <after discovering [Natural History]>",
+      "[+1 Food] <after discovering [Environmental Magitech]>"
     ],
     "shortcutKey": "H",
     "techRequired": "Herbalism",
@@ -316,7 +320,7 @@
     "uniques": [
       "Cannot be built on [Hill] tiles",
       "Cannot be built on [resource] tiles",
-      "[+1 Gold] <after discovering [Overseas Trade Network]>"
+      "[+1 Gold] <after discovering [Interregional Trade]>"
     ],
     "techRequired": "Currency and Exchange",
     "turnsToBuild": 7,
@@ -339,7 +343,7 @@
     "uniques": [
       "Can only be built to improve a resource",
       "Does not need removal of [Forest]",
-      "[+1 Faith] <after discovering [Magic Records]>"
+      "[+1 Faith] <after discovering [Ritual Traditions]>"
     ],
     "techRequired": "Irrigation",
     "turnsToBuild": 7,
@@ -368,7 +372,8 @@
     "uniques": [
       "Cannot be built on [Hill] tiles",
       "Cannot be built on [resource] tiles",
-      "Must be next to [River]"
+      "Must be next to [River]",
+      "[+1 Production] <after discovering [Mechanical Power]>"
     ],
     "techRequired": "Mathematics and Measurement",
     "turnsToBuild": 8,
