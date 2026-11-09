@@ -1689,10 +1689,10 @@
     "movement": 3,
     "cost": 40,
     "uniques": [
-      "Only available <for [Barbarians] Civilizations>",
       "No defensive terrain bonus"
     ],
-    "obsoleteTech": "Smelting"
+    "obsoleteTech": "Smelting",
+    "uniqueTo": "Barbarians"
   },
   {
     "name": "Outlaw Raiders",
@@ -1702,11 +1702,10 @@
     "range": 0,
     "movement": 2,
     "cost": 65,
-    "uniques": [
-      "Only available <for [Barbarians] Civilizations>",
-      "Only available <after discovering [Smelting]>"
-    ],
-    "obsoleteTech": "Steel Forging"
+    "uniques": [],
+    "obsoleteTech": "Steel Forging",
+    "requiredTech": "Smelting",
+    "uniqueTo": "Barbarians"
   },
   {
     "name": "Bone Hunters",
@@ -1717,11 +1716,11 @@
     "movement": 2,
     "cost": 70,
     "uniques": [
-      "No defensive terrain bonus",
-      "Only available <for [Barbarians] Civilizations>",
-      "Only available <after discovering [Magic Records]>"
+      "No defensive terrain bonus"
     ],
-    "obsoleteTech": "Military Organization"
+    "obsoleteTech": "Military Organization",
+    "requiredTech": "Magic Records",
+    "uniqueTo": "Barbarians"
   },
   {
     "name": "Stone-Eating Giant",
@@ -1732,12 +1731,12 @@
     "movement": 2,
     "cost": 140,
     "uniques": [
-      "Only available <for [Barbarians] Civilizations>",
       "No defensive terrain bonus",
-      "[-25]% Strength <when attacking> <vs cities>",
-      "Only available <after discovering [Natural Philosophy]>"
+      "[-25]% Strength <when attacking> <vs cities>"
     ],
-    "obsoleteTech": "Precision Manufacturing"
+    "obsoleteTech": "Precision Manufacturing",
+    "requiredTech": "Natural Philosophy",
+    "uniqueTo": "Barbarians"
   },
   {
     "name": "Feral Tree Guards",
@@ -1748,11 +1747,11 @@
     "movement": 1,
     "cost": 190,
     "uniques": [
-      "[+20]% Strength <when fighting in [Forest] tiles>",
-      "Only available <for [Barbarians] Civilizations>",
-      "Only available <after discovering [Banking and Credit]>"
+      "[+20]% Strength <when fighting in [Forest] tiles>"
     ],
-    "obsoleteTech": "Advanced Material Synthesis"
+    "obsoleteTech": "Advanced Material Synthesis",
+    "requiredTech": "Banking and Credit",
+    "uniqueTo": "Barbarians"
   },
   {
     "name": "Rogue Construct",
@@ -1764,10 +1763,10 @@
     "cost": 230,
     "uniques": [
       "No defensive terrain bonus",
-      "[+10]% Strength <when defending>",
-      "Only available <for [Barbarians] Civilizations>",
-      "Only available <after discovering [Precision Manufacturing]>"
-    ]
+      "[+10]% Strength <when defending>"
+    ],
+    "requiredTech": "Precision Manufacturing",
+    "uniqueTo": "Barbarians"
   },
   {
     "name": "Raging Elemental",
@@ -1778,11 +1777,11 @@
     "movement": 3,
     "cost": 225,
     "uniques": [
-      "Only available <for [Barbarians] Civilizations>",
       "No defensive terrain bonus",
-      "[+15]% Strength <when attacking>",
-      "Only available <after discovering [Chemical Arts]>"
-    ]
+      "[+15]% Strength <when attacking>"
+    ],
+    "requiredTech": "Chemical Arts",
+    "uniqueTo": "Barbarians"
   },
   {
     "name": "Bay Serpent",
@@ -1794,11 +1793,11 @@
     "cost": 65,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
-      "Only available <for [Barbarians] Civilizations>",
-      "Only available <after discovering [Coastal Navigation]>"
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>"
     ],
-    "obsoleteTech": "Deep-Sea Shipbuilding"
+    "obsoleteTech": "Deep-Sea Shipbuilding",
+    "requiredTech": "Coastal Navigation",
+    "uniqueTo": "Barbarians"
   },
   {
     "name": "Deep-Tide Serpent",
@@ -1810,10 +1809,10 @@
     "cost": 220,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
-      "Only available <for [Barbarians] Civilizations>",
-      "Only available <after discovering [Deep-Sea Shipbuilding]>"
-    ]
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>"
+    ],
+    "requiredTech": "Deep-Sea Shipbuilding",
+    "uniqueTo": "Barbarians"
   },
   {
     "name": "Forsworn Specter",
@@ -1828,11 +1827,11 @@
       "Invisible to non-adjacent units",
       "No defensive terrain bonus",
       "[-35]% Strength <when attacking> <vs cities>",
-      "[+5] HP when healing",
-      "Only available <for [Barbarians] Civilizations>",
-      "Only available <after discovering [Banking and Credit]>"
+      "[+5] HP when healing"
     ],
-    "obsoleteTech": "Advanced Material Synthesis"
+    "obsoleteTech": "Advanced Material Synthesis",
+    "requiredTech": "Banking and Credit",
+    "uniqueTo": "Barbarians"
   },
   {
     "name": "Echo Wraithlord",
@@ -1847,10 +1846,10 @@
       "Invisible to non-adjacent units",
       "No defensive terrain bonus",
       "[-35]% Strength <when attacking> <vs cities>",
-      "[+5] HP when healing",
-      "Only available <for [Barbarians] Civilizations>",
-      "Only available <after discovering [Advanced Material Synthesis]>"
-    ]
+      "[+5] HP when healing"
+    ],
+    "requiredTech": "Advanced Material Synthesis",
+    "uniqueTo": "Barbarians"
   },
   {
     "name": "Wandering Spiritfire",
@@ -1861,10 +1860,10 @@
     "movement": 2,
     "cost": 150,
     "uniques": [
-      "No defensive terrain bonus",
-      "Only available <for [Barbarians] Civilizations>",
-      "Only available <after discovering [Magic Records]>"
-    ]
+      "No defensive terrain bonus"
+    ],
+    "requiredTech": "Magic Records",
+    "uniqueTo": "Barbarians"
   },
   {
     "name": "Tidal Jellyfish Swarm",
@@ -1876,10 +1875,10 @@
     "cost": 190,
     "uniques": [
       "No defensive terrain bonus",
-      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
-      "Only available <for [Barbarians] Civilizations>",
-      "Only available <after discovering [Deep-Sea Shipbuilding]>"
-    ]
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>"
+    ],
+    "requiredTech": "Deep-Sea Shipbuilding",
+    "uniqueTo": "Barbarians"
   },
   {
     "name": "Plane Core",

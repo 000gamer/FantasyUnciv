@@ -2,34 +2,34 @@
   {
     "columnNumber": 0,
     "era": "I",
-    "techCost": 30,
+    "techCost": 20,
     "buildingCost": 1,
     "wonderCost": 1,
     "techs": [
       {
         "name": "Coastal Navigation",
-        "cost": 30,
+        "cost": 20,
         "row": 1,
         "prerequisites": [],
         "uniques": []
       },
       {
         "name": "Hunting and Husbandry",
-        "cost": 30,
+        "cost": 20,
         "row": 2,
         "prerequisites": [],
         "uniques": []
       },
       {
         "name": "Mining",
-        "cost": 30,
+        "cost": 20,
         "row": 4,
         "prerequisites": [],
         "uniques": []
       },
       {
         "name": "Oral Transmission",
-        "cost": 30,
+        "cost": 20,
         "row": 6,
         "prerequisites": [],
         "uniques": [
@@ -38,7 +38,7 @@
       },
       {
         "name": "Agriculture and Storage",
-        "cost": 30,
+        "cost": 20,
         "row": 7,
         "prerequisites": [],
         "uniques": []
@@ -48,13 +48,13 @@
   {
     "columnNumber": 1,
     "era": "I",
-    "techCost": 45,
+    "techCost": 35,
     "buildingCost": 1,
     "wonderCost": 1,
     "techs": [
       {
         "name": "Herbalism",
-        "cost": 45,
+        "cost": 35,
         "row": 3,
         "prerequisites": [
           "Hunting and Husbandry"
@@ -63,7 +63,7 @@
       },
       {
         "name": "Basic Crafts",
-        "cost": 45,
+        "cost": 35,
         "row": 5,
         "prerequisites": [
           "Mining"
@@ -72,7 +72,7 @@
       },
       {
         "name": "Ritual Traditions",
-        "cost": 45,
+        "cost": 35,
         "row": 6,
         "prerequisites": [
           "Oral Transmission"
@@ -81,7 +81,7 @@
       },
       {
         "name": "Irrigation",
-        "cost": 45,
+        "cost": 35,
         "row": 7,
         "prerequisites": [
           "Agriculture and Storage"
@@ -90,7 +90,7 @@
       },
       {
         "name": "Writing",
-        "cost": 45,
+        "cost": 35,
         "row": 8,
         "prerequisites": [
           "Oral Transmission"
@@ -104,13 +104,13 @@
   {
     "columnNumber": 2,
     "era": "II",
-    "techCost": 60,
+    "techCost": 105,
     "buildingCost": 1,
     "wonderCost": 1,
     "techs": [
       {
         "name": "Shipbuilding",
-        "cost": 60,
+        "cost": 105,
         "row": 1,
         "prerequisites": [
           "Basic Crafts",
@@ -122,7 +122,7 @@
       },
       {
         "name": "Riding",
-        "cost": 60,
+        "cost": 105,
         "row": 2,
         "prerequisites": [
           "Hunting and Husbandry"
@@ -131,7 +131,7 @@
       },
       {
         "name": "City-State Organization",
-        "cost": 60,
+        "cost": 105,
         "row": 9,
         "prerequisites": [
           "Writing",
@@ -143,7 +143,7 @@
       },
       {
         "name": "Magic Records",
-        "cost": 60,
+        "cost": 105,
         "row": 10,
         "prerequisites": [
           "Ritual Traditions",
@@ -153,7 +153,7 @@
       },
       {
         "name": "Smelting",
-        "cost": 60,
+        "cost": 105,
         "row": 11,
         "prerequisites": [
           "Basic Crafts"
@@ -162,7 +162,7 @@
       },
       {
         "name": "Mathematics and Measurement",
-        "cost": 60,
+        "cost": 105,
         "row": 12,
         "prerequisites": [
           "Writing"
@@ -174,13 +174,13 @@
   {
     "columnNumber": 3,
     "era": "II",
-    "techCost": 85,
+    "techCost": 175,
     "buildingCost": 1,
     "wonderCost": 1,
     "techs": [
       {
         "name": "Currency and Exchange",
-        "cost": 85,
+        "cost": 175,
         "row": 3,
         "prerequisites": [
           "Writing"
@@ -191,7 +191,7 @@
       },
       {
         "name": "Stonework",
-        "cost": 85,
+        "cost": 175,
         "row": 4,
         "prerequisites": [
           "Mining",
@@ -201,7 +201,7 @@
       },
       {
         "name": "Military Organization",
-        "cost": 85,
+        "cost": 175,
         "row": 5,
         "prerequisites": [
           "Basic Crafts",
@@ -211,7 +211,7 @@
       },
       {
         "name": "Codes of Law",
-        "cost": 85,
+        "cost": 175,
         "row": 7,
         "prerequisites": [
           "City-State Organization"
@@ -225,13 +225,13 @@
   {
     "columnNumber": 4,
     "era": "III",
-    "techCost": 120,
+    "techCost": 275,
     "buildingCost": 1,
     "wonderCost": 1,
     "techs": [
       {
         "name": "Guilds",
-        "cost": 120,
+        "cost": 275,
         "row": 2,
         "prerequisites": [
           "Currency and Exchange",
@@ -241,7 +241,7 @@
       },
       {
         "name": "Steel Forging",
-        "cost": 120,
+        "cost": 275,
         "row": 5,
         "prerequisites": [
           "Smelting"
@@ -250,7 +250,7 @@
       },
       {
         "name": "Mechanical Engineering",
-        "cost": 120,
+        "cost": 275,
         "row": 8,
         "prerequisites": [
           "Smelting",
@@ -262,7 +262,7 @@
       },
       {
         "name": "Literature and Education",
-        "cost": 120,
+        "cost": 275,
         "row": 9,
         "prerequisites": [
           "Mathematics and Measurement",
@@ -272,7 +272,7 @@
       },
       {
         "name": "Natural Philosophy",
-        "cost": 120,
+        "cost": 275,
         "row": 10,
         "prerequisites": [
           "Herbalism",
@@ -282,7 +282,7 @@
       },
       {
         "name": "Cartography",
-        "cost": 120,
+        "cost": 275,
         "row": 12,
         "prerequisites": [
           "Mathematics and Measurement"
@@ -294,13 +294,13 @@
   {
     "columnNumber": 5,
     "era": "III",
-    "techCost": 170,
+    "techCost": 485,
     "buildingCost": 1,
     "wonderCost": 1,
     "techs": [
       {
         "name": "Offshore Navigation",
-        "cost": 170,
+        "cost": 485,
         "row": 1,
         "prerequisites": [
           "Shipbuilding",
@@ -310,7 +310,7 @@
       },
       {
         "name": "Arcane Research",
-        "cost": 170,
+        "cost": 485,
         "row": 3,
         "prerequisites": [
           "Magic Records",
@@ -320,7 +320,7 @@
       },
       {
         "name": "Religious Philosophy",
-        "cost": 170,
+        "cost": 485,
         "row": 6,
         "prerequisites": [
           "Ritual Traditions",
@@ -332,7 +332,7 @@
       },
       {
         "name": "Diplomatic Envoys",
-        "cost": 170,
+        "cost": 485,
         "row": 7,
         "prerequisites": [
           "Codes of Law"
@@ -346,13 +346,13 @@
   {
     "columnNumber": 6,
     "era": "IV",
-    "techCost": 245,
+    "techCost": 780,
     "buildingCost": 1,
     "wonderCost": 1,
     "techs": [
       {
         "name": "Maritime Provisioning",
-        "cost": 245,
+        "cost": 780,
         "row": 2,
         "prerequisites": [
           "Guilds",
@@ -362,7 +362,7 @@
       },
       {
         "name": "Ocean Surveying",
-        "cost": 245,
+        "cost": 780,
         "row": 3,
         "prerequisites": [
           "Offshore Navigation"
@@ -371,7 +371,7 @@
       },
       {
         "name": "Runic Crafts",
-        "cost": 245,
+        "cost": 780,
         "row": 4,
         "prerequisites": [
           "Arcane Research",
@@ -381,7 +381,7 @@
       },
       {
         "name": "Medicine and Anatomy",
-        "cost": 245,
+        "cost": 780,
         "row": 10,
         "prerequisites": [
           "Natural Philosophy",
@@ -391,7 +391,7 @@
       },
       {
         "name": "Nautical Engineering",
-        "cost": 245,
+        "cost": 780,
         "row": 11,
         "prerequisites": [
           "Mechanical Engineering",
@@ -401,7 +401,7 @@
       },
       {
         "name": "Celestial Navigation",
-        "cost": 245,
+        "cost": 780,
         "row": 12,
         "prerequisites": [
           "Offshore Navigation"
@@ -413,13 +413,13 @@
   {
     "columnNumber": 7,
     "era": "IV",
-    "techCost": 345,
+    "techCost": 1150,
     "buildingCost": 1,
     "wonderCost": 1,
     "techs": [
       {
         "name": "Deep-Sea Shipbuilding",
-        "cost": 345,
+        "cost": 1150,
         "row": 1,
         "prerequisites": [
           "Steel Forging",
@@ -431,7 +431,7 @@
       },
       {
         "name": "Overseas Trade Network",
-        "cost": 345,
+        "cost": 1150,
         "row": 2,
         "prerequisites": [
           "Maritime Provisioning"
@@ -440,7 +440,7 @@
       },
       {
         "name": "Naval Armaments",
-        "cost": 345,
+        "cost": 1150,
         "row": 5,
         "prerequisites": [
           "Mechanical Engineering",
@@ -450,7 +450,7 @@
       },
       {
         "name": "Overseas Settlement",
-        "cost": 345,
+        "cost": 1150,
         "row": 6,
         "prerequisites": [
           "Diplomatic Envoys",
@@ -463,13 +463,13 @@
   {
     "columnNumber": 8,
     "era": "V",
-    "techCost": 495,
+    "techCost": 1600,
     "buildingCost": 1,
     "wonderCost": 1,
     "techs": [
       {
         "name": "Banking and Credit",
-        "cost": 495,
+        "cost": 1600,
         "row": 1,
         "prerequisites": [
           "Overseas Trade Network"
@@ -478,7 +478,7 @@
       },
       {
         "name": "Precision Manufacturing",
-        "cost": 495,
+        "cost": 1600,
         "row": 7,
         "prerequisites": [
           "Mechanical Engineering"
@@ -487,7 +487,7 @@
       },
       {
         "name": "Experimental Science",
-        "cost": 495,
+        "cost": 1600,
         "row": 8,
         "prerequisites": [
           "Natural Philosophy",
@@ -499,7 +499,7 @@
       },
       {
         "name": "Printing and Publishing",
-        "cost": 495,
+        "cost": 1600,
         "row": 9,
         "prerequisites": [
           "Literature and Education",
@@ -512,13 +512,13 @@
   {
     "columnNumber": 9,
     "era": "V",
-    "techCost": 700,
+    "techCost": 2350,
     "buildingCost": 1,
     "wonderCost": 1,
     "techs": [
       {
         "name": "Commercial Corporations",
-        "cost": 700,
+        "cost": 2350,
         "row": 1,
         "prerequisites": [
           "Banking and Credit"
@@ -527,7 +527,7 @@
       },
       {
         "name": "Magic Instruments",
-        "cost": 700,
+        "cost": 2350,
         "row": 2,
         "prerequisites": [
           "Runic Crafts",
@@ -537,7 +537,7 @@
       },
       {
         "name": "Advanced Metallurgy",
-        "cost": 700,
+        "cost": 2350,
         "row": 3,
         "prerequisites": [
           "Steel Forging",
@@ -547,7 +547,7 @@
       },
       {
         "name": "Mechanical Power",
-        "cost": 700,
+        "cost": 2350,
         "row": 9,
         "prerequisites": [
           "Precision Manufacturing"
@@ -556,7 +556,7 @@
       },
       {
         "name": "Chemical Arts",
-        "cost": 700,
+        "cost": 2350,
         "row": 11,
         "prerequisites": [
           "Smelting",
@@ -566,7 +566,7 @@
       },
       {
         "name": "Cultural Exchange",
-        "cost": 700,
+        "cost": 2350,
         "row": 12,
         "prerequisites": [
           "Diplomatic Envoys",
@@ -582,13 +582,13 @@
   {
     "columnNumber": 10,
     "era": "VI",
-    "techCost": 990,
+    "techCost": 3100,
     "buildingCost": 1,
     "wonderCost": 1,
     "techs": [
       {
         "name": "Factory Production",
-        "cost": 990,
+        "cost": 3100,
         "row": 7,
         "prerequisites": [
           "Precision Manufacturing",
@@ -598,7 +598,7 @@
       },
       {
         "name": "Telecommunications",
-        "cost": 990,
+        "cost": 3100,
         "row": 8,
         "prerequisites": [
           "Experimental Science",
@@ -608,7 +608,7 @@
       },
       {
         "name": "Steam Power",
-        "cost": 990,
+        "cost": 3100,
         "row": 9,
         "prerequisites": [
           "Mechanical Power",
@@ -618,7 +618,7 @@
       },
       {
         "name": "Structural Engineering",
-        "cost": 990,
+        "cost": 3100,
         "row": 10,
         "prerequisites": [
           "Mechanical Engineering",
@@ -628,7 +628,7 @@
       },
       {
         "name": "Industrial Chemistry",
-        "cost": 990,
+        "cost": 3100,
         "row": 11,
         "prerequisites": [
           "Chemical Arts"
@@ -640,13 +640,13 @@
   {
     "columnNumber": 11,
     "era": "VI",
-    "techCost": 1405,
+    "techCost": 4100,
     "buildingCost": 1,
     "wonderCost": 1,
     "techs": [
       {
         "name": "Railway Transport",
-        "cost": 1405,
+        "cost": 4100,
         "row": 2,
         "prerequisites": [
           "Advanced Metallurgy",
@@ -656,7 +656,7 @@
       },
       {
         "name": "Mass Manufacturing",
-        "cost": 1405,
+        "cost": 4100,
         "row": 3,
         "prerequisites": [
           "Advanced Metallurgy",
@@ -666,7 +666,7 @@
       },
       {
         "name": "Mechanized Warfare",
-        "cost": 1405,
+        "cost": 4100,
         "row": 4,
         "prerequisites": [
           "Naval Armaments",
@@ -676,7 +676,7 @@
       },
       {
         "name": "Magic Engineering Experiments",
-        "cost": 1405,
+        "cost": 4100,
         "row": 5,
         "prerequisites": [
           "Magic Instruments",
@@ -686,7 +686,7 @@
       },
       {
         "name": "Modern Medicine",
-        "cost": 1405,
+        "cost": 4100,
         "row": 6,
         "prerequisites": [
           "Medicine and Anatomy",
@@ -699,13 +699,13 @@
   {
     "columnNumber": 12,
     "era": "VII",
-    "techCost": 1995,
+    "techCost": 5100,
     "buildingCost": 1,
     "wonderCost": 1,
     "techs": [
       {
         "name": "Magic Engineering",
-        "cost": 1995,
+        "cost": 5100,
         "row": 5,
         "prerequisites": [
           "Magic Engineering Experiments"
@@ -714,7 +714,7 @@
       },
       {
         "name": "Magitech Power Systems",
-        "cost": 1995,
+        "cost": 5100,
         "row": 7,
         "prerequisites": [
           "Factory Production",
@@ -724,7 +724,7 @@
       },
       {
         "name": "Magical Materials Processing",
-        "cost": 1995,
+        "cost": 5100,
         "row": 8,
         "prerequisites": [
           "Magic Instruments",
@@ -734,7 +734,7 @@
       },
       {
         "name": "Environmental Magitech",
-        "cost": 1995,
+        "cost": 5100,
         "row": 10,
         "prerequisites": [
           "Structural Engineering",
@@ -747,13 +747,13 @@
   {
     "columnNumber": 13,
     "era": "VII",
-    "techCost": 2835,
+    "techCost": 6400,
     "buildingCost": 1,
     "wonderCost": 1,
     "techs": [
       {
         "name": "Arcane Defense Systems",
-        "cost": 2835,
+        "cost": 6400,
         "row": 1,
         "prerequisites": [
           "Mechanized Warfare",
@@ -763,7 +763,7 @@
       },
       {
         "name": "Magitech Transport",
-        "cost": 2835,
+        "cost": 6400,
         "row": 2,
         "prerequisites": [
           "Railway Transport",
@@ -773,7 +773,7 @@
       },
       {
         "name": "Magical Communication",
-        "cost": 2835,
+        "cost": 6400,
         "row": 3,
         "prerequisites": [
           "Telecommunications",
@@ -783,7 +783,7 @@
       },
       {
         "name": "Construct Engineering",
-        "cost": 2835,
+        "cost": 6400,
         "row": 4,
         "prerequisites": [
           "Magic Engineering"
@@ -792,7 +792,7 @@
       },
       {
         "name": "Magical Medicine",
-        "cost": 2835,
+        "cost": 6400,
         "row": 6,
         "prerequisites": [
           "Modern Medicine",
@@ -802,7 +802,7 @@
       },
       {
         "name": "Magic Energy Conversion",
-        "cost": 2835,
+        "cost": 6400,
         "row": 9,
         "prerequisites": [
           "Steam Power",
@@ -815,13 +815,13 @@
   {
     "columnNumber": 14,
     "era": "VIII",
-    "techCost": 4020,
+    "techCost": 7700,
     "buildingCost": 1,
     "wonderCost": 1,
     "techs": [
       {
         "name": "Artificial Life Research",
-        "cost": 4020,
+        "cost": 7700,
         "row": 4,
         "prerequisites": [
           "Magical Medicine",
@@ -831,7 +831,7 @@
       },
       {
         "name": "Memory Preservation",
-        "cost": 4020,
+        "cost": 7700,
         "row": 6,
         "prerequisites": [
           "Magical Medicine"
@@ -840,7 +840,7 @@
       },
       {
         "name": "Advanced Automation",
-        "cost": 4020,
+        "cost": 7700,
         "row": 7,
         "prerequisites": [
           "Magitech Power Systems",
@@ -851,7 +851,7 @@
       },
       {
         "name": "Advanced Material Synthesis",
-        "cost": 4020,
+        "cost": 7700,
         "row": 8,
         "prerequisites": [
           "Magical Materials Processing",
@@ -864,13 +864,13 @@
   {
     "columnNumber": 15,
     "era": "VIII",
-    "techCost": 5705,
+    "techCost": 8800,
     "buildingCost": 1,
     "wonderCost": 1,
     "techs": [
       {
         "name": "Advanced Life Medicine",
-        "cost": 5705,
+        "cost": 8800,
         "row": 3,
         "prerequisites": [
           "Artificial Life Research"
@@ -879,7 +879,7 @@
       },
       {
         "name": "Intelligent Constructs",
-        "cost": 5705,
+        "cost": 8800,
         "row": 4,
         "prerequisites": [
           "Artificial Life Research"
@@ -888,7 +888,7 @@
       },
       {
         "name": "Spatial Engineering",
-        "cost": 5705,
+        "cost": 8800,
         "row": 5,
         "prerequisites": [
           "Magic Engineering",
@@ -898,7 +898,7 @@
       },
       {
         "name": "Great Magic Engineering",
-        "cost": 5705,
+        "cost": 8800,
         "row": 6,
         "prerequisites": [
           "Advanced Material Synthesis",
@@ -908,7 +908,7 @@
       },
       {
         "name": "Advanced Energy Engineering",
-        "cost": 5705,
+        "cost": 8800,
         "row": 9,
         "prerequisites": [
           "Magic Energy Conversion",
@@ -918,7 +918,7 @@
       },
       {
         "name": "Ecological Engineering",
-        "cost": 5705,
+        "cost": 8800,
         "row": 10,
         "prerequisites": [
           "Environmental Magitech",

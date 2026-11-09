@@ -1121,8 +1121,7 @@
       "Free Social Policy",
       "Only available <in cities with a [Survey Hall]>",
       "Triggers a global alert upon build start",
-      "Triggers a global alert upon completion",
-      "[+1] Sight <for [Military] units>"
+      "Triggers a global alert upon completion"
     ],
     "culture": 6,
     "science": 4,
