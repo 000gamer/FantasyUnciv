@@ -535,5 +535,39 @@
     "improvedBy": [
       "Fishing Boats"
     ]
+  },
+  {
+    "name": "Coal",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [
+      "Hill",
+      "Tundra",
+      "Plains"
+    ],
+    "uniques": [
+      "Doesn't generate naturally <in [Forest] tiles>",
+      "Doesn't generate naturally <in [Jungle] tiles>",
+      "Guaranteed with Strategic Balance resource option",
+      "Generated with weight [40] <in [Hill] tiles>",
+      "Generated with weight [15] <in [{Featureless} {Tundra}] tiles>",
+      "Generated with weight [15] <in [{Featureless} {Plains}] tiles>",
+      "Minor deposits generated with weight [25] <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
+      "Minor deposits generated with weight [10] <in [{Featureless} {Tundra}] tiles>"
+    ],
+    "production": 1,
+    "revealedBy": "Steam Power",
+    "improvedBy": [
+      "Mine"
+    ],
+    "majorDepositAmount": {
+      "sparse": 3,
+      "default": 4,
+      "abundant": 6
+    },
+    "minorDepositAmount": {
+      "sparse": 1,
+      "default": 2,
+      "abundant": 3
+    }
   }
 ]

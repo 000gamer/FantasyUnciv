@@ -137,5 +137,18 @@
   {
     "name": "Hero - Caravan Arbiter",
     "movementType": "Land"
+  },
+  {
+    "name": "潜艇",
+    "movementType": "Water",
+    "uniques": [
+      "Invisible to non-adjacent units",
+      "Can see invisible [潜艇] units"
+    ]
+  },
+  {
+    "name": "航母",
+    "movementType": "Water",
+    "uniques": []
   }
 ]

@@ -182,7 +182,9 @@
       "[+35]% Strength <vs [野兽] units>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Mass Manufacturing"
+    "requiredTech": "Mass Manufacturing",
+    "upgradesTo": "Night Watch Guards",
+    "obsoleteTech": "Magitech Power Systems"
   },
   {
     "name": "Archers",
@@ -300,7 +302,9 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Horses]"
     ],
-    "requiredTech": "Mechanized Warfare"
+    "requiredTech": "Mechanized Warfare",
+    "upgradesTo": "Magitech Assault Riders",
+    "obsoleteTech": "Magitech Transport"
   },
   {
     "name": "Heavy Cavalry",
@@ -338,7 +342,9 @@
       "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Mechanized Warfare"
+    "requiredTech": "Mechanized Warfare",
+    "upgradesTo": "Construct Cavalry",
+    "obsoleteTech": "Intelligent Constructs"
   },
   {
     "name": "Catapults",
@@ -457,8 +463,8 @@
       "No defensive terrain bonus",
       "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [Iron]",
-      "[+25]% maintenance costs"
+      "[+25]% maintenance costs",
+      "Consumes [1] [Coal]"
     ],
     "requiredTech": "Mechanized Warfare",
     "upgradesTo": "Magitech Warships",
@@ -512,8 +518,8 @@
       "No defensive terrain bonus",
       "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [Iron]",
-      "[+25]% maintenance costs"
+      "[+25]% maintenance costs",
+      "Consumes [1] [Coal]"
     ],
     "requiredTech": "Mechanized Warfare"
   },
@@ -2010,7 +2016,8 @@
       "No defensive terrain bonus",
       "Must set up to ranged attack",
       "[+30]% Strength <vs [步兵] units>",
-      "Never appears as a Barbarian unit"
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [Coal]"
     ],
     "requiredTech": "Mass Manufacturing"
   },
@@ -2046,7 +2053,9 @@
       "Consumes [1] [Magic Crystals]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Advanced Material Synthesis"
+    "requiredTech": "Advanced Material Synthesis",
+    "upgradesTo": "Magitech Sniper",
+    "obsoleteTech": "Advanced Automation"
   },
   {
     "name": "Field Cannons",
@@ -2097,8 +2106,8 @@
       "No defensive terrain bonus",
       "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [Iron]",
-      "[+25]% maintenance costs"
+      "[+25]% maintenance costs",
+      "Consumes [1] [Coal]"
     ],
     "requiredTech": "Steam Power",
     "upgradesTo": "Armored Warships",
@@ -2179,7 +2188,9 @@
       "Consumes [1] [Magic Crystals]",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "Arcane Defense Systems"
+    "requiredTech": "Arcane Defense Systems",
+    "upgradesTo": "Space Guard",
+    "obsoleteTech": "Spatial Engineering"
   },
   {
     "name": "Magitech Airship",
@@ -2498,5 +2509,182 @@
     "uniqueTo": "Artificer Dwarves",
     "replaces": "Arquebusiers",
     "civilopediaText": []
+  },
+  {
+    "name": "Construct Cavalry",
+    "unitType": "重骑",
+    "strength": 105,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 4,
+    "cost": 340,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Can move after attacking",
+      "Consumes [1] [Magic Crystals]",
+      "Never appears as a Barbarian unit",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "Intelligent Constructs"
+  },
+  {
+    "name": "Magitech Assault Riders",
+    "unitType": "轻骑",
+    "strength": 85,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 6,
+    "cost": 300,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Can move after attacking",
+      "[+1] Sight",
+      "Consumes [1] [Magic Crystals]",
+      "Never appears as a Barbarian unit",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "Magitech Transport"
+  },
+  {
+    "name": "Magitech Interceptor",
+    "unitType": "飞艇",
+    "strength": 60,
+    "rangedStrength": 70,
+    "range": 6,
+    "movement": 1,
+    "cost": 360,
+    "uniques": [
+      "[100]% chance to intercept air attacks",
+      "[+100]% Strength <vs [飞艇] units>",
+      "Can perform Air Sweep",
+      "Consumes [1] [Magic Crystals]",
+      "Never appears as a Barbarian unit",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "Spatial Engineering",
+    "interceptRange": 6
+  },
+  {
+    "name": "Magitech Bomber",
+    "unitType": "飞艇",
+    "strength": 70,
+    "rangedStrength": 150,
+    "range": 8,
+    "movement": 1,
+    "cost": 420,
+    "uniques": [
+      "[+50]% Strength <vs cities>",
+      "Consumes [1] [Magic Crystals]",
+      "Never appears as a Barbarian unit",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "Advanced Automation"
+  },
+  {
+    "name": "Floating Carrier",
+    "unitType": "航母",
+    "strength": 60,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 5,
+    "cost": 420,
+    "uniques": [
+      "Cannot attack",
+      "Can carry [3] [Aircraft] units",
+      "No defensive terrain bonus",
+      "Cannot enter ocean tiles <before discovering [Deep-Sea Shipbuilding]>",
+      "Consumes [1] [Magic Crystals]",
+      "Never appears as a Barbarian unit",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "Spatial Engineering"
+  },
+  {
+    "name": "Stealth Ship",
+    "unitType": "潜艇",
+    "strength": 55,
+    "rangedStrength": 95,
+    "range": 2,
+    "movement": 5,
+    "cost": 380,
+    "uniques": [
+      "[+75]% Strength <when attacking>",
+      "Can only attack [Water] tiles",
+      "Consumes [1] [Coal]",
+      "Never appears as a Barbarian unit",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "Advanced Automation"
+  },
+  {
+    "name": "Aether Flak",
+    "unitType": "步兵",
+    "strength": 60,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 280,
+    "uniques": [
+      "[100]% chance to intercept air attacks",
+      "[+150]% Strength <vs [飞艇] units>",
+      "No defensive terrain bonus",
+      "Never appears as a Barbarian unit",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "Magic Energy Conversion",
+    "interceptRange": 3
+  },
+  {
+    "name": "Night Watch Guards",
+    "unitType": "长柄",
+    "strength": 78,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 280,
+    "uniques": [
+      "[+35]% Strength <vs [轻骑] units>",
+      "[+35]% Strength <vs [重骑] units>",
+      "[+35]% Strength <vs [构装] units>",
+      "Consumes [1] [Iron]",
+      "Never appears as a Barbarian unit",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "Magitech Power Systems"
+  },
+  {
+    "name": "Magitech Sniper",
+    "unitType": "射手",
+    "strength": 70,
+    "rangedStrength": 190,
+    "range": 3,
+    "movement": 2,
+    "cost": 450,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Consumes [1] [Magic Crystals]",
+      "Never appears as a Barbarian unit",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "Advanced Automation"
+  },
+  {
+    "name": "Space Guard",
+    "unitType": "构装",
+    "strength": 125,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 2,
+    "cost": 380,
+    "uniques": [
+      "No defensive terrain bonus",
+      "[+10]% Strength <when defending>",
+      "[+10]% Strength bonus for [{Land} {Military}] units within [2] tiles",
+      "Consumes [1] [Magic Crystals]",
+      "Consumes [1] [Mithril]",
+      "Never appears as a Barbarian unit",
+      "[+25]% maintenance costs"
+    ],
+    "requiredTech": "Spatial Engineering"
   }
 ]
