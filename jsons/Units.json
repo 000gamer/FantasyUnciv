@@ -2690,8 +2690,8 @@
   {
     "name": "Elder Dragon",
     "unitType": "野兽",
-    "strength": 70,
-    "rangedStrength": 80,
+    "strength": 90,
+    "rangedStrength": 110,
     "range": 2,
     "movement": 2,
     "cost": 1000,
@@ -2705,7 +2705,7 @@
   {
     "name": "Wyrmling",
     "unitType": "野兽",
-    "strength": 55,
+    "strength": 65,
     "movement": 3,
     "cost": 150,
     "uniqueTo": "Dragon Lair",
@@ -2739,7 +2739,7 @@
     "uniques": [
       "Cannot move",
       "Unbuildable",
-      "[+50]% Strength <when defending>",
+      "[+25]% Strength <when defending>",
       "Never appears as a Barbarian unit"
     ]
   },
