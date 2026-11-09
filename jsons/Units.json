@@ -1478,6 +1478,8 @@
     "unitType": "Civilian",
     "movement": 2,
     "uniques": [
+      "Can build [Land] improvements on tiles",
+      "Automation is a primary action",
       "Can build [Repair] improvements on tiles <hidden from users>",
       "Comment [Build tile improvements]",
       "Never appears as a Barbarian unit"
