@@ -876,11 +876,10 @@
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "Free [Guardian of the Wilds] appears <when number of [[Guardian of the Wilds] Units] is equal to [0]>"
+      "Free [Guardian of the Wilds] appears <when number of [[Guardian of the Wilds] Units] is equal to [0]>",
+      "Comment [Hero Wonder]"
     ],
     "isWonder": true,
-    "faith": 5,
-    "culture": 2,
     "specialistSlots": {}
   },
   {
@@ -893,11 +892,10 @@
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
       "Must be next to [River]",
-      "Free [Springroad Physician] appears <when number of [[Springroad Physician] Units] is equal to [0]>"
+      "Free [Springroad Physician] appears <when number of [[Springroad Physician] Units] is equal to [0]>",
+      "Comment [Hero Wonder]"
     ],
     "isWonder": true,
-    "food": 6,
-    "culture": 1,
     "specialistSlots": {}
   },
   {
@@ -909,14 +907,11 @@
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "[+1] Sight <for [{Water} {Military}] units>",
-      "[+1] Movement <for [{Water} {Military}] units>",
       "Must be next to [Coast]",
-      "Free [Lantern Oathguard] appears <when number of [[Lantern Oathguard] Units] is equal to [0]>"
+      "Free [Lantern Oathguard] appears <when number of [[Lantern Oathguard] Units] is equal to [0]>",
+      "Comment [Hero Wonder]"
     ],
     "isWonder": true,
-    "gold": 2,
-    "culture": 1,
     "specialistSlots": {}
   },
   {
@@ -928,14 +923,11 @@
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "New [{Land} {Military}] units start with [+15] XP [in this city]",
-      "[+15]% Production when constructing [{Land} {Military}] units [in this city]",
       "Only available <in cities with a [Barracks]>",
-      "Free [Monument Oathwalker] appears <when number of [[Monument Oathwalker] Units] is equal to [0]>"
+      "Free [Monument Oathwalker] appears <when number of [[Monument Oathwalker] Units] is equal to [0]>",
+      "Comment [Hero Wonder]"
     ],
     "isWonder": true,
-    "production": 2,
-    "culture": 2,
     "specialistSlots": {}
   },
   {
@@ -986,10 +978,10 @@
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
       "Only available <in cities with a [Barracks]>",
-      "Free [Oathsworn Commander] appears <when number of [[Oathsworn Commander] Units] is equal to [0]>"
+      "Free [Oathsworn Commander] appears <when number of [[Oathsworn Commander] Units] is equal to [0]>",
+      "Comment [Hero Wonder]"
     ],
     "isWonder": true,
-    "culture": 2,
     "specialistSlots": {}
   },
   {
@@ -1002,11 +994,10 @@
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
       "Only available <in cities with a [Academy of Magic]>",
-      "Free [Star-Gazer Sage] appears <when number of [[Star-Gazer Sage] Units] is equal to [0]>"
+      "Free [Star-Gazer Sage] appears <when number of [[Star-Gazer Sage] Units] is equal to [0]>",
+      "Comment [Hero Wonder]"
     ],
     "isWonder": true,
-    "science": 4,
-    "culture": 2,
     "specialistSlots": {}
   },
   {
@@ -1035,13 +1026,11 @@
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "[+20]% Production when constructing [构装] units [in all cities]",
       "Only available <in cities with a [Precision Workshop]>",
-      "Free [Molten Seal Envoy] appears <when number of [[Molten Seal Envoy] Units] is equal to [0]>"
+      "Free [Molten Seal Envoy] appears <when number of [[Molten Seal Envoy] Units] is equal to [0]>",
+      "Comment [Hero Wonder]"
     ],
     "isWonder": true,
-    "production": 6,
-    "science": 2,
     "specialistSlots": {},
     "greatPersonPoints": {
       "Great Artificer": 1
@@ -1075,12 +1064,11 @@
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "[-15]% Gold cost of upgrading",
       "Only available <in cities with a [Bank]>",
-      "Free [Caravan Arbiter] appears <when number of [[Caravan Arbiter] Units] is equal to [0]>"
+      "Free [Caravan Arbiter] appears <when number of [[Caravan Arbiter] Units] is equal to [0]>",
+      "Comment [Hero Wonder]"
     ],
     "isWonder": true,
-    "gold": 8,
     "specialistSlots": {}
   },
   {
@@ -1110,17 +1098,15 @@
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "Gain a free [Enhancer] belief",
       "Only available <in cities with a [Theological College]>",
       "Only available <when religion is enabled>",
       "Only available <after enhancing a religion>",
       "Triggers a global alert upon build start",
       "Triggers a global alert upon completion",
-      "Free [Ancient Oath Dragon] appears <when number of [[Ancient Oath Dragon] Units] is equal to [0]>"
+      "Free [Ancient Oath Dragon] appears <when number of [[Ancient Oath Dragon] Units] is equal to [0]>",
+      "Comment [Hero Wonder]"
     ],
     "isWonder": true,
-    "culture": 4,
-    "faith": 4,
     "specialistSlots": {}
   },
   {
@@ -1132,11 +1118,11 @@
       "Cannot be purchased <hidden from users>",
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
-      "Reveals the entire map",
       "Free Social Policy",
       "Only available <in cities with a [Survey Hall]>",
       "Triggers a global alert upon build start",
-      "Triggers a global alert upon completion"
+      "Triggers a global alert upon completion",
+      "[+1] Sight <for [Military] units>"
     ],
     "culture": 6,
     "science": 4,
@@ -1381,10 +1367,9 @@
       "Cannot be hurried <hidden from users>",
       "Only available <in cities with a [Supply Harbor]>",
       "Must be next to [Coast]",
-      "Free [Sea Road Navigator] appears <when number of [[Sea Road Navigator] Units] is equal to [0]>"
+      "Free [Sea Road Navigator] appears <when number of [[Sea Road Navigator] Units] is equal to [0]>",
+      "Comment [Hero Wonder]"
     ],
-    "culture": 1,
-    "gold": 1,
     "specialistSlots": {},
     "isWonder": true
   },
@@ -1400,10 +1385,9 @@
       "Only available <in cities with a [Precision Workshop]>",
       "Only available <with [Iron]>",
       "Only available <with [Magic Crystals]>",
-      "Free [Hundredforge Artificer] appears <when number of [[Hundredforge Artificer] Units] is equal to [0]>"
+      "Free [Hundredforge Artificer] appears <when number of [[Hundredforge Artificer] Units] is equal to [0]>",
+      "Comment [Hero Wonder]"
     ],
-    "production": 2,
-    "science": 1,
     "specialistSlots": {},
     "isWonder": true
   },
@@ -1678,11 +1662,10 @@
       "Unsellable <hidden from users>",
       "Cannot be hurried <hidden from users>",
       "Only available <in cities with a [Academy of Magic]>",
-      "Free [Silent Mirror Keeper] appears <when number of [[Silent Mirror Keeper] Units] is equal to [0]>"
+      "Free [Silent Mirror Keeper] appears <when number of [[Silent Mirror Keeper] Units] is equal to [0]>",
+      "Comment [Hero Wonder]"
     ],
     "isWonder": true,
-    "science": 6,
-    "culture": 2,
     "specialistSlots": {}
   },
   {

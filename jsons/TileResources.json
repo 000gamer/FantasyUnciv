@@ -324,7 +324,7 @@
     "food": 1,
     "revealedBy": "Herbalism",
     "improvedBy": [
-      "Camp"
+      "Herb Garden"
     ],
     "improvementStats": {
       "faith": 1

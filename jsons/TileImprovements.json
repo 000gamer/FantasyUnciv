@@ -110,6 +110,18 @@
     "terrainsCanBeBuiltOn": []
   },
   {
+    "name": "Herb Garden",
+    "turnsToBuild": 6,
+    "uniques": [
+      "Can only be built to improve a resource",
+      "Does not need removal of [Forest]"
+    ],
+    "shortcutKey": "H",
+    "techRequired": "Herbalism",
+    "gold": 1,
+    "terrainsCanBeBuiltOn": []
+  },
+  {
     "name": "Lumber mill",
     "terrainsCanBeBuiltOn": [
       "Forest"
