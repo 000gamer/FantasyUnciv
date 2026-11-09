@@ -2710,6 +2710,7 @@
     "cost": 150,
     "uniqueTo": "Dragon Lair",
     "uniques": [
+      "Limited to [4] per Civilization",
       "Never appears as a Barbarian unit"
     ]
   },
@@ -2721,6 +2722,7 @@
     "cost": 300,
     "uniques": [
       "Costs [3] [Dragon Scale]",
+      "Only available <for [Major] Civilizations>",
       "Only available <in cities with a [Dragonscale Workshop]>",
       "[+30]% Strength <vs [轻骑] units>",
       "[+30]% Strength <vs [重骑] units>",
@@ -2751,6 +2753,7 @@
     "cost": 150,
     "uniqueTo": "Giant Fortress",
     "uniques": [
+      "Limited to [4] per Civilization",
       "Never appears as a Barbarian unit"
     ]
   },
@@ -2762,6 +2765,7 @@
     "cost": 300,
     "uniques": [
       "Costs [3] [Giant Heart]",
+      "Only available <for [Major] Civilizations>",
       "Only available <in cities with a [Giant Workshop]>",
       "[+25]% Strength <vs cities>",
       "Never appears as a Barbarian unit"

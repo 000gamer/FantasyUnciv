@@ -1146,9 +1146,7 @@
       35,
       40
     ],
-    "startBias": [
-      "Hill"
-    ],
+    "startBias": [],
     "uniques": [
       "[+500]% Strength for cities"
     ],
@@ -1171,10 +1169,7 @@
       35,
       40
     ],
-    "startBias": [
-      "Plains",
-      "Hill"
-    ],
+    "startBias": [],
     "uniques": [
       "[+700]% Strength for cities"
     ],

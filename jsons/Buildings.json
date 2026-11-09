@@ -1945,7 +1945,7 @@
     "name": "Dragon Tribute",
     "cost": 10,
     "maintenance": 0,
-    "gold": 60,
+    "gold": 100,
     "uniqueTo": "Dragon Lair",
     "uniques": [
       "Automatically built in all cities where it is buildable",
@@ -1958,7 +1958,7 @@
     "name": "Giant Tribute",
     "cost": 10,
     "maintenance": 0,
-    "gold": 60,
+    "gold": 100,
     "uniqueTo": "Giant Fortress",
     "uniques": [
       "Automatically built in all cities where it is buildable",
