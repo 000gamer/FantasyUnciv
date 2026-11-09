@@ -144,7 +144,6 @@
         "cost": 80,
         "row": 4,
         "prerequisites": [
-          "Mining",
           "Basic Crafts"
         ],
         "uniques": []
@@ -418,7 +417,6 @@
         "cost": 360,
         "row": 10,
         "prerequisites": [
-          "Cartography",
           "Offshore Navigation"
         ],
         "uniques": []
@@ -428,7 +426,6 @@
         "cost": 360,
         "row": 11,
         "prerequisites": [
-          "Cartography",
           "Offshore Navigation"
         ],
         "uniques": []
@@ -457,7 +454,6 @@
         "cost": 413,
         "row": 8,
         "prerequisites": [
-          "Currency and Exchange",
           "Maritime Provisioning"
         ],
         "uniques": []
@@ -476,7 +472,6 @@
         "cost": 700,
         "row": 7,
         "prerequisites": [
-          "Currency and Exchange",
           "Overseas Trade Network"
         ],
         "uniques": []
@@ -508,8 +503,7 @@
         "cost": 700,
         "row": 10,
         "prerequisites": [
-          "Mechanical Engineering",
-          "Mathematics and Measurement"
+          "Mechanical Engineering"
         ],
         "uniques": []
       }
@@ -570,8 +564,7 @@
         "cost": 804,
         "row": 9,
         "prerequisites": [
-          "Banking and Credit",
-          "Guilds"
+          "Banking and Credit"
         ],
         "uniques": []
       },
@@ -580,7 +573,6 @@
         "cost": 804,
         "row": 10,
         "prerequisites": [
-          "Mechanical Engineering",
           "Precision Manufacturing"
         ],
         "uniques": []
@@ -619,8 +611,7 @@
         "cost": 1300,
         "row": 9,
         "prerequisites": [
-          "Chemical Arts",
-          "Experimental Science"
+          "Chemical Arts"
         ],
         "uniques": []
       },
@@ -717,7 +708,6 @@
         "cost": 2300,
         "row": 7,
         "prerequisites": [
-          "Magic Instruments",
           "Magic Engineering Experiments"
         ],
         "uniques": []
@@ -766,8 +756,7 @@
         "cost": 2645,
         "row": 8,
         "prerequisites": [
-          "Magic Engineering",
-          "Structural Engineering"
+          "Magic Engineering"
         ],
         "uniques": []
       },
@@ -873,7 +862,6 @@
         "cost": 3800,
         "row": 10,
         "prerequisites": [
-          "Arcane Research",
           "Magical Medicine"
         ],
         "uniques": []
@@ -902,7 +890,6 @@
         "cost": 4370,
         "row": 8,
         "prerequisites": [
-          "Construct Engineering",
           "Artificial Life Research"
         ],
         "uniques": []
@@ -932,7 +919,6 @@
         "cost": 4370,
         "row": 11,
         "prerequisites": [
-          "Magical Medicine",
           "Artificial Life Research"
         ],
         "uniques": []

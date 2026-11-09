@@ -43,7 +43,6 @@
     "victoryScreenHeader": "AOD Religious Objective",
     "milestones": [
       "Build [Grand Synod]",
-      "Have at least [1] [Adopted [Piety Complete] Policies]",
       "Become the world religion"
     ],
     "victoryString": "Religious victory won",
