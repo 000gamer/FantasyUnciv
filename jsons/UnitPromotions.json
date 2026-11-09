@@ -498,584 +498,6 @@
     ]
   },
   {
-    "name": "Command",
-    "unitTypes": [
-      "Hero - Oathsworn Commander"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+15]% Strength bonus for [{Land} {Military}] units within [1] tiles"
-    ]
-  },
-  {
-    "name": "Oath of the Bridge",
-    "unitTypes": [
-      "Hero - Oathsworn Commander"
-    ],
-    "prerequisites": [
-      "Command"
-    ],
-    "uniques": [
-      "Unit will heal every turn, even if it performs an action <hidden from users>",
-      "Comment [FC Bridge healing Oathsworn Commander]",
-      "[+25]% maintenance costs"
-    ]
-  },
-  {
-    "name": "Military Oath Seal - Reforged",
-    "unitTypes": [
-      "Hero - Oathsworn Commander"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+10]% Strength <when defending> <vs [Ranged] units>"
-    ]
-  },
-  {
-    "name": "Military Oath Seal - Alliance",
-    "unitTypes": [
-      "Hero - Oathsworn Commander"
-    ],
-    "prerequisites": [
-      "Military Oath Seal - Reforged"
-    ],
-    "uniques": [
-      "All adjacent units heal [5] HP when healing",
-      "Only available <after discovering [Diplomatic Envoys]>",
-      "Only available <for units without [Military Oath Seal - Discipline]>"
-    ]
-  },
-  {
-    "name": "Military Oath Seal - Discipline",
-    "unitTypes": [
-      "Hero - Oathsworn Commander"
-    ],
-    "prerequisites": [
-      "Military Oath Seal - Reforged"
-    ],
-    "uniques": [
-      "[+15]% Strength bonus for [{Land} {Military}] units within [2] tiles",
-      "Only available <after discovering [Diplomatic Envoys]>",
-      "Only available <for units without [Military Oath Seal - Alliance]>"
-    ]
-  },
-  {
-    "name": "Insight",
-    "unitTypes": [
-      "Hero - Star-Gazer Sage"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+1] Sight",
-      "Only available <after discovering [Arcane Research]>"
-    ]
-  },
-  {
-    "name": "Starlight Extension",
-    "unitTypes": [
-      "Hero - Star-Gazer Sage"
-    ],
-    "prerequisites": [
-      "Insight"
-    ],
-    "uniques": [
-      "[+1] Range"
-    ]
-  },
-  {
-    "name": "Calendar Mirror - Restored",
-    "unitTypes": [
-      "Hero - Star-Gazer Sage"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+10]% Strength <when defending> <vs [Ranged] units>"
-    ]
-  },
-  {
-    "name": "Calendar Mirror - Afterimage",
-    "unitTypes": [
-      "Hero - Star-Gazer Sage"
-    ],
-    "prerequisites": [
-      "Calendar Mirror - Restored"
-    ],
-    "uniques": [
-      "Can move after attacking",
-      "Only available <after discovering [Memory Preservation]>",
-      "Only available <for units without [Calendar Mirror - Steadfast]>"
-    ]
-  },
-  {
-    "name": "Calendar Mirror - Steadfast",
-    "unitTypes": [
-      "Hero - Star-Gazer Sage"
-    ],
-    "prerequisites": [
-      "Calendar Mirror - Restored"
-    ],
-    "uniques": [
-      "No damage penalty for wounded units",
-      "[+25]% maintenance costs",
-      "Only available <after discovering [Memory Preservation]>",
-      "Only available <for units without [Calendar Mirror - Afterimage]>"
-    ]
-  },
-  {
-    "name": "Rootbranch Charm - Renewed",
-    "unitTypes": [
-      "Hero - Guardian of the Wilds"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "Ignores Zone of Control"
-    ]
-  },
-  {
-    "name": "Rootbranch Charm - Farwatch",
-    "unitTypes": [
-      "Hero - Guardian of the Wilds"
-    ],
-    "prerequisites": [
-      "Rootbranch Charm - Renewed"
-    ],
-    "uniques": [
-      "[+1] Movement",
-      "Only available <after discovering [Ecological Engineering]>",
-      "Only available <for units without [Rootbranch Charm - Grovekeeper]>"
-    ]
-  },
-  {
-    "name": "Rootbranch Charm - Grovekeeper",
-    "unitTypes": [
-      "Hero - Guardian of the Wilds"
-    ],
-    "prerequisites": [
-      "Rootbranch Charm - Renewed"
-    ],
-    "uniques": [
-      "[+15]% Strength <when fighting in [Forest] tiles>",
-      "Only available <after discovering [Ecological Engineering]>",
-      "Only available <for units without [Rootbranch Charm - Farwatch]>"
-    ]
-  },
-  {
-    "name": "Guardian Command",
-    "unitTypes": [
-      "Hero - Guardian of the Wilds"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+15]% Strength bonus for [{Land} {Military}] units within [1] tiles",
-      "Only available <for units without [Command]> <hidden from users>"
-    ]
-  },
-  {
-    "name": "Guardian Oath of the Bridge",
-    "unitTypes": [
-      "Hero - Guardian of the Wilds"
-    ],
-    "prerequisites": [
-      "Guardian Command"
-    ],
-    "uniques": [
-      "Unit will heal every turn, even if it performs an action <hidden from users>",
-      "Comment [FC Bridge healing Guardian of the Wilds]",
-      "[+25]% maintenance costs",
-      "Only available <for units without [Oath of the Bridge]> <hidden from users>"
-    ]
-  },
-  {
-    "name": "Dragonspine Oathstone - Monster Hunter",
-    "unitTypes": [
-      "Hero - Ancient Oath Dragon"
-    ],
-    "prerequisites": [
-      "Dragonspine Stone - Echoing"
-    ],
-    "uniques": [
-      "[+20]% Strength <vs [构装] units>",
-      "[+20]% Strength <vs [元素] units>",
-      "Only available <for units without [Dragonspine Oathstone - Sky Patrol]>"
-    ]
-  },
-  {
-    "name": "Dragon Breath",
-    "unitTypes": [
-      "Hero - Ancient Oath Dragon"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "Before engaging in combat performs an extra ranged attack with [30]% of melee combat strength"
-    ]
-  },
-  {
-    "name": "Dragonspine Stone - Echoing",
-    "unitTypes": [
-      "Hero - Ancient Oath Dragon"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "Heals [10] damage if it kills a unit"
-    ]
-  },
-  {
-    "name": "Dragonspine Stone - Far Oath",
-    "unitTypes": [
-      "Hero - Ancient Oath Dragon"
-    ],
-    "prerequisites": [
-      "Dragonspine Stone - Echoing"
-    ],
-    "uniques": [
-      "Ignores Zone of Control",
-      "Only available <after discovering [Great Magic Engineering]>",
-      "Only available <for units without [Dragonspine Stone - Nestguard]>"
-    ]
-  },
-  {
-    "name": "Dragonspine Oathstone - Sky Patrol",
-    "unitTypes": [
-      "Hero - Ancient Oath Dragon"
-    ],
-    "prerequisites": [
-      "Dragonspine Stone - Echoing"
-    ],
-    "uniques": [
-      "Ignores terrain cost",
-      "[+1] Sight",
-      "Only available <for units without [Dragonspine Oathstone - Monster Hunter]>"
-    ]
-  },
-  {
-    "name": "Dragonspine Stone - Nestguard",
-    "unitTypes": [
-      "Hero - Ancient Oath Dragon"
-    ],
-    "prerequisites": [
-      "Dragonspine Stone - Echoing"
-    ],
-    "uniques": [
-      "Unit will heal every turn, even if it performs an action",
-      "[+25]% maintenance costs",
-      "Only available <after discovering [Great Magic Engineering]>",
-      "Only available <for units without [Dragonspine Stone - Far Oath]>"
-    ]
-  },
-  {
-    "name": "Spring Ring - Restored",
-    "unitTypes": [
-      "Hero - Springroad Physician"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+5] HP when healing"
-    ]
-  },
-  {
-    "name": "Spring Ring - Many Springs",
-    "unitTypes": [
-      "Hero - Springroad Physician"
-    ],
-    "prerequisites": [
-      "Spring Ring - Restored"
-    ],
-    "uniques": [
-      "All adjacent units heal [5] HP when healing",
-      "[+25]% maintenance costs",
-      "Only available <after discovering [Magical Medicine]>",
-      "Only available <for units without [Spring Ring - Urgent Care]>"
-    ]
-  },
-  {
-    "name": "Spring Ring - Urgent Care",
-    "unitTypes": [
-      "Hero - Springroad Physician"
-    ],
-    "prerequisites": [
-      "Spring Ring - Restored"
-    ],
-    "uniques": [
-      "[+1] Movement",
-      "Unit will heal every turn, even if it performs an action",
-      "[+25]% maintenance costs",
-      "Only available <after discovering [Magical Medicine]>",
-      "Only available <for units without [Spring Ring - Many Springs]>"
-    ]
-  },
-  {
-    "name": "Name Tag - Restored",
-    "unitTypes": [
-      "Hero - Monument Oathwalker"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+10]% Strength <when defending>"
-    ]
-  },
-  {
-    "name": "Name Tag - Archive",
-    "unitTypes": [
-      "Hero - Monument Oathwalker"
-    ],
-    "prerequisites": [
-      "Name Tag - Restored"
-    ],
-    "uniques": [
-      "Earn [25]% of killed [Military] unit's [Strength] as [Culture]",
-      "Only available <after discovering [Magic Instruments]>",
-      "Only available <for units without [Name Tag - Unbound]>"
-    ]
-  },
-  {
-    "name": "Name Tag - Unbound",
-    "unitTypes": [
-      "Hero - Monument Oathwalker"
-    ],
-    "prerequisites": [
-      "Name Tag - Restored"
-    ],
-    "uniques": [
-      "Can move after attacking",
-      "Ignores Zone of Control",
-      "[+25]% maintenance costs",
-      "Only available <after discovering [Magic Instruments]>",
-      "Only available <for units without [Name Tag - Archive]>"
-    ]
-  },
-  {
-    "name": "Molten Rule - Restored",
-    "unitTypes": [
-      "Hero - Molten Seal Envoy"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+10]% Strength <when defending> <vs [Ranged] units>"
-    ]
-  },
-  {
-    "name": "Molten Rule - Breaker",
-    "unitTypes": [
-      "Hero - Molten Seal Envoy"
-    ],
-    "prerequisites": [
-      "Molten Rule - Restored"
-    ],
-    "uniques": [
-      "[+20]% Strength <vs [构装] units>",
-      "Only available <after discovering [Arcane Defense Systems]>",
-      "Only available <for units without [Molten Rule - Solid Phase]>"
-    ]
-  },
-  {
-    "name": "Molten Rule - Solid Phase",
-    "unitTypes": [
-      "Hero - Molten Seal Envoy"
-    ],
-    "prerequisites": [
-      "Molten Rule - Restored"
-    ],
-    "uniques": [
-      "[+20]% Strength <when defending> <vs [Ranged] units>",
-      "Only available <after discovering [Arcane Defense Systems]>",
-      "Only available <for units without [Molten Rule - Breaker]>"
-    ]
-  },
-  {
-    "name": "Still Mirror Needle - Restored",
-    "unitTypes": [
-      "Hero - Silent Mirror Keeper"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+10]% Strength <when defending> <vs [Ranged] units>"
-    ]
-  },
-  {
-    "name": "Still Mirror Needle - Displacement",
-    "unitTypes": [
-      "Hero - Silent Mirror Keeper"
-    ],
-    "prerequisites": [
-      "Still Mirror Needle - Restored"
-    ],
-    "uniques": [
-      "[+1] Movement",
-      "Ignores terrain cost",
-      "Only available <after discovering [Experimental Science]>",
-      "Only available <for units without [Still Mirror Needle - Resolve]>"
-    ]
-  },
-  {
-    "name": "Still Mirror Needle - Resolve",
-    "unitTypes": [
-      "Hero - Silent Mirror Keeper"
-    ],
-    "prerequisites": [
-      "Still Mirror Needle - Restored"
-    ],
-    "uniques": [
-      "[+25]% Strength <when defending> <vs [Ranged] units>",
-      "Only available <after discovering [Experimental Science]>",
-      "Only available <for units without [Still Mirror Needle - Displacement]>"
-    ]
-  },
-  {
-    "name": "Tideway Needle - Restored",
-    "unitTypes": [
-      "Hero - Sea Road Navigator"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+10]% Strength <when defending> <vs [Ranged] units>"
-    ]
-  },
-  {
-    "name": "Tideway Needle - Escort",
-    "unitTypes": [
-      "Hero - Sea Road Navigator"
-    ],
-    "prerequisites": [
-      "Tideway Needle - Restored"
-    ],
-    "uniques": [
-      "[+10]% Strength bonus for [{Water} {Military}] units within [2] tiles",
-      "Only available <after discovering [Deep-Sea Shipbuilding]>",
-      "Only available <for units without [Tideway Needle - Racing Tide]>"
-    ]
-  },
-  {
-    "name": "Tideway Needle - Racing Tide",
-    "unitTypes": [
-      "Hero - Sea Road Navigator"
-    ],
-    "prerequisites": [
-      "Tideway Needle - Restored"
-    ],
-    "uniques": [
-      "[+1] Movement",
-      "Can move after attacking",
-      "Only available <after discovering [Deep-Sea Shipbuilding]>",
-      "Only available <for units without [Tideway Needle - Escort]>"
-    ]
-  },
-  {
-    "name": "Lantern Seal - Restored",
-    "unitTypes": [
-      "Hero - Lantern Oathguard"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+5] HP when healing"
-    ]
-  },
-  {
-    "name": "Lantern Seal - Reveal Specters",
-    "unitTypes": [
-      "Hero - Lantern Oathguard"
-    ],
-    "prerequisites": [
-      "Lantern Seal - Restored"
-    ],
-    "uniques": [
-      "[+1] Sight",
-      "Only available <after discovering [Magic Instruments]>",
-      "Only available <for units without [Lantern Seal - Aid All]>"
-    ]
-  },
-  {
-    "name": "Lantern Seal - Aid All",
-    "unitTypes": [
-      "Hero - Lantern Oathguard"
-    ],
-    "prerequisites": [
-      "Lantern Seal - Restored"
-    ],
-    "uniques": [
-      "All adjacent units heal [5] HP when healing",
-      "Only available <after discovering [Magical Medicine]>",
-      "Only available <for units without [Lantern Seal - Reveal Specters]>"
-    ]
-  },
-  {
-    "name": "Hundredforge Ruler - Restored",
-    "unitTypes": [
-      "Hero - Hundredforge Artificer"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+10]% Strength <when defending> <vs [Ranged] units>"
-    ]
-  },
-  {
-    "name": "Hundredforge Ruler - Field Repair",
-    "unitTypes": [
-      "Hero - Hundredforge Artificer"
-    ],
-    "prerequisites": [
-      "Hundredforge Ruler - Restored"
-    ],
-    "uniques": [
-      "All adjacent units heal [5] HP when healing",
-      "Only available <after discovering [Advanced Material Synthesis]>",
-      "Only available <for units without [Hundredforge Ruler - Resonance]>"
-    ]
-  },
-  {
-    "name": "Hundredforge Ruler - Resonance",
-    "unitTypes": [
-      "Hero - Hundredforge Artificer"
-    ],
-    "prerequisites": [
-      "Hundredforge Ruler - Restored"
-    ],
-    "uniques": [
-      "[+15]% Strength <when adjacent to a [构装] unit>",
-      "Only available <after discovering [Advanced Material Synthesis]>",
-      "Only available <for units without [Hundredforge Ruler - Field Repair]>"
-    ]
-  },
-  {
-    "name": "Twin Scales Badge - Restored",
-    "unitTypes": [
-      "Hero - Caravan Arbiter"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+1] Sight"
-    ]
-  },
-  {
-    "name": "Twin Scales Badge - Reimbursement",
-    "unitTypes": [
-      "Hero - Caravan Arbiter"
-    ],
-    "prerequisites": [
-      "Twin Scales Badge - Restored"
-    ],
-    "uniques": [
-      "Earn [50]% of killed [Military] unit's [Strength] as [Gold]",
-      "Only available <after discovering [Commercial Corporations]>",
-      "Only available <for units without [Twin Scales Badge - Roadguard]>"
-    ]
-  },
-  {
-    "name": "Twin Scales Badge - Roadguard",
-    "unitTypes": [
-      "Hero - Caravan Arbiter"
-    ],
-    "prerequisites": [
-      "Twin Scales Badge - Restored"
-    ],
-    "uniques": [
-      "[+1] Movement",
-      "Unit will heal every turn, even if it performs an action",
-      "[+25]% maintenance costs",
-      "Only available <after discovering [Commercial Corporations]>",
-      "Only available <for units without [Twin Scales Badge - Reimbursement]>"
-    ]
-  },
-  {
     "name": "Heal Instantly",
     "unitTypes": [
       "侦察",
@@ -2018,6 +1440,841 @@
     ],
     "uniques": [
       "[1] additional attacks per turn"
+    ]
+  },
+  {
+    "name": "Tactical Synergy",
+    "unitTypes": [
+      "Hero - Oathsworn Commander"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+10]% Strength bonus for [{Land} {Military}] units within [2] tiles"
+    ]
+  },
+  {
+    "name": "Assault Orders",
+    "unitTypes": [
+      "Hero - Oathsworn Commander"
+    ],
+    "prerequisites": [
+      "Tactical Synergy"
+    ],
+    "uniques": [
+      "[+15]% Strength <when attacking>",
+      "Can move after attacking"
+    ]
+  },
+  {
+    "name": "Full Advance",
+    "unitTypes": [
+      "Hero - Oathsworn Commander"
+    ],
+    "prerequisites": [
+      "Assault Orders"
+    ],
+    "uniques": [
+      "[+10]% Strength bonus for [{Land} {Military}] units within [3] tiles",
+      "[+1] Movement"
+    ]
+  },
+  {
+    "name": "Oath Reforged",
+    "unitTypes": [
+      "Hero - Oathsworn Commander"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "Hold the Front",
+    "unitTypes": [
+      "Hero - Oathsworn Commander"
+    ],
+    "prerequisites": [
+      "Oath Reforged"
+    ],
+    "uniques": [
+      "All adjacent units heal [5] HP when healing"
+    ]
+  },
+  {
+    "name": "Iron Phalanx",
+    "unitTypes": [
+      "Hero - Oathsworn Commander"
+    ],
+    "prerequisites": [
+      "Hold the Front"
+    ],
+    "uniques": [
+      "[+10]% Strength bonus for [{Land} {Military}] units within [1] tiles",
+      "Unit will heal every turn, even if it performs an action"
+    ]
+  },
+  {
+    "name": "Star Insight",
+    "unitTypes": [
+      "Hero - Star-Gazer Sage"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Sight"
+    ]
+  },
+  {
+    "name": "Distant Star Watch",
+    "unitTypes": [
+      "Hero - Star-Gazer Sage"
+    ],
+    "prerequisites": [
+      "Star Insight"
+    ],
+    "uniques": [
+      "[+1] Range"
+    ]
+  },
+  {
+    "name": "Celestial Parsing",
+    "unitTypes": [
+      "Hero - Star-Gazer Sage"
+    ],
+    "prerequisites": [
+      "Distant Star Watch"
+    ],
+    "uniques": [
+      "Can see invisible [All] units"
+    ]
+  },
+  {
+    "name": "Enemy Analysis",
+    "unitTypes": [
+      "Hero - Star-Gazer Sage"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <vs [重步兵] units>",
+      "[+20]% Strength <vs [重骑] units>"
+    ]
+  },
+  {
+    "name": "Magic Breakdown",
+    "unitTypes": [
+      "Hero - Star-Gazer Sage"
+    ],
+    "prerequisites": [
+      "Enemy Analysis"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [构装] units>",
+      "[+25]% Strength <vs [元素] units>",
+      "[+25]% Strength <vs [幽魂] units>"
+    ]
+  },
+  {
+    "name": "Battlefield Deduction",
+    "unitTypes": [
+      "Hero - Star-Gazer Sage"
+    ],
+    "prerequisites": [
+      "Magic Breakdown"
+    ],
+    "uniques": [
+      "Earn [50]% of killed [Military] unit's [Strength] as [Science]"
+    ]
+  },
+  {
+    "name": "Rootbranch Might",
+    "unitTypes": [
+      "Hero - Guardian of the Wilds"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "Ignores Zone of Control"
+    ]
+  },
+  {
+    "name": "Far Forest Walker",
+    "unitTypes": [
+      "Hero - Guardian of the Wilds"
+    ],
+    "prerequisites": [
+      "Rootbranch Might"
+    ],
+    "uniques": [
+      "[+1] Movement"
+    ]
+  },
+  {
+    "name": "Forest Passage",
+    "unitTypes": [
+      "Hero - Guardian of the Wilds"
+    ],
+    "prerequisites": [
+      "Far Forest Walker"
+    ],
+    "uniques": [
+      "Ignores terrain cost",
+      "[+1] Sight"
+    ]
+  },
+  {
+    "name": "Life Echo",
+    "unitTypes": [
+      "Hero - Guardian of the Wilds"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+5] HP when healing"
+    ]
+  },
+  {
+    "name": "Grove Shelter",
+    "unitTypes": [
+      "Hero - Guardian of the Wilds"
+    ],
+    "prerequisites": [
+      "Life Echo"
+    ],
+    "uniques": [
+      "All adjacent units heal [5] HP when healing"
+    ]
+  },
+  {
+    "name": "Ancient Grove Guard",
+    "unitTypes": [
+      "Hero - Guardian of the Wilds"
+    ],
+    "prerequisites": [
+      "Grove Shelter"
+    ],
+    "uniques": [
+      "[+15]% Strength bonus for [{Land} {Military}] units within [2] tiles <in [Forest] tiles>"
+    ]
+  },
+  {
+    "name": "Sky Eye",
+    "unitTypes": [
+      "Hero - Ancient Oath Dragon"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Sight"
+    ]
+  },
+  {
+    "name": "Swift Heavens",
+    "unitTypes": [
+      "Hero - Ancient Oath Dragon"
+    ],
+    "prerequisites": [
+      "Sky Eye"
+    ],
+    "uniques": [
+      "[+1] Movement"
+    ]
+  },
+  {
+    "name": "Boundless Patrol",
+    "unitTypes": [
+      "Hero - Ancient Oath Dragon"
+    ],
+    "prerequisites": [
+      "Swift Heavens"
+    ],
+    "uniques": [
+      "Can move after attacking"
+    ]
+  },
+  {
+    "name": "Dragonspine Echo",
+    "unitTypes": [
+      "Hero - Ancient Oath Dragon"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "Heals [10] damage if it kills a unit"
+    ]
+  },
+  {
+    "name": "Breath Enhancement",
+    "unitTypes": [
+      "Hero - Ancient Oath Dragon"
+    ],
+    "prerequisites": [
+      "Dragonspine Echo"
+    ],
+    "uniques": [
+      "Before engaging in combat performs an extra ranged attack with [20]% of melee combat strength"
+    ]
+  },
+  {
+    "name": "Behemoth Hunter",
+    "unitTypes": [
+      "Hero - Ancient Oath Dragon"
+    ],
+    "prerequisites": [
+      "Breath Enhancement"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [构装] units>",
+      "[+25]% Strength <vs [元素] units>"
+    ]
+  },
+  {
+    "name": "Fine Treatment",
+    "unitTypes": [
+      "Hero - Springroad Physician"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+5] HP when healing"
+    ]
+  },
+  {
+    "name": "Emergency Aid",
+    "unitTypes": [
+      "Hero - Springroad Physician"
+    ],
+    "prerequisites": [
+      "Fine Treatment"
+    ],
+    "uniques": [
+      "All adjacent units heal [5] HP when healing"
+    ]
+  },
+  {
+    "name": "Comprehensive Care",
+    "unitTypes": [
+      "Hero - Springroad Physician"
+    ],
+    "prerequisites": [
+      "Emergency Aid"
+    ],
+    "uniques": [
+      "All healing effects doubled"
+    ]
+  },
+  {
+    "name": "Marching Doctor",
+    "unitTypes": [
+      "Hero - Springroad Physician"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Movement"
+    ]
+  },
+  {
+    "name": "Rapid Rescue",
+    "unitTypes": [
+      "Hero - Springroad Physician"
+    ],
+    "prerequisites": [
+      "Marching Doctor"
+    ],
+    "uniques": [
+      "Unit will heal every turn, even if it performs an action"
+    ]
+  },
+  {
+    "name": "Mobile Aid Station",
+    "unitTypes": [
+      "Hero - Springroad Physician"
+    ],
+    "prerequisites": [
+      "Rapid Rescue"
+    ],
+    "uniques": [
+      "May heal outside of friendly territory",
+      "All adjacent units heal [5] HP when healing"
+    ]
+  },
+  {
+    "name": "Oath Remembered",
+    "unitTypes": [
+      "Hero - Monument Oathwalker"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "Earn [25]% of killed [Military] unit's [Strength] as [Culture]"
+    ]
+  },
+  {
+    "name": "History Witness",
+    "unitTypes": [
+      "Hero - Monument Oathwalker"
+    ],
+    "prerequisites": [
+      "Oath Remembered"
+    ],
+    "uniques": [
+      "[+1] Sight"
+    ]
+  },
+  {
+    "name": "Eternal Memorial",
+    "unitTypes": [
+      "Hero - Monument Oathwalker"
+    ],
+    "prerequisites": [
+      "History Witness"
+    ],
+    "uniques": [
+      "Earn [25]% of killed [Military] unit's [Strength] as [Culture]"
+    ]
+  },
+  {
+    "name": "Formless Body",
+    "unitTypes": [
+      "Hero - Monument Oathwalker"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "Shadow Walker",
+    "unitTypes": [
+      "Hero - Monument Oathwalker"
+    ],
+    "prerequisites": [
+      "Formless Body"
+    ],
+    "uniques": [
+      "Can move after attacking"
+    ]
+  },
+  {
+    "name": "Phantom Passage",
+    "unitTypes": [
+      "Hero - Monument Oathwalker"
+    ],
+    "prerequisites": [
+      "Shadow Walker"
+    ],
+    "uniques": [
+      "Ignores Zone of Control",
+      "Ignores terrain cost"
+    ]
+  },
+  {
+    "name": "Structure-Breaking Rune",
+    "unitTypes": [
+      "Hero - Molten Seal Envoy"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+25]% Strength <vs [构装] units>"
+    ]
+  },
+  {
+    "name": "Elemental Deconstruction",
+    "unitTypes": [
+      "Hero - Molten Seal Envoy"
+    ],
+    "prerequisites": [
+      "Structure-Breaking Rune"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [元素] units>"
+    ]
+  },
+  {
+    "name": "Molten Seal Breaker",
+    "unitTypes": [
+      "Hero - Molten Seal Envoy"
+    ],
+    "prerequisites": [
+      "Elemental Deconstruction"
+    ],
+    "uniques": [
+      "[+1] Range",
+      "Ranged attacks may be performed over obstacles"
+    ]
+  },
+  {
+    "name": "Stable Rune",
+    "unitTypes": [
+      "Hero - Molten Seal Envoy"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "Reflective Seal",
+    "unitTypes": [
+      "Hero - Molten Seal Envoy"
+    ],
+    "prerequisites": [
+      "Stable Rune"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [Ranged] units> <when defending>"
+    ]
+  },
+  {
+    "name": "Solid-Phase Barrier",
+    "unitTypes": [
+      "Hero - Molten Seal Envoy"
+    ],
+    "prerequisites": [
+      "Reflective Seal"
+    ],
+    "uniques": [
+      "[+25]% Strength <when defending>",
+      "Unit will heal every turn, even if it performs an action"
+    ]
+  },
+  {
+    "name": "Shade Recognition",
+    "unitTypes": [
+      "Hero - Silent Mirror Keeper"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Sight"
+    ]
+  },
+  {
+    "name": "Anomaly Tracking",
+    "unitTypes": [
+      "Hero - Silent Mirror Keeper"
+    ],
+    "prerequisites": [
+      "Shade Recognition"
+    ],
+    "uniques": [
+      "[+1] Sight"
+    ]
+  },
+  {
+    "name": "Nowhere to Hide",
+    "unitTypes": [
+      "Hero - Silent Mirror Keeper"
+    ],
+    "prerequisites": [
+      "Anomaly Tracking"
+    ],
+    "uniques": [
+      "Can see invisible [All] units",
+      "[+25]% Strength <vs [幽魂] units>"
+    ]
+  },
+  {
+    "name": "Mirror Step",
+    "unitTypes": [
+      "Hero - Silent Mirror Keeper"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Movement"
+    ]
+  },
+  {
+    "name": "Spatial Shift",
+    "unitTypes": [
+      "Hero - Silent Mirror Keeper"
+    ],
+    "prerequisites": [
+      "Mirror Step"
+    ],
+    "uniques": [
+      "Ignores terrain cost"
+    ]
+  },
+  {
+    "name": "Opening Strike",
+    "unitTypes": [
+      "Hero - Silent Mirror Keeper"
+    ],
+    "prerequisites": [
+      "Spatial Shift"
+    ],
+    "uniques": [
+      "[+25]% Strength <when attacking>"
+    ]
+  },
+  {
+    "name": "Fleet Coordination",
+    "unitTypes": [
+      "Hero - Sea Road Navigator"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+10]% Strength bonus for [{Water} {Military}] units within [2] tiles"
+    ]
+  },
+  {
+    "name": "Sea Escort",
+    "unitTypes": [
+      "Hero - Sea Road Navigator"
+    ],
+    "prerequisites": [
+      "Fleet Coordination"
+    ],
+    "uniques": [
+      "All adjacent units heal [5] HP when healing"
+    ]
+  },
+  {
+    "name": "Ocean Commander",
+    "unitTypes": [
+      "Hero - Sea Road Navigator"
+    ],
+    "prerequisites": [
+      "Sea Escort"
+    ],
+    "uniques": [
+      "[+10]% Strength bonus for [{Water} {Military}] units within [3] tiles"
+    ]
+  },
+  {
+    "name": "Star Sea Navigation",
+    "unitTypes": [
+      "Hero - Sea Road Navigator"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Sight"
+    ]
+  },
+  {
+    "name": "Swift Tide",
+    "unitTypes": [
+      "Hero - Sea Road Navigator"
+    ],
+    "prerequisites": [
+      "Star Sea Navigation"
+    ],
+    "uniques": [
+      "[+1] Movement"
+    ]
+  },
+  {
+    "name": "Uncharted Route",
+    "unitTypes": [
+      "Hero - Sea Road Navigator"
+    ],
+    "prerequisites": [
+      "Swift Tide"
+    ],
+    "uniques": [
+      "[+1] Sight",
+      "[+1] Movement"
+    ]
+  },
+  {
+    "name": "Specter Lighting",
+    "unitTypes": [
+      "Hero - Lantern Oathguard"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Sight",
+      "Can see invisible [幽魂] units"
+    ]
+  },
+  {
+    "name": "Undead Verdict",
+    "unitTypes": [
+      "Hero - Lantern Oathguard"
+    ],
+    "prerequisites": [
+      "Specter Lighting"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [幽魂] units>"
+    ]
+  },
+  {
+    "name": "Lantern Judgment",
+    "unitTypes": [
+      "Hero - Lantern Oathguard"
+    ],
+    "prerequisites": [
+      "Undead Verdict"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [死灵] units>",
+      "[+25]% Strength <vs [幽魂] units>"
+    ]
+  },
+  {
+    "name": "Guardian Lantern",
+    "unitTypes": [
+      "Hero - Lantern Oathguard"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "Lantern Barrier",
+    "unitTypes": [
+      "Hero - Lantern Oathguard"
+    ],
+    "prerequisites": [
+      "Guardian Lantern"
+    ],
+    "uniques": [
+      "[+10]% Strength bonus for [{Land} {Military}] units within [1] tiles"
+    ]
+  },
+  {
+    "name": "Everlight Oath",
+    "unitTypes": [
+      "Hero - Lantern Oathguard"
+    ],
+    "prerequisites": [
+      "Lantern Barrier"
+    ],
+    "uniques": [
+      "[+10]% Strength bonus for [{Land} {Military}] units within [2] tiles",
+      "All adjacent units heal [5] HP when healing"
+    ]
+  },
+  {
+    "name": "Rapid Fortification",
+    "unitTypes": [
+      "Hero - Hundredforge Artificer"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "Can build [Fort] improvements at a [50]% rate"
+    ]
+  },
+  {
+    "name": "Field Works",
+    "unitTypes": [
+      "Hero - Hundredforge Artificer"
+    ],
+    "prerequisites": [
+      "Rapid Fortification"
+    ],
+    "uniques": [
+      "[+25]% Strength <when defending> <in [Fort] tiles>"
+    ]
+  },
+  {
+    "name": "Engineered Position",
+    "unitTypes": [
+      "Hero - Hundredforge Artificer"
+    ],
+    "prerequisites": [
+      "Field Works"
+    ],
+    "uniques": [
+      "Can build [Fort] improvements at a [50]% rate"
+    ]
+  },
+  {
+    "name": "On-Site Repair",
+    "unitTypes": [
+      "Hero - Hundredforge Artificer"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+10] HP when healing"
+    ]
+  },
+  {
+    "name": "Construct Synergy",
+    "unitTypes": [
+      "Hero - Hundredforge Artificer"
+    ],
+    "prerequisites": [
+      "On-Site Repair"
+    ],
+    "uniques": [
+      "[+15]% Strength bonus for [构装] units within [2] tiles"
+    ]
+  },
+  {
+    "name": "Hundredforge Resonance",
+    "unitTypes": [
+      "Hero - Hundredforge Artificer"
+    ],
+    "prerequisites": [
+      "Construct Synergy"
+    ],
+    "uniques": [
+      "All adjacent units heal [5] HP when healing",
+      "[+15]% Strength bonus for [构装] units within [3] tiles"
+    ]
+  },
+  {
+    "name": "Trade Appraisal",
+    "unitTypes": [
+      "Hero - Caravan Arbiter"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "Earn [50]% of killed [Military] unit's [Strength] as [Gold]"
+    ]
+  },
+  {
+    "name": "Contract Network",
+    "unitTypes": [
+      "Hero - Caravan Arbiter"
+    ],
+    "prerequisites": [
+      "Trade Appraisal"
+    ],
+    "uniques": [
+      "Earn [20]% of the damage done to [Military] units as [Gold]"
+    ]
+  },
+  {
+    "name": "Road Arbitration",
+    "unitTypes": [
+      "Hero - Caravan Arbiter"
+    ],
+    "prerequisites": [
+      "Contract Network"
+    ],
+    "uniques": [
+      "Earn [50]% of killed [Military] unit's [Strength] as [Gold]"
+    ]
+  },
+  {
+    "name": "Road Watch",
+    "unitTypes": [
+      "Hero - Caravan Arbiter"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Sight"
+    ]
+  },
+  {
+    "name": "Escort March",
+    "unitTypes": [
+      "Hero - Caravan Arbiter"
+    ],
+    "prerequisites": [
+      "Road Watch"
+    ],
+    "uniques": [
+      "[+1] Movement"
+    ]
+  },
+  {
+    "name": "Steadfast Escort",
+    "unitTypes": [
+      "Hero - Caravan Arbiter"
+    ],
+    "prerequisites": [
+      "Escort March"
+    ],
+    "uniques": [
+      "[+15]% Strength <when defending> <in [Friendly Land] tiles>",
+      "Unit will heal every turn, even if it performs an action"
     ]
   }
 ]

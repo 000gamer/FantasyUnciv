@@ -22,7 +22,7 @@ Agriculture, industry, navigation, culture, religion and magic all contribute to
 
 **12 heroes, each with personal promotion paths.** Meet the army-leading Oathsworn Commander, the forest-defending Guardian of the Wilds, the arcane Star-Gazer Sage and the mighty Ancient Oath Dragon.
 
-Gain heroes through wonders, encounters in ancient ruins and national projects. Earn experience in battle and choose their personal promotions. Give them a place at the head of your armies, beside your explorers or on the borders of your homeland.
+Each hero is won by completing a wonder, and only one civilization in the world can have each of them. Earn experience in battle and choose their personal promotions. Give them a place at the head of your armies, beside your explorers or on the borders of your homeland.
 
 ## Find more than treasure
 

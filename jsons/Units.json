@@ -2250,7 +2250,8 @@
       "[+15]% Strength <vs [构装] units>",
       "Earn [50]% of killed [Military] unit's [Strength] as [Science]",
       "[-25]% Strength <when attacking> <vs cities>",
-      "Hero <hidden from users>"
+      "Hero <hidden from users>",
+      "Can see invisible [幽魂] units"
     ],
     "promotions": []
   },
@@ -2272,11 +2273,6 @@
       "Double movement in [Forest]",
       "[+20]% Strength <when fighting in [Forest] tiles>",
       "[+5] HP when healing",
-      "All adjacent units heal [5] HP when healing",
-      "[This Unit] gains the [Guardian Command] promotion <upon turn start> <for units with [Command]> <for units without [Guardian Command]> <hidden from users>",
-      "[This Unit] loses the [Command] promotion <upon turn start> <for units with [Command]> <for units with [Guardian Command]> <hidden from users>",
-      "[This Unit] gains the [Guardian Oath of the Bridge] promotion <upon turn start> <for units with [Oath of the Bridge]> <for units without [Guardian Oath of the Bridge]> <hidden from users>",
-      "[This Unit] loses the [Oath of the Bridge] promotion <upon turn start> <for units with [Oath of the Bridge]> <for units with [Guardian Oath of the Bridge]> <hidden from users>",
       "Hero <hidden from users>"
     ],
     "promotions": []
@@ -2284,7 +2280,7 @@
   {
     "name": "Ancient Oath Dragon",
     "unitType": "Hero - Ancient Oath Dragon",
-    "strength": 163,
+    "strength": 68,
     "rangedStrength": 0,
     "range": 0,
     "movement": 4,
@@ -2293,13 +2289,16 @@
       "Unbuildable",
       "Cannot be purchased",
       "Never appears as a Barbarian unit",
-      "[+100]% maintenance costs",
       "[+1] Sight",
       "Ignores terrain cost",
       "May travel on Water tiles without embarking",
       "No defensive terrain bonus",
       "[-25]% Strength <when attacking> <vs cities>",
-      "Hero <hidden from users>"
+      "Hero <hidden from users>",
+      "[+150]% maintenance costs",
+      "[+30]% Strength <starting from the [VI]>",
+      "[+30]% Strength <starting from the [VII]>",
+      "[+30]% Strength <starting from the [VIII]>"
     ],
     "promotions": []
   },
@@ -2321,7 +2320,8 @@
       "[+25]% Strength <starting from the [VII]>",
       "All adjacent units heal [10] HP when healing",
       "[-50]% Strength <when attacking> <vs cities>",
-      "Hero <hidden from users>"
+      "Hero <hidden from users>",
+      "[+10] HP when healing"
     ],
     "promotions": []
   },
@@ -2393,7 +2393,8 @@
       "Ignores Zone of Control",
       "[+15]% Strength <when adjacent to a [长柄] unit>",
       "[-50]% Strength <when attacking> <vs cities>",
-      "Hero <hidden from users>"
+      "Hero <hidden from users>",
+      "Can see invisible [幽魂] units"
     ],
     "promotions": []
   },
