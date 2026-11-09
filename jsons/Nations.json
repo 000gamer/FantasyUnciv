@@ -1148,7 +1148,7 @@
     ],
     "startBias": [],
     "uniques": [
-      "[+500]% Strength for cities"
+      "[+210] Strength"
     ],
     "civilopediaText": []
   },
@@ -1171,7 +1171,7 @@
     ],
     "startBias": [],
     "uniques": [
-      "[+700]% Strength for cities"
+      "[+290] Strength"
     ],
     "civilopediaText": []
   }
