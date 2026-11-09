@@ -1073,7 +1073,7 @@
   },
   {
     "name": "Assembly of Nations",
-    "requiredTech": "Magical Communication",
+    "requiredTech": "Memory Preservation",
     "cost": 1400,
     "maintenance": 0,
     "uniques": [
@@ -1338,7 +1338,7 @@
   },
   {
     "name": "Utopia Project",
-    "requiredTech": "Cultural Exchange",
+    "requiredTech": "Ecological Engineering",
     "cost": 1800,
     "maintenance": 0,
     "uniques": [
