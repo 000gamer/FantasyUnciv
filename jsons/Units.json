@@ -2690,8 +2690,8 @@
   {
     "name": "Elder Dragon",
     "unitType": "野兽",
-    "strength": 90,
-    "rangedStrength": 110,
+    "strength": 80,
+    "rangedStrength": 95,
     "range": 2,
     "movement": 2,
     "cost": 1000,
