@@ -1338,7 +1338,7 @@
   },
   {
     "name": "Utopia Project",
-    "requiredTech": "Magical Communication",
+    "requiredTech": "Memory Preservation",
     "cost": 1800,
     "maintenance": 0,
     "uniques": [
