@@ -1,99 +1,5 @@
 [
   {
-    "name": "Breaching I",
-    "unitTypes": [
-      "攻城"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+15]% Strength <vs cities>"
-    ],
-    "row": 0,
-    "column": 1
-  },
-  {
-    "name": "Breaching II",
-    "unitTypes": [
-      "攻城"
-    ],
-    "prerequisites": [
-      "Breaching I"
-    ],
-    "uniques": [
-      "[+15]% Strength <vs cities>"
-    ],
-    "row": 0,
-    "column": 2
-  },
-  {
-    "name": "Steady Recovery",
-    "unitTypes": [
-      "幽魂",
-      "医护"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+5] HP when healing",
-      "Only available <after discovering [Magic Records]>"
-    ],
-    "row": 0,
-    "column": 3
-  },
-  {
-    "name": "Resolute Ward",
-    "unitTypes": [
-      "幽魂"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+10]% Strength <when defending>",
-      "Only available <after discovering [Magic Records]>"
-    ],
-    "row": 0,
-    "column": 4
-  },
-  {
-    "name": "Far Sight Training",
-    "unitTypes": [
-      "侦察"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+1] Sight"
-    ],
-    "row": 0,
-    "column": 5
-  },
-  {
-    "name": "Pathfinder",
-    "unitTypes": [
-      "侦察"
-    ],
-    "prerequisites": [
-      "Far Sight Training"
-    ],
-    "uniques": [
-      "[+1] Movement"
-    ],
-    "row": 0,
-    "column": 6
-  },
-  {
-    "name": "Construct Breaker",
-    "unitTypes": [
-      "幽魂"
-    ],
-    "prerequisites": [
-      "Steady Recovery"
-    ],
-    "uniques": [
-      "[+15]% Strength <vs [元素] units>",
-      "[+15]% Strength <vs [构装] units>"
-    ],
-    "row": 0,
-    "column": 7
-  },
-  {
     "name": "Amphibious Transport",
     "unitTypes": [],
     "prerequisites": [],
@@ -102,7 +8,7 @@
       "[1] Movement point cost to disembark"
     ],
     "row": 0,
-    "column": 8
+    "column": 1
   },
   {
     "name": "Marching Prayer",
@@ -113,7 +19,7 @@
       "[+25]% maintenance costs"
     ],
     "row": 0,
-    "column": 9
+    "column": 2
   },
   {
     "name": "Ocean Supply",
@@ -124,42 +30,7 @@
       "[+5] HP when healing"
     ],
     "row": 0,
-    "column": 10
-  },
-  {
-    "name": "Memories of the Soul",
-    "unitTypes": [
-      "幽魂"
-    ],
-    "prerequisites": [
-      "Resolute Ward",
-      "Construct Breaker"
-    ],
-    "uniques": [
-      "Earn [25]% of killed [Military] unit's [Strength] as [Culture]",
-      "Only available <after discovering [Magic Records]>",
-      "Only available <for units without [Returning Soul Covenant]>"
-    ],
-    "row": 0,
-    "column": 11
-  },
-  {
-    "name": "Returning Soul Covenant",
-    "unitTypes": [
-      "幽魂"
-    ],
-    "prerequisites": [
-      "Resolute Ward"
-    ],
-    "uniques": [
-      "Can move after attacking",
-      "Ignores Zone of Control",
-      "[+25]% maintenance costs",
-      "Only available <after discovering [Magic Instruments]>",
-      "Only available <for units without [Memories of the Soul]>"
-    ],
-    "row": 0,
-    "column": 12
+    "column": 3
   },
   {
     "name": "Crystal Ward",
@@ -169,7 +40,7 @@
       "[+15]% Strength <when defending>"
     ],
     "row": 0,
-    "column": 13
+    "column": 4
   },
   {
     "name": "Medical resolution marker",
@@ -180,7 +51,7 @@
       "FC medic near active patient"
     ],
     "row": 0,
-    "column": 14
+    "column": 5
   },
   {
     "name": "Heal Instantly",
@@ -228,1005 +99,6 @@
     "column": 0
   },
   {
-    "name": "Shield Wall",
-    "unitTypes": [
-      "步兵",
-      "重步兵"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+25]% Strength <vs [Ranged] units> <when defending>"
-    ],
-    "row": 0,
-    "column": 15
-  },
-  {
-    "name": "Breakthrough",
-    "unitTypes": [
-      "步兵",
-      "重步兵"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+30]% Strength <vs [长柄] units>",
-      "[+15]% Strength <when attacking>"
-    ],
-    "row": 0,
-    "column": 16
-  },
-  {
-    "name": "Hold the Line",
-    "unitTypes": [
-      "步兵",
-      "重步兵"
-    ],
-    "prerequisites": [
-      "Shield Wall"
-    ],
-    "uniques": [
-      "[+25]% Strength <when fighting in [Rough terrain] tiles> <when defending>",
-      "[+5] HP when healing"
-    ],
-    "row": 0,
-    "column": 17
-  },
-  {
-    "name": "Forced March",
-    "unitTypes": [
-      "步兵",
-      "重步兵"
-    ],
-    "prerequisites": [
-      "Breakthrough"
-    ],
-    "uniques": [
-      "[+1] Movement"
-    ],
-    "row": 0,
-    "column": 18
-  },
-  {
-    "name": "Elite Guard",
-    "unitTypes": [
-      "步兵",
-      "重步兵"
-    ],
-    "prerequisites": [
-      "Hold the Line",
-      "Forced March"
-    ],
-    "uniques": [
-      "[1] additional attacks per turn",
-      "Can move after attacking"
-    ],
-    "row": 0,
-    "column": 19
-  },
-  {
-    "name": "Braced Pikes",
-    "unitTypes": [
-      "长柄"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+40]% Strength <vs [轻骑] units> <when defending>",
-      "[+40]% Strength <vs [重骑] units> <when defending>"
-    ],
-    "row": 0,
-    "column": 20
-  },
-  {
-    "name": "Thrust",
-    "unitTypes": [
-      "长柄"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+30]% Strength <vs [步兵] units>",
-      "[+30]% Strength <vs [重步兵] units>"
-    ],
-    "row": 0,
-    "column": 21
-  },
-  {
-    "name": "Pike Square",
-    "unitTypes": [
-      "长柄"
-    ],
-    "prerequisites": [
-      "Braced Pikes"
-    ],
-    "uniques": [
-      "[+10] HP when healing <when adjacent to a [长柄] unit>"
-    ],
-    "row": 0,
-    "column": 22
-  },
-  {
-    "name": "Pike Advance",
-    "unitTypes": [
-      "长柄"
-    ],
-    "prerequisites": [
-      "Thrust"
-    ],
-    "uniques": [
-      "[+15]% Strength <when attacking>",
-      "[+1] Movement"
-    ],
-    "row": 0,
-    "column": 23
-  },
-  {
-    "name": "Immovable Wall",
-    "unitTypes": [
-      "长柄"
-    ],
-    "prerequisites": [
-      "Pike Square",
-      "Pike Advance"
-    ],
-    "uniques": [
-      "All adjacent units heal [+10] HP when healing",
-      "No damage penalty for wounded units"
-    ],
-    "row": 0,
-    "column": 24
-  },
-  {
-    "name": "Volley",
-    "unitTypes": [
-      "射手"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+25]% Strength <vs [Land] units>"
-    ],
-    "row": 0,
-    "column": 25
-  },
-  {
-    "name": "Garrison Fire",
-    "unitTypes": [
-      "射手"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+30]% Strength <when defending>",
-      "[+20]% Strength <in [Fort] tiles> <when defending>"
-    ],
-    "row": 0,
-    "column": 26
-  },
-  {
-    "name": "Arrow Storm",
-    "unitTypes": [
-      "射手"
-    ],
-    "prerequisites": [
-      "Volley"
-    ],
-    "uniques": [
-      "[+25]% Strength <vs [Land] units>",
-      "[+15]% Strength <when attacking>"
-    ],
-    "row": 0,
-    "column": 27
-  },
-  {
-    "name": "Suppression",
-    "unitTypes": [
-      "射手"
-    ],
-    "prerequisites": [
-      "Garrison Fire"
-    ],
-    "uniques": [
-      "Ranged attacks may be performed over obstacles"
-    ],
-    "row": 0,
-    "column": 28
-  },
-  {
-    "name": "Expert Marksman",
-    "unitTypes": [
-      "射手"
-    ],
-    "prerequisites": [
-      "Arrow Storm",
-      "Suppression"
-    ],
-    "uniques": [
-      "[1] additional attacks per turn"
-    ],
-    "row": 0,
-    "column": 29
-  },
-  {
-    "name": "Caparison",
-    "unitTypes": [
-      "轻骑",
-      "骑射"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+25]% Strength <vs [长柄] units>"
-    ],
-    "row": 0,
-    "column": 30
-  },
-  {
-    "name": "Coursers",
-    "unitTypes": [
-      "轻骑",
-      "骑射"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+25]% Strength <vs [射手] units> <when attacking>",
-      "[+25]% Strength <vs [攻城] units> <when attacking>"
-    ],
-    "row": 0,
-    "column": 31
-  },
-  {
-    "name": "Depredation",
-    "unitTypes": [
-      "轻骑",
-      "骑射"
-    ],
-    "prerequisites": [
-      "Caparison"
-    ],
-    "uniques": [
-      "No movement cost to pillage"
-    ],
-    "row": 0,
-    "column": 32
-  },
-  {
-    "name": "Pursuit",
-    "unitTypes": [
-      "轻骑",
-      "骑射"
-    ],
-    "prerequisites": [
-      "Coursers"
-    ],
-    "uniques": [
-      "[+1] Movement"
-    ],
-    "row": 0,
-    "column": 33
-  },
-  {
-    "name": "Envelopment",
-    "unitTypes": [
-      "轻骑",
-      "骑射"
-    ],
-    "prerequisites": [
-      "Depredation",
-      "Pursuit"
-    ],
-    "uniques": [
-      "Can move after attacking",
-      "[+50]% to Flank Attack bonuses"
-    ],
-    "row": 0,
-    "column": 34
-  },
-  {
-    "name": "Heavy Charge",
-    "unitTypes": [
-      "重骑"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+40]% Strength <when attacking>"
-    ],
-    "row": 0,
-    "column": 35
-  },
-  {
-    "name": "Barding",
-    "unitTypes": [
-      "重骑"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+30]% Strength <vs [Ranged] units> <when defending>"
-    ],
-    "row": 0,
-    "column": 36
-  },
-  {
-    "name": "Rout",
-    "unitTypes": [
-      "重骑"
-    ],
-    "prerequisites": [
-      "Heavy Charge"
-    ],
-    "uniques": [
-      "[+33]% Strength <vs [Wounded] units>"
-    ],
-    "row": 0,
-    "column": 37
-  },
-  {
-    "name": "Reactive Armor",
-    "unitTypes": [
-      "重骑"
-    ],
-    "prerequisites": [
-      "Barding"
-    ],
-    "uniques": [
-      "[+30]% Strength <vs [重骑] units> <when defending>",
-      "[+30]% Strength <vs [长柄] units> <when defending>"
-    ],
-    "row": 0,
-    "column": 38
-  },
-  {
-    "name": "Shatter Line",
-    "unitTypes": [
-      "重骑"
-    ],
-    "prerequisites": [
-      "Rout",
-      "Reactive Armor"
-    ],
-    "uniques": [
-      "[1] additional attacks per turn"
-    ],
-    "row": 0,
-    "column": 39
-  },
-  {
-    "name": "Crew Weapons",
-    "unitTypes": [
-      "攻城"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+40]% Strength <when defending>"
-    ],
-    "row": 0,
-    "column": 40
-  },
-  {
-    "name": "Demolition Shells",
-    "unitTypes": [
-      "攻城"
-    ],
-    "prerequisites": [
-      "Crew Weapons"
-    ],
-    "uniques": [
-      "[+50]% Strength <vs cities> <when attacking>"
-    ],
-    "row": 0,
-    "column": 41
-  },
-  {
-    "name": "Forward Observers",
-    "unitTypes": [
-      "攻城"
-    ],
-    "prerequisites": [
-      "Breaching II",
-      "Demolition Shells"
-    ],
-    "uniques": [
-      "[+1] Range"
-    ],
-    "row": 0,
-    "column": 42
-  },
-  {
-    "name": "Arcane Focus",
-    "unitTypes": [
-      "术士"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+25]% Strength <when attacking>"
-    ],
-    "row": 0,
-    "column": 43
-  },
-  {
-    "name": "Resonant Ward",
-    "unitTypes": [
-      "术士"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+25]% Strength <when defending>",
-      "[+1] Sight"
-    ],
-    "row": 0,
-    "column": 44
-  },
-  {
-    "name": "Piercing Spell",
-    "unitTypes": [
-      "术士"
-    ],
-    "prerequisites": [
-      "Arcane Focus"
-    ],
-    "uniques": [
-      "[+30]% Strength <vs [重步兵] units>",
-      "[+30]% Strength <vs [重骑] units>",
-      "[+30]% Strength <vs [构装] units>"
-    ],
-    "row": 0,
-    "column": 45
-  },
-  {
-    "name": "Far Casting",
-    "unitTypes": [
-      "术士"
-    ],
-    "prerequisites": [
-      "Resonant Ward"
-    ],
-    "uniques": [
-      "Ranged attacks may be performed over obstacles",
-      "Can see over obstacles"
-    ],
-    "row": 0,
-    "column": 46
-  },
-  {
-    "name": "Archmage",
-    "unitTypes": [
-      "术士"
-    ],
-    "prerequisites": [
-      "Piercing Spell",
-      "Far Casting"
-    ],
-    "uniques": [
-      "[+1] Range"
-    ],
-    "row": 0,
-    "column": 47
-  },
-  {
-    "name": "Whisper",
-    "unitTypes": [
-      "死灵"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+25]% Strength <vs [步兵] units>",
-      "[+25]% Strength <vs [长柄] units>"
-    ],
-    "row": 0,
-    "column": 48
-  },
-  {
-    "name": "Night Walk",
-    "unitTypes": [
-      "死灵"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+1] Movement"
-    ],
-    "row": 0,
-    "column": 49
-  },
-  {
-    "name": "Echoes",
-    "unitTypes": [
-      "死灵"
-    ],
-    "prerequisites": [
-      "Whisper"
-    ],
-    "uniques": [
-      "Earn [25]% of killed [Military] unit's [Strength] as [Culture]"
-    ],
-    "row": 0,
-    "column": 50
-  },
-  {
-    "name": "Grave Ward",
-    "unitTypes": [
-      "死灵"
-    ],
-    "prerequisites": [
-      "Night Walk"
-    ],
-    "uniques": [
-      "[+25]% Strength <when defending>",
-      "[+5] HP when healing"
-    ],
-    "row": 0,
-    "column": 51
-  },
-  {
-    "name": "Undying",
-    "unitTypes": [
-      "死灵"
-    ],
-    "prerequisites": [
-      "Echoes",
-      "Grave Ward"
-    ],
-    "uniques": [
-      "Unit will heal every turn, even if it performs an action"
-    ],
-    "row": 0,
-    "column": 52
-  },
-  {
-    "name": "First Aid",
-    "unitTypes": [
-      "医护"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+5] HP when healing"
-    ],
-    "row": 0,
-    "column": 53
-  },
-  {
-    "name": "Herb Lore",
-    "unitTypes": [
-      "医护"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "May heal outside of friendly territory"
-    ],
-    "row": 0,
-    "column": 54
-  },
-  {
-    "name": "Field Surgery",
-    "unitTypes": [
-      "医护"
-    ],
-    "prerequisites": [
-      "First Aid"
-    ],
-    "uniques": [
-      "All adjacent units heal [+5] HP when healing"
-    ],
-    "row": 0,
-    "column": 55
-  },
-  {
-    "name": "Medical Corps",
-    "unitTypes": [
-      "医护"
-    ],
-    "prerequisites": [
-      "Herb Lore"
-    ],
-    "uniques": [
-      "[+10] HP when healing <in [Foreign Land] tiles>",
-      "[+1] Sight"
-    ],
-    "row": 0,
-    "column": 56
-  },
-  {
-    "name": "Revival Rite",
-    "unitTypes": [
-      "医护"
-    ],
-    "prerequisites": [
-      "Field Surgery",
-      "Medical Corps"
-    ],
-    "uniques": [
-      "All adjacent units heal [+10] HP when healing",
-      "Unit will heal every turn, even if it performs an action"
-    ],
-    "row": 0,
-    "column": 57
-  },
-  {
-    "name": "Reinforced Plating",
-    "unitTypes": [
-      "构装"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+20]% Strength <when defending>"
-    ],
-    "row": 0,
-    "column": 58
-  },
-  {
-    "name": "Core Overclock",
-    "unitTypes": [
-      "构装"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+20]% Strength <when attacking>"
-    ],
-    "row": 0,
-    "column": 59
-  },
-  {
-    "name": "Self-Repair",
-    "unitTypes": [
-      "构装"
-    ],
-    "prerequisites": [
-      "Reinforced Plating"
-    ],
-    "uniques": [
-      "[+10] HP when healing"
-    ],
-    "row": 0,
-    "column": 60
-  },
-  {
-    "name": "Coordinated Action",
-    "unitTypes": [
-      "构装"
-    ],
-    "prerequisites": [
-      "Core Overclock"
-    ],
-    "uniques": [
-      "[+10]% Strength bonus for [{Land} {Military}] units within [2] tiles"
-    ],
-    "row": 0,
-    "column": 61
-  },
-  {
-    "name": "Guardian Protocol",
-    "unitTypes": [
-      "构装"
-    ],
-    "prerequisites": [
-      "Self-Repair",
-      "Coordinated Action"
-    ],
-    "uniques": [
-      "[+30]% Strength <when defending>",
-      "No damage penalty for wounded units"
-    ],
-    "row": 0,
-    "column": 62
-  },
-  {
-    "name": "High Altitude",
-    "unitTypes": [
-      "飞艇"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+1] Range"
-    ],
-    "row": 0,
-    "column": 63
-  },
-  {
-    "name": "Precision Bombing",
-    "unitTypes": [
-      "飞艇"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+30]% Strength <vs cities>"
-    ],
-    "row": 0,
-    "column": 64
-  },
-  {
-    "name": "Evasive Maneuvers",
-    "unitTypes": [
-      "飞艇"
-    ],
-    "prerequisites": [
-      "High Altitude"
-    ],
-    "uniques": [
-      "Damage taken from interception reduced by [50]%"
-    ],
-    "row": 0,
-    "column": 65
-  },
-  {
-    "name": "Heavy Payload",
-    "unitTypes": [
-      "飞艇"
-    ],
-    "prerequisites": [
-      "Precision Bombing"
-    ],
-    "uniques": [
-      "[+25]% Strength <vs [Land] units>"
-    ],
-    "row": 0,
-    "column": 66
-  },
-  {
-    "name": "Airship Rearm",
-    "unitTypes": [
-      "飞艇"
-    ],
-    "prerequisites": [
-      "Evasive Maneuvers",
-      "Heavy Payload"
-    ],
-    "uniques": [
-      "Unit will heal every turn, even if it performs an action"
-    ],
-    "row": 0,
-    "column": 67
-  },
-  {
-    "name": "Boarding Party",
-    "unitTypes": [
-      "海近战",
-      "潜艇",
-      "航母"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+30]% Strength <vs [Water] units>"
-    ],
-    "row": 0,
-    "column": 68
-  },
-  {
-    "name": "Deep Sailing",
-    "unitTypes": [
-      "海近战",
-      "潜艇",
-      "航母"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+1] Movement"
-    ],
-    "row": 0,
-    "column": 69
-  },
-  {
-    "name": "Armored Hull",
-    "unitTypes": [
-      "海近战",
-      "潜艇",
-      "航母"
-    ],
-    "prerequisites": [
-      "Boarding Party"
-    ],
-    "uniques": [
-      "[+30]% Strength <when defending>"
-    ],
-    "row": 0,
-    "column": 70
-  },
-  {
-    "name": "Auxiliary Fleet",
-    "unitTypes": [
-      "海近战",
-      "潜艇",
-      "航母"
-    ],
-    "prerequisites": [
-      "Deep Sailing"
-    ],
-    "uniques": [
-      "May heal outside of friendly territory",
-      "[+10] HP when healing <in [Foreign Land] tiles>"
-    ],
-    "row": 0,
-    "column": 71
-  },
-  {
-    "name": "Dreadnought",
-    "unitTypes": [
-      "海近战",
-      "潜艇",
-      "航母"
-    ],
-    "prerequisites": [
-      "Armored Hull",
-      "Auxiliary Fleet"
-    ],
-    "uniques": [
-      "Can move after attacking",
-      "[+15]% Strength"
-    ],
-    "row": 0,
-    "column": 72
-  },
-  {
-    "name": "Targeting",
-    "unitTypes": [
-      "海远程"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+25]% Strength <vs [Water] units>"
-    ],
-    "row": 0,
-    "column": 73
-  },
-  {
-    "name": "Shore Bombardment",
-    "unitTypes": [
-      "海远程"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+25]% Strength <vs [Land] units>"
-    ],
-    "row": 0,
-    "column": 74
-  },
-  {
-    "name": "Preparatory Fire",
-    "unitTypes": [
-      "海远程"
-    ],
-    "prerequisites": [
-      "Targeting"
-    ],
-    "uniques": [
-      "[+20]% Strength <when attacking>"
-    ],
-    "row": 0,
-    "column": 75
-  },
-  {
-    "name": "Rangefinder",
-    "unitTypes": [
-      "海远程"
-    ],
-    "prerequisites": [
-      "Shore Bombardment"
-    ],
-    "uniques": [
-      "[+1] Sight"
-    ],
-    "row": 0,
-    "column": 76
-  },
-  {
-    "name": "Long Guns",
-    "unitTypes": [
-      "海远程"
-    ],
-    "prerequisites": [
-      "Preparatory Fire",
-      "Rangefinder"
-    ],
-    "uniques": [
-      "[+1] Range"
-    ],
-    "row": 0,
-    "column": 77
-  },
-  {
-    "name": "Ranger",
-    "unitTypes": [
-      "侦察"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "Double movement in [Forest]",
-      "Double movement in [Jungle]"
-    ],
-    "row": 0,
-    "column": 78
-  },
-  {
-    "name": "Sentry",
-    "unitTypes": [
-      "侦察"
-    ],
-    "prerequisites": [
-      "Ranger"
-    ],
-    "uniques": [
-      "Can see over obstacles"
-    ],
-    "row": 0,
-    "column": 79
-  },
-  {
-    "name": "Spyglass",
-    "unitTypes": [
-      "侦察"
-    ],
-    "prerequisites": [
-      "Sentry",
-      "Pathfinder"
-    ],
-    "uniques": [
-      "[+1] Sight",
-      "Invisible to non-adjacent units"
-    ],
-    "row": 0,
-    "column": 80
-  },
-  {
-    "name": "Feral Charge",
-    "unitTypes": [
-      "野兽"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+30]% Strength <when attacking>"
-    ],
-    "row": 0,
-    "column": 81
-  },
-  {
-    "name": "Thick Hide",
-    "unitTypes": [
-      "野兽"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+30]% Strength <when defending>"
-    ],
-    "row": 0,
-    "column": 82
-  },
-  {
-    "name": "Pack Tactics",
-    "unitTypes": [
-      "野兽"
-    ],
-    "prerequisites": [
-      "Feral Charge"
-    ],
-    "uniques": [
-      "[+30]% Strength <vs [Wounded] units>"
-    ],
-    "row": 0,
-    "column": 83
-  },
-  {
-    "name": "Tough Sinew",
-    "unitTypes": [
-      "野兽"
-    ],
-    "prerequisites": [
-      "Thick Hide"
-    ],
-    "uniques": [
-      "[+10] HP when healing",
-      "[+1] Movement"
-    ],
-    "row": 0,
-    "column": 84
-  },
-  {
-    "name": "Rampage",
-    "unitTypes": [
-      "野兽"
-    ],
-    "prerequisites": [
-      "Pack Tactics",
-      "Tough Sinew"
-    ],
-    "uniques": [
-      "[1] additional attacks per turn"
-    ],
-    "row": 0,
-    "column": 85
-  },
-  {
     "name": "Tactical Synergy",
     "unitTypes": [
       "Hero - Oathsworn Commander"
@@ -1236,7 +108,7 @@
       "[+10]% Strength bonus for [{Land} {Military}] units within [2] tiles"
     ],
     "row": 0,
-    "column": 86
+    "column": 6
   },
   {
     "name": "Assault Orders",
@@ -1251,7 +123,7 @@
       "Can move after attacking"
     ],
     "row": 0,
-    "column": 87
+    "column": 7
   },
   {
     "name": "Full Advance",
@@ -1266,7 +138,7 @@
       "[+1] Movement"
     ],
     "row": 0,
-    "column": 88
+    "column": 8
   },
   {
     "name": "Oath Reforged",
@@ -1278,7 +150,7 @@
       "[+20]% Strength <when defending>"
     ],
     "row": 0,
-    "column": 89
+    "column": 9
   },
   {
     "name": "Hold the Front",
@@ -1292,7 +164,7 @@
       "All adjacent units heal [5] HP when healing"
     ],
     "row": 0,
-    "column": 90
+    "column": 10
   },
   {
     "name": "Iron Phalanx",
@@ -1307,7 +179,7 @@
       "Unit will heal every turn, even if it performs an action"
     ],
     "row": 0,
-    "column": 91
+    "column": 11
   },
   {
     "name": "Star Insight",
@@ -1319,7 +191,7 @@
       "[+1] Sight"
     ],
     "row": 0,
-    "column": 92
+    "column": 12
   },
   {
     "name": "Distant Star Watch",
@@ -1333,7 +205,7 @@
       "[+1] Range"
     ],
     "row": 0,
-    "column": 93
+    "column": 13
   },
   {
     "name": "Celestial Parsing",
@@ -1347,7 +219,7 @@
       "Can see invisible [All] units"
     ],
     "row": 0,
-    "column": 94
+    "column": 14
   },
   {
     "name": "Enemy Analysis",
@@ -1360,7 +232,7 @@
       "[+20]% Strength <vs [重骑] units>"
     ],
     "row": 0,
-    "column": 95
+    "column": 15
   },
   {
     "name": "Magic Breakdown",
@@ -1376,7 +248,7 @@
       "[+25]% Strength <vs [幽魂] units>"
     ],
     "row": 0,
-    "column": 96
+    "column": 16
   },
   {
     "name": "Battlefield Deduction",
@@ -1390,7 +262,7 @@
       "Earn [50]% of killed [Military] unit's [Strength] as [Science]"
     ],
     "row": 0,
-    "column": 97
+    "column": 17
   },
   {
     "name": "Rootbranch Might",
@@ -1402,7 +274,7 @@
       "Ignores Zone of Control"
     ],
     "row": 0,
-    "column": 98
+    "column": 18
   },
   {
     "name": "Far Forest Walker",
@@ -1416,7 +288,7 @@
       "[+1] Movement"
     ],
     "row": 0,
-    "column": 99
+    "column": 19
   },
   {
     "name": "Forest Passage",
@@ -1431,7 +303,7 @@
       "[+1] Sight"
     ],
     "row": 0,
-    "column": 100
+    "column": 20
   },
   {
     "name": "Life Echo",
@@ -1443,7 +315,7 @@
       "[+5] HP when healing"
     ],
     "row": 0,
-    "column": 101
+    "column": 21
   },
   {
     "name": "Grove Shelter",
@@ -1457,7 +329,7 @@
       "All adjacent units heal [5] HP when healing"
     ],
     "row": 0,
-    "column": 102
+    "column": 22
   },
   {
     "name": "Ancient Grove Guard",
@@ -1471,7 +343,7 @@
       "[+15]% Strength bonus for [{Land} {Military}] units within [2] tiles <in [Forest] tiles>"
     ],
     "row": 0,
-    "column": 103
+    "column": 23
   },
   {
     "name": "Sky Eye",
@@ -1483,7 +355,7 @@
       "[+1] Sight"
     ],
     "row": 0,
-    "column": 104
+    "column": 24
   },
   {
     "name": "Swift Heavens",
@@ -1497,7 +369,7 @@
       "[+1] Movement"
     ],
     "row": 0,
-    "column": 105
+    "column": 25
   },
   {
     "name": "Boundless Patrol",
@@ -1511,7 +383,7 @@
       "Can move after attacking"
     ],
     "row": 0,
-    "column": 106
+    "column": 26
   },
   {
     "name": "Dragonspine Echo",
@@ -1523,7 +395,7 @@
       "Heals [10] damage if it kills a unit"
     ],
     "row": 0,
-    "column": 107
+    "column": 27
   },
   {
     "name": "Breath Enhancement",
@@ -1537,7 +409,7 @@
       "Before engaging in combat performs an extra ranged attack with [20]% of melee combat strength"
     ],
     "row": 0,
-    "column": 108
+    "column": 28
   },
   {
     "name": "Behemoth Hunter",
@@ -1552,7 +424,7 @@
       "[+25]% Strength <vs [元素] units>"
     ],
     "row": 0,
-    "column": 109
+    "column": 29
   },
   {
     "name": "Fine Treatment",
@@ -1564,7 +436,7 @@
       "[+5] HP when healing"
     ],
     "row": 0,
-    "column": 110
+    "column": 30
   },
   {
     "name": "Emergency Aid",
@@ -1578,7 +450,7 @@
       "All adjacent units heal [5] HP when healing"
     ],
     "row": 0,
-    "column": 111
+    "column": 31
   },
   {
     "name": "Comprehensive Care",
@@ -1592,7 +464,7 @@
       "All healing effects doubled"
     ],
     "row": 0,
-    "column": 112
+    "column": 32
   },
   {
     "name": "Marching Doctor",
@@ -1604,7 +476,7 @@
       "[+1] Movement"
     ],
     "row": 0,
-    "column": 113
+    "column": 33
   },
   {
     "name": "Rapid Rescue",
@@ -1618,7 +490,7 @@
       "Unit will heal every turn, even if it performs an action"
     ],
     "row": 0,
-    "column": 114
+    "column": 34
   },
   {
     "name": "Mobile Aid Station",
@@ -1633,7 +505,7 @@
       "All adjacent units heal [5] HP when healing"
     ],
     "row": 0,
-    "column": 115
+    "column": 35
   },
   {
     "name": "Oath Remembered",
@@ -1645,7 +517,7 @@
       "Earn [25]% of killed [Military] unit's [Strength] as [Culture]"
     ],
     "row": 0,
-    "column": 116
+    "column": 36
   },
   {
     "name": "History Witness",
@@ -1659,7 +531,7 @@
       "[+1] Sight"
     ],
     "row": 0,
-    "column": 117
+    "column": 37
   },
   {
     "name": "Eternal Memorial",
@@ -1673,7 +545,7 @@
       "Earn [25]% of killed [Military] unit's [Strength] as [Culture]"
     ],
     "row": 0,
-    "column": 118
+    "column": 38
   },
   {
     "name": "Formless Body",
@@ -1685,7 +557,7 @@
       "[+20]% Strength <when defending>"
     ],
     "row": 0,
-    "column": 119
+    "column": 39
   },
   {
     "name": "Shadow Walker",
@@ -1699,7 +571,7 @@
       "Can move after attacking"
     ],
     "row": 0,
-    "column": 120
+    "column": 40
   },
   {
     "name": "Phantom Passage",
@@ -1714,7 +586,7 @@
       "Ignores terrain cost"
     ],
     "row": 0,
-    "column": 121
+    "column": 41
   },
   {
     "name": "Structure-Breaking Rune",
@@ -1726,7 +598,7 @@
       "[+25]% Strength <vs [构装] units>"
     ],
     "row": 0,
-    "column": 122
+    "column": 42
   },
   {
     "name": "Elemental Deconstruction",
@@ -1740,7 +612,7 @@
       "[+25]% Strength <vs [元素] units>"
     ],
     "row": 0,
-    "column": 123
+    "column": 43
   },
   {
     "name": "Molten Seal Breaker",
@@ -1755,7 +627,7 @@
       "Ranged attacks may be performed over obstacles"
     ],
     "row": 0,
-    "column": 124
+    "column": 44
   },
   {
     "name": "Stable Rune",
@@ -1767,7 +639,7 @@
       "[+20]% Strength <when defending>"
     ],
     "row": 0,
-    "column": 125
+    "column": 45
   },
   {
     "name": "Reflective Seal",
@@ -1781,7 +653,7 @@
       "[+25]% Strength <vs [Ranged] units> <when defending>"
     ],
     "row": 0,
-    "column": 126
+    "column": 46
   },
   {
     "name": "Solid-Phase Barrier",
@@ -1796,7 +668,7 @@
       "Unit will heal every turn, even if it performs an action"
     ],
     "row": 0,
-    "column": 127
+    "column": 47
   },
   {
     "name": "Shade Recognition",
@@ -1808,7 +680,7 @@
       "[+1] Sight"
     ],
     "row": 0,
-    "column": 128
+    "column": 48
   },
   {
     "name": "Anomaly Tracking",
@@ -1822,7 +694,7 @@
       "[+1] Sight"
     ],
     "row": 0,
-    "column": 129
+    "column": 49
   },
   {
     "name": "Nowhere to Hide",
@@ -1837,7 +709,7 @@
       "[+25]% Strength <vs [幽魂] units>"
     ],
     "row": 0,
-    "column": 130
+    "column": 50
   },
   {
     "name": "Mirror Step",
@@ -1849,7 +721,7 @@
       "[+1] Movement"
     ],
     "row": 0,
-    "column": 131
+    "column": 51
   },
   {
     "name": "Spatial Shift",
@@ -1863,7 +735,7 @@
       "Ignores terrain cost"
     ],
     "row": 0,
-    "column": 132
+    "column": 52
   },
   {
     "name": "Opening Strike",
@@ -1877,7 +749,7 @@
       "[+25]% Strength <when attacking>"
     ],
     "row": 0,
-    "column": 133
+    "column": 53
   },
   {
     "name": "Fleet Coordination",
@@ -1889,7 +761,7 @@
       "[+10]% Strength bonus for [{Water} {Military}] units within [2] tiles"
     ],
     "row": 0,
-    "column": 134
+    "column": 54
   },
   {
     "name": "Sea Escort",
@@ -1903,7 +775,7 @@
       "All adjacent units heal [5] HP when healing"
     ],
     "row": 0,
-    "column": 135
+    "column": 55
   },
   {
     "name": "Ocean Commander",
@@ -1917,7 +789,7 @@
       "[+10]% Strength bonus for [{Water} {Military}] units within [3] tiles"
     ],
     "row": 0,
-    "column": 136
+    "column": 56
   },
   {
     "name": "Star Sea Navigation",
@@ -1929,7 +801,7 @@
       "[+1] Sight"
     ],
     "row": 0,
-    "column": 137
+    "column": 57
   },
   {
     "name": "Swift Tide",
@@ -1943,7 +815,7 @@
       "[+1] Movement"
     ],
     "row": 0,
-    "column": 138
+    "column": 58
   },
   {
     "name": "Uncharted Route",
@@ -1958,7 +830,7 @@
       "[+1] Movement"
     ],
     "row": 0,
-    "column": 139
+    "column": 59
   },
   {
     "name": "Specter Lighting",
@@ -1971,7 +843,7 @@
       "Can see invisible [幽魂] units"
     ],
     "row": 0,
-    "column": 140
+    "column": 60
   },
   {
     "name": "Undead Verdict",
@@ -1985,7 +857,7 @@
       "[+25]% Strength <vs [幽魂] units>"
     ],
     "row": 0,
-    "column": 141
+    "column": 61
   },
   {
     "name": "Lantern Judgment",
@@ -2000,7 +872,7 @@
       "[+25]% Strength <vs [幽魂] units>"
     ],
     "row": 0,
-    "column": 142
+    "column": 62
   },
   {
     "name": "Guardian Lantern",
@@ -2012,7 +884,7 @@
       "[+20]% Strength <when defending>"
     ],
     "row": 0,
-    "column": 143
+    "column": 63
   },
   {
     "name": "Lantern Barrier",
@@ -2026,7 +898,7 @@
       "[+10]% Strength bonus for [{Land} {Military}] units within [1] tiles"
     ],
     "row": 0,
-    "column": 144
+    "column": 64
   },
   {
     "name": "Everlight Oath",
@@ -2041,7 +913,7 @@
       "All adjacent units heal [5] HP when healing"
     ],
     "row": 0,
-    "column": 145
+    "column": 65
   },
   {
     "name": "Rapid Fortification",
@@ -2053,7 +925,7 @@
       "Can build [Fort] improvements at a [50]% rate"
     ],
     "row": 0,
-    "column": 146
+    "column": 66
   },
   {
     "name": "Field Works",
@@ -2067,7 +939,7 @@
       "[+25]% Strength <when defending> <in [Fort] tiles>"
     ],
     "row": 0,
-    "column": 147
+    "column": 67
   },
   {
     "name": "Engineered Position",
@@ -2081,7 +953,7 @@
       "Can build [Fort] improvements at a [50]% rate"
     ],
     "row": 0,
-    "column": 148
+    "column": 68
   },
   {
     "name": "On-Site Repair",
@@ -2093,7 +965,7 @@
       "[+10] HP when healing"
     ],
     "row": 0,
-    "column": 149
+    "column": 69
   },
   {
     "name": "Construct Synergy",
@@ -2107,7 +979,7 @@
       "[+15]% Strength bonus for [构装] units within [2] tiles"
     ],
     "row": 0,
-    "column": 150
+    "column": 70
   },
   {
     "name": "Hundredforge Resonance",
@@ -2122,7 +994,7 @@
       "[+15]% Strength bonus for [构装] units within [3] tiles"
     ],
     "row": 0,
-    "column": 151
+    "column": 71
   },
   {
     "name": "Trade Appraisal",
@@ -2134,7 +1006,7 @@
       "Earn [50]% of killed [Military] unit's [Strength] as [Gold]"
     ],
     "row": 0,
-    "column": 152
+    "column": 72
   },
   {
     "name": "Contract Network",
@@ -2148,7 +1020,7 @@
       "Earn [20]% of the damage done to [Military] units as [Gold]"
     ],
     "row": 0,
-    "column": 153
+    "column": 73
   },
   {
     "name": "Road Arbitration",
@@ -2162,7 +1034,7 @@
       "Earn [50]% of killed [Military] unit's [Strength] as [Gold]"
     ],
     "row": 0,
-    "column": 154
+    "column": 74
   },
   {
     "name": "Road Watch",
@@ -2174,7 +1046,7 @@
       "[+1] Sight"
     ],
     "row": 0,
-    "column": 155
+    "column": 75
   },
   {
     "name": "Escort March",
@@ -2188,7 +1060,7 @@
       "[+1] Movement"
     ],
     "row": 0,
-    "column": 156
+    "column": 76
   },
   {
     "name": "Steadfast Escort",
@@ -2203,104 +1075,1636 @@
       "Unit will heal every turn, even if it performs an action"
     ],
     "row": 0,
-    "column": 157
+    "column": 77
   },
   {
-    "name": "Rough-Terrain Tactics I",
+    "name": "Blade Drill",
     "unitTypes": [
-      "步兵",
-      "重步兵",
-      "长柄",
-      "野兽",
-      "幽魂"
+      "步兵"
     ],
     "prerequisites": [],
     "uniques": [
-      "[+10]% Strength <when fighting in [Rough terrain] tiles>"
+      "[+15]% Strength <when attacking>"
     ],
     "row": 0,
-    "column": 158
+    "column": 78
   },
   {
-    "name": "Open-Field Tactics I",
+    "name": "Line Breaker",
     "unitTypes": [
-      "轻骑",
+      "步兵"
+    ],
+    "prerequisites": [
+      "Blade Drill"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [射手] units> <when attacking>"
+    ],
+    "row": 0,
+    "column": 79
+  },
+  {
+    "name": "Hot Pursuit",
+    "unitTypes": [
+      "步兵"
+    ],
+    "prerequisites": [
+      "Line Breaker"
+    ],
+    "uniques": [
+      "[+1] Movement",
+      "[+20]% Strength <vs [Wounded] units>"
+    ],
+    "row": 0,
+    "column": 80
+  },
+  {
+    "name": "Shield Block",
+    "unitTypes": [
+      "步兵"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <vs [Ranged] units> <when defending>"
+    ],
+    "row": 0,
+    "column": 81
+  },
+  {
+    "name": "Hold Ground",
+    "unitTypes": [
+      "步兵"
+    ],
+    "prerequisites": [
+      "Shield Block"
+    ],
+    "uniques": [
+      "[+25]% Strength <when fighting in [Rough terrain] tiles> <when defending>",
+      "[+5] HP when healing"
+    ],
+    "row": 0,
+    "column": 82
+  },
+  {
+    "name": "Immovable",
+    "unitTypes": [
+      "步兵"
+    ],
+    "prerequisites": [
+      "Hold Ground"
+    ],
+    "uniques": [
+      "[+15]% Strength <when defending>",
+      "[+10] HP when healing"
+    ],
+    "row": 0,
+    "column": 83
+  },
+  {
+    "name": "Heavy Blow",
+    "unitTypes": [
+      "重步兵"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+15]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 84
+  },
+  {
+    "name": "Armor Rend",
+    "unitTypes": [
+      "重步兵"
+    ],
+    "prerequisites": [
+      "Heavy Blow"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [重步兵] units>",
+      "[+25]% Strength <vs [构装] units>"
+    ],
+    "row": 0,
+    "column": 85
+  },
+  {
+    "name": "Crushing Assault",
+    "unitTypes": [
+      "重步兵"
+    ],
+    "prerequisites": [
+      "Armor Rend"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs cities>"
+    ],
+    "row": 0,
+    "column": 86
+  },
+  {
+    "name": "Iron Plate",
+    "unitTypes": [
+      "重步兵"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <when defending>"
+    ],
+    "row": 0,
+    "column": 87
+  },
+  {
+    "name": "Tortoise Block",
+    "unitTypes": [
+      "重步兵"
+    ],
+    "prerequisites": [
+      "Iron Plate"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [Ranged] units> <when defending>"
+    ],
+    "row": 0,
+    "column": 88
+  },
+  {
+    "name": "Bastion",
+    "unitTypes": [
+      "重步兵"
+    ],
+    "prerequisites": [
+      "Tortoise Block"
+    ],
+    "uniques": [
+      "[+25]% Strength <when defending> <in [Fort] tiles>",
+      "[+5] HP when healing"
+    ],
+    "row": 0,
+    "column": 89
+  },
+  {
+    "name": "Spear Thrust",
+    "unitTypes": [
+      "长柄"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+25]% Strength <vs [步兵] units>"
+    ],
+    "row": 0,
+    "column": 90
+  },
+  {
+    "name": "Halberd Sweep",
+    "unitTypes": [
+      "长柄"
+    ],
+    "prerequisites": [
+      "Spear Thrust"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [重步兵] units>"
+    ],
+    "row": 0,
+    "column": 91
+  },
+  {
+    "name": "Press Forward",
+    "unitTypes": [
+      "长柄"
+    ],
+    "prerequisites": [
+      "Halberd Sweep"
+    ],
+    "uniques": [
+      "[+15]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 92
+  },
+  {
+    "name": "Pike Hedge",
+    "unitTypes": [
+      "长柄"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+30]% Strength <vs [轻骑] units> <when defending>"
+    ],
+    "row": 0,
+    "column": 93
+  },
+  {
+    "name": "Phalanx",
+    "unitTypes": [
+      "长柄"
+    ],
+    "prerequisites": [
+      "Pike Hedge"
+    ],
+    "uniques": [
+      "[+30]% Strength <vs [重骑] units> <when defending>"
+    ],
+    "row": 0,
+    "column": 94
+  },
+  {
+    "name": "Unshakable",
+    "unitTypes": [
+      "长柄"
+    ],
+    "prerequisites": [
+      "Phalanx"
+    ],
+    "uniques": [
+      "[+15]% Strength <when defending>",
+      "All adjacent units heal [5] HP when healing"
+    ],
+    "row": 0,
+    "column": 95
+  },
+  {
+    "name": "Calibration",
+    "unitTypes": [
+      "射手"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+15]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 96
+  },
+  {
+    "name": "Volley",
+    "unitTypes": [
+      "射手"
+    ],
+    "prerequisites": [
+      "Calibration"
+    ],
+    "uniques": [
+      "[+20]% Strength <vs [Land] units>"
+    ],
+    "row": 0,
+    "column": 97
+  },
+  {
+    "name": "Arrow Rain",
+    "unitTypes": [
+      "射手"
+    ],
+    "prerequisites": [
+      "Volley"
+    ],
+    "uniques": [
+      "[+20]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 98
+  },
+  {
+    "name": "Take Cover",
+    "unitTypes": [
+      "射手"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <when defending>"
+    ],
+    "row": 0,
+    "column": 99
+  },
+  {
+    "name": "Suppressing Fire",
+    "unitTypes": [
+      "射手"
+    ],
+    "prerequisites": [
+      "Take Cover"
+    ],
+    "uniques": [
+      "Ranged attacks may be performed over obstacles"
+    ],
+    "row": 0,
+    "column": 100
+  },
+  {
+    "name": "Marksman",
+    "unitTypes": [
+      "射手"
+    ],
+    "prerequisites": [
+      "Suppressing Fire"
+    ],
+    "uniques": [
+      "[+1] Sight",
+      "Can see over obstacles"
+    ],
+    "row": 0,
+    "column": 101
+  },
+  {
+    "name": "Skirmish Fire",
+    "unitTypes": [
+      "骑射"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+15]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 102
+  },
+  {
+    "name": "Hunter's Mark",
+    "unitTypes": [
+      "骑射"
+    ],
+    "prerequisites": [
+      "Skirmish Fire"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [射手] units> <when attacking>",
+      "[+25]% Strength <vs [攻城] units> <when attacking>"
+    ],
+    "row": 0,
+    "column": 103
+  },
+  {
+    "name": "Raid Volley",
+    "unitTypes": [
+      "骑射"
+    ],
+    "prerequisites": [
+      "Hunter's Mark"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [Wounded] units>"
+    ],
+    "row": 0,
+    "column": 104
+  },
+  {
+    "name": "Nimble Rider",
+    "unitTypes": [
+      "骑射"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+15]% Strength <when defending>"
+    ],
+    "row": 0,
+    "column": 105
+  },
+  {
+    "name": "Outflank",
+    "unitTypes": [
+      "骑射"
+    ],
+    "prerequisites": [
+      "Nimble Rider"
+    ],
+    "uniques": [
+      "[+50]% to Flank Attack bonuses"
+    ],
+    "row": 0,
+    "column": 106
+  },
+  {
+    "name": "Windrider",
+    "unitTypes": [
+      "骑射"
+    ],
+    "prerequisites": [
+      "Outflank"
+    ],
+    "uniques": [
+      "[+1] Movement"
+    ],
+    "row": 0,
+    "column": 107
+  },
+  {
+    "name": "Pillager",
+    "unitTypes": [
+      "轻骑"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "No movement cost to pillage"
+    ],
+    "row": 0,
+    "column": 108
+  },
+  {
+    "name": "Runner Down",
+    "unitTypes": [
+      "轻骑"
+    ],
+    "prerequisites": [
+      "Pillager"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [射手] units> <when attacking>",
+      "[+25]% Strength <vs [攻城] units> <when attacking>"
+    ],
+    "row": 0,
+    "column": 109
+  },
+  {
+    "name": "Encircle",
+    "unitTypes": [
+      "轻骑"
+    ],
+    "prerequisites": [
+      "Runner Down"
+    ],
+    "uniques": [
+      "[+50]% to Flank Attack bonuses",
+      "[+10]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 110
+  },
+  {
+    "name": "Mail Barding",
+    "unitTypes": [
+      "轻骑"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+25]% Strength <vs [长柄] units> <when defending>"
+    ],
+    "row": 0,
+    "column": 111
+  },
+  {
+    "name": "Light Kit",
+    "unitTypes": [
+      "轻骑"
+    ],
+    "prerequisites": [
+      "Mail Barding"
+    ],
+    "uniques": [
+      "[+1] Sight"
+    ],
+    "row": 0,
+    "column": 112
+  },
+  {
+    "name": "Fleetfoot",
+    "unitTypes": [
+      "轻骑"
+    ],
+    "prerequisites": [
+      "Light Kit"
+    ],
+    "uniques": [
+      "[+1] Movement"
+    ],
+    "row": 0,
+    "column": 113
+  },
+  {
+    "name": "Charge",
+    "unitTypes": [
       "重骑"
     ],
     "prerequisites": [],
     "uniques": [
-      "[+10]% Strength <when fighting in [Open terrain] tiles>"
+      "[+20]% Strength <when attacking>"
     ],
     "row": 0,
-    "column": 159
+    "column": 114
   },
   {
-    "name": "Field Repairs",
+    "name": "Rout",
+    "unitTypes": [
+      "重骑"
+    ],
+    "prerequisites": [
+      "Charge"
+    ],
+    "uniques": [
+      "[+30]% Strength <vs [Wounded] units>"
+    ],
+    "row": 0,
+    "column": 115
+  },
+  {
+    "name": "Break the Line",
+    "unitTypes": [
+      "重骑"
+    ],
+    "prerequisites": [
+      "Rout"
+    ],
+    "uniques": [
+      "[+30]% Strength <vs [射手] units> <when attacking>"
+    ],
+    "row": 0,
+    "column": 116
+  },
+  {
+    "name": "Horse Armor",
+    "unitTypes": [
+      "重骑"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+25]% Strength <vs [Ranged] units> <when defending>"
+    ],
+    "row": 0,
+    "column": 117
+  },
+  {
+    "name": "Counter-Cavalry",
+    "unitTypes": [
+      "重骑"
+    ],
+    "prerequisites": [
+      "Horse Armor"
+    ],
+    "uniques": [
+      "[+30]% Strength <vs [重骑] units> <when defending>"
+    ],
+    "row": 0,
+    "column": 118
+  },
+  {
+    "name": "Unbroken",
+    "unitTypes": [
+      "重骑"
+    ],
+    "prerequisites": [
+      "Counter-Cavalry"
+    ],
+    "uniques": [
+      "[+15]% Strength <when defending>",
+      "[+10] HP when healing"
+    ],
+    "row": 0,
+    "column": 119
+  },
+  {
+    "name": "Wild Charge",
+    "unitTypes": [
+      "野兽"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 120
+  },
+  {
+    "name": "Pack Hunt",
+    "unitTypes": [
+      "野兽"
+    ],
+    "prerequisites": [
+      "Wild Charge"
+    ],
+    "uniques": [
+      "[+30]% Strength <vs [Wounded] units>"
+    ],
+    "row": 0,
+    "column": 121
+  },
+  {
+    "name": "Bloodlust",
+    "unitTypes": [
+      "野兽"
+    ],
+    "prerequisites": [
+      "Pack Hunt"
+    ],
+    "uniques": [
+      "Heals [10] damage if it kills a unit"
+    ],
+    "row": 0,
+    "column": 122
+  },
+  {
+    "name": "Thick Hide",
+    "unitTypes": [
+      "野兽"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <when defending>"
+    ],
+    "row": 0,
+    "column": 123
+  },
+  {
+    "name": "Hardy",
+    "unitTypes": [
+      "野兽"
+    ],
+    "prerequisites": [
+      "Thick Hide"
+    ],
+    "uniques": [
+      "[+10] HP when healing"
+    ],
+    "row": 0,
+    "column": 124
+  },
+  {
+    "name": "Beast Instinct",
+    "unitTypes": [
+      "野兽"
+    ],
+    "prerequisites": [
+      "Hardy"
+    ],
+    "uniques": [
+      "[+15]% Strength <when fighting in [Rough terrain] tiles>",
+      "[+1] Sight"
+    ],
+    "row": 0,
+    "column": 125
+  },
+  {
+    "name": "Core Overload",
     "unitTypes": [
       "构装"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+15]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 126
+  },
+  {
+    "name": "Linked Action",
+    "unitTypes": [
+      "构装"
+    ],
+    "prerequisites": [
+      "Core Overload"
+    ],
+    "uniques": [
+      "[+10]% Strength bonus for [构装] units within [2] tiles"
+    ],
+    "row": 0,
+    "column": 127
+  },
+  {
+    "name": "Combat Protocol",
+    "unitTypes": [
+      "构装"
+    ],
+    "prerequisites": [
+      "Linked Action"
+    ],
+    "uniques": [
+      "[+15]% Strength <when attacking>",
+      "[+25]% Strength <vs [元素] units>"
+    ],
+    "row": 0,
+    "column": 128
+  },
+  {
+    "name": "Armor Plating",
+    "unitTypes": [
+      "构装"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <when defending>"
+    ],
+    "row": 0,
+    "column": 129
+  },
+  {
+    "name": "Self-Repair",
+    "unitTypes": [
+      "构装"
+    ],
+    "prerequisites": [
+      "Armor Plating"
+    ],
+    "uniques": [
+      "[+10] HP when healing"
+    ],
+    "row": 0,
+    "column": 130
+  },
+  {
+    "name": "Guardian Protocol",
+    "unitTypes": [
+      "构装"
+    ],
+    "prerequisites": [
+      "Self-Repair"
+    ],
+    "uniques": [
+      "[+15]% Strength <when defending>",
+      "[+5] HP when healing"
+    ],
+    "row": 0,
+    "column": 131
+  },
+  {
+    "name": "Arcane Focus",
+    "unitTypes": [
+      "术士"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 132
+  },
+  {
+    "name": "Armor-Piercing Hex",
+    "unitTypes": [
+      "术士"
+    ],
+    "prerequisites": [
+      "Arcane Focus"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [重步兵] units>",
+      "[+25]% Strength <vs [重骑] units>"
+    ],
+    "row": 0,
+    "column": 133
+  },
+  {
+    "name": "Ruin Circle",
+    "unitTypes": [
+      "术士"
+    ],
+    "prerequisites": [
+      "Armor-Piercing Hex"
+    ],
+    "uniques": [
+      "[+15]% Strength <when attacking>",
+      "Ranged attacks may be performed over obstacles"
+    ],
+    "row": 0,
+    "column": 134
+  },
+  {
+    "name": "Resonant Ward",
+    "unitTypes": [
+      "术士"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <when defending>"
+    ],
+    "row": 0,
+    "column": 135
+  },
+  {
+    "name": "Spirit Sight",
+    "unitTypes": [
+      "术士"
+    ],
+    "prerequisites": [
+      "Resonant Ward"
+    ],
+    "uniques": [
+      "[+1] Sight",
+      "Can see over obstacles"
+    ],
+    "row": 0,
+    "column": 136
+  },
+  {
+    "name": "Mage Shield",
+    "unitTypes": [
+      "术士"
+    ],
+    "prerequisites": [
+      "Spirit Sight"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [Ranged] units> <when defending>"
+    ],
+    "row": 0,
+    "column": 137
+  },
+  {
+    "name": "Whisper",
+    "unitTypes": [
+      "死灵"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+25]% Strength <vs [步兵] units>",
+      "[+25]% Strength <vs [长柄] units>"
+    ],
+    "row": 0,
+    "column": 138
+  },
+  {
+    "name": "Echo",
+    "unitTypes": [
+      "死灵"
+    ],
+    "prerequisites": [
+      "Whisper"
+    ],
+    "uniques": [
+      "Earn [25]% of killed [Military] unit's [Strength] as [Culture]"
+    ],
+    "row": 0,
+    "column": 139
+  },
+  {
+    "name": "Soulfire",
+    "unitTypes": [
+      "死灵"
+    ],
+    "prerequisites": [
+      "Echo"
+    ],
+    "uniques": [
+      "[+20]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 140
+  },
+  {
+    "name": "Grave Warden",
+    "unitTypes": [
+      "死灵"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <when defending>"
+    ],
+    "row": 0,
+    "column": 141
+  },
+  {
+    "name": "Bone Plating",
+    "unitTypes": [
+      "死灵"
+    ],
+    "prerequisites": [
+      "Grave Warden"
+    ],
+    "uniques": [
+      "[+10]% Strength <when defending>",
+      "[+5] HP when healing"
+    ],
+    "row": 0,
+    "column": 142
+  },
+  {
+    "name": "Undying",
+    "unitTypes": [
+      "死灵"
+    ],
+    "prerequisites": [
+      "Bone Plating"
+    ],
+    "uniques": [
+      "[+10] HP when healing"
+    ],
+    "row": 0,
+    "column": 143
+  },
+  {
+    "name": "Spirit Memory",
+    "unitTypes": [
+      "幽魂"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "Earn [25]% of killed [Military] unit's [Strength] as [Culture]"
+    ],
+    "row": 0,
+    "column": 144
+  },
+  {
+    "name": "Construct Bane",
+    "unitTypes": [
+      "幽魂"
+    ],
+    "prerequisites": [
+      "Spirit Memory"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [构装] units>",
+      "[+25]% Strength <vs [元素] units>"
+    ],
+    "row": 0,
+    "column": 145
+  },
+  {
+    "name": "Soul Rend",
+    "unitTypes": [
+      "幽魂"
+    ],
+    "prerequisites": [
+      "Construct Bane"
+    ],
+    "uniques": [
+      "[+20]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 146
+  },
+  {
+    "name": "Shade Step",
+    "unitTypes": [
+      "幽魂"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "Ignores Zone of Control"
+    ],
+    "row": 0,
+    "column": 147
+  },
+  {
+    "name": "Ethereal Body",
+    "unitTypes": [
+      "幽魂"
+    ],
+    "prerequisites": [
+      "Shade Step"
+    ],
+    "uniques": [
+      "[+20]% Strength <when defending>"
+    ],
+    "row": 0,
+    "column": 148
+  },
+  {
+    "name": "Phase Walk",
+    "unitTypes": [
+      "幽魂"
+    ],
+    "prerequisites": [
+      "Ethereal Body"
+    ],
+    "uniques": [
+      "Ignores terrain cost"
+    ],
+    "row": 0,
+    "column": 149
+  },
+  {
+    "name": "First Aid",
+    "unitTypes": [
+      "医护"
     ],
     "prerequisites": [],
     "uniques": [
       "[+5] HP when healing"
     ],
     "row": 0,
-    "column": 160
+    "column": 150
   },
   {
-    "name": "Sighting I",
+    "name": "Field Surgery",
     "unitTypes": [
-      "死灵",
-      "术士",
-      "射手",
-      "骑射",
-      "海远程",
-      "飞艇"
+      "医护"
+    ],
+    "prerequisites": [
+      "First Aid"
+    ],
+    "uniques": [
+      "All adjacent units heal [5] HP when healing"
+    ],
+    "row": 0,
+    "column": 151
+  },
+  {
+    "name": "Revive",
+    "unitTypes": [
+      "医护"
+    ],
+    "prerequisites": [
+      "Field Surgery"
+    ],
+    "uniques": [
+      "All adjacent units heal [10] HP when healing"
+    ],
+    "row": 0,
+    "column": 152
+  },
+  {
+    "name": "Herbalism",
+    "unitTypes": [
+      "医护"
     ],
     "prerequisites": [],
     "uniques": [
-      "[+10]% Strength <when attacking>"
+      "May heal outside of friendly territory"
+    ],
+    "row": 0,
+    "column": 153
+  },
+  {
+    "name": "Medical Corps",
+    "unitTypes": [
+      "医护"
+    ],
+    "prerequisites": [
+      "Herbalism"
+    ],
+    "uniques": [
+      "[+10] HP when healing <in [Foreign Land] tiles>",
+      "[+1] Sight"
+    ],
+    "row": 0,
+    "column": 154
+  },
+  {
+    "name": "Marching Medic",
+    "unitTypes": [
+      "医护"
+    ],
+    "prerequisites": [
+      "Medical Corps"
+    ],
+    "uniques": [
+      "[+1] Movement"
+    ],
+    "row": 0,
+    "column": 155
+  },
+  {
+    "name": "Siegecraft",
+    "unitTypes": [
+      "攻城"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+25]% Strength <vs cities>"
+    ],
+    "row": 0,
+    "column": 156
+  },
+  {
+    "name": "Demolition Shell",
+    "unitTypes": [
+      "攻城"
+    ],
+    "prerequisites": [
+      "Siegecraft"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs cities>"
+    ],
+    "row": 0,
+    "column": 157
+  },
+  {
+    "name": "Master Gunner",
+    "unitTypes": [
+      "攻城"
+    ],
+    "prerequisites": [
+      "Demolition Shell"
+    ],
+    "uniques": [
+      "[+15]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 158
+  },
+  {
+    "name": "Crew Defence",
+    "unitTypes": [
+      "攻城"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+30]% Strength <when defending>"
+    ],
+    "row": 0,
+    "column": 159
+  },
+  {
+    "name": "Gun Shield",
+    "unitTypes": [
+      "攻城"
+    ],
+    "prerequisites": [
+      "Crew Defence"
+    ],
+    "uniques": [
+      "[+15]% Strength <when defending>",
+      "[+5] HP when healing"
+    ],
+    "row": 0,
+    "column": 160
+  },
+  {
+    "name": "Forward Observer",
+    "unitTypes": [
+      "攻城"
+    ],
+    "prerequisites": [
+      "Gun Shield"
+    ],
+    "uniques": [
+      "[+1] Sight",
+      "Can see over obstacles"
     ],
     "row": 0,
     "column": 161
   },
   {
-    "name": "Crew Drills I",
-    "unitTypes": [
-      "海近战",
-      "潜艇",
-      "航母"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+10]% Strength"
-    ],
-    "row": 0,
-    "column": 162
-  },
-  {
-    "name": "Alpine",
+    "name": "Far Gaze",
     "unitTypes": [
       "侦察"
     ],
     "prerequisites": [],
     "uniques": [
-      "Double movement in [Hill]"
+      "[+1] Sight"
+    ],
+    "row": 0,
+    "column": 162
+  },
+  {
+    "name": "Lookout",
+    "unitTypes": [
+      "侦察"
+    ],
+    "prerequisites": [
+      "Far Gaze"
+    ],
+    "uniques": [
+      "Can see over obstacles"
     ],
     "row": 0,
     "column": 163
   },
   {
-    "name": "Protect the Engines",
+    "name": "Spyglass",
     "unitTypes": [
-      "攻城"
+      "侦察"
     ],
     "prerequisites": [
-      "Breaching I"
+      "Lookout"
+    ],
+    "uniques": [
+      "[+1] Sight",
+      "Invisible to non-adjacent units"
+    ],
+    "row": 0,
+    "column": 164
+  },
+  {
+    "name": "Ranger",
+    "unitTypes": [
+      "侦察"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "Double movement in [Forest]",
+      "Double movement in [Jungle]"
+    ],
+    "row": 0,
+    "column": 165
+  },
+  {
+    "name": "Hillrunner",
+    "unitTypes": [
+      "侦察"
+    ],
+    "prerequisites": [
+      "Ranger"
+    ],
+    "uniques": [
+      "Double movement in [Hill]"
+    ],
+    "row": 0,
+    "column": 166
+  },
+  {
+    "name": "Pathfinder",
+    "unitTypes": [
+      "侦察"
+    ],
+    "prerequisites": [
+      "Hillrunner"
+    ],
+    "uniques": [
+      "[+1] Movement"
+    ],
+    "row": 0,
+    "column": 167
+  },
+  {
+    "name": "Boarding Party",
+    "unitTypes": [
+      "海近战"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+25]% Strength <vs [Water] units>"
+    ],
+    "row": 0,
+    "column": 168
+  },
+  {
+    "name": "Ramming Strike",
+    "unitTypes": [
+      "海近战"
+    ],
+    "prerequisites": [
+      "Boarding Party"
+    ],
+    "uniques": [
+      "[+15]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 169
+  },
+  {
+    "name": "Sea Dog",
+    "unitTypes": [
+      "海近战"
+    ],
+    "prerequisites": [
+      "Ramming Strike"
+    ],
+    "uniques": [
+      "[+15]% Strength <when attacking>",
+      "Heals [10] damage if it kills a unit"
+    ],
+    "row": 0,
+    "column": 170
+  },
+  {
+    "name": "Deep Voyage",
+    "unitTypes": [
+      "海近战"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Movement"
+    ],
+    "row": 0,
+    "column": 171
+  },
+  {
+    "name": "Support Fleet",
+    "unitTypes": [
+      "海近战"
+    ],
+    "prerequisites": [
+      "Deep Voyage"
+    ],
+    "uniques": [
+      "May heal outside of friendly territory",
+      "[+10] HP when healing <in [Foreign Land] tiles>"
+    ],
+    "row": 0,
+    "column": 172
+  },
+  {
+    "name": "Armored Hull",
+    "unitTypes": [
+      "海近战"
+    ],
+    "prerequisites": [
+      "Support Fleet"
+    ],
+    "uniques": [
+      "[+25]% Strength <when defending>"
+    ],
+    "row": 0,
+    "column": 173
+  },
+  {
+    "name": "Aiming",
+    "unitTypes": [
+      "海远程"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+25]% Strength <vs [Water] units>"
+    ],
+    "row": 0,
+    "column": 174
+  },
+  {
+    "name": "Shore Bombardment",
+    "unitTypes": [
+      "海远程"
+    ],
+    "prerequisites": [
+      "Aiming"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [Land] units>"
+    ],
+    "row": 0,
+    "column": 175
+  },
+  {
+    "name": "Preparatory Fire",
+    "unitTypes": [
+      "海远程"
+    ],
+    "prerequisites": [
+      "Shore Bombardment"
+    ],
+    "uniques": [
+      "[+20]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 176
+  },
+  {
+    "name": "Rangefinder",
+    "unitTypes": [
+      "海远程"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Sight"
+    ],
+    "row": 0,
+    "column": 177
+  },
+  {
+    "name": "Stable Mount",
+    "unitTypes": [
+      "海远程"
+    ],
+    "prerequisites": [
+      "Rangefinder"
     ],
     "uniques": [
       "[+15]% Strength <when defending>"
     ],
     "row": 0,
-    "column": 164
+    "column": 178
+  },
+  {
+    "name": "Resupply at Sea",
+    "unitTypes": [
+      "海远程"
+    ],
+    "prerequisites": [
+      "Stable Mount"
+    ],
+    "uniques": [
+      "May heal outside of friendly territory"
+    ],
+    "row": 0,
+    "column": 179
+  },
+  {
+    "name": "Ambush",
+    "unitTypes": [
+      "潜艇"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+30]% Strength <vs [Water] units>"
+    ],
+    "row": 0,
+    "column": 180
+  },
+  {
+    "name": "Silent Running",
+    "unitTypes": [
+      "潜艇"
+    ],
+    "prerequisites": [
+      "Ambush"
+    ],
+    "uniques": [
+      "[+15]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 181
+  },
+  {
+    "name": "Torpedo Salvo",
+    "unitTypes": [
+      "潜艇"
+    ],
+    "prerequisites": [
+      "Silent Running"
+    ],
+    "uniques": [
+      "[+20]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 182
+  },
+  {
+    "name": "Pressure Hull",
+    "unitTypes": [
+      "潜艇"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <when defending>"
+    ],
+    "row": 0,
+    "column": 183
+  },
+  {
+    "name": "Deep Dive",
+    "unitTypes": [
+      "潜艇"
+    ],
+    "prerequisites": [
+      "Pressure Hull"
+    ],
+    "uniques": [
+      "[+1] Movement"
+    ],
+    "row": 0,
+    "column": 184
+  },
+  {
+    "name": "Dive Resupply",
+    "unitTypes": [
+      "潜艇"
+    ],
+    "prerequisites": [
+      "Deep Dive"
+    ],
+    "uniques": [
+      "May heal outside of friendly territory",
+      "[+10] HP when healing"
+    ],
+    "row": 0,
+    "column": 185
+  },
+  {
+    "name": "Deck Guns",
+    "unitTypes": [
+      "航母"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+15]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 186
+  },
+  {
+    "name": "Anti-Ship Battery",
+    "unitTypes": [
+      "航母"
+    ],
+    "prerequisites": [
+      "Deck Guns"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [Water] units>"
+    ],
+    "row": 0,
+    "column": 187
+  },
+  {
+    "name": "Strike Group",
+    "unitTypes": [
+      "航母"
+    ],
+    "prerequisites": [
+      "Anti-Ship Battery"
+    ],
+    "uniques": [
+      "[+15]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 188
+  },
+  {
+    "name": "Armored Deck",
+    "unitTypes": [
+      "航母"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <when defending>"
+    ],
+    "row": 0,
+    "column": 189
+  },
+  {
+    "name": "Escort Screen",
+    "unitTypes": [
+      "航母"
+    ],
+    "prerequisites": [
+      "Armored Deck"
+    ],
+    "uniques": [
+      "[+10]% Strength bonus for [{Water} {Military}] units within [2] tiles"
+    ],
+    "row": 0,
+    "column": 190
+  },
+  {
+    "name": "Home Port",
+    "unitTypes": [
+      "航母"
+    ],
+    "prerequisites": [
+      "Escort Screen"
+    ],
+    "uniques": [
+      "May heal outside of friendly territory",
+      "[+10] HP when healing"
+    ],
+    "row": 0,
+    "column": 191
+  },
+  {
+    "name": "Precision Drop",
+    "unitTypes": [
+      "飞艇"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+30]% Strength <vs cities>"
+    ],
+    "row": 0,
+    "column": 192
+  },
+  {
+    "name": "Heavy Racks",
+    "unitTypes": [
+      "飞艇"
+    ],
+    "prerequisites": [
+      "Precision Drop"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [Land] units>"
+    ],
+    "row": 0,
+    "column": 193
+  },
+  {
+    "name": "Concentrated Bombing",
+    "unitTypes": [
+      "飞艇"
+    ],
+    "prerequisites": [
+      "Heavy Racks"
+    ],
+    "uniques": [
+      "[+15]% Strength <when attacking>"
+    ],
+    "row": 0,
+    "column": 194
+  },
+  {
+    "name": "High Cruise",
+    "unitTypes": [
+      "飞艇"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Sight"
+    ],
+    "row": 0,
+    "column": 195
+  },
+  {
+    "name": "Evasive Manoeuvres",
+    "unitTypes": [
+      "飞艇"
+    ],
+    "prerequisites": [
+      "High Cruise"
+    ],
+    "uniques": [
+      "Damage taken from interception reduced by [25]%"
+    ],
+    "row": 0,
+    "column": 196
+  },
+  {
+    "name": "Airborne Resupply",
+    "unitTypes": [
+      "飞艇"
+    ],
+    "prerequisites": [
+      "Evasive Manoeuvres"
+    ],
+    "uniques": [
+      "[+10] HP when healing",
+      "Damage taken from interception reduced by [25]%"
+    ],
+    "row": 0,
+    "column": 197
   }
 ]
