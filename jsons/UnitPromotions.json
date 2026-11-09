@@ -1119,56 +1119,128 @@
     ]
   },
   {
-    "name": "Shield Wall I",
+    "name": "Shield Wall",
     "unitTypes": [
       "步兵",
-      "重步兵",
-      "长柄"
+      "重步兵"
     ],
     "prerequisites": [],
     "uniques": [
-      "[+15]% Strength <when defending>"
-    ]
-  },
-  {
-    "name": "Shield Wall II",
-    "unitTypes": [
-      "步兵",
-      "重步兵",
-      "长柄"
-    ],
-    "prerequisites": [
-      "Shield Wall I"
-    ],
-    "uniques": [
-      "[+15]% Strength <when defending>"
+      "[+25]% Strength <vs [Ranged] units> <when defending>"
     ]
   },
   {
     "name": "Breakthrough",
     "unitTypes": [
       "步兵",
-      "重步兵",
-      "长柄"
+      "重步兵"
     ],
     "prerequisites": [],
     "uniques": [
-      "[+20]% Strength <vs cities>",
+      "[+30]% Strength <vs [长柄] units>",
       "[+15]% Strength <when attacking>"
     ]
   },
   {
-    "name": "Unyielding",
+    "name": "Hold the Line",
     "unitTypes": [
       "步兵",
-      "重步兵",
-      "长柄"
+      "重步兵"
     ],
     "prerequisites": [
-      "Shield Wall II",
+      "Shield Wall"
+    ],
+    "uniques": [
+      "[+25]% Strength <when fighting in [Rough terrain] tiles> <when defending>",
+      "[+5] HP when healing"
+    ]
+  },
+  {
+    "name": "Forced March",
+    "unitTypes": [
+      "步兵",
+      "重步兵"
+    ],
+    "prerequisites": [
       "Breakthrough"
     ],
     "uniques": [
+      "[+1] Movement"
+    ]
+  },
+  {
+    "name": "Elite Guard",
+    "unitTypes": [
+      "步兵",
+      "重步兵"
+    ],
+    "prerequisites": [
+      "Hold the Line",
+      "Forced March"
+    ],
+    "uniques": [
+      "[1] additional attacks per turn",
+      "Can move after attacking"
+    ]
+  },
+  {
+    "name": "Braced Pikes",
+    "unitTypes": [
+      "长柄"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+40]% Strength <vs [轻骑] units> <when defending>",
+      "[+40]% Strength <vs [重骑] units> <when defending>"
+    ]
+  },
+  {
+    "name": "Thrust",
+    "unitTypes": [
+      "长柄"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+30]% Strength <vs [步兵] units>",
+      "[+30]% Strength <vs [重步兵] units>"
+    ]
+  },
+  {
+    "name": "Pike Square",
+    "unitTypes": [
+      "长柄"
+    ],
+    "prerequisites": [
+      "Braced Pikes"
+    ],
+    "uniques": [
+      "[+10] HP when healing <when adjacent to a [长柄] unit>"
+    ]
+  },
+  {
+    "name": "Pike Advance",
+    "unitTypes": [
+      "长柄"
+    ],
+    "prerequisites": [
+      "Thrust"
+    ],
+    "uniques": [
+      "[+15]% Strength <when attacking>",
+      "[+1] Movement"
+    ]
+  },
+  {
+    "name": "Immovable Wall",
+    "unitTypes": [
+      "长柄"
+    ],
+    "prerequisites": [
+      "Pike Square",
+      "Pike Advance"
+    ],
+    "uniques": [
+      "All adjacent units heal [+10] HP when healing",
       "No damage penalty for wounded units"
     ]
   },
@@ -1179,115 +1251,233 @@
     ],
     "prerequisites": [],
     "uniques": [
+      "[+25]% Strength <vs [Land] units>"
+    ]
+  },
+  {
+    "name": "Garrison Fire",
+    "unitTypes": [
+      "射手"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+30]% Strength <when defending>",
+      "[+20]% Strength <in [Fort] tiles> <when defending>"
+    ]
+  },
+  {
+    "name": "Arrow Storm",
+    "unitTypes": [
+      "射手"
+    ],
+    "prerequisites": [
+      "Volley"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [Land] units>",
       "[+15]% Strength <when attacking>"
-    ]
-  },
-  {
-    "name": "Entrenched Fire",
-    "unitTypes": [
-      "射手"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+20]% Strength <when fighting in [Rough terrain] tiles>",
-      "[+10]% Strength <when defending>"
-    ]
-  },
-  {
-    "name": "Piercing Rounds",
-    "unitTypes": [
-      "射手"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+25]% Strength <vs [重步兵] units>",
-      "[+25]% Strength <vs [构装] units>",
-      "[+25]% Strength <vs [重骑] units>"
-    ]
-  },
-  {
-    "name": "Marksman",
-    "unitTypes": [
-      "射手"
-    ],
-    "prerequisites": [
-      "Volley",
-      "Entrenched Fire",
-      "Piercing Rounds"
-    ],
-    "uniques": [
-      "[+1] Range"
-    ]
-  },
-  {
-    "name": "Lightning Charge",
-    "unitTypes": [
-      "轻骑",
-      "重骑",
-      "骑射"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+30]% Strength <vs [Wounded] units>"
-    ]
-  },
-  {
-    "name": "Skirmish Harassment",
-    "unitTypes": [
-      "轻骑",
-      "重骑",
-      "骑射"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+25]% Strength <vs [射手] units>",
-      "[+25]% Strength <vs [攻城] units>"
-    ]
-  },
-  {
-    "name": "Iron Hooves",
-    "unitTypes": [
-      "轻骑",
-      "重骑",
-      "骑射"
-    ],
-    "prerequisites": [
-      "Lightning Charge",
-      "Skirmish Harassment"
-    ],
-    "uniques": [
-      "Can move after attacking"
-    ]
-  },
-  {
-    "name": "Siege Crew",
-    "unitTypes": [
-      "攻城"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+15]% Strength <vs cities>"
     ]
   },
   {
     "name": "Suppression",
     "unitTypes": [
+      "射手"
+    ],
+    "prerequisites": [
+      "Garrison Fire"
+    ],
+    "uniques": [
+      "Ranged attacks may be performed over obstacles"
+    ]
+  },
+  {
+    "name": "Expert Marksman",
+    "unitTypes": [
+      "射手"
+    ],
+    "prerequisites": [
+      "Arrow Storm",
+      "Suppression"
+    ],
+    "uniques": [
+      "[1] additional attacks per turn"
+    ]
+  },
+  {
+    "name": "Caparison",
+    "unitTypes": [
+      "轻骑",
+      "骑射"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+25]% Strength <vs [长柄] units>"
+    ]
+  },
+  {
+    "name": "Coursers",
+    "unitTypes": [
+      "轻骑",
+      "骑射"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+25]% Strength <vs [射手] units> <when attacking>",
+      "[+25]% Strength <vs [攻城] units> <when attacking>"
+    ]
+  },
+  {
+    "name": "Depredation",
+    "unitTypes": [
+      "轻骑",
+      "骑射"
+    ],
+    "prerequisites": [
+      "Caparison"
+    ],
+    "uniques": [
+      "No movement cost to pillage"
+    ]
+  },
+  {
+    "name": "Pursuit",
+    "unitTypes": [
+      "轻骑",
+      "骑射"
+    ],
+    "prerequisites": [
+      "Coursers"
+    ],
+    "uniques": [
+      "[+1] Movement"
+    ]
+  },
+  {
+    "name": "Envelopment",
+    "unitTypes": [
+      "轻骑",
+      "骑射"
+    ],
+    "prerequisites": [
+      "Depredation",
+      "Pursuit"
+    ],
+    "uniques": [
+      "Can move after attacking",
+      "[+50]% to Flank Attack bonuses"
+    ]
+  },
+  {
+    "name": "Heavy Charge",
+    "unitTypes": [
+      "重骑"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+40]% Strength <when attacking>"
+    ]
+  },
+  {
+    "name": "Barding",
+    "unitTypes": [
+      "重骑"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+30]% Strength <vs [Ranged] units> <when defending>"
+    ]
+  },
+  {
+    "name": "Rout",
+    "unitTypes": [
+      "重骑"
+    ],
+    "prerequisites": [
+      "Heavy Charge"
+    ],
+    "uniques": [
+      "[+33]% Strength <vs [Wounded] units>"
+    ]
+  },
+  {
+    "name": "Reactive Armor",
+    "unitTypes": [
+      "重骑"
+    ],
+    "prerequisites": [
+      "Barding"
+    ],
+    "uniques": [
+      "[+30]% Strength <vs [重骑] units> <when defending>",
+      "[+30]% Strength <vs [长柄] units> <when defending>"
+    ]
+  },
+  {
+    "name": "Shatter Line",
+    "unitTypes": [
+      "重骑"
+    ],
+    "prerequisites": [
+      "Rout",
+      "Reactive Armor"
+    ],
+    "uniques": [
+      "[1] additional attacks per turn"
+    ]
+  },
+  {
+    "name": "Grape Shot",
+    "unitTypes": [
       "攻城"
     ],
     "prerequisites": [],
     "uniques": [
-      "[+20]% Strength <vs [步兵] units>",
-      "[+20]% Strength <vs [长柄] units>"
+      "[+35]% Strength <vs [Land] units>"
     ]
   },
   {
-    "name": "Rangefinding",
+    "name": "Crew Weapons",
+    "unitTypes": [
+      "攻城"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+40]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "Expert Crew",
     "unitTypes": [
       "攻城"
     ],
     "prerequisites": [
-      "Siege Crew",
-      "Suppression"
+      "Grape Shot"
+    ],
+    "uniques": [
+      "[+1] Movement",
+      "Can move after attacking"
+    ]
+  },
+  {
+    "name": "Demolition Shells",
+    "unitTypes": [
+      "攻城"
+    ],
+    "prerequisites": [
+      "Crew Weapons"
+    ],
+    "uniques": [
+      "[+50]% Strength <vs cities> <when attacking>"
+    ]
+  },
+  {
+    "name": "Forward Observers",
+    "unitTypes": [
+      "攻城"
+    ],
+    "prerequisites": [
+      "Expert Crew",
+      "Demolition Shells"
     ],
     "uniques": [
       "[+1] Range"
@@ -1296,42 +1486,125 @@
   {
     "name": "Arcane Focus",
     "unitTypes": [
-      "术士",
-      "死灵"
+      "术士"
     ],
     "prerequisites": [],
     "uniques": [
-      "[+15]% Strength <when attacking>"
+      "[+25]% Strength <when attacking>"
     ]
   },
   {
     "name": "Resonant Ward",
     "unitTypes": [
-      "术士",
-      "死灵"
+      "术士"
     ],
     "prerequisites": [],
     "uniques": [
-      "[+10]% Strength <when defending>",
+      "[+25]% Strength <when defending>",
       "[+1] Sight"
+    ]
+  },
+  {
+    "name": "Piercing Spell",
+    "unitTypes": [
+      "术士"
+    ],
+    "prerequisites": [
+      "Arcane Focus"
+    ],
+    "uniques": [
+      "[+30]% Strength <vs [重步兵] units>",
+      "[+30]% Strength <vs [重骑] units>",
+      "[+30]% Strength <vs [构装] units>"
+    ]
+  },
+  {
+    "name": "Far Casting",
+    "unitTypes": [
+      "术士"
+    ],
+    "prerequisites": [
+      "Resonant Ward"
+    ],
+    "uniques": [
+      "Ranged attacks may be performed over obstacles",
+      "Can see over obstacles"
     ]
   },
   {
     "name": "Archmage",
     "unitTypes": [
-      "术士",
-      "死灵"
+      "术士"
     ],
     "prerequisites": [
-      "Arcane Focus",
-      "Resonant Ward"
+      "Piercing Spell",
+      "Far Casting"
     ],
     "uniques": [
-      "Ranged attacks may be performed over obstacles"
+      "[+1] Range"
     ]
   },
   {
-    "name": "Field Surgery",
+    "name": "Whisper",
+    "unitTypes": [
+      "死灵"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+25]% Strength <vs [步兵] units>",
+      "[+25]% Strength <vs [长柄] units>"
+    ]
+  },
+  {
+    "name": "Night Walk",
+    "unitTypes": [
+      "死灵"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Movement"
+    ]
+  },
+  {
+    "name": "Echoes",
+    "unitTypes": [
+      "死灵"
+    ],
+    "prerequisites": [
+      "Whisper"
+    ],
+    "uniques": [
+      "Earn [25]% of killed [Military] unit's [Strength] as [Culture]"
+    ]
+  },
+  {
+    "name": "Grave Ward",
+    "unitTypes": [
+      "死灵"
+    ],
+    "prerequisites": [
+      "Night Walk"
+    ],
+    "uniques": [
+      "[+25]% Strength <when defending>",
+      "[+5] HP when healing"
+    ]
+  },
+  {
+    "name": "Undying",
+    "unitTypes": [
+      "死灵"
+    ],
+    "prerequisites": [
+      "Echoes",
+      "Grave Ward"
+    ],
+    "uniques": [
+      "Unit will heal every turn, even if it performs an action"
+    ]
+  },
+  {
+    "name": "First Aid",
     "unitTypes": [
       "医护"
     ],
@@ -1341,15 +1614,52 @@
     ]
   },
   {
+    "name": "Herb Lore",
+    "unitTypes": [
+      "医护"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "May heal outside of friendly territory"
+    ]
+  },
+  {
+    "name": "Field Surgery",
+    "unitTypes": [
+      "医护"
+    ],
+    "prerequisites": [
+      "First Aid"
+    ],
+    "uniques": [
+      "All adjacent units heal [+5] HP when healing"
+    ]
+  },
+  {
+    "name": "Medical Corps",
+    "unitTypes": [
+      "医护"
+    ],
+    "prerequisites": [
+      "Herb Lore"
+    ],
+    "uniques": [
+      "[+10] HP when healing <in [Foreign Land] tiles>",
+      "[+1] Sight"
+    ]
+  },
+  {
     "name": "Revival Rite",
     "unitTypes": [
       "医护"
     ],
     "prerequisites": [
-      "Field Surgery"
+      "Field Surgery",
+      "Medical Corps"
     ],
     "uniques": [
-      "All adjacent units heal [5] HP when healing"
+      "All adjacent units heal [+10] HP when healing",
+      "Unit will heal every turn, even if it performs an action"
     ]
   },
   {
@@ -1359,19 +1669,29 @@
     ],
     "prerequisites": [],
     "uniques": [
-      "[+15]% Strength <when defending>"
+      "[+20]% Strength <when defending>"
     ]
   },
   {
-    "name": "Self-Repair II",
+    "name": "Core Overclock",
+    "unitTypes": [
+      "构装"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <when attacking>"
+    ]
+  },
+  {
+    "name": "Self-Repair",
     "unitTypes": [
       "构装"
     ],
     "prerequisites": [
-      "Field Repairs"
+      "Reinforced Plating"
     ],
     "uniques": [
-      "[+5] HP when healing"
+      "[+10] HP when healing"
     ]
   },
   {
@@ -1380,11 +1700,24 @@
       "构装"
     ],
     "prerequisites": [
-      "Reinforced Plating",
-      "Self-Repair II"
+      "Core Overclock"
     ],
     "uniques": [
       "[+10]% Strength bonus for [{Land} {Military}] units within [2] tiles"
+    ]
+  },
+  {
+    "name": "Guardian Protocol",
+    "unitTypes": [
+      "构装"
+    ],
+    "prerequisites": [
+      "Self-Repair",
+      "Coordinated Action"
+    ],
+    "uniques": [
+      "[+30]% Strength <when defending>",
+      "No damage penalty for wounded units"
     ]
   },
   {
@@ -1404,7 +1737,7 @@
     ],
     "prerequisites": [],
     "uniques": [
-      "[+25]% Strength <vs cities>"
+      "[+30]% Strength <vs cities>"
     ]
   },
   {
@@ -1413,11 +1746,22 @@
       "飞艇"
     ],
     "prerequisites": [
-      "High Altitude",
-      "Precision Bombing"
+      "High Altitude"
     ],
     "uniques": [
       "Damage taken from interception reduced by [50]%"
+    ]
+  },
+  {
+    "name": "Heavy Payload",
+    "unitTypes": [
+      "飞艇"
+    ],
+    "prerequisites": [
+      "Precision Bombing"
+    ],
+    "uniques": [
+      "[+25]% Strength <vs [Land] units>"
     ]
   },
   {
@@ -1426,7 +1770,8 @@
       "飞艇"
     ],
     "prerequisites": [
-      "Evasive Maneuvers"
+      "Evasive Maneuvers",
+      "Heavy Payload"
     ],
     "uniques": [
       "Unit will heal every turn, even if it performs an action"
@@ -1436,33 +1781,18 @@
     "name": "Boarding Party",
     "unitTypes": [
       "海近战",
-      "海远程",
       "潜艇",
       "航母"
     ],
     "prerequisites": [],
     "uniques": [
-      "[+20]% Strength <vs [Water] units>"
-    ]
-  },
-  {
-    "name": "Gunnery",
-    "unitTypes": [
-      "海近战",
-      "海远程",
-      "潜艇",
-      "航母"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+20]% Strength <vs [Land] units>"
+      "[+30]% Strength <vs [Water] units>"
     ]
   },
   {
     "name": "Deep Sailing",
     "unitTypes": [
       "海近战",
-      "海远程",
       "潜艇",
       "航母"
     ],
@@ -1475,40 +1805,219 @@
     "name": "Armored Hull",
     "unitTypes": [
       "海近战",
-      "海远程",
       "潜艇",
       "航母"
     ],
     "prerequisites": [
-      "Boarding Party",
-      "Gunnery",
-      "Deep Sailing"
+      "Boarding Party"
     ],
     "uniques": [
-      "[+25]% Strength <when defending>"
+      "[+30]% Strength <when defending>"
     ]
   },
   {
-    "name": "Keen Eye",
+    "name": "Auxiliary Fleet",
     "unitTypes": [
-      "侦察"
+      "海近战",
+      "潜艇",
+      "航母"
     ],
     "prerequisites": [
-      "Far Sight Training"
+      "Deep Sailing"
+    ],
+    "uniques": [
+      "May heal outside of friendly territory",
+      "[+10] HP when healing <in [Foreign Land] tiles>"
+    ]
+  },
+  {
+    "name": "Dreadnought",
+    "unitTypes": [
+      "海近战",
+      "潜艇",
+      "航母"
+    ],
+    "prerequisites": [
+      "Armored Hull",
+      "Auxiliary Fleet"
+    ],
+    "uniques": [
+      "Can move after attacking",
+      "[+15]% Strength"
+    ]
+  },
+  {
+    "name": "Targeting",
+    "unitTypes": [
+      "海远程"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+25]% Strength <vs [Water] units>"
+    ]
+  },
+  {
+    "name": "Shore Bombardment",
+    "unitTypes": [
+      "海远程"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+25]% Strength <vs [Land] units>"
+    ]
+  },
+  {
+    "name": "Preparatory Fire",
+    "unitTypes": [
+      "海远程"
+    ],
+    "prerequisites": [
+      "Targeting"
+    ],
+    "uniques": [
+      "[+20]% Strength <when attacking>"
+    ]
+  },
+  {
+    "name": "Rangefinder",
+    "unitTypes": [
+      "海远程"
+    ],
+    "prerequisites": [
+      "Shore Bombardment"
     ],
     "uniques": [
       "[+1] Sight"
     ]
   },
   {
-    "name": "Wilderness Survival",
+    "name": "Long Guns",
+    "unitTypes": [
+      "海远程"
+    ],
+    "prerequisites": [
+      "Preparatory Fire",
+      "Rangefinder"
+    ],
+    "uniques": [
+      "[+1] Range"
+    ]
+  },
+  {
+    "name": "Ranger",
     "unitTypes": [
       "侦察"
     ],
     "prerequisites": [],
     "uniques": [
-      "May heal outside of friendly territory",
-      "[+5] HP when healing"
+      "Double movement in [Forest]",
+      "Double movement in [Jungle]"
+    ]
+  },
+  {
+    "name": "Alpine",
+    "unitTypes": [
+      "侦察"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "Double movement in [Hill]"
+    ]
+  },
+  {
+    "name": "Sentry",
+    "unitTypes": [
+      "侦察"
+    ],
+    "prerequisites": [
+      "Ranger"
+    ],
+    "uniques": [
+      "Can see over obstacles"
+    ]
+  },
+  {
+    "name": "Guerrilla",
+    "unitTypes": [
+      "侦察"
+    ],
+    "prerequisites": [
+      "Alpine"
+    ],
+    "uniques": [
+      "Can move after attacking"
+    ]
+  },
+  {
+    "name": "Spyglass",
+    "unitTypes": [
+      "侦察"
+    ],
+    "prerequisites": [
+      "Sentry",
+      "Guerrilla"
+    ],
+    "uniques": [
+      "[+1] Sight",
+      "Invisible to non-adjacent units"
+    ]
+  },
+  {
+    "name": "Feral Charge",
+    "unitTypes": [
+      "野兽"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+30]% Strength <when attacking>"
+    ]
+  },
+  {
+    "name": "Thick Hide",
+    "unitTypes": [
+      "野兽"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+30]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "Pack Tactics",
+    "unitTypes": [
+      "野兽"
+    ],
+    "prerequisites": [
+      "Feral Charge"
+    ],
+    "uniques": [
+      "[+30]% Strength <vs [Wounded] units>"
+    ]
+  },
+  {
+    "name": "Tough Sinew",
+    "unitTypes": [
+      "野兽"
+    ],
+    "prerequisites": [
+      "Thick Hide"
+    ],
+    "uniques": [
+      "[+10] HP when healing",
+      "[+1] Movement"
+    ]
+  },
+  {
+    "name": "Rampage",
+    "unitTypes": [
+      "野兽"
+    ],
+    "prerequisites": [
+      "Pack Tactics",
+      "Tough Sinew"
+    ],
+    "uniques": [
+      "[1] additional attacks per turn"
     ]
   }
 ]
