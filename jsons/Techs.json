@@ -927,5 +927,30 @@
         "uniques": []
       }
     ]
+  },
+  {
+    "columnNumber": 16,
+    "era": "IX",
+    "techCost": 9500,
+    "buildingCost": 1,
+    "wonderCost": 1,
+    "techs": [
+      {
+        "name": "Future Tech",
+        "row": 6,
+        "cost": 9500,
+        "prerequisites": [
+          "Advanced Life Medicine",
+          "Intelligent Constructs",
+          "Spatial Engineering",
+          "Great Magic Engineering",
+          "Advanced Energy Engineering",
+          "Ecological Engineering"
+        ],
+        "uniques": [
+          "Can be continually researched"
+        ]
+      }
+    ]
   }
 ]

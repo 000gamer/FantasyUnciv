@@ -186,5 +186,27 @@
     ],
     "startingSettlerUnit": "Settler",
     "startingWorkerUnit": "Worker"
+  },
+  {
+    "name": "IX",
+    "researchAgreementCost": 600,
+    "startingSettlerCount": 1,
+    "startingWorkerCount": 1,
+    "startingMilitaryUnitCount": 1,
+    "startingMilitaryUnit": "Construct Guards",
+    "settlerPopulation": 6,
+    "startingGold": 1500,
+    "startingCulture": 0,
+    "baseUnitBuyCost": 1200,
+    "embarkDefense": 48,
+    "startPercent": 96,
+    "iconRGB": [
+      0,
+      120,
+      110
+    ],
+    "uniques": [],
+    "startingSettlerUnit": "Settler",
+    "startingWorkerUnit": "Worker"
   }
 ]
