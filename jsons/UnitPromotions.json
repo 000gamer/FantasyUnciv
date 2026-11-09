@@ -1,160 +1,5 @@
 [
   {
-    "name": "Open-Field Tactics I",
-    "unitTypes": [
-      "步兵",
-      "重步兵",
-      "长柄",
-      "轻骑",
-      "重骑",
-      "野兽",
-      "构装",
-      "医护",
-      "幽魂"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+10]% Strength <when fighting in [Open terrain] tiles>"
-    ]
-  },
-  {
-    "name": "Open-Field Tactics II",
-    "unitTypes": [
-      "步兵",
-      "重步兵",
-      "长柄",
-      "轻骑",
-      "重骑",
-      "野兽",
-      "构装",
-      "医护",
-      "幽魂"
-    ],
-    "prerequisites": [
-      "Open-Field Tactics I"
-    ],
-    "uniques": [
-      "[+10]% Strength <when fighting in [Open terrain] tiles>"
-    ]
-  },
-  {
-    "name": "Rough-Terrain Tactics I",
-    "unitTypes": [
-      "步兵",
-      "重步兵",
-      "长柄",
-      "轻骑",
-      "重骑",
-      "野兽",
-      "构装",
-      "医护",
-      "幽魂"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+10]% Strength <when fighting in [Rough terrain] tiles>"
-    ]
-  },
-  {
-    "name": "Rough-Terrain Tactics II",
-    "unitTypes": [
-      "步兵",
-      "重步兵",
-      "长柄",
-      "轻骑",
-      "重骑",
-      "野兽",
-      "构装",
-      "医护",
-      "幽魂"
-    ],
-    "prerequisites": [
-      "Rough-Terrain Tactics I"
-    ],
-    "uniques": [
-      "[+10]% Strength <when fighting in [Rough terrain] tiles>"
-    ]
-  },
-  {
-    "name": "Armored Protection",
-    "unitTypes": [
-      "步兵",
-      "重步兵",
-      "长柄",
-      "构装",
-      "医护",
-      "幽魂"
-    ],
-    "prerequisites": [
-      "Open-Field Tactics II",
-      "Rough-Terrain Tactics II"
-    ],
-    "uniques": [
-      "[+15]% Strength <when defending> <vs [Ranged] units>"
-    ]
-  },
-  {
-    "name": "Flexible Deployment",
-    "unitTypes": [
-      "轻骑",
-      "重骑",
-      "野兽"
-    ],
-    "prerequisites": [
-      "Open-Field Tactics II",
-      "Rough-Terrain Tactics II"
-    ],
-    "uniques": [
-      "[+1] Movement"
-    ]
-  },
-  {
-    "name": "Sighting I",
-    "unitTypes": [
-      "射手",
-      "术士",
-      "海远程",
-      "骑射",
-      "死灵"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+10]% Strength <when attacking>"
-    ]
-  },
-  {
-    "name": "Sighting II",
-    "unitTypes": [
-      "射手",
-      "术士",
-      "海远程",
-      "骑射",
-      "死灵"
-    ],
-    "prerequisites": [
-      "Sighting I"
-    ],
-    "uniques": [
-      "[+10]% Strength <when attacking>"
-    ]
-  },
-  {
-    "name": "Skirmisher Protection",
-    "unitTypes": [
-      "射手",
-      "术士",
-      "海远程",
-      "骑射",
-      "死灵"
-    ],
-    "prerequisites": [
-      "Sighting I"
-    ],
-    "uniques": [
-      "[+15]% Strength <when defending>"
-    ]
-  },
-  {
     "name": "Breaching I",
     "unitTypes": [
       "攻城"
@@ -177,57 +22,8 @@
     ]
   },
   {
-    "name": "Protect the Engines",
-    "unitTypes": [
-      "攻城"
-    ],
-    "prerequisites": [
-      "Breaching I"
-    ],
-    "uniques": [
-      "[+15]% Strength <when defending>"
-    ]
-  },
-  {
-    "name": "Crew Drills I",
-    "unitTypes": [
-      "海近战"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+10]% Strength"
-    ]
-  },
-  {
-    "name": "Crew Drills II",
-    "unitTypes": [
-      "海近战"
-    ],
-    "prerequisites": [
-      "Crew Drills I"
-    ],
-    "uniques": [
-      "[+10]% Strength"
-    ]
-  },
-  {
-    "name": "Ocean Sail Handling",
-    "unitTypes": [
-      "海近战",
-      "海远程"
-    ],
-    "prerequisites": [
-      "Crew Drills II",
-      "Sighting II"
-    ],
-    "uniques": [
-      "[+1] Movement"
-    ]
-  },
-  {
     "name": "Steady Recovery",
     "unitTypes": [
-      "医护",
       "幽魂"
     ],
     "prerequisites": [],
@@ -239,32 +35,11 @@
   {
     "name": "Resolute Ward",
     "unitTypes": [
-      "医护",
-      "术士",
-      "死灵",
       "幽魂"
     ],
     "prerequisites": [],
     "uniques": [
       "[+10]% Strength <when defending>",
-      "Only available <after discovering [Magic Records]>"
-    ]
-  },
-  {
-    "name": "Armor Piercing",
-    "unitTypes": [
-      "术士"
-    ],
-    "prerequisites": [
-      "Sighting II"
-    ],
-    "uniques": [
-      "[+15]% Strength <vs [重步兵] units>",
-      "[+15]% Strength <vs [重骑] units>",
-      "[+15]% Strength <vs [构装] units>",
-      "[+15]% Strength <vs [Ancient Grove Guardians] units>",
-      "[+15]% Strength <vs [Elder Tree Guards] units>",
-      "[+15]% Strength <vs [Feral Tree Guards] units>",
       "Only available <after discovering [Magic Records]>"
     ]
   },
@@ -292,56 +67,12 @@
     ]
   },
   {
-    "name": "Field Repairs",
-    "unitTypes": [
-      "构装"
-    ],
-    "prerequisites": [
-      "Rough-Terrain Tactics II",
-      "Open-Field Tactics II"
-    ],
-    "uniques": [
-      "[+5] HP when healing"
-    ]
-  },
-  {
-    "name": "Spell Shield",
-    "unitTypes": [
-      "术士",
-      "死灵"
-    ],
-    "prerequisites": [
-      "Skirmisher Protection",
-      "Resolute Ward"
-    ],
-    "uniques": [
-      "[+15]% Strength <when defending> <vs [Ranged] units>",
-      "Only available <after discovering [Arcane Research]>"
-    ]
-  },
-  {
-    "name": "Returning Tide",
-    "unitTypes": [
-      "海近战",
-      "海远程"
-    ],
-    "prerequisites": [
-      "Crew Drills I",
-      "Sighting I"
-    ],
-    "uniques": [
-      "[+5] HP when healing"
-    ]
-  },
-  {
     "name": "Construct Breaker",
     "unitTypes": [
-      "死灵",
       "幽魂"
     ],
     "prerequisites": [
-      "Sighting II",
-      "Rough-Terrain Tactics II"
+      "Steady Recovery"
     ],
     "uniques": [
       "[+15]% Strength <vs [元素] units>",
@@ -349,65 +80,8 @@
     ]
   },
   {
-    "name": "Mounted Raid",
-    "unitTypes": [
-      "骑射",
-      "轻骑"
-    ],
-    "prerequisites": [
-      "Sighting II",
-      "Open-Field Tactics II"
-    ],
-    "uniques": [
-      "[+15]% Strength <vs [射手] units>",
-      "[+15]% Strength <vs [攻城] units>"
-    ]
-  },
-  {
-    "name": "Starlight Watch",
-    "unitTypes": [
-      "医护",
-      "死灵"
-    ],
-    "prerequisites": [
-      "Steady Recovery",
-      "Resolute Ward"
-    ],
-    "uniques": [
-      "[+1] Sight"
-    ]
-  },
-  {
-    "name": "Amphibious Transport",
-    "unitTypes": [],
-    "prerequisites": [],
-    "uniques": [
-      "[1] Movement point cost to embark",
-      "[1] Movement point cost to disembark"
-    ]
-  },
-  {
-    "name": "Marching Prayer",
-    "unitTypes": [],
-    "prerequisites": [],
-    "uniques": [
-      "Unit will heal every turn, even if it performs an action",
-      "[+25]% maintenance costs"
-    ]
-  },
-  {
-    "name": "Ocean Supply",
-    "unitTypes": [],
-    "prerequisites": [],
-    "uniques": [
-      "May heal outside of friendly territory",
-      "[+5] HP when healing"
-    ]
-  },
-  {
     "name": "Memories of the Soul",
     "unitTypes": [
-      "死灵",
       "幽魂"
     ],
     "prerequisites": [
@@ -421,40 +95,11 @@
     ]
   },
   {
-    "name": "Unbroken Thought",
-    "unitTypes": [
-      "术士",
-      "死灵"
-    ],
-    "prerequisites": [
-      "Spell Shield"
-    ],
-    "uniques": [
-      "No damage penalty for wounded units",
-      "[+25]% maintenance costs",
-      "Only available <after discovering [Arcane Research]>"
-    ]
-  },
-  {
-    "name": "Healing Relay",
-    "unitTypes": [
-      "医护"
-    ],
-    "prerequisites": [
-      "Starlight Watch"
-    ],
-    "uniques": [
-      "All adjacent units heal [5] HP when healing",
-      "[+25]% maintenance costs"
-    ]
-  },
-  {
     "name": "Returning Soul Covenant",
     "unitTypes": [
       "幽魂"
     ],
     "prerequisites": [
-      "Rough-Terrain Tactics II",
       "Resolute Ward"
     ],
     "uniques": [
@@ -463,38 +108,6 @@
       "[+25]% maintenance costs",
       "Only available <after discovering [Magic Instruments]>",
       "Only available <for units without [Memories of the Soul]>"
-    ]
-  },
-  {
-    "name": "Dragon Far Sight",
-    "unitTypes": [
-      "侦察"
-    ],
-    "prerequisites": [
-      "Far Sight Training"
-    ],
-    "uniques": [
-      "[+1] Sight",
-      "Can build [Repair] improvements on tiles",
-      "Only available <after discovering [Cartography]>",
-      "Only available <for units without [Pathfinder]>"
-    ]
-  },
-  {
-    "name": "Crystal Ward",
-    "unitTypes": [],
-    "prerequisites": [],
-    "uniques": [
-      "[+15]% Strength <when defending>"
-    ]
-  },
-  {
-    "name": "Medical resolution marker",
-    "unitTypes": [],
-    "prerequisites": [],
-    "uniques": [
-      "Will not be displayed in Civilopedia",
-      "FC medic near active patient"
     ]
   },
   {
@@ -538,7 +151,8 @@
     "uniques": [
       "[This Unit] heals [50] HP",
       "Doing so will consume this opportunity to choose a Promotion"
-    ]
+    ],
+    "row": -1
   },
   {
     "name": "Shield Wall",
@@ -848,16 +462,6 @@
     ]
   },
   {
-    "name": "Grape Shot",
-    "unitTypes": [
-      "攻城"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "[+35]% Strength <vs [Land] units>"
-    ]
-  },
-  {
     "name": "Crew Weapons",
     "unitTypes": [
       "攻城"
@@ -865,19 +469,6 @@
     "prerequisites": [],
     "uniques": [
       "[+40]% Strength <when defending>"
-    ]
-  },
-  {
-    "name": "Expert Crew",
-    "unitTypes": [
-      "攻城"
-    ],
-    "prerequisites": [
-      "Grape Shot"
-    ],
-    "uniques": [
-      "[+1] Movement",
-      "Can move after attacking"
     ]
   },
   {
@@ -898,7 +489,7 @@
       "攻城"
     ],
     "prerequisites": [
-      "Expert Crew",
+      "Breaching II",
       "Demolition Shells"
     ],
     "uniques": [
@@ -1337,16 +928,6 @@
     ]
   },
   {
-    "name": "Alpine",
-    "unitTypes": [
-      "侦察"
-    ],
-    "prerequisites": [],
-    "uniques": [
-      "Double movement in [Hill]"
-    ]
-  },
-  {
     "name": "Sentry",
     "unitTypes": [
       "侦察"
@@ -1359,25 +940,13 @@
     ]
   },
   {
-    "name": "Guerrilla",
-    "unitTypes": [
-      "侦察"
-    ],
-    "prerequisites": [
-      "Alpine"
-    ],
-    "uniques": [
-      "Can move after attacking"
-    ]
-  },
-  {
     "name": "Spyglass",
     "unitTypes": [
       "侦察"
     ],
     "prerequisites": [
       "Sentry",
-      "Guerrilla"
+      "Pathfinder"
     ],
     "uniques": [
       "[+1] Sight",
