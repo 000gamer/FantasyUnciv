@@ -25,9 +25,7 @@
   ],
   "unitUniques": [
     "Triggers a [Medical resolution] event <upon ending a turn in a [Land] tile> <when below [100] HP> <when adjacent to a [{医护} {non-[Embarked]}] unit> <hidden from users>",
-    "Instantly gain [3] [Dragon Scale] <upon defeating a [Elder Dragon] unit>",
-    "Gain a free [Dragonscale Workshop] [in capital] <upon defeating a [Elder Dragon] unit>",
-    "Instantly gain [3] [Giant Heart] <upon defeating a [Giant Chief] unit>",
-    "Gain a free [Giant Workshop] [in capital] <upon defeating a [Giant Chief] unit>"
+    "Triggers a [The Dragon Falls] event <upon defeating a [Elder Dragon] unit>",
+    "Triggers a [The Giant Falls] event <upon defeating a [Giant Chief] unit>"
   ]
 }

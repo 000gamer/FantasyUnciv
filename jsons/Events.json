@@ -499,5 +499,47 @@
         ]
       }
     ]
+  },
+  {
+    "name": "The Dragon Falls",
+    "text": "The Dragon Falls",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "The Dragon Falls Paragraph 1"
+      }
+    ],
+    "choices": [
+      {
+        "name": "The Dragon Falls - A",
+        "text": "The Dragon Falls-A",
+        "civilopediaText": [],
+        "uniques": [
+          "Instantly gain [3] [Dragon Scale]",
+          "Gain a free [Dragonscale Workshop] [in capital]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Giant Falls",
+    "text": "The Giant Falls",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "The Giant Falls Paragraph 1"
+      }
+    ],
+    "choices": [
+      {
+        "name": "The Giant Falls - A",
+        "text": "The Giant Falls-A",
+        "civilopediaText": [],
+        "uniques": [
+          "Instantly gain [3] [Giant Heart]",
+          "Gain a free [Giant Workshop] [in capital]"
+        ]
+      }
+    ]
   }
 ]
