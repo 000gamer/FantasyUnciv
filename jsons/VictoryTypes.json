@@ -39,21 +39,6 @@
     "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
   },
   {
-    "name": "Religious",
-    "victoryScreenHeader": "AOD Religious Objective",
-    "milestones": [
-      "Build [Grand Synod]",
-      "Become the world religion"
-    ],
-    "victoryString": "Religious victory won",
-    "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!",
-    "civilopediaText": [
-      {
-        "text": "Religious victory overview"
-      }
-    ]
-  },
-  {
     "name": "Domination",
     "victoryScreenHeader": "AOD Domination Objective",
     "milestones": [
@@ -81,5 +66,20 @@
     "victoryString": "The world has been convulsed by war. Many great and powerful civilizations have fallen, but you have survived - and emerged victorious! The world will long remember your glorious triumph!",
     "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!",
     "victoryScreenHeader": "AOD Time Objective"
+  },
+  {
+    "name": "Religious",
+    "victoryScreenHeader": "AOD Religious Objective",
+    "milestones": [
+      "Build [Grand Synod]",
+      "Become the world religion"
+    ],
+    "victoryString": "Religious victory won",
+    "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!",
+    "civilopediaText": [
+      {
+        "text": "Religious victory overview"
+      }
+    ]
   }
 ]
