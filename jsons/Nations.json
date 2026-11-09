@@ -857,26 +857,6 @@
     "civilopediaText": []
   },
   {
-    "name": "Starbridge",
-    "cityStateType": "Scientific City-State - Starbridge",
-    "personality": "Friendly",
-    "cities": [
-      "Starbridge Capital"
-    ],
-    "outerColor": [
-      70,
-      150,
-      245
-    ],
-    "innerColor": [
-      35,
-      35,
-      40
-    ],
-    "startBias": [],
-    "civilopediaText": []
-  },
-  {
     "name": "Tidemarket",
     "cityStateType": "Agrarian City-State - Tidemarket",
     "personality": "Friendly",
@@ -965,28 +945,6 @@
     "civilopediaText": []
   },
   {
-    "name": "Southlight",
-    "cityStateType": "Agrarian City-State - Southlight",
-    "personality": "Friendly",
-    "cities": [
-      "Southlight Capital"
-    ],
-    "outerColor": [
-      70,
-      200,
-      90
-    ],
-    "innerColor": [
-      35,
-      35,
-      40
-    ],
-    "startBias": [
-      "Coast"
-    ],
-    "civilopediaText": []
-  },
-  {
     "name": "Amber Haven",
     "cityStateType": "Commercial City-State - Amber Haven",
     "personality": "Friendly",
@@ -1037,26 +995,6 @@
       245,
       145,
       180
-    ],
-    "innerColor": [
-      35,
-      35,
-      40
-    ],
-    "startBias": [],
-    "civilopediaText": []
-  },
-  {
-    "name": "Spice Road",
-    "cityStateType": "Commercial City-State - Spice Road",
-    "personality": "Irrational",
-    "cities": [
-      "Spice Road Capital"
-    ],
-    "outerColor": [
-      245,
-      205,
-      40
     ],
     "innerColor": [
       35,
@@ -1131,70 +1069,6 @@
     "civilopediaText": []
   },
   {
-    "name": "Halberd Pass",
-    "cityStateType": "Industrial City-State - Halberd Pass",
-    "personality": "Hostile",
-    "cities": [
-      "Halberd Pass Capital"
-    ],
-    "outerColor": [
-      220,
-      145,
-      60
-    ],
-    "innerColor": [
-      35,
-      35,
-      40
-    ],
-    "startBias": [],
-    "civilopediaText": [
-      {
-        "text": "Industrial capital total"
-      }
-    ]
-  },
-  {
-    "name": "Beaconstone",
-    "cityStateType": "Military City-State - Beaconstone",
-    "personality": "Irrational",
-    "cities": [
-      "Beaconstone Capital"
-    ],
-    "outerColor": [
-      220,
-      65,
-      65
-    ],
-    "innerColor": [
-      35,
-      35,
-      40
-    ],
-    "startBias": [],
-    "civilopediaText": []
-  },
-  {
-    "name": "Blade Trial City",
-    "cityStateType": "Military City-State - Blade Trial City",
-    "personality": "Friendly",
-    "cities": [
-      "Blade Trial City Capital"
-    ],
-    "outerColor": [
-      220,
-      65,
-      65
-    ],
-    "innerColor": [
-      35,
-      35,
-      40
-    ],
-    "startBias": [],
-    "civilopediaText": []
-  },
-  {
     "name": "Spring Altar",
     "cityStateType": "Religious City-State - Spring Altar",
     "personality": "Friendly",
@@ -1220,46 +1094,6 @@
     "personality": "Neutral",
     "cities": [
       "Dusk Prayer Capital"
-    ],
-    "outerColor": [
-      220,
-      225,
-      230
-    ],
-    "innerColor": [
-      35,
-      35,
-      40
-    ],
-    "startBias": [],
-    "civilopediaText": []
-  },
-  {
-    "name": "Green Candle",
-    "cityStateType": "Religious City-State - Green Candle",
-    "personality": "Hostile",
-    "cities": [
-      "Green Candle Capital"
-    ],
-    "outerColor": [
-      220,
-      225,
-      230
-    ],
-    "innerColor": [
-      35,
-      35,
-      40
-    ],
-    "startBias": [],
-    "civilopediaText": []
-  },
-  {
-    "name": "Court of Echoes",
-    "cityStateType": "Religious City-State - Court of Echoes",
-    "personality": "Irrational",
-    "cities": [
-      "Court of Echoes Capital"
     ],
     "outerColor": [
       220,

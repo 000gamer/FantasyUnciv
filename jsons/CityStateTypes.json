@@ -89,28 +89,6 @@
     "civilopediaText": []
   },
   {
-    "name": "Scientific City-State - Starbridge",
-    "color": [
-      70,
-      150,
-      245
-    ],
-    "friendBonusUniques": [
-      "[+2 Science] <before the [III]>",
-      "[+4 Science] <starting from the [III]> <before the [V]>",
-      "[+6 Science] <starting from the [V]>"
-    ],
-    "allyBonusUniques": [
-      "[+4 Science] <before the [III]>",
-      "[+8 Science] <starting from the [III]> <before the [V]>",
-      "[+12 Science] <starting from the [V]>",
-      "Comment [City-state pact]",
-      "[+10]% Great Person generation [in all cities] <in cities with a [Star Observatory]>"
-    ],
-    "uniques": [],
-    "civilopediaText": []
-  },
-  {
     "name": "Agrarian City-State - Tidemarket",
     "color": [
       70,
@@ -198,27 +176,6 @@
     "civilopediaText": []
   },
   {
-    "name": "Agrarian City-State - Southlight",
-    "color": [
-      70,
-      200,
-      90
-    ],
-    "friendBonusUniques": [
-      "[+2 Food] [in capital]"
-    ],
-    "allyBonusUniques": [
-      "[+2 Food] [in capital]",
-      "[+1 Food] [in all cities]",
-      "Comment [City-state pact]",
-      "New [{Water} {Military}] units start with [+5] XP [in all cities]"
-    ],
-    "uniques": [
-      "Start bias [Coast]"
-    ],
-    "civilopediaText": []
-  },
-  {
     "name": "Commercial City-State - Amber Haven",
     "color": [
       245,
@@ -278,28 +235,6 @@
       "[+4 Happiness] <starting from the [V]>",
       "Comment [City-state pact]",
       "[-5]% Unhappiness from [Population] [in all cities]"
-    ],
-    "uniques": [],
-    "civilopediaText": []
-  },
-  {
-    "name": "Commercial City-State - Spice Road",
-    "color": [
-      245,
-      205,
-      40
-    ],
-    "friendBonusUniques": [
-      "[+4 Gold] <before the [III]>",
-      "[+6 Gold] <starting from the [III]> <before the [V]>",
-      "[+8 Gold] <starting from the [V]>"
-    ],
-    "allyBonusUniques": [
-      "[+8 Gold] <before the [III]>",
-      "[+12 Gold] <starting from the [III]> <before the [V]>",
-      "[+16 Gold] <starting from the [V]>",
-      "Comment [City-state pact]",
-      "[+1 Culture] from [Plantation] tiles [in all cities]"
     ],
     "uniques": [],
     "civilopediaText": []
@@ -366,67 +301,6 @@
     "civilopediaText": []
   },
   {
-    "name": "Industrial City-State - Halberd Pass",
-    "color": [
-      220,
-      145,
-      60
-    ],
-    "friendBonusUniques": [
-      "[+2 Production] [in capital] <before the [III]>",
-      "[+3 Production] [in capital] <starting from the [III]> <before the [V]>",
-      "[+4 Production] [in capital] <starting from the [V]>"
-    ],
-    "allyBonusUniques": [
-      "[+2 Production] [in capital] <before the [III]>",
-      "[+1 Production] [in all cities] <before the [III]>",
-      "[+3 Production] [in capital] <starting from the [III]> <before the [V]>",
-      "[+1 Production] [in all cities] <starting from the [III]> <before the [V]>",
-      "[+4 Production] [in capital] <starting from the [V]>",
-      "[+2 Production] [in all cities] <starting from the [V]>",
-      "Comment [City-state pact]",
-      "[+10]% Production when constructing [长柄] units [in all cities]"
-    ],
-    "uniques": [],
-    "civilopediaText": []
-  },
-  {
-    "name": "Military City-State - Beaconstone",
-    "color": [
-      220,
-      65,
-      65
-    ],
-    "friendBonusUniques": [
-      "Provides military units every ≈[20] turns"
-    ],
-    "allyBonusUniques": [
-      "Provides military units every ≈[17] turns",
-      "Comment [City-state pact]",
-      "[+1] Sight <for [侦察] units>"
-    ],
-    "uniques": [],
-    "civilopediaText": []
-  },
-  {
-    "name": "Military City-State - Blade Trial City",
-    "color": [
-      220,
-      65,
-      65
-    ],
-    "friendBonusUniques": [
-      "Provides military units every ≈[20] turns"
-    ],
-    "allyBonusUniques": [
-      "Provides military units every ≈[17] turns",
-      "Comment [City-state pact]",
-      "[-5]% XP required for promotions"
-    ],
-    "uniques": [],
-    "civilopediaText": []
-  },
-  {
     "name": "Religious City-State - Spring Altar",
     "color": [
       220,
@@ -467,51 +341,6 @@
       "Comment [City-state pact]",
       "Earn [15]% of killed [Military] unit's [Strength] as [Culture] <for [死灵] units>",
       "Earn [15]% of killed [Military] unit's [Strength] as [Culture] <for [幽魂] units>"
-    ],
-    "uniques": [],
-    "civilopediaText": []
-  },
-  {
-    "name": "Religious City-State - Green Candle",
-    "color": [
-      220,
-      225,
-      230
-    ],
-    "friendBonusUniques": [
-      "[+3 Faith] <before the [III]>",
-      "[+6 Faith] <starting from the [III]> <before the [V]>",
-      "[+9 Faith] <starting from the [V]>"
-    ],
-    "allyBonusUniques": [
-      "[+6 Faith] <before the [III]>",
-      "[+12 Faith] <starting from the [III]> <before the [V]>",
-      "[+18 Faith] <starting from the [V]>",
-      "Comment [City-state pact]",
-      "New [医护] units start with [+5] XP [in all cities]",
-      "New [死灵] units start with [+5] XP [in all cities]"
-    ],
-    "uniques": [],
-    "civilopediaText": []
-  },
-  {
-    "name": "Religious City-State - Court of Echoes",
-    "color": [
-      220,
-      225,
-      230
-    ],
-    "friendBonusUniques": [
-      "[+3 Faith] <before the [III]>",
-      "[+6 Faith] <starting from the [III]> <before the [V]>",
-      "[+9 Faith] <starting from the [V]>"
-    ],
-    "allyBonusUniques": [
-      "[+6 Faith] <before the [III]>",
-      "[+12 Faith] <starting from the [III]> <before the [V]>",
-      "[+18 Faith] <starting from the [V]>",
-      "Comment [City-state pact]",
-      "[+1 Faith] from all [Temple] buildings"
     ],
     "uniques": [],
     "civilopediaText": []
