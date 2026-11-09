@@ -1961,7 +1961,8 @@
     "maintenance": 4,
     "requiredTech": "Magic Engineering Experiments",
     "uniques": [
-      "Only available <in cities with a [Laboratory]>"
+      "Only available <in cities with a [Laboratory]>",
+      "Provides [1] [Magic Crystals]"
     ],
     "science": 4,
     "specialistSlots": {}
