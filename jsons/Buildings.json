@@ -1932,11 +1932,38 @@
     "cost": 10,
     "maintenance": 0,
     "production": 8,
+    "gold": 6,
     "uniqueTo": "Giant Fortress",
     "uniques": [
       "Automatically built in all cities where it is buildable",
       "Only available <in cities with a [Palace]>",
       "Instantly gain [1] [Giant Heart] <upon turn start> <every [10] turns>"
+    ],
+    "specialistSlots": {}
+  },
+  {
+    "name": "Dragon Tribute",
+    "cost": 10,
+    "maintenance": 0,
+    "gold": 60,
+    "uniqueTo": "Dragon Lair",
+    "uniques": [
+      "Automatically built in all cities where it is buildable",
+      "Only available <in cities with a [Palace]>",
+      "Destroyed when the city is captured"
+    ],
+    "specialistSlots": {}
+  },
+  {
+    "name": "Giant Tribute",
+    "cost": 10,
+    "maintenance": 0,
+    "gold": 60,
+    "uniqueTo": "Giant Fortress",
+    "uniques": [
+      "Automatically built in all cities where it is buildable",
+      "Only available <in cities with a [Palace]>",
+      "Destroyed when the city is captured"
     ],
     "specialistSlots": {}
   }
