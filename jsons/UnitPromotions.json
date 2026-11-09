@@ -1074,5 +1074,441 @@
       "Only available <after discovering [Commercial Corporations]>",
       "Only available <for units without [Twin Scales Badge - Reimbursement]>"
     ]
+  },
+  {
+    "name": "Heal Instantly",
+    "unitTypes": [
+      "侦察",
+      "元素",
+      "医护",
+      "射手",
+      "幽魂",
+      "攻城",
+      "术士",
+      "构装",
+      "步兵",
+      "死灵",
+      "海近战",
+      "海远程",
+      "轻骑",
+      "重步兵",
+      "重骑",
+      "野兽",
+      "长柄",
+      "骑射",
+      "飞艇",
+      "Hero - Oathsworn Commander",
+      "Hero - Star-Gazer Sage",
+      "Hero - Guardian of the Wilds",
+      "Hero - Ancient Oath Dragon",
+      "Hero - Springroad Physician",
+      "Hero - Monument Oathwalker",
+      "Hero - Molten Seal Envoy",
+      "Hero - Silent Mirror Keeper",
+      "Hero - Sea Road Navigator",
+      "Hero - Lantern Oathguard",
+      "Hero - Hundredforge Artificer",
+      "Hero - Caravan Arbiter",
+      "潜艇",
+      "航母"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[This Unit] heals [50] HP",
+      "Doing so will consume this opportunity to choose a Promotion"
+    ]
+  },
+  {
+    "name": "Shield Wall I",
+    "unitTypes": [
+      "步兵",
+      "重步兵",
+      "长柄"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+15]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "Shield Wall II",
+    "unitTypes": [
+      "步兵",
+      "重步兵",
+      "长柄"
+    ],
+    "prerequisites": [
+      "Shield Wall I"
+    ],
+    "uniques": [
+      "[+15]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "Breakthrough",
+    "unitTypes": [
+      "步兵",
+      "重步兵",
+      "长柄"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <vs cities>",
+      "[+15]% Strength <when attacking>"
+    ]
+  },
+  {
+    "name": "Unyielding",
+    "unitTypes": [
+      "步兵",
+      "重步兵",
+      "长柄"
+    ],
+    "prerequisites": [
+      "Shield Wall II",
+      "Breakthrough"
+    ],
+    "uniques": [
+      "No damage penalty for wounded units"
+    ]
+  },
+  {
+    "name": "Volley",
+    "unitTypes": [
+      "射手"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+15]% Strength <when attacking>"
+    ]
+  },
+  {
+    "name": "Entrenched Fire",
+    "unitTypes": [
+      "射手"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <when fighting in [Rough terrain] tiles>",
+      "[+10]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "Piercing Rounds",
+    "unitTypes": [
+      "射手"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+25]% Strength <vs [重步兵] units>",
+      "[+25]% Strength <vs [构装] units>",
+      "[+25]% Strength <vs [重骑] units>"
+    ]
+  },
+  {
+    "name": "Marksman",
+    "unitTypes": [
+      "射手"
+    ],
+    "prerequisites": [
+      "Volley",
+      "Entrenched Fire",
+      "Piercing Rounds"
+    ],
+    "uniques": [
+      "[+1] Range"
+    ]
+  },
+  {
+    "name": "Lightning Charge",
+    "unitTypes": [
+      "轻骑",
+      "重骑",
+      "骑射"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+30]% Strength <vs [Wounded] units>"
+    ]
+  },
+  {
+    "name": "Skirmish Harassment",
+    "unitTypes": [
+      "轻骑",
+      "重骑",
+      "骑射"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+25]% Strength <vs [射手] units>",
+      "[+25]% Strength <vs [攻城] units>"
+    ]
+  },
+  {
+    "name": "Iron Hooves",
+    "unitTypes": [
+      "轻骑",
+      "重骑",
+      "骑射"
+    ],
+    "prerequisites": [
+      "Lightning Charge",
+      "Skirmish Harassment"
+    ],
+    "uniques": [
+      "Can move after attacking"
+    ]
+  },
+  {
+    "name": "Siege Crew",
+    "unitTypes": [
+      "攻城"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+15]% Strength <vs cities>"
+    ]
+  },
+  {
+    "name": "Suppression",
+    "unitTypes": [
+      "攻城"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <vs [步兵] units>",
+      "[+20]% Strength <vs [长柄] units>"
+    ]
+  },
+  {
+    "name": "Rangefinding",
+    "unitTypes": [
+      "攻城"
+    ],
+    "prerequisites": [
+      "Siege Crew",
+      "Suppression"
+    ],
+    "uniques": [
+      "[+1] Range"
+    ]
+  },
+  {
+    "name": "Arcane Focus",
+    "unitTypes": [
+      "术士",
+      "死灵"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+15]% Strength <when attacking>"
+    ]
+  },
+  {
+    "name": "Resonant Ward",
+    "unitTypes": [
+      "术士",
+      "死灵"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+10]% Strength <when defending>",
+      "[+1] Sight"
+    ]
+  },
+  {
+    "name": "Archmage",
+    "unitTypes": [
+      "术士",
+      "死灵"
+    ],
+    "prerequisites": [
+      "Arcane Focus",
+      "Resonant Ward"
+    ],
+    "uniques": [
+      "Ranged attacks may be performed over obstacles"
+    ]
+  },
+  {
+    "name": "Field Surgery",
+    "unitTypes": [
+      "医护"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+5] HP when healing"
+    ]
+  },
+  {
+    "name": "Revival Rite",
+    "unitTypes": [
+      "医护"
+    ],
+    "prerequisites": [
+      "Field Surgery"
+    ],
+    "uniques": [
+      "All adjacent units heal [5] HP when healing"
+    ]
+  },
+  {
+    "name": "Reinforced Plating",
+    "unitTypes": [
+      "构装"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+15]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "Self-Repair II",
+    "unitTypes": [
+      "构装"
+    ],
+    "prerequisites": [
+      "Field Repairs"
+    ],
+    "uniques": [
+      "[+5] HP when healing"
+    ]
+  },
+  {
+    "name": "Coordinated Action",
+    "unitTypes": [
+      "构装"
+    ],
+    "prerequisites": [
+      "Reinforced Plating",
+      "Self-Repair II"
+    ],
+    "uniques": [
+      "[+10]% Strength bonus for [{Land} {Military}] units within [2] tiles"
+    ]
+  },
+  {
+    "name": "High Altitude",
+    "unitTypes": [
+      "飞艇"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Range"
+    ]
+  },
+  {
+    "name": "Precision Bombing",
+    "unitTypes": [
+      "飞艇"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+25]% Strength <vs cities>"
+    ]
+  },
+  {
+    "name": "Evasive Maneuvers",
+    "unitTypes": [
+      "飞艇"
+    ],
+    "prerequisites": [
+      "High Altitude",
+      "Precision Bombing"
+    ],
+    "uniques": [
+      "Damage taken from interception reduced by [50]%"
+    ]
+  },
+  {
+    "name": "Airship Rearm",
+    "unitTypes": [
+      "飞艇"
+    ],
+    "prerequisites": [
+      "Evasive Maneuvers"
+    ],
+    "uniques": [
+      "Unit will heal every turn, even if it performs an action"
+    ]
+  },
+  {
+    "name": "Boarding Party",
+    "unitTypes": [
+      "海近战",
+      "海远程",
+      "潜艇",
+      "航母"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <vs [Water] units>"
+    ]
+  },
+  {
+    "name": "Gunnery",
+    "unitTypes": [
+      "海近战",
+      "海远程",
+      "潜艇",
+      "航母"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+20]% Strength <vs [Land] units>"
+    ]
+  },
+  {
+    "name": "Deep Sailing",
+    "unitTypes": [
+      "海近战",
+      "海远程",
+      "潜艇",
+      "航母"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "[+1] Movement"
+    ]
+  },
+  {
+    "name": "Armored Hull",
+    "unitTypes": [
+      "海近战",
+      "海远程",
+      "潜艇",
+      "航母"
+    ],
+    "prerequisites": [
+      "Boarding Party",
+      "Gunnery",
+      "Deep Sailing"
+    ],
+    "uniques": [
+      "[+25]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "Keen Eye",
+    "unitTypes": [
+      "侦察"
+    ],
+    "prerequisites": [
+      "Far Sight Training"
+    ],
+    "uniques": [
+      "[+1] Sight"
+    ]
+  },
+  {
+    "name": "Wilderness Survival",
+    "unitTypes": [
+      "侦察"
+    ],
+    "prerequisites": [],
+    "uniques": [
+      "May heal outside of friendly territory",
+      "[+5] HP when healing"
+    ]
   }
 ]
