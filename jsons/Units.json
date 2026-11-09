@@ -2747,6 +2747,7 @@
     "uniqueTo": "Dragon Lair",
     "uniques": [
       "Limited to [4] per Civilization",
+      "Can only attack [Military] units",
       "Never appears as a Barbarian unit"
     ]
   },
@@ -2790,6 +2791,7 @@
     "uniqueTo": "Giant Fortress",
     "uniques": [
       "Limited to [4] per Civilization",
+      "Can only attack [Military] units",
       "Never appears as a Barbarian unit"
     ]
   },
