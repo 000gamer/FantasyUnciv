@@ -236,8 +236,7 @@
     "requiredTech": "Experimental Science",
     "uniques": [
       "[+25]% [Science] [in this city]",
-      "Only available <in cities with a [School]>",
-      "Only available <in cities with a [College]>"
+      "Only available <in cities with a [School]>"
     ],
     "specialistSlots": {
       "Scientist": 1
@@ -336,18 +335,6 @@
     "specialistSlots": {
       "Artist": 1
     }
-  },
-  {
-    "name": "Urban Granary",
-    "cost": 360,
-    "maintenance": 3,
-    "requiredTech": "Industrial Chemistry",
-    "uniques": [
-      "Only available <in cities with a [Granary]>",
-      "Requires at least [9] population"
-    ],
-    "food": 5,
-    "specialistSlots": {}
   },
   {
     "name": "Great Factory",
@@ -481,19 +468,6 @@
     "cityHealth": 50
   },
   {
-    "name": "Waterworks Factory",
-    "cost": 300,
-    "maintenance": 3,
-    "requiredTech": "Mechanical Power",
-    "uniques": [
-      "[+15]% Production when constructing [All] buildings [in this city]",
-      "Only available <in cities with a [Workshop]>",
-      "Must be next to [River]"
-    ],
-    "production": 4,
-    "specialistSlots": {}
-  },
-  {
     "name": "Ecological Garden",
     "cost": 300,
     "maintenance": 3,
@@ -508,83 +482,6 @@
     "specialistSlots": {}
   },
   {
-    "name": "Exchange",
-    "cost": 310,
-    "maintenance": 3,
-    "requiredTech": "Commercial Corporations",
-    "uniques": [
-      "[+15]% [Gold] [in this city]",
-      "Only available <in cities with a [Bank]>"
-    ],
-    "gold": 3,
-    "specialistSlots": {
-      "Merchant": 1
-    }
-  },
-  {
-    "name": "Expedition Camp",
-    "cost": 290,
-    "maintenance": 2,
-    "requiredTech": "Advanced Metallurgy",
-    "uniques": [
-      "All newly-trained [{Land} {Military}] units [in this city] receive the [Amphibious Transport] promotion <Civilopedia link [Promotion/Amphibious Transport]>",
-      "Only available <in cities with a [Barracks]>",
-      "Must be next to [Coast]"
-    ],
-    "specialistSlots": {}
-  },
-  {
-    "name": "Defense Depot",
-    "cost": 280,
-    "maintenance": 2,
-    "requiredTech": "Diplomatic Envoys",
-    "uniques": [
-      "[2] Unit Supply",
-      "Only available <in cities with a [Barracks]>"
-    ],
-    "production": 1,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Museum of Civilizations",
-    "cost": 450,
-    "maintenance": 4,
-    "requiredTech": "Cultural Exchange",
-    "uniques": [
-      "[+10]% [Culture] [in this city]",
-      "Only available <in cities with a [Museum]>"
-    ],
-    "culture": 6,
-    "science": 2,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Military Factory",
-    "cost": 320,
-    "maintenance": 3,
-    "requiredTech": "Mechanized Warfare",
-    "uniques": [
-      "[+25]% Production when constructing [攻城] units [in this city]",
-      "[+25]% Production when constructing [构装] units [in this city]",
-      "Only available <in cities with a [Factory]>"
-    ],
-    "production": 2,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Public Square",
-    "cost": 330,
-    "maintenance": 3,
-    "requiredTech": "Commercial Corporations",
-    "uniques": [
-      "Only available <in cities with a [Civic Hall]>",
-      "Requires at least [9] population"
-    ],
-    "culture": 3,
-    "happiness": 3,
-    "specialistSlots": {}
-  },
-  {
     "name": "Memory Archive",
     "cost": 460,
     "maintenance": 4,
@@ -593,48 +490,6 @@
     "culture": 4,
     "science": 3,
     "specialistSlots": {}
-  },
-  {
-    "name": "Runeweaving Institute",
-    "cost": 220,
-    "maintenance": 3,
-    "requiredTech": "Runic Crafts",
-    "uniques": [
-      "Unsellable",
-      "Destroyed when the city is captured",
-      "Only available <in cities with a [Academy of Magic]>",
-      "Only available <in cities without a [Natural Institute]>",
-      "Only available <in cities without a [Arcane Institute]>"
-    ],
-    "science": 2,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Natural Institute",
-    "cost": 220,
-    "maintenance": 2,
-    "requiredTech": "Natural Philosophy",
-    "uniques": [
-      "Only available <in cities with a [Library]>"
-    ],
-    "happiness": 1,
-    "specialistSlots": {},
-    "science": 3
-  },
-  {
-    "name": "Medical College",
-    "cost": 240,
-    "maintenance": 2,
-    "requiredTech": "Medicine and Anatomy",
-    "uniques": [
-      "Only available <in cities with a [Infirmary]>"
-    ],
-    "specialistSlots": {
-      "Scientist": 1
-    },
-    "science": 2,
-    "food": 1,
-    "happiness": 1
   },
   {
     "name": "Arcane Barrier Station",
@@ -659,30 +514,6 @@
       "Only available <in cities with a [Academy of Magic]>"
     ],
     "science": 4,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Arcane Lodge",
-    "cost": 55,
-    "maintenance": 1,
-    "requiredTech": "Magic Records",
-    "uniques": [
-      "New [术士] units start with [+5] XP [in this city]",
-      "New [医护] units start with [+5] XP [in this city]",
-      "New [死灵] units start with [+5] XP [in this city]",
-      "New [幽魂] units start with [+5] XP [in this city]"
-    ],
-    "science": 1,
-    "specialistSlots": {}
-  },
-  {
-    "name": "School of Numbers",
-    "cost": 85,
-    "maintenance": 1,
-    "requiredTech": "Mathematics and Measurement",
-    "uniques": [],
-    "science": 1,
-    "production": 1,
     "specialistSlots": {}
   },
   {
@@ -1007,7 +838,7 @@
     "name": "Permanent Supply Depot",
     "cost": 230,
     "maintenance": 1,
-    "requiredTech": "Diplomatic Envoys",
+    "requiredTech": "Advanced Metallurgy",
     "uniques": [
       "[2] Unit Supply",
       "Only available <in cities with a [Barracks]>"
@@ -1016,7 +847,7 @@
     "culture": 1,
     "specialistSlots": {},
     "uniqueTo": "Bone Empire",
-    "replaces": "Defense Depot"
+    "replaces": "Military Academy"
   },
   {
     "name": "Palace",
@@ -1421,7 +1252,6 @@
       "[+1] Movement <for [{Water} {Military}] units>",
       "Destroyed when the city is captured",
       "Only available <in cities with a [Harbor]>",
-      "Only available <in cities with a [Expedition Camp]>",
       "Must be next to [Coast]"
     ],
     "isNationalWonder": true,
@@ -1635,18 +1465,6 @@
     "specialistSlots": {}
   },
   {
-    "name": "Religious School",
-    "cost": 130,
-    "maintenance": 1,
-    "requiredTech": "Religious Philosophy",
-    "uniques": [
-      "Only available <in cities with a [Temple]>"
-    ],
-    "science": 2,
-    "culture": 1,
-    "specialistSlots": {}
-  },
-  {
     "name": "Monastery",
     "cost": 150,
     "maintenance": 1,
@@ -1665,146 +1483,11 @@
     "maintenance": 2,
     "requiredTech": "Religious Philosophy",
     "uniques": [
-      "Only available <in cities with a [Religious School]>",
+      "Only available <in cities with a [Temple]>",
       "[+10]% [Faith] [in this city]"
     ],
     "faith": 2,
     "science": 3,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Herb Garden",
-    "cost": 60,
-    "maintenance": 1,
-    "requiredTech": "Herbalism",
-    "uniques": [],
-    "food": 1,
-    "happiness": 1,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Stonemason",
-    "cost": 110,
-    "maintenance": 1,
-    "requiredTech": "Stonework",
-    "uniques": [
-      "Only available <in cities with a [Workshop]>"
-    ],
-    "production": 2,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Stable",
-    "cost": 90,
-    "maintenance": 1,
-    "requiredTech": "Riding",
-    "uniques": [
-      "[+1 Production] from [Horses] tiles [in this city]"
-    ],
-    "production": 1,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Engineers Guild",
-    "cost": 180,
-    "maintenance": 2,
-    "requiredTech": "Mechanical Engineering",
-    "uniques": [
-      "[+1 Production] from every specialist [in this city]",
-      "Only available <in cities with a [Workshop]>"
-    ],
-    "production": 2,
-    "specialistSlots": {
-      "Engineer": 1
-    }
-  },
-  {
-    "name": "College",
-    "cost": 170,
-    "maintenance": 2,
-    "requiredTech": "Literature and Education",
-    "uniques": [
-      "Only available <in cities with a [School]>"
-    ],
-    "science": 3,
-    "specialistSlots": {
-      "Scientist": 1
-    }
-  },
-  {
-    "name": "Literary Society",
-    "cost": 150,
-    "maintenance": 2,
-    "requiredTech": "Literature and Education",
-    "uniques": [
-      "Only available <in cities with a [Library]>"
-    ],
-    "culture": 2,
-    "science": 1,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Envoy Hall",
-    "cost": 170,
-    "maintenance": 2,
-    "requiredTech": "Diplomatic Envoys",
-    "uniques": [
-      "Only available <in cities with a [Council Hall]>"
-    ],
-    "gold": 2,
-    "culture": 1,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Naval Academy",
-    "cost": 200,
-    "maintenance": 2,
-    "requiredTech": "Offshore Navigation",
-    "uniques": [
-      "New [{Water} {Military}] units start with [+10] XP [in this city]",
-      "Only available <in cities with a [Harbor]>",
-      "Must be next to [Coast]"
-    ],
-    "science": 2,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Chart Archive",
-    "cost": 220,
-    "maintenance": 2,
-    "requiredTech": "Ocean Surveying",
-    "uniques": [
-      "Only available <in cities with a [Harbor]>",
-      "Must be next to [Coast]"
-    ],
-    "science": 2,
-    "culture": 1,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Overseas Outpost",
-    "cost": 240,
-    "maintenance": 2,
-    "requiredTech": "Overseas Settlement",
-    "uniques": [
-      "Only available <in cities with a [Harbor]>",
-      "Must be next to [Coast]"
-    ],
-    "gold": 2,
-    "production": 1,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Marine Engineering Works",
-    "cost": 260,
-    "maintenance": 3,
-    "requiredTech": "Nautical Engineering",
-    "uniques": [
-      "[+15]% Production when constructing [{Water} {Military}] units [in this city]",
-      "Only available <in cities with a [Naval Arsenal]>",
-      "Must be next to [Coast]"
-    ],
-    "production": 3,
     "specialistSlots": {}
   },
   {
@@ -1843,51 +1526,6 @@
     "specialistSlots": {}
   },
   {
-    "name": "Alloy Workshop",
-    "cost": 300,
-    "maintenance": 3,
-    "requiredTech": "Advanced Metallurgy",
-    "uniques": [
-      "Only available <in cities with a [Foundry]>"
-    ],
-    "production": 3,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Chemical Workshop",
-    "cost": 290,
-    "maintenance": 3,
-    "requiredTech": "Chemical Arts",
-    "uniques": [
-      "Only available <in cities with a [Workshop]>"
-    ],
-    "production": 2,
-    "science": 1,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Magic Instrument Institute",
-    "cost": 320,
-    "maintenance": 3,
-    "requiredTech": "Magic Instruments",
-    "uniques": [
-      "Only available <in cities with a [Academy of Magic]>"
-    ],
-    "science": 4,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Steam Power Station",
-    "cost": 340,
-    "maintenance": 3,
-    "requiredTech": "Steam Power",
-    "uniques": [
-      "Only available <in cities with a [Workshop]>"
-    ],
-    "production": 4,
-    "specialistSlots": {}
-  },
-  {
     "name": "Factory",
     "cost": 380,
     "maintenance": 3,
@@ -1899,27 +1537,6 @@
     "specialistSlots": {
       "Engineer": 1
     }
-  },
-  {
-    "name": "Railway Station",
-    "cost": 360,
-    "maintenance": 3,
-    "requiredTech": "Railway Transport",
-    "uniques": [],
-    "gold": 2,
-    "production": 2,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Chemical Plant",
-    "cost": 380,
-    "maintenance": 4,
-    "requiredTech": "Industrial Chemistry",
-    "uniques": [
-      "Only available <in cities with a [Factory]>"
-    ],
-    "production": 4,
-    "specialistSlots": {}
   },
   {
     "name": "Hospital",
@@ -1944,18 +1561,6 @@
     "specialistSlots": {}
   },
   {
-    "name": "Engineering College",
-    "cost": 380,
-    "maintenance": 3,
-    "requiredTech": "Structural Engineering",
-    "uniques": [
-      "Only available <in cities with a [University]>"
-    ],
-    "production": 2,
-    "science": 3,
-    "specialistSlots": {}
-  },
-  {
     "name": "Magic Engineering Lab",
     "cost": 420,
     "maintenance": 4,
@@ -1976,26 +1581,6 @@
       "Only available <in cities with a [Magic Engineering Lab]>"
     ],
     "science": 5,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Magical Materials Plant",
-    "cost": 460,
-    "maintenance": 4,
-    "requiredTech": "Magical Materials Processing",
-    "uniques": [
-      "Only available <in cities with a [Factory]>"
-    ],
-    "production": 5,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Energy Conversion Station",
-    "cost": 480,
-    "maintenance": 4,
-    "requiredTech": "Magic Energy Conversion",
-    "uniques": [],
-    "production": 4,
     "specialistSlots": {}
   },
   {
@@ -2053,27 +1638,6 @@
     "specialistSlots": {}
   },
   {
-    "name": "Magitech Station",
-    "cost": 520,
-    "maintenance": 4,
-    "requiredTech": "Magitech Transport",
-    "uniques": [],
-    "gold": 3,
-    "production": 3,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Environmental Research Station",
-    "cost": 480,
-    "maintenance": 4,
-    "requiredTech": "Environmental Magitech",
-    "uniques": [],
-    "food": 3,
-    "science": 2,
-    "happiness": 1,
-    "specialistSlots": {}
-  },
-  {
     "name": "Advanced Materials Center",
     "cost": 560,
     "maintenance": 5,
@@ -2096,70 +1660,12 @@
     }
   },
   {
-    "name": "Intelligent Construct Factory",
-    "cost": 580,
-    "maintenance": 5,
-    "requiredTech": "Intelligent Constructs",
-    "uniques": [
-      "[+25]% Production when constructing [构装] units [in this city]",
-      "Only available <in cities with a [Construct Workshop]>"
-    ],
-    "production": 6,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Automation Factory",
-    "cost": 620,
-    "maintenance": 5,
-    "requiredTech": "Advanced Automation",
-    "uniques": [
-      "Only available <in cities with a [Factory]>"
-    ],
-    "production": 8,
-    "specialistSlots": {}
-  },
-  {
     "name": "Space Institute",
     "cost": 560,
     "maintenance": 5,
     "requiredTech": "Spatial Engineering",
     "uniques": [],
     "science": 6,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Advanced Life Medicine Center",
-    "cost": 600,
-    "maintenance": 5,
-    "requiredTech": "Advanced Life Medicine",
-    "uniques": [
-      "Only available <in cities with a [Magic Hospital]>"
-    ],
-    "food": 4,
-    "happiness": 3,
-    "science": 2,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Advanced Energy Research Center",
-    "cost": 620,
-    "maintenance": 5,
-    "requiredTech": "Advanced Energy Engineering",
-    "uniques": [],
-    "production": 5,
-    "science": 3,
-    "specialistSlots": {}
-  },
-  {
-    "name": "Great Magic Engineering Center",
-    "cost": 650,
-    "maintenance": 5,
-    "requiredTech": "Great Magic Engineering",
-    "uniques": [
-      "Only available <in cities with a [Magitech Institute]>"
-    ],
-    "science": 6,
-    "production": 4,
     "specialistSlots": {}
   },
   {
