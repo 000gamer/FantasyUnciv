@@ -733,8 +733,7 @@
     "name": "Sunken Bell Reef",
     "type": "NaturalWonder",
     "occursOn": [
-      "Coast",
-      "Ocean"
+      "Coast"
     ],
     "turnsInto": "Coast",
     "weight": 10,
@@ -772,5 +771,33 @@
     ],
     "science": 3,
     "culture": 2
+  },
+  {
+    "name": "Whalefall Trench",
+    "type": "NaturalWonder",
+    "occursOn": [
+      "Ocean"
+    ],
+    "turnsInto": "Coast",
+    "weight": 10,
+    "uniques": [
+      "Grants [+120 Gold] to the first civilization to discover it"
+    ],
+    "food": 3,
+    "production": 2
+  },
+  {
+    "name": "Abyssal Vortex",
+    "type": "NaturalWonder",
+    "occursOn": [
+      "Ocean"
+    ],
+    "turnsInto": "Coast",
+    "weight": 10,
+    "uniques": [
+      "Grants [+100 Faith] to the first civilization to discover it"
+    ],
+    "science": 3,
+    "faith": 2
   }
 ]
