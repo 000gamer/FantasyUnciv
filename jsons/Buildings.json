@@ -1390,7 +1390,7 @@
   },
   {
     "name": "Artificers Council",
-    "requiredTech": "Magic Engineering",
+    "requiredTech": "Environmental Magitech",
     "cost": 600,
     "maintenance": 0,
     "uniques": [
@@ -1517,7 +1517,7 @@
     "name": "Laboratory",
     "cost": 300,
     "maintenance": 2,
-    "requiredTech": "Experimental Science",
+    "requiredTech": "Chemical Arts",
     "uniques": [
       "Only available <in cities with a [Library]>",
       "[+50]% [Science] [in this city]"
@@ -1965,6 +1965,19 @@
       "Only available <in cities with a [Palace]>",
       "Destroyed when the city is captured"
     ],
+    "specialistSlots": {}
+  },
+  {
+    "name": "Advanced Life Medicine Center",
+    "cost": 700,
+    "maintenance": 3,
+    "requiredTech": "Advanced Life Medicine",
+    "uniques": [
+      "Only available <in cities with a [Magic Hospital]>"
+    ],
+    "food": 3,
+    "happiness": 3,
+    "science": 3,
     "specialistSlots": {}
   }
 ]

@@ -184,7 +184,7 @@
     ],
     "requiredTech": "Mass Manufacturing",
     "upgradesTo": "Night Watch Guards",
-    "obsoleteTech": "Magitech Power Systems"
+    "obsoleteTech": "Magical Materials Processing"
   },
   {
     "name": "Archers",
@@ -216,7 +216,7 @@
     ],
     "requiredTech": "Mechanical Engineering",
     "upgradesTo": "Windlass Crossbowmen",
-    "obsoleteTech": "Precision Manufacturing"
+    "obsoleteTech": "Mechanical Power"
   },
   {
     "name": "Windlass Crossbowmen",
@@ -230,7 +230,7 @@
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Precision Manufacturing",
+    "requiredTech": "Mechanical Power",
     "upgradesTo": "Arquebusiers",
     "obsoleteTech": "Industrial Chemistry"
   },
@@ -266,7 +266,7 @@
     ],
     "requiredTech": "Riding",
     "upgradesTo": "Rangers",
-    "obsoleteTech": "Steel Forging"
+    "obsoleteTech": "Natural Philosophy"
   },
   {
     "name": "Rangers",
@@ -283,9 +283,9 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Horses]"
     ],
-    "requiredTech": "Steel Forging",
+    "requiredTech": "Natural Philosophy",
     "upgradesTo": "Windriders",
-    "obsoleteTech": "Mechanized Warfare"
+    "obsoleteTech": "Railway Transport"
   },
   {
     "name": "Windriders",
@@ -302,7 +302,7 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Horses]"
     ],
-    "requiredTech": "Mechanized Warfare",
+    "requiredTech": "Railway Transport",
     "upgradesTo": "Magitech Assault Riders",
     "obsoleteTech": "Magitech Transport"
   },
@@ -324,7 +324,7 @@
     ],
     "requiredTech": "Steel Forging",
     "upgradesTo": "Royal Cavalry",
-    "obsoleteTech": "Mechanized Warfare"
+    "obsoleteTech": "Railway Transport"
   },
   {
     "name": "Royal Cavalry",
@@ -342,7 +342,7 @@
       "Consumes [1] [Iron]",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Mechanized Warfare",
+    "requiredTech": "Railway Transport",
     "upgradesTo": "Construct Cavalry",
     "obsoleteTech": "Intelligent Constructs"
   },
@@ -362,7 +362,7 @@
     ],
     "requiredTech": "Mechanical Engineering",
     "upgradesTo": "Heavy Ballistae",
-    "obsoleteTech": "Precision Manufacturing"
+    "obsoleteTech": "Mechanical Power"
   },
   {
     "name": "Heavy Ballistae",
@@ -378,7 +378,7 @@
       "[+100]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Precision Manufacturing",
+    "requiredTech": "Mechanical Power",
     "upgradesTo": "Field Cannons",
     "obsoleteTech": "Industrial Chemistry"
   },
@@ -569,7 +569,7 @@
       "[+25]% maintenance costs",
       "[This Unit] gains the [Crystal Ward] status for [2] turn(s) <for all movement> <for units without [Crystal Ward]>"
     ],
-    "requiredTech": "Magic Engineering",
+    "requiredTech": "Environmental Magitech",
     "upgradesTo": "Boundary Mages",
     "obsoleteTech": "Arcane Defense Systems"
   },
@@ -748,7 +748,7 @@
     ],
     "requiredTech": "Riding",
     "upgradesTo": "Windstring Horse Archers",
-    "obsoleteTech": "Steel Forging"
+    "obsoleteTech": "Diplomatic Envoys"
   },
   {
     "name": "Windstring Horse Archers",
@@ -764,9 +764,9 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Horses]"
     ],
-    "requiredTech": "Steel Forging",
+    "requiredTech": "Diplomatic Envoys",
     "upgradesTo": "Skyline Horse Archers",
-    "obsoleteTech": "Mechanized Warfare"
+    "obsoleteTech": "Railway Transport"
   },
   {
     "name": "Skyline Horse Archers",
@@ -782,7 +782,7 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Horses]"
     ],
-    "requiredTech": "Mechanized Warfare"
+    "requiredTech": "Railway Transport"
   },
   {
     "name": "Ocean Supply Ship",
@@ -831,9 +831,9 @@
       "Never appears as a Barbarian unit",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "Steel Forging",
+    "requiredTech": "Natural Philosophy",
     "upgradesTo": "Armored Warbeasts",
-    "obsoleteTech": "Mechanized Warfare"
+    "obsoleteTech": "Railway Transport"
   },
   {
     "name": "Armored Warbeasts",
@@ -849,7 +849,7 @@
       "Never appears as a Barbarian unit",
       "[+50]% maintenance costs"
     ],
-    "requiredTech": "Mechanized Warfare"
+    "requiredTech": "Railway Transport"
   },
   {
     "name": "Necromancers",
@@ -959,7 +959,7 @@
       "[+15]% Strength <when defending> <in [Friendly Land] tiles>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Steel Forging",
+    "requiredTech": "Guilds",
     "upgradesTo": "Halberdiers",
     "obsoleteTech": "Runic Crafts",
     "uniqueTo": "Mercantile Republic",
@@ -999,7 +999,7 @@
       "[+20]% Strength <when fighting in [Forest] tiles>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Military Organization",
+    "requiredTech": "Magic Records",
     "upgradesTo": "Crossbowmen",
     "obsoleteTech": "Mechanical Engineering",
     "uniqueTo": "Forest Elves",
@@ -1020,7 +1020,7 @@
     ],
     "requiredTech": "Medicine and Anatomy",
     "upgradesTo": "Elder Tree Guards",
-    "obsoleteTech": "Ecological Engineering",
+    "obsoleteTech": "Advanced Life Medicine",
     "uniqueTo": "Forest Elves"
   },
   {
@@ -1036,7 +1036,7 @@
       "[+20]% Strength <when fighting in [Forest] tiles>",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Mechanized Warfare",
+    "requiredTech": "Structural Engineering",
     "uniqueTo": "Forest Elves",
     "replaces": "Riflemen",
     "upgradesTo": "Rune Riflemen",
@@ -1163,7 +1163,7 @@
     "upgradesTo": "Rangers",
     "uniqueTo": "Nomadic Orcs",
     "replaces": "Light Cavalry",
-    "obsoleteTech": "Steel Forging"
+    "obsoleteTech": "Natural Philosophy"
   },
   {
     "name": "Steppe Horse Archers",
@@ -1180,9 +1180,9 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Horses]"
     ],
-    "requiredTech": "Steel Forging",
+    "requiredTech": "Diplomatic Envoys",
     "upgradesTo": "Skyline Horse Archers",
-    "obsoleteTech": "Mechanized Warfare",
+    "obsoleteTech": "Railway Transport",
     "uniqueTo": "Nomadic Orcs",
     "replaces": "Windstring Horse Archers"
   },
@@ -1201,7 +1201,7 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Horses]"
     ],
-    "requiredTech": "Mechanized Warfare",
+    "requiredTech": "Railway Transport",
     "uniqueTo": "Nomadic Orcs",
     "replaces": "Windriders"
   },
@@ -1240,7 +1240,7 @@
     ],
     "requiredTech": "Mechanical Engineering",
     "upgradesTo": "Heavy Ballistae",
-    "obsoleteTech": "Precision Manufacturing",
+    "obsoleteTech": "Mechanical Power",
     "uniqueTo": "Orc Empire",
     "replaces": "Catapults"
   },
@@ -1261,7 +1261,7 @@
     ],
     "requiredTech": "Industrial Chemistry",
     "upgradesTo": "Magitech Cannons",
-    "obsoleteTech": "Magic Engineering",
+    "obsoleteTech": "Magical Materials Processing",
     "uniqueTo": "Industrial Goblins",
     "replaces": "Field Cannons"
   },
@@ -1318,9 +1318,9 @@
       "No defensive terrain bonus",
       "Never appears as a Barbarian unit"
     ],
-    "requiredTech": "Mechanical Engineering",
+    "requiredTech": "Guilds",
     "upgradesTo": "Windlass Crossbowmen",
-    "obsoleteTech": "Precision Manufacturing",
+    "obsoleteTech": "Mechanical Power",
     "uniqueTo": "Explorers Guild",
     "replaces": "Crossbowmen",
     "hurryCostModifier": -20
@@ -1433,7 +1433,7 @@
       "Never appears as a Barbarian unit",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Ecological Engineering",
+    "requiredTech": "Advanced Life Medicine",
     "uniqueTo": "Forest Elves"
   },
   {
@@ -1720,7 +1720,7 @@
       "No defensive terrain bonus",
       "Only available <for [Barbarians] Civilizations>"
     ],
-    "requiredTech": "Military Organization",
+    "requiredTech": "Magic Records",
     "obsoleteTech": "Military Organization"
   },
   {
@@ -1736,7 +1736,7 @@
       "No defensive terrain bonus",
       "[-25]% Strength <when attacking> <vs cities>"
     ],
-    "requiredTech": "Steel Forging",
+    "requiredTech": "Natural Philosophy",
     "obsoleteTech": "Precision Manufacturing"
   },
   {
@@ -1782,7 +1782,7 @@
       "No defensive terrain bonus",
       "[+15]% Strength <when attacking>"
     ],
-    "requiredTech": "Precision Manufacturing"
+    "requiredTech": "Chemical Arts"
   },
   {
     "name": "Bay Serpent",
@@ -1864,7 +1864,7 @@
       "No defensive terrain bonus",
       "Only available <for [Barbarians] Civilizations>"
     ],
-    "requiredTech": "Military Organization"
+    "requiredTech": "Magic Records"
   },
   {
     "name": "Tidal Jellyfish Swarm",
@@ -2075,7 +2075,7 @@
     ],
     "requiredTech": "Industrial Chemistry",
     "upgradesTo": "Magitech Cannons",
-    "obsoleteTech": "Magic Engineering"
+    "obsoleteTech": "Magical Materials Processing"
   },
   {
     "name": "Magitech Cannons",
@@ -2092,7 +2092,7 @@
       "Never appears as a Barbarian unit",
       "Consumes [1] [Magic Crystals]"
     ],
-    "requiredTech": "Magic Engineering",
+    "requiredTech": "Magical Materials Processing",
     "upgradesTo": "Grand Magitech Cannons",
     "obsoleteTech": "Advanced Material Synthesis"
   },
@@ -2155,7 +2155,7 @@
     ],
     "requiredTech": "Magic Instruments",
     "upgradesTo": "Shaping Mages",
-    "obsoleteTech": "Magic Engineering"
+    "obsoleteTech": "Environmental Magitech"
   },
   {
     "name": "Construct Sappers",
@@ -2597,7 +2597,7 @@
       "Never appears as a Barbarian unit",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Spatial Engineering",
+    "requiredTech": "Advanced Energy Engineering",
     "interceptRange": 6
   },
   {
@@ -2686,7 +2686,7 @@
       "Never appears as a Barbarian unit",
       "[+25]% maintenance costs"
     ],
-    "requiredTech": "Magitech Power Systems"
+    "requiredTech": "Magical Materials Processing"
   },
   {
     "name": "Magitech Sniper",

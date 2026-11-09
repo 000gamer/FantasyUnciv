@@ -149,14 +149,14 @@
     "turnsToBuild": 5,
     "uniques": [],
     "shortcutKey": "X",
-    "techRequired": "Mechanical Engineering"
+    "techRequired": "Natural Philosophy"
   },
   {
     "name": "Remove Marsh",
     "turnsToBuild": 5,
     "uniques": [],
     "shortcutKey": "X",
-    "techRequired": "Mechanical Engineering"
+    "techRequired": "Natural Philosophy"
   },
   {
     "name": "Railroad",
@@ -176,7 +176,7 @@
         "text": "Provides a +25% [Production] bonus to cities connected to the capital by Railroads"
       }
     ],
-    "techRequired": "Advanced Material Synthesis"
+    "techRequired": "Railway Transport"
   },
   {
     "name": "Academy",
