@@ -1338,6 +1338,7 @@
   },
   {
     "name": "Utopia Project",
+    "requiredTech": "Magical Communication",
     "cost": 1800,
     "maintenance": 0,
     "uniques": [
