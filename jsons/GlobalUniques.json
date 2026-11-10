@@ -9,7 +9,7 @@
     "Cannot build [Settler] units <when below [-10] [Happiness]>",
     "Rebel units may spawn <when below [-20] [Happiness]>",
     "[-1] Sight <for [Embarked] units>",
-    "[-35]% Culture cost of adopting new Policies",
+    "[-20]% Culture cost of adopting new Policies",
     "Triggers a [The Bell Beneath the Reef] event <upon discovering a [Sunken Bell Reef] tile>",
     "Triggers a [The Fleet That Did Not Return] event <upon discovering a [Drowned Fleet Graveyard] tile>",
     "Triggers a [The City Below the Dark] event <upon discovering a [Abyssal Ancient City] tile>",

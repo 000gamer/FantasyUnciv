@@ -215,6 +215,22 @@
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Mechanical Engineering",
+    "upgradesTo": "Arbalesters",
+    "obsoleteTech": "Public Engineering"
+  },
+  {
+    "name": "Arbalesters",
+    "unitType": "射手",
+    "strength": 14,
+    "rangedStrength": 28,
+    "range": 2,
+    "movement": 2,
+    "cost": 125,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "Public Engineering",
     "upgradesTo": "Windlass Crossbowmen",
     "obsoleteTech": "Mechanical Power"
   },
@@ -237,8 +253,8 @@
   {
     "name": "Riflemen",
     "unitType": "射手",
-    "strength": 42,
-    "rangedStrength": 80,
+    "strength": 34,
+    "rangedStrength": 62,
     "range": 2,
     "movement": 2,
     "cost": 270,
@@ -284,6 +300,25 @@
       "Consumes [1] [Horses]"
     ],
     "requiredTech": "Natural Philosophy",
+    "upgradesTo": "Hussars",
+    "obsoleteTech": "Chemical Arts"
+  },
+  {
+    "name": "Hussars",
+    "unitType": "轻骑",
+    "strength": 42,
+    "rangedStrength": 0,
+    "range": 0,
+    "movement": 4,
+    "cost": 175,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Can move after attacking",
+      "[+1] Sight",
+      "Never appears as a Barbarian unit",
+      "Consumes [1] [Horses]"
+    ],
+    "requiredTech": "Chemical Arts",
     "upgradesTo": "Windriders",
     "obsoleteTech": "Railway Transport"
   },
@@ -361,6 +396,24 @@
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Mechanical Engineering",
+    "upgradesTo": "Trebuchets",
+    "obsoleteTech": "Standing Army"
+  },
+  {
+    "name": "Trebuchets",
+    "unitType": "攻城",
+    "strength": 16,
+    "rangedStrength": 34,
+    "range": 2,
+    "movement": 2,
+    "cost": 155,
+    "uniques": [
+      "No defensive terrain bonus",
+      "Must set up to ranged attack",
+      "[+100]% Strength <when attacking> <vs cities>",
+      "Never appears as a Barbarian unit"
+    ],
+    "requiredTech": "Standing Army",
     "upgradesTo": "Heavy Ballistae",
     "obsoleteTech": "Mechanical Power"
   },
@@ -385,15 +438,15 @@
   {
     "name": "Grand Magitech Cannons",
     "unitType": "攻城",
-    "strength": 80,
-    "rangedStrength": 170,
+    "strength": 60,
+    "rangedStrength": 135,
     "range": 2,
     "movement": 2,
     "cost": 420,
     "uniques": [
       "No defensive terrain bonus",
       "Must set up to ranged attack",
-      "[+100]% Strength <when attacking> <vs cities>",
+      "[+50]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Advanced Material Synthesis"
@@ -528,8 +581,8 @@
   {
     "name": "Evokers",
     "unitType": "术士",
-    "strength": 5,
-    "rangedStrength": 13,
+    "strength": 6,
+    "rangedStrength": 16,
     "range": 2,
     "movement": 2,
     "cost": 70,
@@ -651,7 +704,7 @@
   {
     "name": "Construct Guards",
     "unitType": "构装",
-    "strength": 69,
+    "strength": 85,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -660,9 +713,7 @@
       "No defensive terrain bonus",
       "[+10]% Strength <when defending>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [Iron]",
-      "Consumes [1] [Magic Crystals]",
-      "[+50]% maintenance costs"
+      "Consumes [1] [Magic Crystals]"
     ],
     "requiredTech": "Construct Engineering",
     "upgradesTo": "Heavy Construct Guards",
@@ -671,7 +722,7 @@
   {
     "name": "Heavy Construct Guards",
     "unitType": "构装",
-    "strength": 105,
+    "strength": 120,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -681,8 +732,7 @@
       "[+10]% Strength <when defending>",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Mithril]",
-      "Consumes [1] [Magic Crystals]",
-      "[+50]% maintenance costs"
+      "Consumes [1] [Magic Crystals]"
     ],
     "requiredTech": "Intelligent Constructs"
   },
@@ -822,7 +872,7 @@
   {
     "name": "Trained Warbeasts",
     "unitType": "野兽",
-    "strength": 34,
+    "strength": 28,
     "rangedStrength": 0,
     "range": 0,
     "movement": 3,
@@ -1028,8 +1078,8 @@
   {
     "name": "Moonbranch Archers",
     "unitType": "射手",
-    "strength": 42,
-    "rangedStrength": 82,
+    "strength": 35,
+    "rangedStrength": 64,
     "range": 2,
     "movement": 2,
     "cost": 300,
@@ -1129,7 +1179,7 @@
   {
     "name": "Precision Construct Guards",
     "unitType": "构装",
-    "strength": 109,
+    "strength": 125,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -1140,8 +1190,7 @@
       "[+5] HP when healing",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Mithril]",
-      "Consumes [1] [Magic Crystals]",
-      "[+50]% maintenance costs"
+      "Consumes [1] [Magic Crystals]"
     ],
     "requiredTech": "Intelligent Constructs",
     "uniqueTo": "Artificer Dwarves",
@@ -1240,23 +1289,23 @@
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Mechanical Engineering",
-    "upgradesTo": "Heavy Ballistae",
-    "obsoleteTech": "Mechanical Power",
+    "upgradesTo": "Trebuchets",
+    "obsoleteTech": "Standing Army",
     "uniqueTo": "Orc Empire",
     "replaces": "Catapults"
   },
   {
     "name": "Gear Cannon",
     "unitType": "攻城",
-    "strength": 24,
-    "rangedStrength": 54,
+    "strength": 21,
+    "rangedStrength": 46,
     "range": 2,
     "movement": 2,
     "cost": 225,
     "uniques": [
       "No defensive terrain bonus",
       "Must set up to ranged attack",
-      "[+100]% Strength <when attacking> <vs cities>",
+      "[+50]% Strength <when attacking> <vs cities>",
       "[+25]% Strength <vs [构装] units>",
       "Never appears as a Barbarian unit"
     ],
@@ -1269,7 +1318,7 @@
   {
     "name": "War Golems",
     "unitType": "构装",
-    "strength": 74,
+    "strength": 90,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -1279,9 +1328,7 @@
       "[+10]% Strength <when defending>",
       "[+15]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [Iron]",
-      "Consumes [1] [Magic Crystals]",
-      "[+50]% maintenance costs"
+      "Consumes [1] [Magic Crystals]"
     ],
     "requiredTech": "Construct Engineering",
     "upgradesTo": "Heavy Construct Guards",
@@ -1320,8 +1367,8 @@
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Guilds",
-    "upgradesTo": "Windlass Crossbowmen",
-    "obsoleteTech": "Mechanical Power",
+    "upgradesTo": "Arbalesters",
+    "obsoleteTech": "Public Engineering",
     "uniqueTo": "Explorers Guild",
     "replaces": "Crossbowmen",
     "hurryCostModifier": -20
@@ -1993,8 +2040,8 @@
   {
     "name": "Arquebusiers",
     "unitType": "射手",
-    "strength": 30,
-    "rangedStrength": 60,
+    "strength": 25,
+    "rangedStrength": 45,
     "range": 2,
     "movement": 2,
     "cost": 215,
@@ -2009,14 +2056,13 @@
   {
     "name": "Machine Gun Crews",
     "unitType": "射手",
-    "strength": 40,
-    "rangedStrength": 72,
+    "strength": 38,
+    "rangedStrength": 70,
     "range": 2,
     "movement": 2,
     "cost": 275,
     "uniques": [
       "No defensive terrain bonus",
-      "Must set up to ranged attack",
       "[+30]% Strength <vs [步兵] units>",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Coal]"
@@ -2026,8 +2072,8 @@
   {
     "name": "Rune Riflemen",
     "unitType": "射手",
-    "strength": 56,
-    "rangedStrength": 108,
+    "strength": 38,
+    "rangedStrength": 68,
     "range": 2,
     "movement": 2,
     "cost": 345,
@@ -2044,8 +2090,8 @@
   {
     "name": "Magitech Marksmen",
     "unitType": "射手",
-    "strength": 85,
-    "rangedStrength": 160,
+    "strength": 47,
+    "rangedStrength": 85,
     "range": 2,
     "movement": 2,
     "cost": 405,
@@ -2062,15 +2108,15 @@
   {
     "name": "Field Cannons",
     "unitType": "攻城",
-    "strength": 35,
-    "rangedStrength": 80,
+    "strength": 30,
+    "rangedStrength": 68,
     "range": 2,
     "movement": 2,
     "cost": 260,
     "uniques": [
       "No defensive terrain bonus",
       "Must set up to ranged attack",
-      "[+100]% Strength <when attacking> <vs cities>",
+      "[+50]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit"
     ],
     "requiredTech": "Industrial Chemistry",
@@ -2080,15 +2126,15 @@
   {
     "name": "Magitech Cannons",
     "unitType": "攻城",
-    "strength": 55,
-    "rangedStrength": 120,
+    "strength": 42,
+    "rangedStrength": 95,
     "range": 2,
     "movement": 2,
     "cost": 340,
     "uniques": [
       "No defensive terrain bonus",
       "Must set up to ranged attack",
-      "[+100]% Strength <when attacking> <vs cities>",
+      "[+50]% Strength <when attacking> <vs cities>",
       "Never appears as a Barbarian unit",
       "Consumes [1] [Magic Crystals]"
     ],
@@ -2136,8 +2182,8 @@
   {
     "name": "Instrument Mages",
     "unitType": "术士",
-    "strength": 14,
-    "rangedStrength": 32,
+    "strength": 15,
+    "rangedStrength": 35,
     "range": 2,
     "movement": 2,
     "cost": 130,
@@ -2176,7 +2222,7 @@
   {
     "name": "Guardian Constructs",
     "unitType": "构装",
-    "strength": 85,
+    "strength": 98,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -2186,9 +2232,7 @@
       "[+10]% Strength <when defending>",
       "[+10]% Strength bonus for [{Land} {Military}] units within [2] tiles",
       "Never appears as a Barbarian unit",
-      "Consumes [1] [Iron]",
       "Consumes [1] [Magic Crystals]",
-      "[+50]% maintenance costs",
       "Only available <after discovering [Construct Engineering]>"
     ],
     "requiredTech": "Arcane Defense Systems",
@@ -2530,8 +2574,8 @@
   {
     "name": "Artificer Arquebusiers",
     "unitType": "射手",
-    "strength": 32,
-    "rangedStrength": 65,
+    "strength": 27,
+    "rangedStrength": 49,
     "range": 2,
     "movement": 2,
     "cost": 235,
@@ -2696,8 +2740,8 @@
   {
     "name": "Magitech Sniper",
     "unitType": "射手",
-    "strength": 70,
-    "rangedStrength": 190,
+    "strength": 45,
+    "rangedStrength": 100,
     "range": 3,
     "movement": 2,
     "cost": 450,
@@ -2712,7 +2756,7 @@
   {
     "name": "Space Guard",
     "unitType": "构装",
-    "strength": 125,
+    "strength": 135,
     "rangedStrength": 0,
     "range": 0,
     "movement": 2,
@@ -2760,7 +2804,7 @@
   {
     "name": "Dragonscale Halberd",
     "unitType": "长柄",
-    "strength": 95,
+    "strength": 55,
     "movement": 2,
     "cost": 300,
     "uniques": [
@@ -2771,7 +2815,11 @@
       "[+30]% Strength <vs [重骑] units>",
       "[+30]% Strength <vs [骑射] units>",
       "[+30]% Strength <vs [野兽] units>",
-      "Never appears as a Barbarian unit"
+      "Never appears as a Barbarian unit",
+      "[+27]% Strength <starting from the [V]>",
+      "[+55]% Strength <starting from the [VI]>",
+      "[+36]% Strength <starting from the [VII]>",
+      "[+82]% Strength <starting from the [VIII]>"
     ]
   },
   {
@@ -2804,7 +2852,7 @@
   {
     "name": "Giant Hammer",
     "unitType": "重步兵",
-    "strength": 95,
+    "strength": 55,
     "movement": 2,
     "cost": 300,
     "uniques": [
@@ -2812,7 +2860,11 @@
       "Only available <for [Major] Civilizations>",
       "Only available <in cities with a [Giant Workshop]>",
       "[+25]% Strength <vs cities>",
-      "Never appears as a Barbarian unit"
+      "Never appears as a Barbarian unit",
+      "[+27]% Strength <starting from the [V]>",
+      "[+55]% Strength <starting from the [VI]>",
+      "[+36]% Strength <starting from the [VII]>",
+      "[+82]% Strength <starting from the [VIII]>"
     ]
   }
 ]
