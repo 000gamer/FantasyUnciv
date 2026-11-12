@@ -2,6 +2,8 @@
 
 ### 在魔法与钢铁交织的世界，建立你的文明！
 
+![FantasyUnciv](preview.png)
+
 [English](README.md) · **版本 2.0**
 
 **FantasyUnciv** 是 Unciv 的完整奇幻规则模组：全新的世界、机制、文明、科技、单位、建筑和奇观！

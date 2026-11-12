@@ -2,6 +2,8 @@
 
 ### Build your civilization in a world of magic and steel!
 
+![FantasyUnciv](preview.png)
+
 [简体中文](README.zh-CN.md) · **Version 2.0**
 
 **FantasyUnciv** is a complete fantasy ruleset mod for Unciv: a new world, mechanics, civilizations, technologies, units, buildings and wonders!
