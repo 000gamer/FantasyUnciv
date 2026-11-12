@@ -28,20 +28,58 @@
         "separator": true
       },
       {
-        "text": "FC Intro realm header",
+        "text": "FC Intro world header",
         "header": 3
       },
       {
-        "text": "FC Intro realm lead",
+        "text": "FC Intro world lead",
         "color": "#E8C46A"
       },
       {
-        "text": "FC Intro realm text"
+        "text": "FC Intro world text"
+      },
+      {
+        "text": "FC Intro world text 2",
+        "padding": 6
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "FC Intro balance header",
+        "header": 3
+      },
+      {
+        "text": "FC Intro balance lead",
+        "color": "#E8C46A"
+      },
+      {
+        "text": "FC Intro balance text"
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "FC Intro city-states header",
+        "header": 3
+      },
+      {
+        "text": "FC Intro city-states lead",
+        "color": "#E8C46A"
+      },
+      {
+        "text": "FC Intro city-states text"
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "FC Intro sea header",
+        "header": 3
       },
       {
         "text": "FC Intro sea lead",
-        "color": "#E8C46A",
-        "padding": 8
+        "color": "#E8C46A"
       },
       {
         "text": "FC Intro sea text"
@@ -50,19 +88,29 @@
         "separator": true
       },
       {
-        "text": "FC Intro magic header",
+        "text": "FC Intro heroes header",
         "header": 3
       },
       {
-        "text": "FC Intro magic lead",
+        "text": "FC Intro heroes lead",
         "color": "#E8C46A"
       },
       {
-        "text": "FC Intro magic text"
+        "text": "FC Intro heroes text"
       },
       {
-        "text": "FC Intro paths text",
-        "padding": 8
+        "separator": true
+      },
+      {
+        "text": "FC Intro bosses header",
+        "header": 3
+      },
+      {
+        "text": "FC Intro bosses lead",
+        "color": "#E8C46A"
+      },
+      {
+        "text": "FC Intro bosses text"
       },
       {
         "separator": true
@@ -79,27 +127,9 @@
         "text": "FC Intro ruins text"
       },
       {
-        "text": "FC Intro ruins text 2",
-        "padding": 8
-      },
-      {
         "text": "FC Ruins encounters",
         "link": "Tutorial/FC Ruins encounters",
         "padding": 6
-      },
-      {
-        "separator": true
-      },
-      {
-        "text": "FC Intro city-states header",
-        "header": 3
-      },
-      {
-        "text": "FC Intro city-states lead",
-        "color": "#E8C46A"
-      },
-      {
-        "text": "FC Intro city-states text"
       },
       {
         "separator": true
@@ -456,13 +486,6 @@
         "color": "#B8C5D6"
       },
       {
-        "text": "FC Encounter The Old Root Covenant-B Requirements line 3",
-        "indent": 1,
-        "size": 18,
-        "padding": 4,
-        "color": "#B8C5D6"
-      },
-      {
         "text": "FC Encounter The Old Root Covenant-B result",
         "indent": 1,
         "size": 20,
@@ -800,6 +823,268 @@
         "indent": 0,
         "size": 20,
         "padding": 6
+      },
+      {},
+      {
+        "separator": true
+      },
+      {
+        "text": "FC Sea events header",
+        "header": 2,
+        "color": "#F0CE83",
+        "padding": 10
+      },
+      {},
+      {
+        "text": "The Bell Beneath the Reef",
+        "header": 3,
+        "color": "#F0CE83",
+        "padding": 10
+      },
+      {
+        "text": "FC Sea event The Bell Beneath the Reef trigger",
+        "indent": 0,
+        "size": 18,
+        "padding": 4,
+        "color": "#B8C5D6"
+      },
+      {},
+      {
+        "text": "The Bell Beneath the Reef Paragraph 1",
+        "indent": 0,
+        "size": 18,
+        "padding": 6,
+        "color": "#B8C5D6"
+      },
+      {
+        "text": "The Bell Beneath the Reef Paragraph 2",
+        "indent": 0,
+        "size": 18,
+        "padding": 6,
+        "color": "#B8C5D6"
+      },
+      {},
+      {
+        "text": "The Bell Beneath the Reef-A",
+        "header": 5,
+        "color": "#A6D4F5",
+        "padding": 10
+      },
+      {
+        "text": "The Bell Beneath the Reef-B",
+        "header": 5,
+        "color": "#A6D4F5",
+        "padding": 10
+      },
+      {
+        "text": "The Bell Beneath the Reef-C",
+        "header": 5,
+        "color": "#A6D4F5",
+        "padding": 10
+      },
+      {},
+      {
+        "separator": true
+      },
+      {
+        "text": "The Fleet That Did Not Return",
+        "header": 3,
+        "color": "#F0CE83",
+        "padding": 10
+      },
+      {
+        "text": "FC Sea event The Fleet That Did Not Return trigger",
+        "indent": 0,
+        "size": 18,
+        "padding": 4,
+        "color": "#B8C5D6"
+      },
+      {},
+      {
+        "text": "The Fleet That Did Not Return Paragraph 1",
+        "indent": 0,
+        "size": 18,
+        "padding": 6,
+        "color": "#B8C5D6"
+      },
+      {
+        "text": "The Fleet That Did Not Return Paragraph 2",
+        "indent": 0,
+        "size": 18,
+        "padding": 6,
+        "color": "#B8C5D6"
+      },
+      {},
+      {
+        "text": "The Fleet That Did Not Return-A",
+        "header": 5,
+        "color": "#A6D4F5",
+        "padding": 10
+      },
+      {
+        "text": "The Fleet That Did Not Return-B",
+        "header": 5,
+        "color": "#A6D4F5",
+        "padding": 10
+      },
+      {
+        "text": "The Fleet That Did Not Return-C",
+        "header": 5,
+        "color": "#A6D4F5",
+        "padding": 10
+      },
+      {},
+      {
+        "separator": true
+      },
+      {
+        "text": "The City Below the Dark",
+        "header": 3,
+        "color": "#F0CE83",
+        "padding": 10
+      },
+      {
+        "text": "FC Sea event The City Below the Dark trigger",
+        "indent": 0,
+        "size": 18,
+        "padding": 4,
+        "color": "#B8C5D6"
+      },
+      {},
+      {
+        "text": "The City Below the Dark Paragraph 1",
+        "indent": 0,
+        "size": 18,
+        "padding": 6,
+        "color": "#B8C5D6"
+      },
+      {
+        "text": "The City Below the Dark Paragraph 2",
+        "indent": 0,
+        "size": 18,
+        "padding": 6,
+        "color": "#B8C5D6"
+      },
+      {},
+      {
+        "text": "The City Below the Dark-A",
+        "header": 5,
+        "color": "#A6D4F5",
+        "padding": 10
+      },
+      {
+        "text": "The City Below the Dark-B",
+        "header": 5,
+        "color": "#A6D4F5",
+        "padding": 10
+      },
+      {
+        "text": "The City Below the Dark-C",
+        "header": 5,
+        "color": "#A6D4F5",
+        "padding": 10
+      },
+      {},
+      {
+        "separator": true
+      },
+      {
+        "text": "The Whale That Fell",
+        "header": 3,
+        "color": "#F0CE83",
+        "padding": 10
+      },
+      {
+        "text": "FC Sea event The Whale That Fell trigger",
+        "indent": 0,
+        "size": 18,
+        "padding": 4,
+        "color": "#B8C5D6"
+      },
+      {},
+      {
+        "text": "The Whale That Fell Paragraph 1",
+        "indent": 0,
+        "size": 18,
+        "padding": 6,
+        "color": "#B8C5D6"
+      },
+      {
+        "text": "The Whale That Fell Paragraph 2",
+        "indent": 0,
+        "size": 18,
+        "padding": 6,
+        "color": "#B8C5D6"
+      },
+      {},
+      {
+        "text": "The Whale That Fell-A",
+        "header": 5,
+        "color": "#A6D4F5",
+        "padding": 10
+      },
+      {
+        "text": "The Whale That Fell-B",
+        "header": 5,
+        "color": "#A6D4F5",
+        "padding": 10
+      },
+      {
+        "text": "The Whale That Fell-C",
+        "header": 5,
+        "color": "#A6D4F5",
+        "padding": 10
+      },
+      {},
+      {
+        "separator": true
+      },
+      {
+        "text": "The Turning of the Deep",
+        "header": 3,
+        "color": "#F0CE83",
+        "padding": 10
+      },
+      {
+        "text": "FC Sea event The Turning of the Deep trigger",
+        "indent": 0,
+        "size": 18,
+        "padding": 4,
+        "color": "#B8C5D6"
+      },
+      {},
+      {
+        "text": "The Turning of the Deep Paragraph 1",
+        "indent": 0,
+        "size": 18,
+        "padding": 6,
+        "color": "#B8C5D6"
+      },
+      {
+        "text": "The Turning of the Deep Paragraph 2",
+        "indent": 0,
+        "size": 18,
+        "padding": 6,
+        "color": "#B8C5D6"
+      },
+      {},
+      {
+        "text": "The Turning of the Deep-A",
+        "header": 5,
+        "color": "#A6D4F5",
+        "padding": 10
+      },
+      {
+        "text": "The Turning of the Deep-B",
+        "header": 5,
+        "color": "#A6D4F5",
+        "padding": 10
+      },
+      {
+        "text": "The Turning of the Deep-C",
+        "header": 5,
+        "color": "#A6D4F5",
+        "padding": 10
       },
       {}
     ]

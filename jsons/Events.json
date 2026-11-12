@@ -245,7 +245,7 @@
         "text": "The Bell Beneath the Reef-A",
         "civilopediaText": [],
         "uniques": [
-          "Gain [90] [Culture]"
+          "Gain [70] [Culture]"
         ]
       },
       {
@@ -253,7 +253,7 @@
         "text": "The Bell Beneath the Reef-B",
         "civilopediaText": [],
         "uniques": [
-          "Gain [120] [Gold]"
+          "Gain [100] [Gold]"
         ]
       },
       {
@@ -284,7 +284,7 @@
         "text": "The Fleet That Did Not Return-A",
         "civilopediaText": [],
         "uniques": [
-          "Gain [150] [Gold]"
+          "Gain [120] [Gold]"
         ]
       },
       {
@@ -292,7 +292,7 @@
         "text": "The Fleet That Did Not Return-B",
         "civilopediaText": [],
         "uniques": [
-          "Gain [60] [Science]"
+          "Gain [85] [Science]"
         ]
       },
       {
@@ -300,7 +300,7 @@
         "text": "The Fleet That Did Not Return-C",
         "civilopediaText": [],
         "uniques": [
-          "Gain [60] [Culture]"
+          "Gain [85] [Culture]"
         ]
       }
     ]
@@ -323,7 +323,7 @@
         "text": "The City Below the Dark-A",
         "civilopediaText": [],
         "uniques": [
-          "Gain [120] [Science]"
+          "Gain [125] [Science]"
         ]
       },
       {
@@ -331,7 +331,7 @@
         "text": "The City Below the Dark-B",
         "civilopediaText": [],
         "uniques": [
-          "Gain [100] [Gold]"
+          "Gain [180] [Gold]"
         ]
       },
       {
@@ -339,7 +339,7 @@
         "text": "The City Below the Dark-C",
         "civilopediaText": [],
         "uniques": [
-          "Gain [80] [Culture]"
+          "Gain [125] [Culture]"
         ]
       }
     ]
@@ -362,7 +362,7 @@
         "text": "The Whale That Fell-A",
         "civilopediaText": [],
         "uniques": [
-          "Gain [130] [Gold]"
+          "Gain [140] [Gold]"
         ]
       },
       {
@@ -370,7 +370,7 @@
         "text": "The Whale That Fell-B",
         "civilopediaText": [],
         "uniques": [
-          "Gain [70] [Science]"
+          "Gain [100] [Science]"
         ]
       },
       {
@@ -401,7 +401,7 @@
         "text": "The Turning of the Deep-A",
         "civilopediaText": [],
         "uniques": [
-          "Gain [90] [Science]"
+          "Gain [110] [Science]"
         ]
       },
       {
@@ -409,7 +409,7 @@
         "text": "The Turning of the Deep-B",
         "civilopediaText": [],
         "uniques": [
-          "Gain [60] [Faith]"
+          "Gain [80] [Faith]"
         ]
       },
       {
@@ -417,7 +417,7 @@
         "text": "The Turning of the Deep-C",
         "civilopediaText": [],
         "uniques": [
-          "Gain [70] [Culture]"
+          "Gain [110] [Culture]"
         ]
       }
     ]
